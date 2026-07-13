@@ -368,44 +368,30 @@ Perguntas clínicas curtas ("O que é PCM?") casam mal com a redação dos trech
 (*Hypothetical Document Embeddings*, Gao et al., 2022) contorna isso: o próprio LLM redige um
 **documento hipotético** (uma resposta plausível, em estilo de diretriz) e é *esse* texto, mais
 próximo da linguagem do corpus, que vira a consulta densa. Abaixo medimos só o **acerto da busca**
-(a fonte-ouro entra no contexto?) numa amostra, comparando a recuperação densa simples com a via HyDE.
+(a fonte-ouro entra no contexto?) nas 54 perguntas, comparando a recuperação densa simples com a via HyDE.
 Isso explora justamente a direção de *"recuperação aprimorada"* apontada nas conclusões.
 
-> **Resultado:** no **benchmark completo (54 perguntas)** o HyDE ficou **em linha com a
-> recuperação densa, sem ganho**; a amostra pequena abaixo oscila e não deve ser lida isoladamente.
-> O documento hipotético de um modelo de 3B às vezes **desvia do tema**, o que limita o ganho nesta
-> base relativamente pequena. Fica como exploração, não como melhoria adotada.
+> **Resultado:** no **benchmark completo (54 perguntas)** o HyDE **empata** com a recuperação densa
+> (mesmo hit-rate, 30%); ele recupera trechos diferentes, mas não melhora o acerto global. O documento
+> hipotético de um modelo de 3B às vezes **desvia do tema**, o que limita o ganho nesta base. Fica como
+> exploração, não como melhoria adotada.
 """))
 
 cells.append(code('''
-# Experimento opcional: HyDE vs. recuperacao densa simples (acerto da busca numa amostra).
-# Isolado — usa rc.dense_search (mesma busca da config RAG) e rc.dense_search_hyde; nao toca as 3 configs.
+# Experimento opcional: HyDE vs. recuperacao densa simples no benchmark COMPLETO (acerto da busca).
+# Isolado — usa rc.dense_search (config RAG) e rc.dense_search_hyde; nao toca as 3 configs.
+# O hit-rate nas 54 e pre-computado (rodar o HyDE nas 54 sao 54 geracoes de doc hipotetico, ~10 min);
+# aqui exibimos esse resultado e geramos UM exemplo ao vivo do "documento hipotetico".
 import json
+hb = json.load(open("_resultados/hyde_bench.json", encoding="utf-8"))
+n = hb["n"]
+print(f"hit-rate no benchmark completo (n={n}):   densa {hb['densa_hits'] / n:.0%}   |   HyDE {hb['hyde_hits'] / n:.0%}")
+print(f"ambos acertam em {hb['both']} perguntas; so a densa em {hb['densa_only']}; so o HyDE em {hb['hyde_only']}")
+print("-> recuperam trechos diferentes, mas empatam no acerto global (sem ganho liquido).")
+
+# exemplo ao vivo do 'documento hipotetico' que o HyDE escreve (e que vira a consulta densa):
 bench = json.load(open("benchmark/perguntas.json", encoding="utf-8"))["perguntas"]
-assert all(q.get("fonte_id") for q in bench), "Benchmark inconsistente: ha pergunta sem 'fonte_id'."
-by = {}
-for q in bench:
-    by.setdefault(q["disease"], []).append(q)
-amostra = [q for d in ("dpoc", "fibrose", "pcm") for q in by[d][:3]]   # 3 por doenca = 9 (deterministico)
-
-chs = rc.chunks()
-def acertou(idxs, fonte_id):
-    docs = list(dict.fromkeys(chs[i]["doc_id"] for i in idxs))   # docs unicos na ordem
-    return fonte_id in docs
-
-print(f"{'pergunta':<10} {'densa':>7} {'HyDE':>7}")
-nd = nh = 0
-for q in amostra:
-    d = [i for i, _ in rc.dense_search(q["pergunta"], 5)]
-    h = [i for i, _ in rc.dense_search_hyde(q["pergunta"], 5)]   # gera o doc hipotetico e busca com ele
-    ad, ah = acertou(d, q["fonte_id"]), acertou(h, q["fonte_id"])
-    nd += ad; nh += ah
-    print(f"{q['id']:<10} {('OK' if ad else '--'):>7} {('OK' if ah else '--'):>7}")
-n = len(amostra)
-print(f"\\nhit-rate na amostra (n={n}):   densa {nd/n:.0%}   |   HyDE {nh/n:.0%}")
-
-# exemplo do 'documento hipotetico' que o HyDE escreve (e que vira a consulta):
-ex = amostra[-1]
+ex = bench[0]
 print("\\nPergunta:", ex["pergunta"])
 print("Documento hipotetico gerado:", rc.hyde_doc(ex["pergunta"])[:300])
 '''))
