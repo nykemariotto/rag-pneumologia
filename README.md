@@ -5,7 +5,7 @@ Assistente de IA de domínio específico para **doenças pulmonares crônicas e 
 construído com **Retrieval-Augmented Generation (RAG)**.
 
 ## Motivação
-O domínio deste trabalho nasceu de uma colaboração clínica real. No **Laboratório de Física Médica
+Este trabalho nasceu de uma colaboração clínica real. No **Laboratório de Física Médica
 (IBB-UNESP, Botucatu)** atuei na **análise quantitativa das tomografias de tórax** (segmentação
 pulmonar por *deep learning*, densitometria/quantificação de enfisema (%LAA) e coregistro longitudinal)
 do doutorado da **Dra. Erika Mayumi Watanabe** (Programa de Pós-Graduação em Doenças Tropicais,
@@ -28,6 +28,9 @@ de imagem/prova de função) e são diagnóstico diferencial entre si:
 Idioma do assistente e do benchmark: **PT-BR**. Knowledge base: bilíngue (PT + EN).
 
 ## Arquitetura: 3 configurações comparadas
+
+![As três configurações comparadas: baseline, RAG e proposta (reranking)](figuras/pipeline_rag.png)
+
 | # | Configuração | Descrição |
 |---|---|---|
 | 1 | **Baseline** | LLM sem recuperação (prompt direto) |
