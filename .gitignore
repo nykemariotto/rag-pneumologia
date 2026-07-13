@@ -1,0 +1,43 @@
+# ambiente e caches
+.venv/
+.gemini_key*
+.groq_key*
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.tmp
+*.zip
+*.bak*
+~$*
+desktop.ini
+
+# PDFs originais com copyright (NAO redistribuir; entram so como referencia citavel)
+knowledge_base/**/_originais/
+
+# embeddings crus (so para CONSTRUIR o indice; o notebook le faiss.index)
+indices/embeddings.npy
+
+# arquivos internos de preparo (nao entram no repo publico)
+PLANO.md
+SUBMETER.md
+ROTEIRO*
+NOTAS_DA_SESSAO.md
+DOCUMENTACAO.md
+kb_build_report.json
+benchmark/benchmark_para_validar.xlsx
+*.log
+# o notebook oficial fica em notebook/; ignora a duplicata solta na raiz
+/Assistente_Pneumologia_RAG.ipynb
+
+# variantes/rascunhos de resultado (fica so aval_all.json + aval_all_7b.json + comparacao_all.png)
+_resultados/aval_all_groq_ref.json
+_resultados/aval_all_v1_diluido.json
+_resultados/aval_all_v2_estrito.json
+
+# scripts de rascunho / diagnostico
+scripts/testar_*.py
+scripts/diag.py
+scripts/ver_resultado.py
+experimentos_extra.py
+experimentos_extra.json
+rejulgar_fidelidade.py

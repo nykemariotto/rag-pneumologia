@@ -1,0 +1,21 @@
+# Trabalho Final RAG - Pneumologia. Geracao 100% LOCAL (modelo aberto), SEM chave de API.
+# No Colab: Runtime -> T4 GPU, depois Run all. O torch (com CUDA) JA vem pre-instalado no Colab,
+# por isso NAO o fixamos aqui (evita conflito/downgrade). Versoes testadas no .venv local (Py 3.10).
+
+transformers==5.12.1
+accelerate==1.14.0
+sentence-transformers==5.6.0
+faiss-cpu==1.14.3
+rank-bm25==0.2.2
+matplotlib==3.10.9
+openpyxl==3.1.5
+pandas==2.3.3
+
+# Somente para a ABLACAO 3B->7B em 4-bit (LLM_4BIT=1); nao e necessario para o 3B padrao:
+# bitsandbytes==0.45.0
+
+# Geracao: modelo aberto Qwen/Qwen2.5-3B-Instruct (Apache-2.0), baixado pelo transformers (~6 GB, 1x).
+# torch: use o pre-instalado do Colab (com CUDA). Para rodar LOCALMENTE, instale o torch CUDA, ex.:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu126   (conferir a versao do driver)
+# Somente para RECONSTRUIR a knowledge base do zero (nao necessario p/ rodar o notebook):
+#   requests  beautifulsoup4  pymupdf

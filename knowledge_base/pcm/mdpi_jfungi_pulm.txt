@@ -1,0 +1,560 @@
+=== Diagnosis and Treatment of Pulmonary Coccidioidomycosis and Paracoccidioidomycosis ===
+Fonte: J Fungi (MDPI) 2023;9(2):218
+URL: https://www.mdpi.com/2309-608X/9/2/218
+Licenca: CC BY 4.0
+Doenca: pcm | Idioma: en
+----------------------------------------------------------------------
+
+Diagnosis and Treatment of Pulmonary Coccidioidomycosis and Paracoccidioidomycosis
+
+Coccidioidomycosis (CM) and paracoccidioidomycosis (PCM) are systemic mycoses that are highly endemic in Latin America and have recently been included on the World Health Organization (WHO) Fungal Priority Pathogens List. Coccidioides immitis and Coccidioides posadasii are recognized as etiological agents of CM, with peculiarities in their geographic distribution. The genus Paracoccidioides now includes Paracoccidioides lutzii and the Paracoccidioides brasiliensis complex, which encompasses four phylogenetic species. In both diseases, pulmonary signs and symptoms are the main reasons for patients to seek medical assistance, and they are frequently misdiagnosed as tuberculosis. In this paper, we present a critical view of the strategies for diagnosis and clinical management of CM and PCM. Over the past few decades, there has been an increase in the number of reports of endemic fungal infections in areas previously thought to be “non-endemic” due to climate change and increased travel, among other factors. Learning to recognize their main epidemiological aspects and clinical manifestations is crucial so that clinicians can include them in the differential diagnosis of lung disease and avoid late diagnosis.
+
+1. Introduction
+
+Endemic mycoses include fungal infections with circumscribed geographic distribution, as their etiological agents require specific climatic and environmental conditions for survival and reproduction. Etiological agents are thermally dimorphic fungi capable of causing diseases in healthy and immunocompromised hosts.
+
+Coccidioidomycosis (CM) and paracoccidioidomycosis (PCM) are two highly endemic systemic fungal infections in America. Accurate incidence rates of CM and PCM remain unclear as most endemic countries do not demand compulsory notification by medical centers. Over the past few decades, there have been increasing reports of infections caused by endemic fungi in areas previously thought to be “non-endemic”. This phenomenon, which has also been documented with PCM and CM, is multifactorial, and potential reasons for it include climate change, increased ability to recognize the fungal disease, an ever-increasing number of patients with comorbidities associated with depressed T cell immunity, and global factors such as migration and increased travel.
+
+The taxonomy of fungal agents has undergone notable changes with the incorporation of molecular studies, thereby providing a more accurate and reliable classification. In this scenario, Coccidioides immitis and Coccidioides posadasii are recognized as etiological agents of CM, with peculiarities in their geographic distribution. The genus Paracoccidioides now includes Paracoccidioides lutzii and the Paracoccidioides brasiliensis complex, which encompasses four phylogenetic species, including Paracoccidioides brasiliensis sensu stricto (S1a and S1b), Paracoccidioides americana (PS2), Paracoccidioides restrepiensis (PS3), and Paracoccidioides venezuelensis (PS4).
+
+CM and PCM are acquired by the inhalation of fungal spores through the respiratory tract, and pulmonary symptoms account for the main clinical presentation of both endemic diseases. Consequently, they can be initially misleading and confused with community-acquired pneumonia and other diseases, such as pulmonary tuberculosis (TB), making it difficult to distinguish them clinically and radiologically. A recent study assessing 213 smear-negative patients with clinical suspicion of TB assisted in Brazilian Amazon medical centers found that fungi (mainly Aspergillus spp. and Paracoccidioides spp.) were the etiologic agents in 7% of cases. Another retrospective study investigating the history of clinical management of 227 adult patients with PCM (chronic form) found that 16% of them had been previously treated for TB. Of note, in the same cohort, the authors documented the concomitance of PCM and TB in 8% of cases. The coexistence of TB with either CM or PCM has been extensively reported by different investigators. Misdiagnosis of pulmonary mycosis as TB in Latin America incorrectly increases the official number of cases attributed to mycobacteriosis, results in delayed treatment of fungal diseases, increases morbidity, and is associated with economic loss.
+
+Recently, CM and PCM were included on the World Health Organization (WHO) Fungal Priority Pathogens List due to their endemicity in the Americas, high morbidity, and potential for sequelae that negatively impact the quality of life. Regarding PCM, there have been some efforts to include this fungal infection in the WHO list of neglected diseases, as most affected patients are poor rural workers with limited access to diagnosis and treatment.
+
+2. Coccidioidomycosis
+
+2.1. Ecoepidemiology
+
+CM is caused by two cryptic fungal species, Coccidioides immitis and Coccidioides posadasii. The first may be found in southern California and the second in other regions, primarily in Arizona, the Western United States, and the Americas (Mexico, Central, and South America). CM involves chronic pulmonary disease with extrapulmonary (cutaneous and visceral) manifestations in high-risk patients. It is also called valley fever, which refers to the San Joaquín Valley in California, US, and is endemic.
+
+All the endemic areas of CM in the Americas are semi-desert areas, with clay, sandy, and alkaline soils, rainfall ranging from 150 to 500 mm per year, and an average temperature of 28 °C. The fungus is usually located 5–30 cm underground in xerophytic plants (cacti), shrubs, and plants such as Larrea tridentata (“gobernadora”), and can also be found in rodents such as mice, opossums (Perognathus), and some reptiles. Clusters of CM have been associated with the meteorological phenomenon “El Niño”. Intense rainy seasons facilitate fungal growth in endemic areas, and spores are easily dispersed when soils are dry.
+
+The most critical epidemiological zones for CM include the southwestern US (California, Arizona (with 60% of reported infections), Utah (Mojave Desert), Texas, New Mexico, and Nevada) and northwestern Mexico (Baja California Norte, Sonora (Sonora Desert), Sinaloa, Nuevo León, Chihuahua, and Coahuila). In Central America, small foci have been reported in Guatemala, El Salvador, Nicaragua and Honduras. In South America, endemic foci are present in the Guajira Peninsula, which is shared by Colombia and Venezuela, a growing focus is on northeastern Brazil (Ceará, Piauí, Maranhão, and Bahia), and the focus of the first report is in northern Argentina (Jujuy, Río Negro, Catamarca, and Valle Central) (Figure 1A). Traveling to defined endemic areas (e.g., ecotourism) increases the risk of acquiring infection.
+
+The main entry route for infection is inhalation, but CM may also rarely be acquired through skin implantation (<10%). The infection occurs at any age, but it is more common among young adults, mostly male patients (male: female ratio, 4:1), with apparently no racial predilection. Other evidence suggests that disease manifestations are more frequently found among African Americans and Asians, and Latino heritage is reported as a risk factor. This is probably due to the expression of haplotypes such as HLA class II DRB*1301. The incubation period of the disease ranges from days to months.
+
+The Centers for Disease Control (CDC) has reported an increase in the incidence of cases of CM as well as an expansion of its geographic range, probably due to climate change and a significant number of populations at risk in endemic areas. Between 1995 and 2000, the incidence of CM was 2.4 cases per 100,000 inhabitants; however, between 2000 and 2006, the incidence tripled to 8.0 cases per 100,000 inhabitants. In particular regions, such as the San Joaquín Valley and Kern County, hyperendemicity may reach 53.9 to 150 cases per 100,000 inhabitants, respectively. In Mexico, endemicity is similarly high, with an estimated incidence of 0.5 to 2.6 cases per 100,000 inhabitants and 500 to 1500 new cases per year. In Brazil, endemicity is lower than that in North America, and a total of 800 cases have been reported, mainly in areas of the state of Ceará. Notably, CM is a non-notifiable disease in most Latin countries, and its actual incidence is unknown.
+
+2.2. Pathogenesis
+
+Coccidioides immitis and C. posadasii cause phenotypically similar diseases but exhibit genetic peculiarities and different geographic distributions, despite some overlaps that may occur. Biological differences between both agents are probably secondary to their adaptation to different niches and habits in nature. The life cycle of Coccidioides spp. begins with filamentous phase reproduction and formation of mature arthroconidia (infective phase), which are easily detached from the mycelia, released, and aerosolized with further dissemination in the environment. Once infected propagules are inhaled by humans, they can penetrate the lungs and deposit in a terminal bronchiole and alveoli where they undergo enlargement, developing 10–20 µm spherical structures which grow until they double in size due to nuclear duplication phenomena. Endospores (1–4 µm) develop internally, forming mature spherules (50–70 µm). This maturation phenomenon induces the weakening of the fungal membrane, allowing the ejection of endospores into the host tissues and fluids. Fungal infection is contained when the host organizes an efficient cellular immune response (granuloma with macrophages, giant cells, and lymphocytes), preventing further multiplication and dissemination of fungal elements. However, latent foci containing viable fungal elements may persist for long periods, explaining the late reactivation of the disease, as described in other pulmonary endemic mycoses and TB.
+
+2.3. Clinical Aspects
+
+Most patients will develop an asymptomatic infection (60% to 75%) that is only detectable by intradermal reaction (coccidioidin). The primary and most common clinical manifestation of CM is an acute pulmonary illness resulting from inhalation of arthroconidia. Acute symptomatic forms of the disease usually present 3 weeks after inoculation and are constituted by mild flu-like respiratory symptoms, with moderate fever, headache, chills, night diaphoresis, and dry cough. Because respiratory manifestations are indistinguishable from bacterial pneumonia, the diagnosis of pulmonary CM is often delayed for at least 1 month, prolonging unnecessary exposure to antibiotics. Radiologically, small pulmonary nodules, rare cavitary lesions, pneumonic infiltrates, and pleural effusions have been observed. In patients with multiple risk factors, symptoms are severe and include constant fever, cough with mucopurulent expectoration, and frank hemoptysis. Some patients develop arthralgia (“desert rheumatism”). Hypersensitivity reactions, such as erythema nodosum (lower limbs), erythema multiforme, and lymphadenopathy, may occur during febrile illness and are more frequent in women. Figure 2 illustrates a patient with subacute pulmonary CM exhibiting multiple peribronchovascular and perilymphatic nodules in both lungs.
+
+The progressive form of CM with extrapulmonary manifestations is documented in less than 2% of patients and requires the coexistence of underlying conditions associated with T-cell depression. Dissemination of CM may be a consequence of exogenous reinfection or dissemination of the primary form. However, acute and chronic pulmonary symptoms are the most common reasons that patients seek medical help. Patients often develop fever, chest pain, productive cough with abundant exudates, purulence, and hemoptysis. Radiologically, pulmonary infiltrates and adenopathy (hilar and mediastinal in severe cases) are observed; exceptionally, cavities may also form. The most serious pulmonary manifestation is the miliary type, which is indistinguishable from miliary TB. Extrapulmonary CM can be primarily cutaneous due to implantation or secondary to pulmonary illness, and meningeal manifestations may rarely occur, especially in high-risk patients with depressed T-cell immunity.
+
+During the coronavirus SARS-CoV-2 pandemic, we learned that severe COVID-19 might be added to the long list of other risk conditions that can complicate the natural history of CM, including diabetes, smoking, patient ethnicity (Hispanics and Afro-Americans), immunosuppression, and pregnancy. Moreover, SARS-CoV-2-related immune dysregulation may reactivate latent CM.
+
+2.4. Laboratory Diagnosis
+
+Mycological diagnosis may be provided by cytology from sputum samples, bronchoalveolar lavage fluid, or, in cases of extrapulmonary involvement, characterization of fungal elements in exudates. The pathognomonic parasitic forms or spherules confirm the diagnosis of CM (Figure 3), but sensitivity depends on specimen quality and observer expertise (see Table 1). Cytopathology is useful, especially when the sample comes from bronchoalveolar lavage or fine-needle aspiration of lung lesions. In general, Papanicolaou staining allows for visualization of the spherules. Cultures are also considered the gold standard method for diagnosis but should only be performed in biosafety level three laboratories (Figure 3A). Coccidioides spp. usually grow between 4 and 7 days at a temperature of 25 °C to 28 °C in Sabouraud dextrose agar medium, with or without antibiotics. Hyaline hyphae septa with rexolytic arthroconidia are observed under microscopy (Figure 3B) but are often misdiagnosed as Geotrichum sp. or Magnusiomyces (formerly Saprochaete sp.).
+
+Polymerase chain reaction (PCR) is a convenient test with low time consumption, primarily used in real-time platforms (4–5 h), but is not available in most routine laboratories. The performance of PCR-based methods may vary between different biological materials (sputum and cerebrospinal fluid) and “in-house protocols”. PCR assays usually exhibit better performance than cultures.
+
+Pulmonary and cutaneous histopathology may provide valuable information with the visualization of suppurative granulomas surrounding typical Coiccidioides spherules, These elements are better visualized when using periodic acid Schiff (PAS) or Grocott methenamine silver (GMS) stains (Figure 3C) instead of only hematoxylin-eosin (HE) (Figure 3D).
+
+The intradermal reaction to coccidiodin is a useful tool only for determining the first contact and rate of individuals exposed to fungi and mapping reactor zones. A positive skin test may also be used to determine disease prognosis when it is associated with serological results and clinical aspects of the disease. A significant number of diagnoses of CM in endemic areas are based on serological test results, including IgG (better performance) and IgM-specific antibody levels that are detected by enzyme-linked immunoassays (ELISA) and other platforms. Williams and Chiller reported that IgG sensitivity ranges between 47% and 87%, with a specificity of 90% to 96%, compared with IgM sensitivity, which yields lower results and increased false positives. Another antibody titration technique involves direct immunodiffusion (DI), which can also measure both antibody types; however, it is more time-consuming than ELISA. On the other hand, the complement fixation (CF) assay is less sensitive than ELISA and has high specificity rates. This test can be quantitative (by serum titration) and provides precise data. High CF titers and negative intradermal reactions indicate a poor prognosis. CF serology is also helpful for therapeutic monitoring, since titers ≤1:8 indicate a cure. The drawback of CF is that it is a complex and nonstandardized technique. Lateral flow tests (LFA) are simple to perform; however, they exhibit low sensitivity compared with ELISA and CF.
+
+The sensitivity, specificity, advantages, and disadvantages of all diagnostic methods for Paracoccidioidomycosis and Coccidioidomycosis.
+
+Diagnostic Test	Sensitivity	Specificity	Advantageous	Disadvantageous	References	 	Paracoccidioidomycosis	 	Mycological 						 	Direct Microscopy	48–75%	High	Pathognomonic fungal elements may be rapidly identified (mother cell with multiple buds: “Ship’s wheel” or “Mickey Mouse”). It may be performed in exudates of tegumental lesions, sputum, and aspirates of lymph nodes.Simple, fast, and low-cost.	The sensitivity is dependent on the operator’s experience, the quality of the material, and the protocol for processing. Small yeasts without multiple buds can be mistaken for other fungi.		 	Histopathology	70->5%	High	Pathognomonic fungal elements may be rapidly identified (mother cell with multiple buds: “Ship’s wheel” or “Mickey Mouse”). Tissue response and burden of infection may be evaluated and help to characterize the severity of the disease. Results may take less than 24 or 48 h.	An invasive procedure is required to obtain a biopsy.The sensitivity is dependent on the operator’s experience. The quality of the biopsy sample, and the protocol for processing. Specific fungal stains should be included to improve the detection of fungal elements.		 	Culture	24->90%	100%	It may be performed in different biologic samples, with higher sensitivities in bronchoalveolar lavage and tissue biopsies. It provides accurate identification of Paracoccidioides spp. at the species level and can possibly check antifungal susceptibility and virulence. Low cost (higher if molecular tests were used to identify species)	Exudates and sputum samples may be contaminated with bacteria which may mitigate the sensitivity of the test (all media cultures should contain antibiotics).Paracoccidioides spp. are fastidious microorganisms and culture will take an average of 3 to 4 weeks to grow.There are biosafety concerns with the manipulation of Paracoccidioides spp.		 	Immunological 						 	Antibody (GP43 and GP70) detection by different assays	80–95%	80–100%	They may provide quantitative in addition to qualitative results.The test may help with diagnosis and the laboratory monitoring of response to therapy.Results may be provided in hours or a few days.	Cross-reactions may occur with other fungal infections.Sensitivity is highly dependent on host immunity, clinical form, and methodology of detection.False-negative results may be provided for P. lutzii when using P. brasiliensis complex antigen preparation and vice versa.No commercial tests are available.		 	Specific Antigen detection for PCM	90–96%	96–100%	It is highly recommended for testing immunocompromised patients with (higher sensitivity than antibody detection).It is a non-invasive procedure.Results may be provided in less than 24 or 48 h in reference centers.	Cross-reactions may be obtained with heterologous sera.No commercial tests are available, and assays are not available in routine laboratories.		 	Molecular 						 	PCR based methods	86–100%		It may detect DNA in samples with a low burden of fungal elements.It facilitates the possibility of species identification.Results may be provided in less than 24 or 48 h.	There is no international standardization of the tests.They are not available for most routine laboratories that are located in endemic regions.There is no commercial kit available.Most tests are designed to identify P. brasiliensis.There is a lack of standardized tests to detect P. lutzii infection in biological samples.		 			Coccidioidomycosis			 	Mycological 						 	Direct Microscopy	15–75	High	Pathognomonic fungal elements may be rapidly identified (Cocci spherules with endospores).Testing is low-cost, rapid and easy, and various biological materials can be used.	The sensitivity depends on the operator’s experience, the quality of the material, and the protocol for processing.		 	Cytopathology/Histopathology	23–84%	High	Pathognomonic fungal elements may be rapidly identified (Cocci spherules with endospores). Testing is low-cost, rapid and easy, and various biological materials may be tested.The specificity and sensibility of the test may be improved by the inclusion of specific fungal stains.	The sensitivity is dependent on the operator’s experience, the quality of the biopsy material, and the protocol for processing.A biopsy requires invasive procedures.		 	Culture	Close to 50%	High	It may be performed in different biologic samples, with higher sensitivities in broncho-alveolar lavage and tissue biopsies.It provides accurate identification of Coccidioides spp. at the species level as well as the possibility of checking for antifungal susceptibility and virulence. Testing is low-cost (higher if molecular tests are used to identify species).	Manipulation requires a level 3 biosafety laboratory.Results may require up to 7 days. Contamination of samples with bacteria may mitigate the sensitivity of the test.		 	Immunological						 	Specific Antibody (IgG or IgM)detection	60–100%	90–96%	They may provide quantitative addition to qualitative results.The test may help with diagnosis and the laboratory monitoring of response to therapy.Results may be provided in hours or a few days.	Cross-reactions may occur with other fungi.Sensitivity is highly dependent on host immunity, clinical form, and methodology of detection.Serological tests are commercially available.		 	CM Specific Antigen tests	28–70%	90–100%	It is highly recommended for immunocompromised hosts where the production of antibodies may be low.Tests are usually performed on urine and serum samples.Results may be provided in hours or a few days.	Serum samples usually present lower sensitivity compared with urine samples.Cross-reaction with Histoplasma spp. and Blastomyces spp. may occur.Serological tests are commercially available.		 	Molecular						 	PCR based	>80%	High	They may detect DNA in samples with low fungal burden, exhibiting better performance than culture.There is a possibility of species identification as well as characterization of antifungal susceptibility and virulence.	There is a lack of international standardization.Only in-house tests are available in a limited number of reference medical centers.
+
+2.5. Treatment
+
+CM treatment is based on disease severity and host immunity status (Figure 4). Asymptomatic or mild disease may not require antifungal therapy because the disease is commonly self-limiting in normal hosts. Regarding the specific scenario of HIV coinfection, antifungal therapy is recommended for all patients with HIV infection with clinical evidence of CM and a peripheral blood CD4+ T lymphocyte count <250 cells/µL. Initiation of potent antiretroviral therapy should not be delayed because of concerns regarding coccidioidal immune reconstitution inflammatory syndrome.
+
+For many years, amphotericin B (Amph-B) formulation has been the treatment of choice for severe cases of CM. Currently, triazoles are preferred, although Amph-B is used to treat cases that are refractory to triazoles, as well as critically ill patients. Lipid formulations are preferred to the classic deoxycholate form. Recommended doses for liposomal Amph-B are 3–5 mg/kg/day, while for lipid complex Amph-B, 5 mg/kg/day classic or deoxycholate Amph-B is usually prescribed at 0.5–1 mg/kg per day. Side effects, particularly renal and myelotoxicities, can occur with any of the Amph-B formulations, although lipid formulations reduce the risk. Patients with meningitis or brain-affected CM are candidates for intrathecal drug administration.
+
+The first treatment option for CM is fluconazole, which is effective and safe for patients with extrapulmonary disease. However, fluconazole-resistant isolates have been increasingly reported and may require therapy with Amph-B formulations. The initial intravenous route of triazole administration is preferred, with a later transition to an oral formulation, with doses ranging between 400 and 800 mg/day. In meningeal cases, fluconazole is effective because of its ability to cross the blood–brain barrier and contain infection.
+
+As an alternative, itraconazole might be used, although it is not available in intravenous formulations in most countries in Latin America. The usual dose is 200–400 mg/day, with progressive tapering according to the clinical and mycological responses. Other triazoles that exhibit variable results with CM include voriconazole and posaconazole. Both options have been used in the salvage treatment of refractory CM with good tolerability and success rates of 65–75%.
+
+2.6. New Perspectives in the Clinical Management of CM
+
+Nikomicin (nikkomyzin Z) is an antifungal agent that inhibits chitin synthesis. Promising results were observed in a phase II study of dogs with CM. However, well-designed clinical trials are not available to confirm its effectiveness and safety profile in patients with CM.
+
+Olorofim is a new antimitotic belonging to the orthomid class that targets the inhibition of pyrimidine synthesis. It has good in vitro activity against Coccidioides spp. and a murine model; moreover, it was found to be superior to fluconazole, raising new expectations.
+
+Considerable efforts have been made to develop vaccines that prevent CM infection in humans and animals. One possibility is to use live attenuated or inactivated microorganisms, but this strategy has led to poor results. The ∆cps1 vaccine provided satisfactory results for veterinary use and has the potential to be explored in human hosts. This vaccine interrupts the maturation of spherules and affects the tissue adaptation of fungi.
+
+3. Paracoccidiodomycosis
+
+3.1. Ecoepidemiology
+
+PCM is autochthonous in Latin America, with a high incidence, particularly in Argentina, Brazil (accounts for 80%), Colombia, and Venezuela. Cases of PCM have not been reported in Nicaragua, Belize, most Caribbean islands, Guyana, Suriname, or Chile (Figure 1B).
+
+For over a century, Paracoccidioides brasiliensis has been believed to be the single agent causing PCM. However, molecular advances and phylogenetic analyses have led to the recent classification of the genus Paracoccidioides, which currently encompasses the P. brasiliensis complex and P. lutzii. Most PCM cases are related to infections that are caused by the P. brasiliensis complex, which comprises four cryptic species: Paracoccidioides brasiliensis sensu stricto (S1a and S1b), Paracoccidioides americana (PS2), Paracoccidioides restrepiensis (PS3), and Paracoccidioides venezuelensis (PS4). There are no substantial differences in their virulence characteristics, clinical manifestations, or antifungal responses to therapy. Paracoccidioides brasiliensis sensu stricto is widespread and the predominant agent of PCM in most South American countries (Figure 1B). P. lutzii presents significant antigenic differences from all cryptic species within the P. brasiliensis complex, with diagnostic implications, since different antigen preparations are required to detect patients who are infected by both agents.
+
+Male rural workers aged between 30 and 60 years represent the main population at risk of developing PCM, followed by bricklayers, as both professional activities expose individuals to aerosol-containing soil fungal particles. Living in rural areas or on the periphery of urban centers (overlapping with rural zones) is also a major risk factor for infection. The racial predisposition to the development of severe forms of PCM remains controversial. So far, only one study performed in Southern Brazil found a higher prevalence of disseminated lesions in black patients with acute/subacute forms of PCM than in white individuals. Nevertheless, other confounding factors with potential impacts on the natural history of PCM were not accurately considered in their study.
+
+PCM has an estimated occurrence of one to four cases/0.000 inhabitants per year in geographic areas with stabilized endemicity. In contrast to CM, the incidence of PCM does not seem to be increasing, although the lack of compulsory notification of the disease in most Latin American countries precludes precise evaluation of the prevalence and incidence of this fungal disease. Indeed, there is some evidence suggesting that the hospitalization and mortality rates attributed to PCM are decreasing in reference centers from the Southeast and South Regions of Brazil. The mechanization of agriculture, the extensive use of antifungals in agriculture, and the reduction in child labor are all conditions that prevent people from being exposed to the fungus and promote a reduction in the number of new cases in the first recognized areas of PCM high endemicity martine. Otherwise, the continuous expansion of rural frontiers, along with the deforestation of native vegetation, has led to a substantial rise in PCM cases in the Central-Western and Northern areas of Brazil, extending to the border with Bolivia. As a result, new hyperendemic areas have been characterized in the state of Rondônia, with an incidence as high as 9.4–40/100,000, and more recently in Tocantins, Pará, and Maranhão.
+
+In addition, current evidence suggests that several human interventions involving massive land removal may affect PCM epidemiology. This was the case with the substantial rise in PCM infection episodes assessed by skin tests with paracoccidioidin documented after the construction of the Yacyreta hydroelectric plant in northeastern Argentina and an increase in the incidence of acute/subacute PCM cases documented after the construction of the ring road in the Rio de Janeiro metropolitan area in 2016.
+
+As with CM, climate change has been implicated in modifying PCM epidemiology. Clusters of acute/subacute cases of PCM were reported after the El Niño phenomenon in 1982/83 in Southeast Brazil and 2009 in northeastern Argentina.
+
+Outside endemic areas, PCM may present as a traveler’s disease in tourists visiting Latin America. Over 100 PCM cases have been reported in Europe, North America, Asia, and Africa. PCM diagnosis among travelers or immigrants from endemic countries is challenging once the disease develops decades after exposure.
+
+PCM is mostly documented in immunocompetent patients, but its natural history may be negatively affected by T-cell immunosuppression. Although rare, most cases of PCM in immunocompromised patients have been documented as coinfections with HIV, followed by oncologic patients and solid organ transplant recipients.
+
+3.2. Pathogenesis
+
+The immunological pattern of the host response to infection is a major determinant of the clinical manifestations of PCM. The lungs are the usual portal of entry for Paracoccidioides spp., where an efficient Th1 cellular response with a granulomatous reaction prevents disease development and fungal dissemination. Most cases of infection are asymptomatic (>98%) or manifest clinically with nonspecific symptoms, leaving behind scar focal lesions that may contain latent viable yeast cells. Symptomatic patients may develop acute/subacute manifestations (a juvenile form of PCM) or chronic diseases (an adult form of PCM). The lung manifestations of PCM are generally restricted to the chronic form of the disease (Figure 5).
+
+The acute/subacute form of PCM predominantly occurs in children and young adults with dominant Th2 and Th9 immunity and a limited or absent pulmonary inflammatory response to the pathogen. Consequently, there is prompt lymphatic–hematogenic dissemination of the fungus, and signs and symptoms may develop 3–12 weeks after exposure to Paracoccidioides spp. Acute PCM usually presents with generalized adenomegaly, mucocutaneous lesions, and hepatosplenomegaly.
+
+In contrast, the chronic form of PCM is characterized by the reactivation of latent foci (mainly pulmonary), which usually occurs several decades after exposure to Paracoccidioides spp. This clinical form is much more common among men than among women of adult age (ratio 15–22:1), probably due to estrogen activity preventing the conversion of inhaled filamentous forms of the fungus into the pathogenic yeast form. Lung lesions are present in 65–90% of chronic cases and may be combined with localized lymphadenopathy, mucocutaneous lesions, adrenal enlargement, and eventually central nervous system involvement. In addition to the immunological response of the host, the progression from infection to disease due to Paracoccidioides spp. may be modulated by genetic background. There is some evidence that the C4B*-Q0 antigen of the class III major histocompatibility complex and genotype IL12RB1 641 may be associated with the chronic disseminated form of this fungal disease. There are more robust data implicating lifestyle, especially smoking and alcohol consumption, in the progression of latent infection to fungal disease. Indeed, a recent study in a mouse model of pulmonary PCM showed a negative effect of cigarette smoking on the local immune lung response to Paracoccidioides spp., making the animals more susceptible to pulmonary disease.
+
+Lung lesions are secondary to the host response to pathogens that promote pulmonary fibrosis owing to persistent fungal antigen stimulation and excessive immune system activation. Once the tissue scarring process is triggered, it may progress even after the introduction of adequate treatment. More recently, a study combining information that was generated by experimental mouse models and human data suggested that PCM-induced pulmonary hypertension may be influenced by the remodeling of the adventitial layer of pulmonary vessels and not only secondary to fibrosis.
+
+Sequelae have mostly been documented in the lungs, but they may also affect the trachea, larynx, skin, adrenal glands, and central nervous system. Consequently, chronic respiratory insufficiency, dysphonia, Addison’s disease, and seizures are frequent findings that characterize the residual form of PCM.
+
+3.3. Clinical Aspects
+
+Pulmonary disease in PCM presents with an insidious course. Dyspnea and cough may persist for months to years before the diagnosis is made, and patients may also experience constitutional symptoms, such as anorexia, weight loss, and fever. Notably, a clinical–radiological dissociation that is characterized by mild respiratory complaints among patients exhibiting extensive pulmonary involvement on radiological examination is not uncommon, and dyspnea is usually a late manifestation of pulmonary involvement. Late diagnosis is usually related to several aspects, including insidious presentation of the disease, smoking-related chronic obstructive pulmonary disease, misdiagnosis of other chronic pulmonary conditions (mainly TB), limited access of rural workers to medical assistance, and lack of commercial diagnostic tests in routine laboratories of endemic regions.
+
+Despite the low mortality rate that is usually attributed to PCM (1.17–8.2 per million inhabitants), patients frequently present with lung fibrosis, leading to severe restriction of respiratory function with a decline in their work capacity and quality of life.
+
+Cohort studies that were conducted in the 1980s suggested that moderate-to-severe obstructive dysfunction may take place in more than 50% of patients with PCM after effective treatment. Data provided by a single-center study conducted in Colombia revealed that the frequency of fibrosis after treatment was related to the extension of lung infiltrates at the time of diagnosis. In this particular study, 45% of 47 patients evaluated remained with cough and/or dyspnea at the end of the planned antifungal therapy. Finally, emphysema and high initial serological titers for specific Paracoccidioides spp. antibodies (indicative of high fungal burden) were found to be variables independently associated with the severity of lung function impairment and a decrease in quality of life.
+
+Considering the low specificity of signs and symptoms of pulmonary PCM, an important clue to consider in the clinical diagnosis of fungal disease is the concomitance of ulcerated or ulcer-vegetative lesions of the oral mucosa with characteristic hemorrhagic dots (moriform lesions), which may be present in 60% to 75% of patients with the chronic form of PCM. Skin lesions may also be found in 25% to 30% of patients, with a considerable polymorphism of manifestations, including papulonodular, ulcer-crusted, molluscoid, or acneiform lesions. Notably, these lesions may facilitate laboratory diagnosis by direct mycological or histopathological examination of exudates or tissues. When only pulmonary abnormalities are present, epidemiological inquiry and imaging findings represent the main red flags that trigger laboratory investigations of fungal infections.
+
+3.4. Imaging Studies
+
+Plain chest radiographs classically indicate interstitial or mixed (alveolar interstitial) lesions, which are usually bilateral, perihilar, and symmetrical. PCM lesions are primarily located in the middle third of the lungs, resulting in the so-called “butterfly wing” pattern (see Figure 6A). Other findings include septum thickening, thick lines, alveolar opacities, fibrosis blocks, bronchial wall thickening, bronchiectasis, and cavities without fluid.
+
+Advances in radiology techniques and the widespread use of computerized tomography (CT) have enabled the characterization of various patterns of pulmonary injuries (Figure 6B–D). Studies addressing CT findings in chronic PCM have described interlobular septal thickening as the most common alteration (90–96% of cases), followed by emphysema (60–70%) and ground-glass attenuation (58–67%). Bronchial wall thickening, nodules, cavitary nodules, cavities, pleural thickening, and parenchymatous bands have also been frequently reported. These abnormalities are usually distributed in the posterior and peripheral regions of the lungs, with discrete predominance in the middle lung zone. After treatment, signs of residual fibrosis persist in at least 30–40% of patients, such as architectural distortion (90%), reticulate and septal thickening (88%), centrilobular and paraseptal emphysema (84%), and parenchymal bands (74%).
+
+3.5. Laboratorial Diagnosis
+
+The gold standard method for PCM diagnosis is the isolation of Paracoccidioides spp. in culture, as well as microscopic visualization of typical yeast cells by direct mycological examination (DME) or histopathology (Table 1). Direct mycological examination of exudates may be performed using 20–40% KOH solution, depending on the clinical sample, with or without Parker ink, by placing the sample between a slide and a coverslip. Clinical samples for DME may be collected from skin or mucous membranes, sputum, bronchoalveolar lavage, and some difficult-to-access samples, such as biopsies from the lungs, the larynx, lymph nodes, central nervous system, and adrenals. Typical fungal elements of Paracoccidioides spp. are represented by mother cells measuring 10–40 µm in diameter surrounded by multiple buds (blastoconidia) 2–6 µm in diameter, resembling the aspect of “pilot’s wheel” (multiple buds) or “Mickey Mouse” (two buds). Grocott’s methenamine silver and PAS stains provide better sensitivity when identifying fungal elements in tissue than HE. The sensitivity and specificity of all conventional methods are summarized in Table 1. The morphological characteristics of Paracoccidioides spp. in culture, DME, and histopathology are shown in Figure 7.
+
+Isolation of Paracoccidioides in culture has been performed mostly on Sabouraud and Mycosel agar, but other media may also be recommended, such as brain–heart infusion agar (BHI) and Sabouraud dextrose plus BHI broth (SABHI). Paracoccidioides is a fastidious fungus that grows slowly between 3 and 4 weeks, limiting its use for early diagnosis. Like all thermodimorphic fungi, it grows at 25 °C as filamentous fungi and at 37 °C as yeast.
+
+Concerning the recognition of Paracoccidioides species, several “in-house” PCR-based methods have been developed for the recognition of Paracoccidioides species, including nested PCR, quantitative real-time PCR, PCR-RFLP (restriction fragment length polymorphism), and multilocus microsatellite typing (MLMT). However, the best method for Paracoccidioides spp. identification is still considered to be DNA sequencing followed by phylogenetic analysis. Considering that there is no commercially available molecular method for this identification, matrix-assisted laser desorption ionization time-of-flight mass spectrometry (MALDI-TOF) is a reliable and more suitable alternative for the accurate identification of P. brasiliensis complex and P. Lutzii in routine laboratories.
+
+In clinical practice, histopathology and serological methods are the two most frequently used methods for diagnosing PCM in endemic areas. Detection of specific Paracoccidioides spp. antibodies may be achieved by a large range of methods, including double immunodiffusion (DID), counterimmunoelectrophoresis (CIE), ELISA, immunoblotting, Western blotting, immunofluorescence, radioimmunoassay, dot immunoassay, and latex particle agglutination (LA). Notably, there is no single commercial test available for detecting specific Paracoccidioides spp. antibodies, and fungal antigens are prepared in-house and obtained from different strains of Paracoccidioides spp. Consequently, serological results may vary substantially from lot-to-lot preparation of antigens, as well as between different techniques, strains, and laboratories. Assays for the detection of P. brasiliensis complex require standard exoantigen preparations containing high concentrations of GP43 glycoprotein, the immunodominant, and specific molecules in DID tests (the most commonly used) or 70 kDa glycoprotein. To diagnose P. lutzii infections using the DID test, it is recommended to use cell-free antigens obtained from this particular species. Besides providing a diagnosis, serological tests may also be used to monitor the host response to antifungal therapy. The main characteristics of the serological tests are summarized in Table 1.
+
+Cross-reactivity of PCM serological tests is common in patients with histoplasmosis and aspergillosis. It is important to mention that immunocompromised patients with severe PCM may not produce antibodies and generate false-negative results.
+
+Antigen detection assays and specific PCR methods have been developed by reference research centers but are not available in routine laboratories in most endemic regions. In this scenario, assays containing anti-gp43 and anti-gp47 monoclonal antibodies may be used to detect Paracoccidioides antigens in the serum, urine, sputum, cerebrospinal fluid, and bronchoalveolar lavage fluid. Of note, patients with PCM may generate positive results for Glucan and Galactomannan detection in serum samples.
+
+In recent decades, advances have been made in the development of new molecular techniques for the detection of Paracoccidioides DNA in clinical samples, including amplification of ribosomal DNA region (rDNA), gene-expressing GP43 glycoprotein, and quantitative Chain Reaction Polymerase (qPCR) platform duplex PCR assay. The implementation of new methodologies based on photonic techniques and machine learning algorithms has been suggested, such as Fourier Transform Infrared (FTIR) and Raman spectroscopy.
+
+3.6. Treatment
+
+All Paracoccidioides spp. seem to respond equally to antifungals of different classes: Amph-B, azoles (ketoconazole, fluconazole, itraconazole, voriconazole, posaconazole, and isavuconazole), terbinafine, and sulfonamides.
+
+The first therapeutic choice for mild and moderate forms of the disease is itraconazole (ITZ) 200 mg/day for 9–12 months, with response rates of 85–90%. Unfortunately, the governments of endemic countries do not provide free ITZ to vulnerable populations with PCM, which makes it difficult to access this treatment. The intravenous formulation of ITZ has not been commercialized in most PCM-endemic regions. Plasma-level monitoring of patients undergoing ITZ therapy has been recommended, but the vast majority of medical centers in Latin America are unable to do so. To overcome this limitation, a novel formulation of ITZ with better bioavailability, labeled SUper BioAvailable (SUBA)-itraconazole, was developed. However, a recent open-label comparative trial of SUBA versus conventional ITZ for the treatment of endemic mycoses showed almost identical plasma levels with similar specific adverse events in patients treated with both regimens. Notably, none of the PCM cases were included in this trial. Despite all the limitations in monitoring plasma levels of ITZ in Latin America, considering that Paracoccidioides is highly susceptible to this drug, real-life experiences reporting outcomes of patients with PCM with ITZ are generally very good.
+
+Trimethoprim–sulfamethoxazole (TMP/SMX) (160/800 mg bid or tid) has been widely used to treat PCM as an alternative to itraconazole. The TMP/SMX combination is found in oral and intravenous formulations and provides good absorption with predictable and stable plasma level concentrations and fewer drug–drug interactions than azoles. No randomized trials have evaluated the efficacy of TMP/SMX in comparison with that of ITZ in patients with PCM, but several retrospective studies have found that a longer treatment period is required with the TMP/SMX regimen (usually 2 years) when compared with ITZ treatment.
+
+A 2- to 4-week course of Amph-B formulation is recommended for the initial treatment of severe cases of PCM. Lipid formulations (3–5 mg/kg/day) are preferred over deoxycholate to avoid toxicity; however, they are costly, which limits access to them by most patients in endemic countries.
+
+Second-generation azoles are therapeutic options with limited clinical experience in PCM treatment. Voriconazole showed similar efficacy to itraconazole in an open-label study with 53 patients in Brazil. Isavuconazole was used to treat 10 Brazilian patients with disseminated disease, with partial success in 70% of cases and two patients progressing to death.
+
+The most recent glucan synthase inhibitors (ibrexafungerp and rezafungin), as well as olorofilms, have not yet been evaluated for their in vitro or in vivo activity against PCM.
+
+The time of treatment for PCM is usually defined individually, taking into consideration clinical and radiological improvement, as well as the decrease in antibody titers in those with a positive serology test at diagnosis.
+
+3.7. New Perspectives in the Clinical Management
+
+Several efforts have been made to develop a vaccine against PCM, but all of these are restricted to the preclinical stage of investigation. Vaccination with peptide 10 (P10), derived from P. brasiliensis glycoprotein 43 (gp43), effectively reduced the fungal burden in the lungs, liver, and spleen in animal models. Several adjuvants have been tested, providing different ranges of adverse events and efficacy. In addition to P10, immunization with the 27 kDa protein located at the surface and in the cytosol of P. brasiliensis has also been explored. Immunization with the 27 kDa protein may not only provide some protective effects but may also prevent pulmonary fibrosis in murine models of PCM.
+
+Recently, several groups have explored strategies to mitigate pulmonary fibrosis secondary to antifungal therapy for PCM. The antifibrotic activities of pentoxifylline (PTX), azithromycin (AZT), and thalidomide (Thal) in a murine model of pulmonary PCM treated with ITZ or cotrimoxazole (TMP/SMX) were investigated. The authors found that infected mice that were treated with PTX/ITC and AZT/CMX showed a reduction in the pulmonary concentrations of pro-inflammatory and pro-fibrotic factors.
+
+Despite the relevance of neutrophils in the primary response to the fungal pathogen, evidence suggests that they may be detrimental during the chronic course of Paracoccidioides sp. infection, causing excessive tissue damage. Puerta-Portas et al. demonstrated that the combination of ITZ and a specific monoclonal antibody/mAb-anti-Ly6G used to deplete neutrophils could reduce the burden of infection and pulmonary fibrosis by downregulating inflammatory and pro-fibrotic genes. These results are in line with those of a previous study demonstrating that depletion of neutrophils in the chronic phase of PCM in mice may substantially reduce fibrosis.
+
+The use of monoclonal antibodies, alone or in combination with antifungal agents, has emerged as a potentially efficient treatment strategy to improve outcomes. Boniche-Alfaro et al. used a monoclonal antibody (mAbF1.4) against the cell wall glycoconjugate fraction of Paracoccidioides spp., combined with trimethoprim–sulfamethoxazole (TMP/SMX), to treat BALB/c mice with PCM. Using this combined therapy, the authors were able to obtain a significant reduction in pulmonary fungal burden, promoting a mixed Th1–Th17 type immune response that preserved the lung architecture.
+
+Finally, in addition to developing strategies to modulate the host response to fungal pathogens without producing excessive fibrosis, it is mandatory to reinforce governmental initiatives to guarantee access to available diagnostic tools and medications for the most vulnerable rural patients with PCM.
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+Author Contributions
+
+Conceptualization, A.L.C. and A.B.; A.L.C. contributed to the writing and reviewing of the whole paper. P.M.P.-P. and S.S.G. contributed to writing the paracoccidioidomycosis section. A.B. and A.T.-S. contributed to writing the coccidioidomycosis section. S.S.G. prepared the figures. P.M.P.-P. and S.S.G. were responsible for editing the manuscript. P.M.P.-P. reviewed the paper with A.L.C. All authors have read and agreed to the published version of the manuscript.
+
+Institutional Review Board Statement
+
+Not applicable.
+
+Data Availability Statement
+
+Not applicable.
+
+Conflicts of Interest
+
+A.L.C. has received educational grants from Amgen, Biotoscana-Knight, Pfizer, Gilead Sciences, and United Medical. Other authors have nothing to declare. This study was not financially supported by any Diagnostic/Pharmaceutical company.
+
+References
+
+Epidemiology of Endemic Systemic Fungal Infections in Latin America
+
+Re-Drawing the Maps for Endemic Mycoses
+
+Endemic Mycoses: Epidemiology and Diagnostic Strategies
+
+Coccidioidomycosis: A Review
+
+Phylogenetic Analysis Reveals a High Level of Speciation in the Paracoccidioides Genus
+
+Genomic Diversity of the Human Pathogen Paracoccidioides across the South American Continent
+
+Ecology of Paracoccidioides brasiliensis, P. lutzii and Related Species: Infection in Armadillos, Soil Occurrence and Mycological Aspects
+
+Species Boundaries in the Human Pathogen Paracoccidioides
+
+New Insights on Pulmonary Paracoccidioidomycosis
+
+Pulmonary and Extrapulmonary Manifestations of Fungal Infections Misdiagnosed as Tuberculosis: The Need for Prompt Diagnosis and Management
+
+Prevalence of Pulmonary Mycoses in Smear-Negative Patients with Suspected Tuberculosis in the Brazilian Amazon
+
+Associação Entre Paracoccidioidomicose e Tuberculose: Realidade e Erro Diagnóstico
+
+The Case for Paracoccidioidomycosis to Be Accepted as a Neglected Tropical (Fungal) Disease
+
+Neglected Endemic Mycoses
+
+Coccidioidomycosis
+
+Current Landscape of Coccidioidomycosis
+
+Coccidioidomycosis: A Review of Recent Advances
+
+Coccidioidomycosis
+
+“Valley Fever” of the San Joaquin Valley and Fungus Coccidioides
+
+Coccidioidomycosis: A Contemporary Review
+
+Factors Influencing Distribution of Coccidioides immitis in Soil, Washington State, 2016
+
+Update on the Epidemiology, Diagnosis, and Treatment of Coccidioidomycosis
+
+Cross-Sectional Study of Clinical Predictors of Coccidioidomycosis, Arizona, USA
+
+Epidemiology, Clinical Features, and Outcomes of Coccidioidomycosis, Utah, 2006–2015
+
+Update on the Epidemiology of Coccidioidomycosis in the United States
+
+What’s Behind the Increasing Rates of Coccidioidomycosis in Arizona and California?
+
+Epidemiología de La Coccidioidomicosis En México
+
+Coccidioidomycosis in Latin America
+
+Coccidioidomycosis in Argentina, 1892-2009
+
+Coccidioidomycosis in Brazil: Historical Challenges of a Neglected Disease
+
+Travel-Related Risk Factors for Coccidioidomycosis
+
+Clinical and Pathologic Characteristics of Disseminated Cutaneous Coccidioidomycosis
+
+Clinical and Economic Burden of Valley Fever in Arizona: An Incidence-Based Cost-of-Illness Analysis
+
+The Habitat of Coccidioides spp. and the Role of Animals as Reservoirs and Disseminators in Nature
+
+Coccidioides immitis and posadasii; A Review of Their Biology, Genomics, Pathogenesis, and Host Immunity
+
+Morphogenesis throughout Saprobic and Parasitic Cycles of Coccidioides immitis
+
+Characteristics of Patients with Mild to Moderate Primary Pulmonary Coccidioidomycosis
+
+Pulmonary Coccidioidomycosis
+
+Coccidioidomycosis
+
+Recent Advances in Our Understanding of the Environmental, Epidemiological, Immunological, and Clinical Dimensions of Coccidioidomycosis
+
+Coccidioidomycosis and Tuberculosis Coinfection at a Tuberculosis Hospital
+
+2016 Infectious Diseases Society of America (IDSA) Clinical Practice Guideline for the Treatment of Coccidioidomycosis
+
+Coccidioidomycosis and the Skin: A Comprehensive Review
+
+Central Nervous System Infections Due to Coccidioidomycosis
+
+Coccidioidomycosis and COVID-19 Co-Infection, United States, 2020
+
+Coccidioidomycosis and COVID-19 Infection
+
+Cytologic Diagnosis of Coccidioidomycosis: Spectrum of Findings in Southern Arizona Patients over a 10 Year Period
+
+Coccidioidomycosis with Emperipolesis in Fine Needle Aspiration
+
+The Clinical Laboratory Evolution in Coccidioidomycosis Detection: Future Perspectives
+
+Diagnosis and Management of Coccidioidomycosis
+
+Update on the Diagnosis of Pulmonary Coccidioidomycosis
+
+Detection of Coccidioides Species in Clinical Specimens by Real-Time PCR
+
+Novel Approach to Designing Primers for Identification and Distinction of the Human Pathogenic Fungi Coccidioides immitis and Coccidioides posadasii by PCR Amplification
+
+Paracoccidioidomycosis: Current Status and Future Trends
+
+Brazilian Guidelines for the Clinical Management of Paracoccidioidomycosis
+
+Oral Paracoccidioidomycosis in a Single-Center Retrospective Analysis from a Brazilian Southeastern Population
+
+Serology of Paracoccidioidomycosis
+
+An Overview of the Immunopathology of Human Paracoccidioidomycosis
+
+Detection of Circulating Gp43 Antigen in Serum, Cerebrospinal Fluid, and Bronchoalveolar Lavage Fluid of Patients with Paracoccidioidomycosis
+
+Characterization of Gp70 and Anti-Gp70 Monoclonal Antibodies in Paracoccidioides brasiliensis Pathogenesis
+
+Serology of Paracoccidioidomycosis Due to Paracoccidioides lutzii
+
+Molecular Tools for Detection and Identification of Paracoccidioides Species: Current Status and Future Perspectives
+
+Real Time Polymerase Chain Reaction (Rt-PCR): A New Patent to Diagnostic Purposes for Paracoccidioidomycosis
+
+The Diagnosis of Coccidioidomycosis
+
+The Utility of Coccidioides Polymerase Chain Reaction Testing in the Clinical Setting
+
+Comparative Evaluation of Commercial Premier EIA and Microimmunodiffusion and Complement Fixation Tests for Coccidioides immitis Antibodies
+
+Diagnosis of Coccidioidomycosis with Use of the Coccidioides Antigen Enzyme Immunoassay
+
+Noninvasive Testing and Surrogate Markers in Invasive Fungal Diseases
+
+Laboratory Aspects in the Diagnosis of Coccidioidomycosis
+
+Treatment of Refractory Coccidioidomycosis With Voriconazole or Posaconazole
+
+Efficacy of Nikkomycin Z for Respiratory Coccidioidomycosis in Naturally Infected Dogs
+
+Efficacy of Nikkomycin Z in Murine CNS Coccidioidomycosis: Modelling Sustained-Release Dosing
+
+Nikkomycin Z—Ready to Meet the Promise?
+
+Nikkomycin Z against Disseminated Coccidioidomycosis in a Murine Model of Sustained-Release Dosing
+
+Review of the Novel Investigational Antifungal Olorofim
+
+The Orotomide Olorofim Is Efficacious in an Experimental Model of Central Nervous System Coccidioidomycosis
+
+The Present Status of Vaccination Against Coccidioidomycosis in Man
+
+Prospects of Vaccines for Medically Important Fungi. A Vaccine against Coccidioidomycosis Is Justified and Attainable
+
+Vaccines to Prevent Coccidioidomycosis: A Gene-Deletion Mutant of Coccidioides posadasii as a Viable Candidate for Human Trials
+
+New Trends in Paracoccidioidomycosis Epidemiology
+
+Paracoccidioides Genomes Reflect High Levels of Species Divergence and Little Interspecific Gene Flow
+
+Trends in the Molecular Epidemiology and Population Genetics of Emerging Sporothrix Species
+
+Paracoccidioidomycosis Epidemiological Features of a 1,000-Cases Series from a Hyperendemic Area on the Southeast of Brazil
+
+Paracoccidioidomycosis: Epidemiological and Clinical Aspects in 546 Cases Studied in the State of Espírito Santo, Brazil
+
+Endemic Paracoccidioidomycosis: Relationship between Clinical Presentation and Patients’ Demographic Features
+
+Paracoccidioidomycosis Mortality in Brazil (1980-1995)
+
+Hospital Morbidity Due to Paracoccidioidomycosis in Brazil (1998–2006)
+
+Compulsory Notification of Paracoccidioidomycosis: A 14-Year Retrospective Study of the Disease in the State of Paraná, Brazil
+
+A Single-Centre, Retrospective Study of the Incidence of Invasive Fungal Infections during 85 Years of Autopsy Service in Brazil
+
+Decreasing Prevalence of the Acute/Subacute Clinical Form of Paracoccidioidomycosis in Mato Grosso do Sul State, Brazil
+
+Paracoccidioidomycosis in a Western Brazilian Amazon State: Clinical-Epidemiologic Profile and Spatial Distribution of the Disease
+
+Clinical and Eco-Epidemiological Aspects of a Novel Hyperendemic Area of Paracoccidioidomycosis in the Tocantins-Araguaia Basin (Northern Brazil), Caused by Paracoccidioides sp.
+
+Paracoccidioides brasiliensis Infection in a Subtropical Region with Important Environmental Changes
+
+Paracoccidioidomycosis after Highway Construction, Rio de Janeiro, Brazil
+
+First Description of a Cluster of Acute/Subacute Paracoccidioidomycosis Cases and Its Association with a Climatic Anomaly
+
+Emergence of Acute/Subacute Infant-Juvenile Paracoccidioidomycosis in Northeast Argentina: Effect of Climatic and Anthropogenic Changes?
+
+Paracoccidioidomycosis Diagnosed in Europe—A Systematic Literature Review
+
+Delayed Relapse of Paracoccidioidomycosis in the Central Nervous System: A Case Report
+
+Letter: Imported Paracoccidioidomycosis in Japan
+
+Paracoccidioidomycosis in the United States (South American Blastomycosis)
+
+Paracoccidioidomycosis in People Living with HIV/AIDS: A Historical Retrospective Cohort Study in a National Reference Center for Infectious Diseases, Rio de Janeiro, Brazil
+
+Paracoccidioidomycosis in Patients Infected with and Not Infected with Human Immunodeficiency Virus: A Case-Control Study
+
+Clinical and Microbiological Characteristics of Paracoccidioidomycosis in Patients with AIDS in Buenos Aires, Argentina
+
+Paracoccidioidomycosis in Immunocompromised Patients: A Literature Review
+
+Disseminated Paracoccidioidomycosis in a Liver Transplant Patient
+
+Case Report: Paracoccidioidomycosis in Solid Organ Transplantation: Disseminated Disease in a Liver Recipient and Literature Review
+
+Disseminated Paracoccidioidomycosis in a Kidney Transplant Recipient
+
+Paracoccidioidomycosis in Children: Clinical Presentation, Follow-up and Outcome
+
+Contribution to the Natural History of Paracoccidioidomycosis: Identification of the Primary Pulmonary Infection in the Severe Acute Form of the Disease–A Case Report
+
+Paracoccidioidomycosis: Current Perspectives from Brazil
+
+Acute Juvenile Paracoccidioidomycosis: A 9-Year Cohort Study in the Endemic Area of Rio de Janeiro, Brazil
+
+Estrogens Inhibit Mycelium-to-Yeast Transformation in the Fungus Paracoccidioides brasiliensis: Implications for Resistance of Females to Paracoccidioidomycosis
+
+Polymorphisms on IFNG, IL12B and IL12RB1 Genes and Paracoccidioidomycosis in the Brazilian Population
+
+Associação Entre Tabagismo e Paracoccidioidomicose: Um Estudo de Caso-Controle No Estado Do Espírito Santo, Brasil
+
+Association of Major Histocompatibility Complex Class III Complement Components C2, BF, and C4 with Brazilian Paracoccidioidomycosis
+
+Chronic Exposure to Cigarette Smoke Transiently Worsens the Disease Course in a Mouse Model of Pulmonary Paracoccidioidomycosis
+
+Residual Pulmonary Abnormalities in Adult Patients with Chronic Paracoccidioidomycosis: Prolonged Follow-Up after Itraconazole Therapy
+
+Pulmonary Paracoccidioidomycosis-induced Pulmonary Hypertension
+
+Systematic Evaluation of the Adrenocortical Function in Patients with Paracoccidioidomycosis
+
+Long-Term Outcome of Neuroparacoccidioidomycosis Treatment
+
+Objective CT-Based Quantification of Lung Sequelae in Treated Patients With Paracoccidioidomycosis
+
+Adrenal Function Status in Patients with Paracoccidioidomycosis After Prolonged Post-Therapy Follow Up
+
+The Lung in Paracoccidioidomycosis: New Insights into Old Problems
+
+Mortality Due to Systemic Mycoses as a Primary Cause of Death or in Association with AIDS in Brazil: A Review from 1996 to 2006
+
+Paracoccidioidomycosis: Radiologic and Pulmonary Study in 58 Cases
+
+Função Pulmonar Na Evolução de 35 Doentes Com Paracoccidioidomicose
+
+Paracoccidioidomicose: Frequência, Morfologia e Patogênese de Lesões Tegumentares
+
+Paracoccidioidomycosis: What We Know and What Is New in Epidemiology, Diagnosis, and Treatment
+
+Imaging Paracoccidioidomycosis: A Pictorial Review from Head to Toe
+
+Paracoccidioidomycosis: High-Resolution Computed Tomography–Pathologic Correlation
+
+Paracoccidioidomicose Pulmonar: Aspectos Na Tomografia Computadorizada de Alta Resolução
+
+High-Resolution CT Findings of 77 Patients with Untreated Pulmonary Paracoccidioidomycosis
+
+Paracoccidioidomycosis: Level of Pulmonary Sequelae in High Resolution Computed Tomography Images from Patients of Two Endemic Regions of Brazil
+
+Pulmonary Paracoccidioidomycosis
+
+Pulmonary Paracoccidioidomycosis
+
+Oral Exfoliative Cytology as a Rapid Diagnostic Tool for Paracoccidioidomycosis
+
+Validation and Clinical Application of a Nested PCR for Paracoccidioidomycosis Diagnosis in Clinical Samples from Colombian Patients
+
+RFLP Analysis Reveals Marked Geographical Isolation between Strains of Paracoccidioides brasiliensis
+
+Matrix-Assisted Laser Desorption Ionization–Time of Flight Mass Spectrometry for Differentiation of the Dimorphic Fungal Species Paracoccidioides brasiliensis and Paracoccidioides lutzii
+
+Simplified Method for Producing Paracoccidioides brasiliensis Exoantigens for Use in Immunodiffusion Tests
+
+A Slide Latex Test for the Diagnosis of Paracoccidiodomycosis
+
+Development and Evaluation of a Latex Agglutination Test for the Serodiagnosis of Paracoccidioidomycosis
+
+Laboratorial Diagnosis of Paracoccidioidomycosis and New Insights for the Future of Fungal Diagnosis
+
+Detection of the 43,000-Molecular-Weight Glycoprotein in Sera of Patients with Paracoccidioidomycosis
+
+Serological Diagnosis of Paracoccidioidomycosis: High Rate of Inter-Laboratorial Variability among Medical Mycology Reference Centers
+
+The Paracoccidioides brasiliensis Gp70 Antigen Is Encoded by a Putative Member of the Flavoproteins Monooxygenase Family
+
+Paracoccidioidomycosis Screening Diagnosis by FTIR Spectroscopy and Multivariate Analysis
+
+Cross-Reactivity of Paracoccidioides brasiliensis, Histoplasma capsulatum, and Cryptococcus Species in the Commercial Platelia Aspergillus Enzyme Immunoassay
+
+Evaluation of (1 → 3)-β-D-glucan Assay for Diagnosing Paracoccidioidomycosis
+
+A Semi-Nested PCR Assay for Molecular Detection of Paracoccidioides brasiliensis in Tissue Samples
+
+A New PCR Primer for the Identification of Paracoccidioides Brasiliensis Based on RRNA Sequences Coding the Internal Transcribed Spacers (ITS) and 5·8S Regions
+
+Lepra Reactions: A Study of 130 Cases from Pakistan
+
+Using Infrared Spectroscopy of Serum and Chemometrics for Diagnosis of Paracoccidioidomycosis
+
+Global Guideline for the Diagnosis and Management of the Endemic Mycoses: An Initiative of the European Confederation of Medical Mycology in Cooperation with the International Society for Human and Animal Mycology
+
+Treatment of Paracoccidioidomycosis with Itraconazole
+
+Current Situation of Endemic Mycosis in the Americas and the Caribbean: Proceedings of the First International Meeting on Endemic Mycoses of the Americas (IMEMA)
+
+Therapeutic Drug Monitoring of Itraconazole and the Relevance of Pharmacokinetic Interactions
+
+Bioavailability of Single-Dose SUBA-Itraconazole Compared to Conventional Itraconazole under Fasted and Fed Conditions
+
+An Open-Label Comparative Trial of SUBA-Itraconazole (SUBA) versus Conventional Itraconazole (c-Itra) for Treatment of Proven and Probable Endemic Mycoses (MSG-15): A Pharmacokinetic (PK) and Adverse Event (AE) Analysis
+
+Comparison between Itraconazole and Cotrimoxazole in the Treatment of Paracoccidiodomycosis
+
+Itraconazole vs. Trimethoprim–Sulfamethoxazole: A Comparative Cohort Study of 200 Patients with Paracoccidioidomycosis
+
+An Open-Label Comparative Pilot Study of Oral Voriconazole and Itraconazole for Long-Term Treatment of Paracoccidioidomycosis
+
+Isavuconazole Treatment of Cryptococcosis and Dimorphic Mycoses
+
+One Century of Study: What We Learned about Paracoccidioides and How This Pathogen Contributed to Advances in Antifungal Therapy
+
+Prevalence and Serological Diagnosis of Relapse in Paracoccidioidomycosis Patients
+
+de Serological Follow-up of Patients with Paracoccidioidomycosis Treated with Itraconazole Using Dot-Blot, ELISA and Western-Blot
+
+Neutrophil Cells Are Essential for The Efficacy of a Therapeutic Vaccine against Paracoccidioidomycosis
+
+Immunization with P10 Peptide Increases Specific Immunity and Protects Immunosuppressed BALB/c Mice Infected with Virulent Yeasts of Paracoccidioides brasiliensis
+
+Prophylactic and Therapeutic Vaccination Using Dendritic Cells Primed with Peptide 10 Derived from the 43-Kilodalton Glycoprotein of Paracoccidioides brasiliensis
+
+Paracoccidioidomycosis: Challenges in the Development of a Vaccine Against an Endemic Mycosis in the Americas
+
+Immunization with Recombinant Pb27 Protein Reduces the Levels of Pulmonary Fibrosis Caused by the Inflammatory Response Against Paracoccidioides brasiliensis
+
+The Therapy of Pulmonary Fibrosis in Paracoccidioidomycosis: What Are the New Experimental Approaches?
+
+Evaluation of Antifibrotic and Antifungal Combined Therapies in Experimental Pulmonary Paracoccidioidomycosis
+
+Itraconazole in Combination with Neutrophil Depletion Reduces the Expression of Genes Related to Pulmonary Fibrosis in an Experimental Model of Paracoccidioidomycosis
+
+Depletion of Neutrophils Promotes the Resolution of Pulmonary Inflammation and Fibrosis in Mice Infected with Paracoccidioides brasiliensis
+
+Immunotherapy against Systemic Fungal Infections Based on Monoclonal Antibodies
+
+Antibody- Based Immunotherapy Combined With Antimycotic Drug TMP- SMX to Treat Infection With Paracoccidioides brasiliensis
+
+Global geographic distribution of Coccidioides species (A) and Paracoccidioides species (B). In Figure 1B, the size of the elements is proportional to the prevalence of species in different countries.
+
+Pulmonary images of a 19-year-old male patient with subacute pulmonary coccidioidomycosis: axial thoracic CT showing bilateral peribronchovascular and perilymphatic nodules in both lungs.
+
+Morphological aspects of Coccidioides spp.: (A) Colonies of filamentous fungi in Sabouraud Dextrose Agar cultivated at 25 °C after 2 weeks; (B) Arthroconidia and septate hyaline hyphae of Coccidioides at 25 °C, stained with cotton blue, 40×; (C) Histopathological examination of biopsy stained with Grocott–Gomori methenamine-silver showing Coccidioides spp. spherules with multiple endospores, 40×; (D) Histopathological examination of biopsy stained with Periodic Acid Schiff showing Coccidioides spp. spherules, 40×.
+
+Flowchart illustrating the treatment of different clinical forms of coccidioidomycosis.
+
+Natural history of paracoccidioidomycosis with a focus on pathogenesis.
+
+Lung images of a 53-year-old male patient with chronic paracoccidioidomycosis. (A) Plain chest radiograph with bilateral, parahilar, and symmetrical interstitial alveolar infiltrate (“butterfly wing” pattern); (B,C) Axial thoracic CT at diagnosis with multiple bronchiectasis associated with areas of irregular parenchymal opacities, and diffuse nodules (some of them excavated); (D) Axial thoracic CT at the end of antifungal therapy: areas of emphysema with traction bronchiectasis, retractable striae, and central architectural distortion, predominantly peribronchovascular, indicating fibrosis.
+
+Morphological aspects of Paracoccidioides spp.: (A,B) Characteristic yeast forms showing multiple buddings (5 to 15 µm) seen upon direct examination of a sputum sample stained with a mix of KOH–Parker ink and only KOH, respectively; (C) Paracoccidioides spp. cultured on Sabouraud agar slants for 14 days, at 25 °C (top, filamentous phase) and 37 °C (underside, yeast phase); (D,E) Lung biopsy stained by Grocott methenamine silver stain showing yeasts with multiple buds (“pilot’s wheel” and “Mickey Mouse” elements); (F) Bronchoalveolar lavage stained with Grocott methenamine silver stain with yeast forms showing multiple budding (5 to 15 µm).

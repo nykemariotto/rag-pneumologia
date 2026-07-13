@@ -1,0 +1,1194 @@
+=== Chronic Obstructive Pulmonary Disease (COPD) ===
+Fonte: StatPearls/NCBI Bookshelf
+URL: https://www.ncbi.nlm.nih.gov/books/NBK559281/
+Licenca: CC BY-NC-ND 4.0
+Doenca: dpoc | Idioma: en
+----------------------------------------------------------------------
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026 Jan-.
+StatPearls [Internet].
+Show details
+Treasure Island (FL):
+StatPearls Publishing
+; 2026 Jan-.
+
+Chronic Obstructive Pulmonary Disease (COPD)
+Venkatkiran Kanchustambham
+;
+Brandon D. Brown
+.
+Author Information and Affiliations
+Authors
+Venkatkiran Kanchustambham
+;
+Brandon D. Brown
+1
+.
+Affiliations
+1
+Medical University of South Carolina
+Last Update:
+April 15, 2026
+.
+Continuing Education Activity
+Chronic obstructive pulmonary disease is a progressive, systemic respiratory condition that affects millions of adults worldwide and remains underdiagnosed and undertreated in clinical practice. This continuing education activity presents current evidence-based approaches to diagnosis, classification, and management, incorporating the 2024 Global Initiative for Chronic Obstructive Lung Disease recommendations. Focus is placed on consistent spirometric confirmation, individualized pharmacotherapy guided by eosinophil counts and exacerbation history, and early recognition of disease-related complications. The clinician develops improved diagnostic accuracy, gains updated pharmacologic and nonpharmacologic treatment strategies, and applies validated tools for risk stratification and prognosis. Collaboration with an interprofessional team, including respiratory therapists, pharmacists, and nursing professionals, enhances care coordination, supports adherence to therapy, and improves patient-centered outcomes across the continuum of disease severity.
+
+Objectives:
+
+Identify the etiology, epidemiology, and pathophysiology of chronic obstructive pulmonary disease, including the role of α-1 antitrypsin deficiency, biomass fuel exposure, and the mechanisms of emphysema and small airway disease.
+Interpret postbronchodilator spirometry results and pulmonary function test findings to confirm diagnosis, classify airflow limitation severity using Global Initiative for Chronic Obstructive Lung Disease grades 1 through 4, and assign treatment groups using the ABE (airway, breathing, exposure) assessment model.
+Differentiate chronic obstructive pulmonary disease from conditions with overlapping presentations, including asthma, asthma-chronic obstructive pulmonary disease overlap, congestive heart failure, bronchiectasis, and interstitial lung disease, using clinical, spirometric, and imaging criteria.
+Coordinate interprofessional team strategies, including the roles of pulmonologists, respiratory therapists, clinical pharmacists, nurses, and palliative care, to deliver evidence-based chronic obstructive pulmonary disease care that reduces exacerbations, prevents readmissions, and improves patient outcomes.
+
+Access free multiple choice questions on this topic.
+
+Introduction
+Chronic obstructive pulmonary disease (COPD) is a common, preventable, and treatable disease characterized by persistent and progressive airflow limitation caused by airway or alveolar abnormalities, typically arising from significant exposure to noxious particles or gases. The airflow limitation results from a combination of small airway disease (obstructive bronchiolitis) and parenchymal destruction (emphysema), with the relative contribution of each varying between individuals.
+[1]
+[GOLD.
+2024 GOLD Report
+]. COPD is recognized as a systemic disease with extrapulmonary manifestations that independently worsen prognosis, including skeletal muscle dysfunction, cardiovascular disease, metabolic syndrome, osteoporosis, depression, anxiety, and anemia. Clinically, the disease presents with chronic dyspnea, cough, and sputum production, though the clinical spectrum spans from entirely asymptomatic individuals with spirometric obstruction to patients with severe respiratory failure requiring mechanical ventilation.
+[2][
+24]
+[GOLD.
+2024 GOLD Report
+]
+The Global Initiative for Chronic Obstructive Lung Disease (GOLD) defines COPD spirometrically as a postbronchodilator forced expiratory volume in 1 second to forced vital capacity (FEV
+1
+/FVC) ratio less than 0.70. Recent evidence also supports using the lower limit of normal to avoid overdiagnosis in older patients. Early identification, risk-factor modification, and individualized pharmacologic and nonpharmacologic therapy are the cornerstones of treatment and meaningfully reduce morbidity and mortality.
+[1]
+[GOLD.
+2024 GOLD Report
+]
+Etiology
+
+Etiology
+
+COPD results from gene-environment interactions accumulated over a lifetime. Cigarette smoking accounts for approximately 70% to 80% of cases in high-income countries. However, up to 25% to 45% of patients with COPD have never smoked, underscoring the importance of nontobacco etiologies, including biomass fuel combustion, occupational exposures, and host genetic factors.
+[2]
+[GOLD.
+2024 GOLD Report
+]
+
+Environmental and Occupational Risk Factors
+
+Tobacco smoking:
+The leading etiologic agent in high-income countries. Risk correlates with pack-year history and age of initiation. Pipe, cigar, hookah, and marijuana smoke also confer independent risk.
+Biomass fuel combustion:
+Wood, crop residues, and animal dung burned in enclosed, poorly ventilated spaces represent the leading global COPD risk factor, particularly in resource-limited countries.
+Occupational exposures:
+Coal dust, crystalline silica, cadmium, isocyanates, and organic dusts independently cause COPD even in nonsmokers. High-risk occupations include mining, farming, construction, and textile work.
+[2]
+Respiratory infections:
+A history of severe childhood lower respiratory tract infections, recurrent pneumonia, and prior pulmonary tuberculosis impairs lung development and increases lifetime susceptibility to COPD.
+[2]
+
+Host Factors
+
+α-1 Antitrypsin deficiency (AATD):
+The most prevalent Mendelian genetic risk factor for COPD. The Pi*ZZ (
+SERPINA1
+) genotype results in a severe protease-antiprotease imbalance, leading to panacinar emphysema with basilar predominance. Suspected in patients with early-onset emphysema who are younger than 45 years, have minimal or no tobacco history, have lower lobe–predominant emphysema on CT, or have unexplained liver disease.
+[3]
+[GOLD.
+2024 GOLD Report
+]
+Abnormal lung development:
+Prematurity, low birth weight, intrauterine growth restriction, childhood asthma, and recurrent lower respiratory tract infections limit peak lung function attainment and increase lifetime COPD risk.[GOLD.
+2024 GOLD Report
+]
+[2]
+Airway hyperresponsiveness and asthma:
+Diagnosed asthma confers increased risk of fixed airflow obstruction; asthma-COPD overlap is an important clinical phenotype.[GOLD.
+2024 GOLD Report
+]
+[
+[4]
+
+Accelerated lung aging and genetic susceptibility:
+Epigenetic and telomere-related mechanisms of accelerated senescence contribute to COPD independent of smoke exposure.
+[1]
+Epidemiology
+COPD is the third leading cause of morbidity and mortality worldwide. Results from the Global Burden of Disease study estimated 384 million prevalent cases globally in 2010, representing approximately 11.7% of the global population. The World Health Organization (WHO) estimated that 174 million people were affected and 3.2 million died annually by 2015. Prevalence is projected to increase over the coming decades due to continued tobacco use globally and aging populations.[GOLD.
+2024 GOLD Report
+]
+[1]
+[5]
+In the United States, approximately 16 million adults carry a COPD diagnosis, with an estimated additional 12 million undiagnosed. COPD is the fourth leading cause of death in the United States and accounts for more than 700,000 hospitalizations annually. Historically more prevalent in men, rates in women have risen sharply and now approach or exceed those of men in many countries, reflecting shifting smoking patterns and greater susceptibility to tobacco carcinogens in women.[GOLD.
+2024 GOLD Report
+]
+[1]
+
+Prevalence increases markedly with age and is highest in individuals older than 40 years. COPD is substantially underdiagnosed. Results from population-based spirometry studies suggest that only 25% to 30% of patients with COPD in the community have received a formal diagnosis, contributing to delayed intervention and preventable disease progression and exacerbations.[GOLD.
+2024 GOLD Report
+]
+[1]
+Pathophysiology
+COPD is driven by an amplified and dysregulated inflammatory response to inhaled noxious stimuli in susceptible individuals. Cigarette smoke and other irritants activate innate and adaptive immune pathways, recruiting neutrophils, macrophages, CD8+ T lymphocytes, and dendritic cells into the airways and lung parenchyma. These cells release proteases (neutrophil elastase, matrix metalloproteinases), reactive oxygen species, and proinflammatory cytokines (interleukin [IL]-8, tumor necrosis factor [TNF]-α, IL-6, IL-1β) that drive tissue injury and remodeling.[GOLD.
+2024 GOLD Report
+]
+[2]
+[6]
+
+Emphysema
+
+In emphysema, an imbalance between proteases and antiproteases, particularly an excess of neutrophil elastase that overcomes α-1 antitrypsin and tissue inhibitors of metalloproteinases, leads to permanent destruction of alveolar walls distal to the terminal bronchiole. Loss of alveolar elastic recoil causes dynamic airway collapse during exhalation, producing gas trapping, lung hyperinflation, and flattening of the diaphragm in a mechanically disadvantageous position. Centrilobular emphysema preferentially destroys respiratory bronchioles in the upper lobes and is strongly associated with smoking. Panacinar emphysema uniformly destroys the entire acinus with lower lobe predominance and is characteristic of alpha-1 antitrypsin deficiency, AATD.[GOLD.
+2024 GOLD Report
+]
+[2]
+
+Small Airway Disease and Chronic Bronchitis
+
+Obstructive bronchiolitis involves peribronchiolar fibrosis, inflammatory infiltration, and remodeling of airways less than 2 mm in diameter. Goblet cell metaplasia and submucosal gland hypertrophy (Reid index >0.4 in central airways) increase mucus production and impair mucociliary clearance. Smooth muscle hypertrophy, airway wall thickening, and intraluminal mucus plugging narrow the airway lumen, increasing resistance and producing the fixed obstructive spirometric pattern. Small airway disease is the dominant contributor to airflow obstruction in mild-to-moderate COPD.[GOLD.
+2024 GOLD Report
+]
+[2]
+
+Gas Exchange Abnormalities
+
+Destruction of alveolar-capillary units and ventilation-perfusion mismatch are the primary mechanisms of impaired gas exchange in COPD. Hypoxemia develops initially with exertion and progresses to resting hypoxemia in advanced disease. Hyperinflation increases functional residual capacity and physiologic dead space, impairing CO2 elimination and contributing to hypercapnia in severe disease. Chronic hypoxemia drives hypoxic pulmonary vasoconstriction, leading to pulmonary hypertension, right ventricular hypertrophy, and eventually cor pulmonale.[GOLD.
+2024 GOLD Report
+]
+[2]
+
+Acute Exacerbation Pathophysiology
+
+Acute exacerbations of COPD (AECOPD) are triggered by respiratory viral infections (rhinovirus, influenza, respiratory syncytial virus [RSV], and SARS-CoV-2, accounting for 70% to 80% of events), bacterial pathogens (
+Haemophilus influenzae
+,
+Streptococcus pneumoniae
+,
+Moraxella catarrhalis
+, and
+Pseudomonas aeruginosa
+in severe COPD), or environmental pollutants. Exacerbations produce acute-on-chronic intensification of airway inflammation, increased mucus production, dynamic hyperinflation, worsening ventilation-perfusion mismatch, and, in severe cases, acute-on-chronic respiratory failure.[GOLD.
+2024 GOLD Report
+]
+[3]
+
+α-1 Antitrypsin Deficiency
+
+AATD is caused by mutations in the
+SERPINA1
+gene, most commonly the Pi*Z allele, producing misfolded α-1 antitrypsin that is retained in hepatocytes rather than secreted. This creates a dual pathologic mechanism: insufficient circulating α-1 antitrypsin to inhibit neutrophil elastase in the lung (accelerating parenchymal destruction) and toxic accumulation of polymerized α-1 antitrypsin in hepatocytes, causing liver disease. Unlike smoking-related emphysema, AATD produces panacinar emphysema with basilar predominance. Liver disease manifestations range from neonatal cholestasis to cirrhosis and hepatocellular carcinoma.[GOLD.
+2024 GOLD Report
+]
+[4]
+Histopathology
+Histologic findings in COPD reflect the underlying phenotype and disease severity. In emphysema, permanent enlargement and destruction of airspaces distal to the terminal bronchiole is the defining lesion. Centrilobular emphysema preferentially destroys the respiratory bronchioles in the central acinus while relatively sparing the alveolar ducts; the lesions are concentrated in the upper lobes and strongly linked to cigarette smoking. Panacinar emphysema uniformly destroys the entire acinus and is distributed diffusely with lower lobe predominance in AATD.[GOLD.
+2024 GOLD Report
+]
+[1]
+In chronic bronchitis and small airway disease, key histologic findings include goblet cell metaplasia of the bronchial epithelium, hypertrophy of the bronchial submucosal glands (Reid index >0.4), smooth muscle hypertrophy, peribronchiolar fibrosis, intraluminal mucus plugging, and a chronic inflammatory infiltrate (macrophages, CD8+ T lymphocytes, and neutrophils). Lymphoid follicles with germinal centers may be present in advanced COPD and in those with frequent exacerbations. Pulmonary vascular changes include intimal hyperplasia and medial smooth muscle hypertrophy in pulmonary arterioles, reflecting the effects of chronic hypoxia and contributing to pulmonary hypertension.[GOLD.
+2024 GOLD Report
+]
+[2]
+History and Physical
+COPD typically presents in adults older than 40 with a relevant exposure history. The onset is insidious, and patients frequently attribute early-stage dyspnea to deconditioning or aging, resulting in substantial diagnostic delay. Exacerbations cluster during autumn and winter months coinciding with respiratory virus season.[GOLD.
+2024 GOLD Report
+]
+
+Symptom Assessment
+
+The cardinal symptoms of COPD are:
+Dyspnea:
+Progressive, initially exertional and advancing to dyspnea at rest in severe disease. Severity is quantified by the Modified Medical Research Council (mMRC) Dyspnea Scale (0 to 4).
+Chronic cough:
+A cough may be intermittent initially and is often the first symptom. The cough may be productive or nonproductive. Chronic productive cough on most days for at least 3 months in 2 consecutive years meets the clinical definition of chronic bronchitis.
+Sputum production:
+This is mucoid at baseline, but may become purulent during exacerbations.
+Wheezing and chest tightness:
+This is present in a variable subset, particularly during exacerbations and in the asthma-COPD overlap phenotype.
+Fatigue, unintentional weight loss, and anorexia:
+These are systemic features of advanced COPD; each independently associated with worse prognosis.
+A comprehensive COPD history includes tobacco pack-year history, occupational and environmental exposure assessment, biomass fuel use, prior respiratory infections and tuberculosis, family history of emphysema or liver disease, comorbidities, current inhalers and adherence, exacerbation history (frequency, severity, prior intubations), functional limitations, and depression and anxiety screening. All patients should be evaluated for AATD at least once.[GOLD.
+2024 GOLD Report
+]
+
+Physical Examination Findings
+
+Physical signs are often absent in mild COPD. Findings become evident as the disease advances:
+
+General:
+
+Increased respiratory rate, accessory muscle use (scalene, sternocleidomastoid), and pursed-lip breathing [GOLD.
+2024 GOLD Report
+]
+Cachexia and generalized muscle wasting in advanced disease
+Central cyanosis when resting oxygen saturation measured by pulse oximetry (SpO2) is critically reduced
+[5]
+
+Chest and lungs:
+
+Barrel chest:
+Increased anterior-posterior chest diameter from chronic hyperinflation
+[3]
+Hyperresonance
+on percussion with decreased cardiac and hepatic dullness
+[3]
+Distant or diminished breath sounds
+from air trapping
+Prolonged expiratory phase
+(E:I ratio >1:3) and audible expiratory wheeze or rhonchi
+[3]
+Paradoxical inward movement
+of the lower rib cage during inspiration (Hoover sign) in severe hyperinflation
+
+Cardiovascular and extremities:
+
+Elevated jugular venous pressure and peripheral pitting edema
+in cor pulmonale  [GOLD.
+2024 GOLD Report
+]
+Loud P
+2
+
+on auscultation and right ventricular heave in pulmonary hypertension
+Digital clubbing:
+Not a typical COPD finding; its presence should prompt investigation for bronchiectasis, interstitial lung disease, or malignant neoplasm [GOLD.
+2024 GOLD Report
+]
+
+Acute exacerbation:
+
+During AECOPD, key clinical findings include worsened dyspnea at rest, increased sputum volume and purulence, worsening wheeze, use of all accessory muscles, paradoxical chest wall motion, altered mentation (suggesting hypercapnic encephalopathy), and hemodynamic instability. These findings indicate impending respiratory failure and require urgent assessment.[GOLD.
+2024 GOLD Report
+]
+[6]
+Evaluation
+The evaluation of COPD integrates spirometry, symptom and exacerbation assessment, imaging, and laboratory studies to confirm diagnosis, define phenotype and severity, identify treatable traits, and guide management decisions. Evaluation should be pursued in any patient older than 40 with symptoms or relevant risk factors.[GOLD.
+2024 GOLD Report
+]
+[
+[4]
+
+Spirometry
+
+Spirometry is the gold standard for diagnosing and staging COPD. Testing must be performed after administration of a short-acting bronchodilator. A postbronchodilator FEV1/FVC ratio less than 0.70 confirms persistent airflow limitation consistent with COPD. The lower limit of normal (the fifth percentile of the reference population) may be preferred in patients older than 70 to avoid overdiagnosis due to normal age-related decline in forced vital capacity. The degree of airflow limitation is classified by postbronchodilator FEV1 percent predicted.[GOLD.
+2024 GOLD Report
+]
+[6]
+
+Table 1
+summarizes the GOLD spirometric severity grading system.
+Table
+Table 1. GOLD Spirometric Severity Grading.
+FEV
+1
+, forced expiratory volume in 1 second; FVC, forced vital capacity; GOLD, Global Initiative for Chronic Obstructive Lung Disease
+
+GOLD ABE Assessment (2023)
+
+The 2023 GOLD strategy replaced the ABCD group tool with the ABE assessment, separating spirometric grade (1–4) from symptom- and exacerbation-based group assignment (A, B, E). This change reflects evidence that exacerbation history and symptom burden should independently drive pharmacotherapy decisions:
+Group A:
+0 or 1 moderate exacerbation (not requiring hospitalization) in the prior year
+Group B:
+More significant symptoms (mMRC ≥ 1 or COPD assessment test [CAT] ≥ 10)
+Group E:
+2 or more moderate exacerbations or 1 or more exacerbations requiring hospitalization in the prior year [GOLD.
+2024 GOLD Report
+]
+Symptom burden is quantified using the mMRC dyspnea scale (0 to 4) and the COPD Assessment Test (CAT, 0 to 40 points).
+Table 2
+presents the mMRC Dyspnea Scale grades. A CAT score of 10 or greater or an mMRC score of 1 or greater identifies significant symptoms warranting escalated pharmacotherapy. Blood eosinophil count should be measured in all patients, as it guides inhaled corticosteroid (ICS) prescribing decisions.[GOLD.
+2024 GOLD Report
+]
+[
+[4]
+[7]
+
+Table 2.
+Modified Medical Research Council Dyspnea Scale
+Table
+mMRC Grade
+
+Symptom Description
+
+mMRC, Modified Medical Research Council
+
+Full Pulmonary Function Testing
+
+Complete pulmonary function testing, including lung volumes and diffusing capacity (DLCO), provides additional diagnostic and prognostic information beyond spirometry. Air trapping is indicated by an elevated residual volume and residual volume/total lung capacity ratio. Hyperinflation is evidenced by elevated total lung capacity. Reduced DLCO results indicate emphysematous parenchymal destruction and independently predict exercise limitation, hypoxemia at rest and with exertion, and mortality. Normal DLCO results in the presence of obstruction suggest asthma-COPD overlap or a predominantly airway-disease phenotype.[GOLD.
+2024 GOLD Report
+]
+[8]
+
+Laboratory Studies
+
+Complete blood count:
+Evaluate for polycythemia (erythrocytosis from chronic hypoxemia), anemia of chronic disease, and leukocytosis during exacerbations.
+α-1 antitrypsin level and phenotype:
+Serum α-1 antitrypsin level and Pi phenotyping (or
+SERPINA1
+genotyping) should be obtained at least once in all patients with COPD, and urgently in patients younger than 45, those with minimal smoking history, basilar emphysema, or unexplained liver disease. An α-1 antitrypsin level less than 11 µmol/L (less than approximately 57 mg/dL) is consistent with significant deficiency.
+Arterial blood gas:
+This test is indicated when FEV1 is less than 50% predicted, SpO
+2
+is less than 95% on room air, clinical signs of respiratory failure are present, or when evaluating candidacy for long-term oxygen therapy or noninvasive ventilation.
+Peripheral blood eosinophil count, EOS:
+An EOS of 300 cells/µL or greater predicts a favorable response to inhaled corticosteroid; an EOS less than 100 cells/µL suggests inhaled corticosteroid benefit is unlikely, and pneumonia risk may outweigh benefit.
+B-type natriuretic peptide (BNP)/N-terminal pro-BNP and electrocardiogram:
+Evaluate for comorbid heart failure (right heart strain: right axis deviation, P pulmonale, right ventricular hypertrophy pattern), particularly in patients with disproportionate dyspnea or peripheral edema.
+
+Imaging
+
+Chest radiography (posteroanterior and lateral) is the initial imaging study. Classic COPD findings include pulmonary hyperinflation (flattened diaphragms, increased retrosternal air space, horizontal ribs), attenuated peripheral vascular markings, and bullae (see
+Image
+. Chronic Obstructive Pulmonary Disease, Chest Radiograph and
+Image.
+Chronic Obstructive Pulmonary Disease, Right Upper Lobe, Bulla, Lateral Chest Radiograph). Bronchial wall thickening and increased bronchovascular markings are typical of chronic bronchitis. Chest radiography has low sensitivity for early COPD but remains valuable for identifying pneumonia, pneumothorax, pleural effusion, pulmonary hypertension, and concomitant malignant neoplasm.[GOLD.
+2024 GOLD Report
+]
+[9]
+High-resolution computed tompgraphy chest is not required for routine COPD diagnosis, but it provides clinically important information. Computed tompgraphy  characterizes emphysema phenotype (centrilobular vs panacinar), distribution and severity, presence of bronchiectasis, air trapping on expiratory images, bullous disease, and pulmonary hypertension (see
+Image.
+Chronic Obstructive Pulmonary Disease, Left Lung Computed Tomography Scan). Computed tompgraphy quantitative emphysema scoring (percentage of lung voxels below -950 HU on inspiration) correlates with DLCO, exercise tolerance, and outcomes. Computed tompgraphy is essential for surgical and bronchoscopic lung volume reduction planning and for low-dose computed tompgraphy  ung cancer screening.[GOLD.
+2024 GOLD Report
+]
+[9]
+
+Six-Minute Walk Test
+
+The 6-minute walk test measures submaximal exercise capacity and is a validated predictor of mortality in COPD. Conducted on a flat 30-meter corridor with standardized rest and encouragement, the 6-minute walk distance is a component of both the body mass index, airflow obstruction, dyspnea, and exercise capacity (BODE) and age, dyspnea, and airflow obstruction (ADO) prognostic indices. A 6-minute walk distance of less than 350 meters is associated with a significantly increased risk of mortality. A minimal clinically important difference of 26 to 54 meters is used to assess treatment response.[GOLD.
+2024 GOLD Report
+]
+[8]
+[9]
+
+Acute Exacerbation Assessment
+
+AECOPD severity stratification guides site and intensity of care:
+Type 1 (severe):
+All 3 cardinal symptoms—increased dyspnea, increased sputum volume, and increased sputum purulence
+Type 2 (moderate):
+Two of the 3 cardinal symptoms
+Type 3 (mild):
+One cardinal symptom plus 1 or more of the following: upper respiratory tract infection symptoms within 5 days, fever without another cause, increased wheezing, increased cough, or greater than 20% increase in heart rate or respiratory rate above baseline [GOLD.
+2024 GOLD Report
+]
+[9]
+[10]
+Moderate-to-severe exacerbations warrant arterial blood gas, chest imaging, electrocardiogram, complete blood count, basic metabolic panel, and sputum culture (in hospitalized patients, particularly if purulent). Warning signs of impending respiratory failure include the use of all accessory muscles, paradoxical breathing, SpO2 less than 88%, rising arterial partial pressure of carbon dioxide (PaCO2), pH less than 7.35, declining mental status, or hemodynamic instability.GOLD.
+2024 GOLD Report
+]
+[10]
+[9]
+Treatment / Management
+COPD treatment is guided by GOLD grade (1 to 4), GOLD group (A, B, E), blood eosinophil count, and individual patient comorbidities, preferences, and functional status. Goals are symptom relief, prevention of exacerbations, slowing disease progression, and reducing mortality. All patients require nonpharmacologic interventions; pharmacotherapy is individualized and escalated stepwise.[GOLD.
+2024 GOLD Report
+]
+
+Nonpharmacologic Interventions
+
+Smoking cessation:
+The single most effective intervention to slow FEV1 decline and reduce COPD mortality. All patients who smoke should receive pharmacotherapy (varenicline tartrate first-line; bupropion hydrochloride or nicotine replacement therapy as alternatives) combined with behavioral counseling at every visit.
+Avoidance of exposures:
+Occupational dusts, fumes, indoor biomass combustion, and outdoor air pollution should be minimized or eliminated.
+Pulmonary rehabilitation
+: Indicated for patients with an mMRC score of 2 or greater or a CAT (COPD assessment score) score of 10 or greater. Supervised programs combining exercise training, education, and psychosocial support reduce dyspnea, improve exercise capacity (6-minute walk test), reduce exacerbation-related hospitalizations, and improve health-related quality of life. Pulmonary rehabilitation does not alter FEV1 decline but reduces 30-day readmission rates following AECOPD hospitalization. Initiation within 4 weeks after discharge is particularly beneficial.
+Long-term oxygen therapy
+: Indicated for resting PaO2 of 55 mm Hg or less or SpO2 of 88% or less, or PaO2 of 56 to 59 mm Hg with cor pulmonale, polycythemia (hematocrit >55%), or pulmonary hypertension. Long-term oxygen therapy of 15 or more hours per day improves survival, as demonstrated in the Medical Research Council (MRC) and Nocturnal Oxygen Therapy Trial trials. Ambulatory oxygen is assessed separately via the 6-minute walk test with oximetry.
+Noninvasive ventilation (NIV)/bilevel positive airway pressure (BiPAP):
+Long-term nocturnal NIV is considered in stable patients with hypercapnic COPD (PaCO2 ≥52 mm Hg), particularly following AECOPD-related acute hypercapnia. Evidence supports a reduction in rehospitalization and mortality with long-term nocturnal NIV.
+Nutrition:
+Nutritional support is indicated for patients with low weight (body mass index [BMI] <21 kg/m²); low BMI is independently associated with increased mortality in COPD.[GOLD.
+2024 GOLD Report
+]
+[2]
+[11]
+[12]
+
+Vaccinations
+
+All patients with COPD should receive the following:
+Annual influenza vaccination:
+Inactivated or recombinant; live attenuated vaccine is contraindicated in patients who are immunocompromised
+Pneumococcal vaccination:
+Pneumococcal conjugate vaccine 15 (PCV15) or PCV20 for adults 65 years or older
+
+Pneumococcal polysaccharide vaccine 23 (PPSV23) remains recommended for ages 19 to 64 with chronic lung disease and significant comorbidities; PPSV23 can be given 1 or more years after PCV.001
+
+COVID-19 vaccination
+per current Centers for Disease Control and Prevention and Advisory Committee on Immunization Practices guidelines
+RSV vaccine
+(respiratory syncytial virus preF [RSVpreF] or messenger RNA [mRNA]-based) per current Advisory Committee on Immunization Practices recommendations for adults aged 60 or older
+Tetanus, diphtheria, and pertussis (Tdap) and tetanus and diphtheria (Td)
+per the standard adult immunization schedule [GOLD.
+2024 GOLD Report
+]
+
+Pharmacologic Management: Stable COPD
+
+Inhaled bronchodilators are the foundation of COPD pharmacotherapy. The choice of initial agent and escalation pathway depends on GOLD group, symptom burden, exacerbation history, eosinophil count, inhaler device capability, and patient preference. Consistent inhaler technique assessment is mandatory at every encounter.[GOLD.
+2024 GOLD Report
+]
+
+Short-acting bronchodilators
+
+Short-acting
+β
+2
+-agonists (SABAs) (albuterol sulfate, levalbuterol tartrate):
+Rapid-onset rescue bronchodilation. Prescribed for all GOLD groups as needed for acute symptom relief.[GOLD.
+2024 GOLD Report
+]
+Short-acting muscarinic antagonists (SAMAs) (ipratropium bromide):
+Additive bronchodilation to SABA; useful when SABA alone is insufficient or poorly tolerated.
+[11]
+SABA + SAMA combination (albuterol sulfate and ipratropium bromide):
+Greater bronchodilation than either agent alone; standard acute exacerbation nebulization therapy.[GOLD.
+2024 GOLD Report
+]
+[
+[4]
+[11]
+
+Long-acting bronchodilators
+
+Long-acting bronchodilators are the preferred maintenance agents in stable COPD. Long-acting bronchodilators reduce dyspnea, improve lung function and quality of life, and decrease the frequency of exacerbations.
+Long-acting
+β
+2
+-agonists (LABAs) (salmeterol xinafoate, formoterol fumarate, indacaterol maleate, olodaterol hydrochloride, vilanterol trifenatate):
+12 to 24-hour duration bronchodilation via β
+2
+agonism
+Long-acting muscarinic antagonists (LAMAs) (tiotropium bromide, umeclidinium bromide, aclidinium bromide, glycopyrronium bromide):
+24-hour bronchodilation via M3 muscarinic receptor blockade; reduce dynamic hyperinflation and exacerbation frequency
+
+Tiotropium bromide demonstrated superiority over salmeterol xinafoate in exacerbation prevention in the Prevention of Exacerbations with Tiotropium in COPD (POET-COPD) trial.
+
+LABA + LAMA dual bronchodilation:
+The preferred maintenance regimen for most symptomatic patients
+
+Available single-inhaler combinations (umeclidinium bromide and vilanterol trifenatate, indacaterol maleate and glycopyrronium bromide, tiotropium bromide and olodaterol hydrochloride) provide superior bronchodilation and exacerbation reduction compared with monotherapy.[GOLD.
+2024 GOLD Report
+]
+
+Inhaled corticosteroids
+
+Inhaled corticosteroid (ICS) monotherapy is not recommended in COPD. Inhaled corticosteroid combined with LABA provides an additive benefit over either agent alone in reducing exacerbations and improving FEV1 and quality of life. Inhaled corticosteroid use is particularly appropriate for:
+Blood eosinophil count of 300 cells/µL or greater (high probability of benefit)
+History of concurrent asthma or features of asthma-COPD overlap
+Persistent exacerbations despite optimized dual bronchodilation [GOLD.
+2024 GOLD Report
+]
+[14]
+[15]
+[13]
+ICS should be used cautiously or avoided in patients with recurrent pneumonia, nontuberculous mycobacterial disease, blood eosinophil count less than 100 cells/µL, or active
+Candida
+infections. The pneumonia risk with ICS (particularly fluticasone propionate) is well established; patients require informed counseling.
+[13]
+[14]
+
+Triple therapy (ICS/LABA/LAMA)
+
+Single-inhaler triple therapy (fluticasone furoate, umeclidinium bromide, and vilanterol trifenatate; or budesonide, glycopyrronium bromide, and formoterol fumarate) is indicated for symptomatic patients with persistent exacerbations despite dual bronchodilation, especially those with EOS of 100 to 300 cells/µL or greater. The Informing the Pathway of COPD Treatment (IMPACT) trial (N= 10,355) demonstrated triple therapy reduced moderate-to-severe exacerbations by 15% compared with LABA and LAMA combination therapy. The Efficacy and Safety of Triple Therapy in Obstructive Lung Disease (ETHOS) trial with budesonide, glycopyrronium bromide, and formoterol fumarate demonstrated a reduction in all-cause mortality in patients with EOS of 300 cells/µL or greater, marking the first pharmacologic mortality benefit in COPD beyond smoking cessation and long-term oxygen therapy.[GOLD.
+2024 GOLD Report
+]
+[14]
+[13]
+
+Dupilumab (biologic therapy)
+
+Dupilumab, a monoclonal antibody targeting the IL-4 receptor α subunit (blocking both IL-4 and IL-13 signaling), received United States Food and Durg Administration approval in 2024 for COPD with type 2 inflammation (blood EOS ≥300 cells/µL). In the BOREAS and NOTUS trials, dupilumab 300 mg subcutaneously every 2 weeks significantly reduced moderate-to-severe exacerbations and improved FEV1 in patients with GOLD 2 to 4 COPD and EOS more than 300 cells/µL, despite triple inhaler therapy. Dupilumab represents the first biologic therapy approved for COPD and establishes a new paradigm for type 2 inflammatory phenotype treatment.[GOLD.
+2024 GOLD Report
+]
+
+Phosphodiesterase-4 inhibitors
+
+Roflumilast (oral, 500 µg daily) selectively inhibits PDE4, reducing cyclic adenosine monophosphate degradation and decreasing airway inflammation. Roflumilast is indicated as add-on therapy for patients with severe COPD (FEV1 <50% predicted), chronic bronchitis phenotype, and frequent exacerbations despite optimized bronchodilator therapy. Roflumilast reduces exacerbation frequency by approximately 15% to 20%. Principal adverse effects include diarrhea, nausea, significant weight loss, and insomnia; roflumilast is contraindicated in patients with low weight (BMI <18.5 kg/m²) and severe hepatic impairment.[GOLD.
+2024 GOLD Report
+]
+[15]
+[16]
+[16]
+
+Azithromycin maintenance therapy
+
+Azithromycin 250 mg daily or 500 mg 3 times weekly reduces AECOPD frequency in select patients: those with frequent exacerbations (2 or more per year) on optimized therapy who formerly smoked or currently smoke. The ALBERT trial demonstrated a significant reduction in the exacerbation rate and in the time to first exacerbation. Mandatory pretreatment evaluation includes baseline electrocardiogram (QTc interval >450 ms is a relative contraindication), audiometry, sputum culture to exclude nontuberculosis mycobacterial infection, and liver function tests. Annual audiometry is recommended during therapy. Azithromycin maintenance is not appropriate for patients who actively smoke, given excess cardiovascular risk and insufficient evidence of benefit.[GOLD.
+2024 GOLD Report
+]
+[17]
+[18]
+[18]
+
+Methylxanthines
+
+Theophylline provides modest bronchodilation and mild anti-inflammatory effects through nonselective phosphodiesterase inhibition. Theophylline is a third-line agent due to its narrow therapeutic index, significant drug interactions (erythromycin, fluoroquinolones, cimetidine, phenytoin), and dosing complexity. Therapeutic serum levels are 5 to 15 µg/mL; toxicity (nausea, arrhythmias, seizures) correlates with levels greater than 20 µg/mL. Theophylline is reserved for patients who are unable to use inhaled therapies or who have refractory symptoms despite maximal inhaled therapy.[GOLD.
+2024 GOLD Report
+]
+[14]
+[19]
+[18]
+
+Acute Exacerbation Management
+
+AECOPD management is stratified by severity and setting:
+
+Outpatient management (mild AECOPD)
+
+Intensify SABA (with or without SAMA); scheduled every 4- to 6-hour dosing
+Prednisone 40 mg orally daily for 5 days, as the REDUCE trial demonstrated noninferiority to a 14-day course with fewer adverse effects
+Antibiotics
+
+These are indicated when sputum purulence is accompanied by increased dyspnea or volume (type 1 or 2 exacerbation).
+First-line agents include azithromycin, doxycycline, or amoxicillin-clavulanate; duration 5 to 7 days.
+
+Action plan
+
+Provide a written AECOPD action plan and arrange 30-day follow-up; consider close phone contact within 72 hours.[GOLD.
+2024 GOLD Report
+]
+[10]
+[20]
+
+Inpatient management (moderate-severe AECOPD)
+
+Controlled supplemental oxygen:
+Target SpO2 of 88% to 92% using a Venturi mask to deliver precise FiO2; avoid uncontrolled high-flow oxygen, which can worsen ventilation perfusion mismatch and suppress hypoxic respiratory drive in patients with hypercapnia.[GOLD.
+2024 GOLD Report
+]
+[6]
+Nebulized SABA and SAMA (albuterol sulfate and ipratropium bromide)
+every 20 minutes initially, then every 4 to 6 hours around the clock.
+Systemic corticosteroids:
+Give methylprednisolone succinate 40 to 80 mg intravenously every 8 to 12 hours or prednisone 40 mg orally daily for 5 days. Intravenous administration is preferred if noninvasive ventilation is ongoing (aspiration risk) or oral intake is contraindicated.
+Antibiotics:
+Escalate to a respiratory fluoroquinolone (levofloxacin or moxifloxacin hydrochloride) in patients with GOLD 3 to 4 disease, recent hospitalization, or recent antibiotic exposure. Antipseudomonal coverage is indicated if prior
+Pseudomonas
+species isolation or bronchiectasis is present
+Noninvasive ventilation (NIV/BiPAP):
+Strongly indicated for acute hypercapnic respiratory failure (pH <7.35, PaCO2 >45 mm Hg) or persistent hypoxemia despite supplemental oxygen. Noninvasive ventilation reduces intubation rate, mortality in the intensive care unit, and hospital length of stay. Initial settings: inspiratory positive airway pressure (IPAP) of 10 to 14 cm H2O, expiratory positive airway pressure (EPAP) of 4 to 6 cm H2O, FiO2 titrated to SpO2 of 88% to 92%; titrate IPAP up to 20 to 24 cm H2O as tolerated.
+[20]
+Invasive mechanical ventilation:
+Reserved for noninvasive ventilation failure, inability to protect the airway, hemodynamic collapse, or respiratory arrest. A lung-protective strategy with permissive hypercapnia and an extended inspiratory-to-expiratory (I:E) ratio (1:3 to 1:4) is used to allow adequate expiratory time and prevent dynamic hyperinflation.
+Deep vein thrombosis prophylaxis, glycemic management, early mobilization, and prompt transition to oral therapy and inhaled bronchodilators per standard hospital protocols.
+
+Surgical and Interventional Management
+
+Lung volume reduction surgery:
+This is indicated for upper-lobe predominant emphysema with low postrehabilitation exercise capacity. The National Emphysema Treatment Trial (NETT) trial demonstrated improved survival and quality of life in carefully selected patients. Lung volume reduction surgery is contraindicated in patients with FEV1 less than 20% predicted, homogeneous emphysema, or DLCO less than 20% predicted.
+Bronchoscopic lung volume reduction:
+Endobronchial valves (Zephyr) produce sustained lobar volume reduction in patients with heterogeneous emphysema and intact interlobar fissures on computed tomography (completeness ≥85%–90%). The Pulmonx Edobronchial Valves Used in Treatment of Emphysema (LIBERATE) trial demonstrated clinically meaningful improvements in FEV1, 6-minute walk test, and St George Respiratory Questionnaire (SGRQ) scores at 12 months. Patient selection requires interdisciplinary review and quantitative analysis of computed tomography emphysema.
+Bullectomy:
+This is indicated for giant bullae (greater than one-third of the hemithorax) compressing adjacent functional parenchyma. Surgical resection can produce significant improvement in FEV1 and dyspnea in well-selected patients.[GOLD.
+2024 GOLD Report
+]
+Lung transplant:
+Considered for patients with GOLD 3 to 4 COPD with a BODE index of 7 to 10, PaCO2 greater than 50 mm Hg, FEV1 less than 20% predicted, a rapidly progressive course, or homogeneous emphysema not amenable to lung volume reduction surgery. A bilateral sequential lung transplant is preferred for COPD. Lung transplant improves exercise capacity and quality of life; overall survival benefit is not consistently demonstrated but may exist in select high-risk individuals.[GOLD.
+2024 GOLD Report
+]
+Differential Diagnosis
+COPD must be distinguished from other obstructive and nonobstructive respiratory conditions with overlapping presentations, as presented in
+Table 3.
+Table
+Table 3. Differential Diagnosis of COPD with Key Distinguishing Features.
+ACO, asthma-COPD overlap; AFB, acid-fast bacilli; BNP, B-type natriuretic peptide; BO-OP, bronchiolitis obliterans with organizing pneumonia; CFTR, cystic fibrosis transmembrane conductance regulator; COPD, chronic obstructive pulmonary disease; CPFE, combined pulmonary fibrosis and emphysema; CT, computed tomography; DLCO, diffusing capacity of the lungs for carbon monoxide; FEV1, forced expiratory volume in 1 second; FVC, forced vital capacity; GGO, ground-glass opacity; HRCT, high-resolution computed tomography; IGRA, interferon-γ release assay; ILD, interstitial lung disease; LDCT, low-dose computed tomography; NT-proBNP, N-terminal pro-B-type natriuretic peptide; PFT, pulmonary function test; PND, paroxysmal nocturnal dyspnea; TST, tuberculin skin test; VEGF-D, vascular endothelial growth factor D
+Pertinent Studies and Ongoing Trials
+
+Landmark Trials
+
+Understanding Potential Long-term Impacts on Function with Tiotropium (UPLIFT) (2008, N=5993):
+Tiotropium bromide compared with placebo in patients with COPD over 4 years
+
+Tiotropium bromide reduced exacerbations, improved quality of life, and showed a mortality benefit in post hoc analysis; however, the primary endpoint of FEV1 decline rate was not significantly reduced.[GOLD.
+2024 GOLD Report
+]
+[21]
+
+Towards a Revolution in COPD Health (TORCH) (2007, N=6112):
+Fluticasone propionate and salmeterol xinafoate compared with individual components and placebo
+
+ICS and LABA combination therapy reduced exacerbations and improved health-care related quality of life; however, borderline mortality reduction (
+P
+= .052) did not achieve significance.[GOLD.
+2024 GOLD Report
+]
+[14]
+[21]
+
+National Emphysema Treatment Trial (NETT) (2003):
+Lung volume reduction surgery compared with medical therapy
+
+Patients with upper-lobe predominant emphysema and low exercise capacity had significantly improved survival and functional outcomes with lung volume reduction surgery; excess surgical mortality was observed in the subgroup with FEV1 less than 20% predicted and homogeneous emphysema.
+[1]
+[4]
+[22]
+
+Informing the Pathway of COPD Treatment (IMPACT) (2018, N=10,355):
+Single-inhaler triple therapy (fluticasone furoate, umeclidinium bromide, and vilanterol trifenatate) compared with ICS and LABA or LABA and LAMA combinations
+
+Triple therapy reduced the annualized exacerbation rate by 15% compared with dual bronchodilator therapy and improved FEV1.
+[1]
+[4]
+[13]
+
+Efficacy and Safety of Triple Therapy in Obstructive Lung Disease (ETHOS) (2020):
+Budesonide, glycopyrronium bromide, and formoterol fumarate triple therapy compared with dual bronchodilator therapy
+
+Triple therapy reduced exacerbations and demonstrated all-cause mortality reduction—the first mortality benefit observed with triple therapy—with the greatest benefit in patients with EOS of 300 cells/µL or greater.
+[1]
+[4]
+[23]
+
+Azithromycin for Prevention of Exacerbations of COPD (ALBERT) (2011):
+Azithromycin 250 mg daily compared with placebo over 1 year
+
+Results showed a significant reduction in AECOPD frequency and time to first exacerbation. Key adverse effects included hearing loss (25% vs 20%) and cardiac arrhythmias.
+[17]
+
+Lung Function Improvement After Bronchoscopic Lung Volume Reduction with Pulmonx Endobronchial Valves Used in Treatment of Emphysema (LIBERATE) (2018):
+Zephyr endobronchial valves compared with sham procedure in patients with heterogeneous emphysema
+
+Clinically meaningful improvements in FEV1, 6-minute walk distance, and SGRQ scores at 12 months were observed in the valve group; pneumothorax rate was approximately 27% postprocedure, typically managed conservatively.
+[4]
+[GOLD.
+2024 GOLD Report
+]
+[24]
+
+BOREAS (2022) and NOTUS (2023):
+Dupilumab 300 mg every 2 weeks compared with placebo in patients with COPD and EOS of 300 cells/µL or greater
+
+Both trials showed significant reductions in moderate-to-severe exacerbations (BOREAS: -34%; NOTUS: -34%), improved FEV1 and SGRQ scores, and a favorable safety profile. These results led to Food and Drug Administration approval of dupilumab for COPD in 2024.[GOLD.
+2024 GOLD Report
+]
+[25]
+
+Ongoing Investigational Areas
+
+Anti-IL-33 (itepekimab) and anti-thymic stromal lymphopoietin (TSLP) (tezepelumab):
+Phase 3 trials in eosinophilic COPD are underway.
+Targeted augmentation therapy for AATD:
+Inhaled α-1 antitrypsin and gene therapy approaches are currently in clinical trials.
+Predictive biomarkers:
+Remote monitoring with wearable spirometry devices and artificial intelligence (AI)-driven prediction models for early AECOPD detection are under investigation.
+Endoscopic bronchial thermoplasty:
+Currently investigational in COPD for airway smooth muscle reduction.
+Prognosis
+COPD prognosis is variable and depends on disease severity, exacerbation history, comorbidities, functional status, and adherence to therapy. Airflow limitation and dyspnea are progressive in most patients. Comorbid cardiovascular disease (the leading cause of death in mild-to-moderate COPD), lung cancer, pulmonary hypertension, and cachexia are principal mortality drivers.[GOLD.
+2024 GOLD Report
+] The BODE index (Body mass index, airflow Obstruction, Dyspnea, and Exercise capacity) is a multidimensional tool validated for predicting 4-year all-cause mortality (see
+Image
+. BODE index, Chronic Obstructive Pulmonary Disease [COPD]). The BODE index outperforms FEV1 alone and is also used to determine lung transplant referral thresholds, as summarized in
+Table 4
+.
+[26]
+
+Table 4.
+BODE Index and Estimated 4-Year All-Cause Mortality
+Table
+BODE Score
+
+4-Year All-Cause Mortality
+Scoring: BMI: 0= greater than 21 kg/m², 1= 21 kg/m² or less; FEV1 % predicted: 0= 65% or greater, 1= 50% to 64%, 2= 36% to 49%, 3= 35% or less; mMRC: 0 to 1= 0, 2= 1, 3= 2, 4= 3. 6MWD: greater than 350 m= 0, 250 to 349 m= 1, 150 to 249 m= 2, less than 150 m= 3
+Each severe AECOPD requiring hospitalization is associated with a 43% excess mortality risk in the following year and accelerates FEV1 decline. Smoking cessation is the only intervention consistently shown to reduce the rate of decline in lung function. Long-term oxygen therapy prolongs survival in patients with hypoxemia. Triple therapy and dupilumab have demonstrated mortality trends in high-risk inflammatory phenotypes.[GOLD.
+2024 GOLD Report
+]
+[1]
+[4]
+[26]
+Complications
+The following are complications of COPD:
+AECOPD:
+The most common and clinically impactful complication; each hospitalized exacerbation accelerates FEV1 decline and independently predicts subsequent mortality. Thirty-day readmission rates are 20% to 30%.[GOLD.
+2024 GOLD Report
+]
+Acute and chronic respiratory failure:
+Hypoxemic or hypercapnic respiratory failure may require escalating respiratory support from supplemental oxygen to noninvasive ventilation to invasive mechanical ventilation.[GOLD.
+2024 GOLD Report
+]
+Pulmonary hypertension and cor pulmonale:
+Chronic hypoxemia-driven vasoconstriction causes right ventricular hypertrophy and failure, manifesting as peripheral edema, elevated jugular venous pressure, hepatomegaly, ascites, and elevated BNP levels.[GOLD.
+2024 GOLD Report
+]
+[2]
+[
+[4]
+Spontaneous pneumothorax:
+Risk is markedly elevated in bullous emphysema; even small pneumothoraces can be poorly tolerated and precipitate acute respiratory decompensation.[GOLD.
+2024 GOLD Report
+]
+Secondary polycythemia:
+Erythrocytosis from chronic hypoxemia increases blood viscosity and thromboembolic risk; secondary polycythemia is treated with long-term oxygen therapy.[GOLD.
+2024 GOLD Report
+]
+Weight loss and skeletal muscle wasting (COPD myopathy):
+Systemic inflammation, disuse atrophy, and increased basal metabolic rate drive cachexia; cachexia is an independent predictor of mortality.[GOLD.
+2024 GOLD Report
+]
+[2]
+Bacterial infection and pneumonia:
+Impaired mucociliary clearance and innate immune dysfunction increase susceptibility; ICS therapy further increases the risk of pneumonia. Pneumonia is a leading precipitant of AECOPD.[GOLD.
+2024 GOLD Report
+]
+Lung cancer:
+The most common cause of COPD-related death in mild-to-moderate disease. COPD confers a 2- to 5-fold increased lung cancer risk independent of smoking history. Annual low-dose computed tomography screening per the United States Preventive Services Task Force 2021 criteria (for patients aged 50 to 80 years, with 20 or more pack-years and who currently smoke or quit within the prior 15 years) is recommended.[GOLD.
+2024 GOLD Report
+]
+Adverse glucocorticoid effects:
+Repeated systemic corticosteroid courses carry risks of hyperglycemia, adrenal suppression, osteoporosis, avascular necrosis, and increased susceptibility to infection.[GOLD.
+2024 GOLD Report
+]
+Anxiety and depression:
+Present in up to 40% of patients with COPD; anxiety and depression independently reduce medication adherence and quality of life and increase exacerbation frequency. Systematic screening with the Patient Health Questionnaire-9 and the Generalized Anxiety Disorder-7, with appropriate referral, is recommended.[GOLD.
+2024 GOLD Report
+]
+[2]
+COPD and obstructive sleep apnea overlap (Pickwickian overlap):
+Concurrent obstructive sleep apnea worsens nocturnal hypoxemia and pulmonary hypertension; evaluation requires polysomnography and treatment with continuous positive airway pressure or bilevel positive airway pressure.
+Consultations
+COPD management frequently requires subspecialty consultation based on disease complexity and progression:
+Pulmonology:
+All patients with GOLD 3 to 4 disease, diagnostic uncertainty, frequent exacerbations despite optimized therapy, suspected AATD, or need for long-term oxygen therapy, long-term NIV, or bronchoscopic or surgical intervention.
+Interventional pulmonology:
+Evaluation for bronchoscopic lung volume reduction (Zephyr valves), bronchoscopic evaluation of concomitant pulmonary nodules, and treatment of central airway complications.
+Thoracic surgery:
+Lung volume reduction surgery evaluation, bullectomy, or pretransplant surgical assessment.
+Pulmonary hypertension specialist:
+Indicated when echocardiographic findings suggest pulmonary hypertension disproportionate to COPD severity or when right heart catheterization is under consideration.
+Critical care and intensivist:
+AECOPD requiring care in the intensive care unit, invasive mechanical ventilation, or hemodynamic instability.
+Sleep medicine:
+COPD-obstrucitve sleep apnea overlap syndrome; polysomnography and positive airway pressure titration.
+Cardiology:
+Comorbid heart failure, atrial fibrillation (the most common arrhythmia in COPD), and coronary artery disease.
+Palliative care:
+Advanced COPD with refractory dyspnea, goals-of-care discussions, advance directive counseling, and symptom treatment optimization.
+Respiratory therapy:
+Inhaler device selection and technique assessment, home oxygen evaluation, supervised pulmonary rehabilitation, and inpatient bronchodilator and noninvasive ventialtion treatment.[GOLD.
+2024 GOLD Report
+]
+Deterrence and Patient Education
+Prevention and slowing of COPD progression depend substantially on risk-factor modification and sustained patient engagement. Structured education delivered by interdisciplinary team members at each clinical encounter is the foundation of effective COPD self-management.
+Smoking cessation:
+Counsel at every encounter using the 5 A's framework (ask, advise, assess, assist, arrange). Offer combined pharmacotherapy (varenicline preferred) and behavioral support. Quitlines (1-800-QUIT-NOW), smartphone applications, and group programs supplement clinical counseling.
+Avoidance
+of second-hand smoke, unvented coal stoves, biomass fuel smoke, and occupational dusts and fumes.
+Exacerbation recognition:
+Educate on cardinal symptoms of AECOPD (increased dyspnea, sputum color change, increased volume) and provide written action plans specifying when to escalate bronchodilators, initiate prednisone and antibiotics, and when to seek emergency care.
+Inhaler technique:
+Device-specific education with hands-on return demonstration at every visit. Poor inhaler technique is among the most common and correctable causes of inadequate COPD control.
+Inhaler adherence
+and distinction of rescue vs. controller medications: Many patients use only SABA and not maintenance inhalers; proactive counseling is essential.
+Vaccinations:
+Strongly encourage and offer administration of all indicated vaccines, including influenza, pneumococcal, COVID-19, respiratory syncytial virus, and tetanus, diphtheria, and acellular pertussis (Tdap) vaccine in the clinic setting when possible.
+Pulmonary rehabilitation referral:
+Address perceived barriers (distance, fatigue, skepticism); emphasize evidence-based benefits on breathlessness and hospitalization prevention.
+Nutritional optimization:
+Counsel on adequate protein and caloric intake; refer to a registered dietitian for BMI <21 kg/m
+2
+or unintentional weight loss.
+Advance care planning:
+In moderate-to-severe COPD, initiate goals-of-care discussions regarding mechanical ventilation preferences, acceptable quality-of-life thresholds, and palliative care resources.[GOLD.
+2024 GOLD Report
+]
+Pearls and Other Issues
+The following are pearls for COPD diagnosis and treatment:
+COPD diagnosis requires spirometry: a postbronchodilator FEV1/FVC ratio less than 0.70 is the diagnostic criterion; clinical diagnosis without spirometry is unreliable and leads to both overdiagnosis and underdiagnosis.[GOLD.
+2024 GOLD Report
+]
+Up to 25% to 45% of patients with COPD have never smoked; biomass fuel exposure, occupational exposures, and AATD must be considered in all patients regardless of tobacco history.
+[2]
+AATD should be evaluated at least once in all patients with COPD, and evaluation is particularly urgent in those younger than 45, those with basilar emphysema, liver disease, or a family history of emphysema.[GOLD.
+2024 GOLD Report
+]
+[4]
+Blood EOS count guides ICS decision-making: an EOS of 300 cells/µL or greater indicates strong benefit from ICS; 100 to 299 cells/µL indicates modest benefit; and an EOS less than 100 cells/µL suggests ICS benefit is unlikely and pneumonia risk predominates.[GOLD.
+2024 GOLD Report
+]
+[4]
+[13]
+Dupilumab is the first biologic approved for COPD (Food and Drug Administration, 2024) in patients with EOS of 300 cells/µL or greater on optimized triple inhaled therapy, representing a paradigm shift for the type 2 inflammatory COPD phenotype.[GOLD.
+2024 GOLD Report
+]
+The GOLD 2023 ABE model separates spirometric severity (grades 1 to 4) from treatment group assignment (A, B, or E based on symptoms and exacerbations); these are distinct axes and should not be conflated in clinical decision-making.[GOLD.
+2024 GOLD Report
+]
+Long-term systemic corticosteroids are contraindicated in stable COPD; a 5-day prednisone course is equivalent to a 14-day course for AECOPD, as demonstrated in the REDUCE trial, with fewer adverse effects.[GOLD.
+2024 GOLD Report
+]
+Digital clubbing is not typical of COPD; its presence should prompt evaluation for bronchiectasis, interstitial lung disease, or lung malignant neoplasm.[GOLD.
+2024 GOLD Report
+]
+COPD is substantially underdiagnosed; only 25% to 30% of affected individuals in the community have a formal diagnosis. Opportunistic spirometry in patients at high risk (age older than 40, 10 or more pack-years, dyspnea) is strongly encouraged.[GOLD.
+2024 GOLD Report
+]
+[1]
+[27]
+Lung cancer is the leading cause of death in mild-to-moderate COPD; annual low-dose computed tomography screening per United States Preventive Services Task Force 2021 criteria (age 50 to 80 years, 20 or more pack-years, patients who currently smoke or who quit within the prior 15 years) is recommended and should be integrated into COPD clinic workflows.[GOLD.
+2024 GOLD Report
+]
+[23]
+[
+[4]
+Noninvasive ventilation (NIV) treatment (BiPAP) initiated early in acute hypercapnic respiratory failure (pH <7.35, PaCO2 >45 mm Hg) significantly reduces intubation rates and intensive care unit mortality; delay to intubation following NIV failure worsens outcomes.[GOLD.
+2024 GOLD Report
+]
+[10]
+[20]
+Zephyr endobronchial valves require complete interlobar fissures (≥85% to 90% on quantitative computed tomography) and heterogeneous emphysema; patient selection is critical and requires interdisciplinary review to minimize postprocedure pneumothorax risk.[GOLD.
+2024 GOLD Report
+]
+The COPD-OSA overlap syndrome worsens pulmonary hypertension and nocturnal hypoxemia disproportionately; clinicians should maintain a low threshold for polysomnography referral in patients with COPD and obesity with morning headaches, excessive daytime somnolence, or peripheral edema.[GOLD.
+2024 GOLD Report
+]
+Enhancing Healthcare Team Outcomes
+Optimal COPD treatment requires a coordinated, patient-centered interprofessional team approach, as no single specialty can adequately address the full spectrum of this complex, systemic disease.
+[12]
+Primary care clinicians are the primary interface for COPD detection through opportunistic spirometry, risk-factor counseling, vaccination delivery, and treatment of stable disease. Pulmonologists provide specialty expertise for diagnostic uncertainty, severe or atypical disease, evaluation for surgical and bronchoscopic interventions, and complex treatment of exacerbations.
+Interventional pulmonologists contribute to bronchoscopic lung volume reduction, bronchoscopic evaluation for concomitant malignant neoplasm, and central airway treatment. Critical care specialists and intensivists treat life-threatening AECOPD with invasive mechanical ventilation.[GOLD.
+2024 GOLD Report
+]
+[13]
+Respiratory therapists are essential partners in optimized inhaler device selection and patient technique education, supervised pulmonary rehabilitation exercise sessions, inpatient nebulization and NIV treatment, and ventilator optimization in the intensive care unit.
+Clinical pharmacists provide medication reconciliation, counsel on inhaler adherence and correct use, guide antibiotic selection for AECOPD, screen for QTc-interval–prolonging drug interactions in patients prescribed azithromycin, and review polypharmacy in complex patients.[GOLD.
+2024 GOLD Report
+]
+[13]
+Nurses provide longitudinal patient education on action plans, inhaler technique, symptom monitoring, and exacerbation recognition, and facilitate early postdischarge follow-up to prevent readmission, one of the highest-impact interventions for reducing the COPD hospitalization burden. Physical and occupational therapists optimize exercise capacity and energy conservation. Registered dietitians address nutritional deficits. Social workers and palliative care specialists assist with goals-of-care discussions, advance directives, psychosocial support, and durable medical equipment navigation.(Level 2)[GOLD.
+2024 GOLD Report
+]
+[13]
+Review Questions
+
+Access free multiple choice questions on this topic.
+
+Click here for a simplified version.
+
+Comment on this article.
+
+Figure
+Chronic Obstructive Pulmonary Disease, Chest Radiograph. This image shows signs of lung hyperinflation, including flattened hemidiaphragms and a narrow, vertical cardiac silhouette. Contributed by H Shulman, MD
+Figure
+Chronic Obstructive Pulmonary Disease, Right Upper Lobe, Bulla, Lateral Chest Radiograph. Contributed by H Shulman, MD
+Figure
+Chronic Obstructive Pulmonary Disease, Left Lung Computed Tomography Scan. Contributed by H Shulman, MD
+Figure
+BODE index, Chronic Obstructive Pulmonary Disease (COPD). The BODE (body mass index, airflow obstruction (forced expiratory volume in one second), dyspnea (modified medical research council dyspnea scale), exercise capacity (six-minute walk test)) index
+(more...)
+References
+1.
+Adeloye D, Song P, Zhu Y, Campbell H, Sheikh A, Rudan I., NIHR RESPIRE Global Respiratory Health Unit.  Global, regional, and national prevalence of, and risk factors for, chronic obstructive pulmonary disease (COPD) in 2019: a systematic review and modelling analysis.
+Lancet Respir Med.
+2022 May;
+10
+(5):447-458.
+[
+PMC free article
+: PMC9050565
+] [
+PubMed
+: 35279265
+]
+2.
+Rabe KF, Watz H. Chronic obstructive pulmonary disease.
+Lancet.
+2017 May 13;
+389
+(10082):1931-1940.
+[
+PubMed
+: 28513453
+]
+3.
+Stoller JK, Aboussouan LS. A review of α1-antitrypsin deficiency.
+Am J Respir Crit Care Med.
+2012 Feb 01;
+185
+(3):246-59.
+[
+PubMed
+: 21960536
+]
+4.
+Patel N. An update on COPD prevention, diagnosis, and management: The 2024 GOLD Report.
+Nurse Pract.
+2024 Jun 01;
+49
+(6):29-36.
+[
+PubMed
+: 38941078
+]
+5.
+Vos T, Flaxman AD, Naghavi M, Lozano R, Michaud C, Ezzati M, Shibuya K, Salomon JA, Abdalla S, Aboyans V, Abraham J, Ackerman I, Aggarwal R, Ahn SY, Ali MK, Alvarado M, Anderson HR, Anderson LM, Andrews KG, Atkinson C, Baddour LM, Bahalim AN, Barker-Collo S, Barrero LH, Bartels DH, Basáñez MG, Baxter A, Bell ML, Benjamin EJ, Bennett D, Bernabé E, Bhalla K, Bhandari B, Bikbov B, Bin Abdulhak A, Birbeck G, Black JA, Blencowe H, Blore JD, Blyth F, Bolliger I, Bonaventure A, Boufous S, Bourne R, Boussinesq M, Braithwaite T, Brayne C, Bridgett L, Brooker S, Brooks P, Brugha TS, Bryan-Hancock C, Bucello C, Buchbinder R, Buckle G, Budke CM, Burch M, Burney P, Burstein R, Calabria B, Campbell B, Canter CE, Carabin H, Carapetis J, Carmona L, Cella C, Charlson F, Chen H, Cheng AT, Chou D, Chugh SS, Coffeng LE, Colan SD, Colquhoun S, Colson KE, Condon J, Connor MD, Cooper LT, Corriere M, Cortinovis M, de Vaccaro KC, Couser W, Cowie BC, Criqui MH, Cross M, Dabhadkar KC, Dahiya M, Dahodwala N, Damsere-Derry J, Danaei G, Davis A, De Leo D, Degenhardt L, Dellavalle R, Delossantos A, Denenberg J, Derrett S, Des Jarlais DC, Dharmaratne SD, Dherani M, Diaz-Torne C, Dolk H, Dorsey ER, Driscoll T, Duber H, Ebel B, Edmond K, Elbaz A, Ali SE, Erskine H, Erwin PJ, Espindola P, Ewoigbokhan SE, Farzadfar F, Feigin V, Felson DT, Ferrari A, Ferri CP, Fèvre EM, Finucane MM, Flaxman S, Flood L, Foreman K, Forouzanfar MH, Fowkes FG, Franklin R, Fransen M, Freeman MK, Gabbe BJ, Gabriel SE, Gakidou E, Ganatra HA, Garcia B, Gaspari F, Gillum RF, Gmel G, Gosselin R, Grainger R, Groeger J, Guillemin F, Gunnell D, Gupta R, Haagsma J, Hagan H, Halasa YA, Hall W, Haring D, Haro JM, Harrison JE, Havmoeller R, Hay RJ, Higashi H, Hill C, Hoen B, Hoffman H, Hotez PJ, Hoy D, Huang JJ, Ibeanusi SE, Jacobsen KH, James SL, Jarvis D, Jasrasaria R, Jayaraman S, Johns N, Jonas JB, Karthikeyan G, Kassebaum N, Kawakami N, Keren A, Khoo JP, King CH, Knowlton LM, Kobusingye O, Koranteng A, Krishnamurthi R, Lalloo R, Laslett LL, Lathlean T, Leasher JL, Lee YY, Leigh J, Lim SS, Limb E, Lin JK, Lipnick M, Lipshultz SE, Liu W, Loane M, Ohno SL, Lyons R, Ma J, Mabweijano J, MacIntyre MF, Malekzadeh R, Mallinger L, Manivannan S, Marcenes W, March L, Margolis DJ, Marks GB, Marks R, Matsumori A, Matzopoulos R, Mayosi BM, McAnulty JH, McDermott MM, McGill N, McGrath J, Medina-Mora ME, Meltzer M, Mensah GA, Merriman TR, Meyer AC, Miglioli V, Miller M, Miller TR, Mitchell PB, Mocumbi AO, Moffitt TE, Mokdad AA, Monasta L, Montico M, Moradi-Lakeh M, Moran A, Morawska L, Mori R, Murdoch ME, Mwaniki MK, Naidoo K, Nair MN, Naldi L, Narayan KM, Nelson PK, Nelson RG, Nevitt MC, Newton CR, Nolte S, Norman P, Norman R, O'Donnell M, O'Hanlon S, Olives C, Omer SB, Ortblad K, Osborne R, Ozgediz D, Page A, Pahari B, Pandian JD, Rivero AP, Patten SB, Pearce N, Padilla RP, Perez-Ruiz F, Perico N, Pesudovs K, Phillips D, Phillips MR, Pierce K, Pion S, Polanczyk GV, Polinder S, Pope CA, Popova S, Porrini E, Pourmalek F, Prince M, Pullan RL, Ramaiah KD, Ranganathan D, Razavi H, Regan M, Rehm JT, Rein DB, Remuzzi G, Richardson K, Rivara FP, Roberts T, Robinson C, De Leòn FR, Ronfani L, Room R, Rosenfeld LC, Rushton L, Sacco RL, Saha S, Sampson U, Sanchez-Riera L, Sanman E, Schwebel DC, Scott JG, Segui-Gomez M, Shahraz S, Shepard DS, Shin H, Shivakoti R, Singh D, Singh GM, Singh JA, Singleton J, Sleet DA, Sliwa K, Smith E, Smith JL, Stapelberg NJ, Steer A, Steiner T, Stolk WA, Stovner LJ, Sudfeld C, Syed S, Tamburlini G, Tavakkoli M, Taylor HR, Taylor JA, Taylor WJ, Thomas B, Thomson WM, Thurston GD, Tleyjeh IM, Tonelli M, Towbin JA, Truelsen T, Tsilimbaris MK, Ubeda C, Undurraga EA, van der Werf MJ, van Os J, Vavilala MS, Venketasubramanian N, Wang M, Wang W, Watt K, Weatherall DJ, Weinstock MA, Weintraub R, Weisskopf MG, Weissman MM, White RA, Whiteford H, Wiersma ST, Wilkinson JD, Williams HC, Williams SR, Witt E, Wolfe F, Woolf AD, Wulf S, Yeh PH, Zaidi AK, Zheng ZJ, Zonies D, Lopez AD, Murray CJ, AlMazroa MA, Memish ZA. Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990-2010: a systematic analysis for the Global Burden of Disease Study 2010.
+Lancet.
+2012 Dec 15;
+380
+(9859):2163-96.
+[
+PMC free article
+: PMC6350784
+] [
+PubMed
+: 23245607
+]
+6.
+Barnes PJ. Cellular and molecular mechanisms of chronic obstructive pulmonary disease.
+Clin Chest Med.
+2014 Mar;
+35
+(1):71-86.
+[
+PubMed
+: 24507838
+]
+7.
+Bestall JC, Paul EA, Garrod R, Garnham R, Jones PW, Wedzicha JA. Usefulness of the Medical Research Council (MRC) dyspnoea scale as a measure of disability in patients with chronic obstructive pulmonary disease.
+Thorax.
+1999 Jul;
+54
+(7):581-6.
+[
+PMC free article
+: PMC1745516
+] [
+PubMed
+: 10377201
+]
+8.
+ATS Committee on Proficiency Standards for Clinical Pulmonary Function Laboratories. ATS statement: guidelines for the six-minute walk test.
+Am J Respir Crit Care Med.
+2002 Jul 01;
+166
+(1):111-7.
+[
+PubMed
+: 12091180
+]
+9.
+Anthonisen NR, Manfreda J, Warren CP, Hershfield ES, Harding GK, Nelson NA. Antibiotic therapy in exacerbations of chronic obstructive pulmonary disease.
+Ann Intern Med.
+1987 Feb;
+106
+(2):196-204.
+[
+PubMed
+: 3492164
+]
+10.
+Wedzicha JA, Miravitlles M, Hurst JR, Calverley PM, Albert RK, Anzueto A, Criner GJ, Papi A, Rabe KF, Rigau D, Sliwinski P, Tonia T, Vestbo J, Wilson KC, Krishnan JA. Management of COPD exacerbations: a European Respiratory Society/American Thoracic Society guideline.
+Eur Respir J.
+2017 Mar;
+49
+(3)
+[
+PubMed
+: 28298398
+]
+11.
+Tashkin DP, Celli B, Senn S, Burkhart D, Kesten S, Menjoge S, Decramer M., UPLIFT Study Investigators.  A 4-year trial of tiotropium in chronic obstructive pulmonary disease.
+N Engl J Med.
+2008 Oct 09;
+359
+(15):1543-54.
+[
+PubMed
+: 18836213
+]
+12.
+McCarthy B, Casey D, Devane D, Murphy K, Murphy E, Lacasse Y. Pulmonary rehabilitation for chronic obstructive pulmonary disease.
+Cochrane Database Syst Rev.
+2015 Feb 23;
+2015
+(2):CD003793.
+[
+PMC free article
+: PMC10008021
+] [
+PubMed
+: 25705944
+]
+13.
+Lipson DA, Barnhart F, Brealey N, Brooks J, Criner GJ, Day NC, Dransfield MT, Halpin DMG, Han MK, Jones CE, Kilbride S, Lange P, Lomas DA, Martinez FJ, Singh D, Tabberer M, Wise RA, Pascoe SJ., IMPACT Investigators.  Once-Daily Single-Inhaler Triple versus Dual Therapy in Patients with COPD.
+N Engl J Med.
+2018 May 03;
+378
+(18):1671-1680.
+[
+PubMed
+: 29668352
+]
+14.
+Calverley PM, Anderson JA, Celli B, Ferguson GT, Jenkins C, Jones PW, Yates JC, Vestbo J., TORCH investigators.  Salmeterol and fluticasone propionate and survival in chronic obstructive pulmonary disease.
+N Engl J Med.
+2007 Feb 22;
+356
+(8):775-89.
+[
+PubMed
+: 17314337
+]
+15.
+Calverley PM, Rabe KF, Goehring UM, Kristiansen S, Fabbri LM, Martinez FJ., M2-124 and M2-125 study groups.  Roflumilast in symptomatic chronic obstructive pulmonary disease: two randomised clinical trials.
+Lancet.
+2009 Aug 29;
+374
+(9691):685-94.
+[
+PubMed
+: 19716960
+]
+16.
+Martinez FJ, Calverley PM, Goehring UM, Brose M, Fabbri LM, Rabe KF. Effect of roflumilast on exacerbations in patients with severe chronic obstructive pulmonary disease uncontrolled by combination therapy (REACT): a multicentre randomised controlled trial.
+Lancet.
+2015 Mar 07;
+385
+(9971):857-66.
+[
+PubMed
+: 25684586
+]
+17.
+Albert RK, Connett J, Bailey WC, Casaburi R, Cooper JA, Criner GJ, Curtis JL, Dransfield MT, Han MK, Lazarus SC, Make B, Marchetti N, Martinez FJ, Madinger NE, McEvoy C, Niewoehner DE, Porsasz J, Price CS, Reilly J, Scanlon PD, Sciurba FC, Scharf SM, Washko GR, Woodruff PG, Anthonisen NR., COPD Clinical Research Network.  Azithromycin for prevention of exacerbations of COPD.
+N Engl J Med.
+2011 Aug 25;
+365
+(8):689-98.
+[
+PMC free article
+: PMC3220999
+] [
+PubMed
+: 21864166
+]
+18.
+Han MK, Tayob N, Murray S, Dransfield MT, Washko G, Scanlon PD, Criner GJ, Casaburi R, Connett J, Lazarus SC, Albert R, Woodruff P, Martinez FJ. Predictors of chronic obstructive pulmonary disease exacerbation reduction in response to daily azithromycin therapy.
+Am J Respir Crit Care Med.
+2014 Jun 15;
+189
+(12):1503-8.
+[
+PMC free article
+: PMC4226018
+] [
+PubMed
+: 24779680
+]
+19.
+Ram FS, Jones PW, Castro AA, De Brito JA, Atallah AN, Lacasse Y, Mazzini R, Goldstein R, Cendon S. Oral theophylline for chronic obstructive pulmonary disease.
+Cochrane Database Syst Rev.
+2002;
+2002
+(4):CD003902.
+[
+PMC free article
+: PMC7047557
+] [
+PubMed
+: 12519617
+]
+20.
+Ram FS, Picot J, Lightowler J, Wedzicha JA. Non-invasive positive pressure ventilation for treatment of respiratory failure due to exacerbations of chronic obstructive pulmonary disease.
+Cochrane Database Syst Rev.
+2004;(1):CD004104.
+[
+PubMed
+: 14974057
+]
+21.
+Corhay JL, Louis R. [The UPLIFT study (Understanding Potential Long-term Impacts on Function with Tiotropium)].
+Rev Med Liege.
+2009 Jan;
+64
+(1):52-7.
+[
+PubMed
+: 19317104
+]
+22.
+Criner GJ, Sternberg AL. National Emphysema Treatment Trial: the major outcomes of lung volume reduction surgery in severe emphysema.
+Proc Am Thorac Soc.
+2008 May 01;
+5
+(4):393-405.
+[
+PMC free article
+: PMC2645309
+] [
+PubMed
+: 18453345
+]
+23.
+López-Campos JL, Fernández-Villar A, Ruano-Ravina A. Triple-Therapy Trials for Chronic Obstructive Pulmonary Disease: Methodological Considerations in the Mortality Effect.
+Am J Respir Crit Care Med.
+2021 Apr 01;
+203
+(7):925-926.
+[
+PMC free article
+: PMC8017588
+] [
+PubMed
+: 33444512
+]
+24.
+Hartman JE, Klooster K, Koster TD, Ten Hacken NHT, van Dijk M, Slebos DJ. Long-term follow-up after bronchoscopic lung volume reduction valve treatment for emphysema.
+ERJ Open Res.
+2022 Oct;
+8
+(4)
+[
+PMC free article
+: PMC9677246
+] [
+PubMed
+: 36415650
+]
+25.
+Freund O, Meoded O, Arnaout T, Friedman Regev I, Kupershmidt A, Enghelberg S, Cohn-Schwartz D, Levy L, Bar-Shai A. Real-World Experience of Dupilumab Treatment for Patients with COPD - A Single Center Prospective Study.
+Int J Chron Obstruct Pulmon Dis.
+2025;
+20
+:2753-2760.
+[
+PMC free article
+: PMC12336371
+] [
+PubMed
+: 40791925
+]
+26.
+Celli BR, Cote CG, Marin JM, Casanova C, Montes de Oca M, Mendez RA, Pinto Plata V, Cabral HJ. The body-mass index, airflow obstruction, dyspnea, and exercise capacity index in chronic obstructive pulmonary disease.
+N Engl J Med.
+2004 Mar 04;
+350
+(10):1005-12.
+[
+PubMed
+: 14999112
+]
+27.
+US Preventive Services Task Force. Krist AH, Davidson KW, Mangione CM, Barry MJ, Cabana M, Caughey AB, Davis EM, Donahue KE, Doubeni CA, Kubik M, Landefeld CS, Li L, Ogedegbe G, Owens DK, Pbert L, Silverstein M, Stevermer J, Tseng CW, Wong JB. Screening for Lung Cancer: US Preventive Services Task Force Recommendation Statement.
+JAMA.
+2021 Mar 09;
+325
+(10):962-970.
+[
+PubMed
+: 33687470
+]
+
+Disclosure:
+Venkatkiran Kanchustambham declares no relevant financial relationships with ineligible companies.
+
+Disclosure:
+Brandon Brown declares no relevant financial relationships with ineligible companies.
+
+Copyright
+© 2026, StatPearls Publishing LLC.
+
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(
+
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+
+), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+
+Bookshelf ID: NBK559281
+PMID:
+32644707

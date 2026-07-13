@@ -1,0 +1,798 @@
+=== Nintedanib ===
+Fonte: StatPearls/NCBI Bookshelf
+URL: https://www.ncbi.nlm.nih.gov/books/NBK585049/
+Licenca: CC BY-NC-ND 4.0
+Doenca: fibrose | Idioma: en
+----------------------------------------------------------------------
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026 Jan-.
+StatPearls [Internet].
+Show details
+Treasure Island (FL):
+StatPearls Publishing
+; 2026 Jan-.
+
+Nintedanib
+Shrey Gole
+;
+Prerna Mota
+;
+Adegbenga A. Bankole
+.
+Author Information and Affiliations
+Authors
+Shrey Gole
+1
+;
+Prerna Mota
+2
+;
+Adegbenga A. Bankole
+3
+.
+Affiliations
+1
+Northwestern Medicine McHenry Hospital
+2
+Harvard University
+3
+VTC
+Last Update:
+August 17, 2024
+.
+Continuing Education Activity
+Nintedanib is a small molecule tyrosine kinase inhibitor that binds to growth factor receptors, inhibiting the proliferation of fibroblasts. This action reduces ongoing fibrotic processes and delays the progression to long-lasting damage. Nintedanib is indicated for treating idiopathic pulmonary fibrosis, systemic sclerosis-associated interstitial lung disease, and progressive phenotype interstitial lung disease. This activity reviews the indications, contraindications, and adverse events associated with nintedanib therapy. The activity also covers the administration, pharmacokinetics, and relevant interactions of nintedanib, providing knowledge crucial for tailoring treatment to individual patient needs.
+The discussion underscores the importance of the interprofessional healthcare team, focusing on strategies to minimize adverse reactions while maximizing the effectiveness of the treatment. This educational initiative equips healthcare professionals with the necessary tools to safely and effectively administer nintedanib, promoting individualized care for patients undergoing this therapy.
+
+Objectives:
+
+Identify the indications for nintedanib therapy.
+Assess the most common adverse reactions associated with nintedanib therapy.
+Evaluate the mechanism of action of nintedanib.
+Implement effective collaboration and communication among interprofessional team members to improve outcomes and treatment efficacy for patients who might benefit from nintedanib therapy.
+
+Access free multiple choice questions on this topic.
+
+Indications
+Nintedanib is a small molecule tyrosine kinase inhibitor (TKI) that binds to a family of growth factor receptors and prevents the proliferation of fibroblasts. This medication impedes the ongoing fibrotic process and delays the progression to long-lasting damage. Nintedanib was initially approved by the U.S. Food and Drug Administration (FDA) in 2014 as a treatment for idiopathic pulmonary fibrosis (IPF).
+[1]
+Subsequently, nintedanib was noted to have antifibrotic effects in animal models of rheumatoid arthritis-associated interstitial lung disease (RA-ILD) and systemic sclerosis-associated interstitial lung disease (SSc-ILD). Interest in this antifibrotic property led to clinical trials demonstrating significant slowing of fibrosis in ILD related to systemic autoimmune rheumatic diseases (SARD), including systemic sclerosis.
+[2]
+Study results also indicated that nintedanib therapy slows the decline of forced vital capacity (FVC).
+[3]
+For patients with IPF, nintedanib significantly improves the absolute change in FVC from baseline compared to placebo. Nintedanib also demonstrated greater effectiveness for patients with a decline in FVC ≥10% compared to placebo.
+[4]
+These lung volume benefits are primarily observed in patients with the usual interstitial pneumonia (UIP) pattern and SSc-ILD when nintedanib is combined with mycophenolate mofetil or cyclophosphamide.
+[5]
+Nintedanib may also be prescribed when other therapies are contraindicated. This improvement in patient outcomes led to the 2020 FDA approval of nintedanib for progressive fibrosing ILD and SSc-ILD. Similar improvement in lung volume has also been described in a patient with bleomycin-induced fibrosis and COVID-19-related pulmonary fibrosis.
+[6]
+[7]
+The American Thoracic Society (ATS) has issued a conditional recommendation for nintedanib in systemic sclerosis-associated interstitial lung disease (SSc-ILD).
+[8]
+The American Thoracic Society (ATS), European Respiratory Society (ERS), Japanese Respiratory Society (JRS), and Asociación Latinoamericana de Tórax (ALAT) guidelines recommend nintedanib for patients with progressive pulmonary fibrosis who have failed the standard treatment for fibrotic interstitial lung disease, other than idiopathic pulmonary fibrosis.
+[8]
+Nintedanib effectively slows disease progression and potentially reduces all-cause mortality in patients with progressive fibrosing interstitial lung diseases (PF-ILDs).
+[9]
+The Living with Pulmonary Fibrosis (L-PF) questionnaire results indicated that nintedanib reduced the worsening of dyspnoea, cough, and the overall impact of progressive pulmonary fibrosis over a 52-week period.
+[10]
+
+FDA-Approved Indications
+
+Idiopathic pulmonary fibrosis
+Systemic sclerosis-associated interstitial lung disease
+Chronic fibrosing interstitial lung diseases (progressive phenotype)
+[11]
+[12]
+Mechanism of Action
+Nintedanib is an indolinone derivative that binds to tyrosine kinase receptors. The mechanism of action is thought to involve the restriction of neoangiogenesis by inhibiting various growth factors such as fibroblast growth factor receptor (FGFR), vascular endothelial growth factor receptor (VEGFR), platelet-derived growth factor receptor (PDGFR), colony-stimulating factor-1-receptor (CSF1R), and Fms-like tyrosine kinase-3 (FLT3).
+[13]
+This drug was initially designed to treat non-small lung cancer. Due to similarities in the growth factors involved in the pathogenesis of this cancer and pulmonary fibrosis, nintedanib was considered a potential treatment for IPF and was studied.
+[14]
+Nintedanib competitively binds to the intracellular adenosine triphosphate (ATP) binding site of the growth factor receptors, preventing autophosphorylation and blocking downstream signaling cascades. Additionally, nintedanib blocks non-receptor tyrosine kinases (eg, Src, Lck) directly, preventing the activation of fibroblasts. As a result, nintedanib ultimately inhibits fibroblast proliferation and migration, effectively attenuating angiogenesis within the lungs. This reduction in fibrosis and angiogenesis helps to impede the progression of ILD, IPF, and associated complications such as pulmonary hypertension.
+
+Pharmacokinetics
+
+Absorption:
+When administered with food,
+
+Nintedanib (BIBF 1120) reaches peak plasma concentrations within 2 to 4 hours. The absolute bioavailability is 4.7% in healthy individuals. The presence of transporters and significant first-pass metabolism reduce absorption and bioavailability. Following food intake, nintedanib exposure increases by roughly 20% compared to fasting conditions, with delayed absorption. The pharmacokinetics of nintedanib are linear, with steady-state plasma levels attained within 1 week.
+
+Distribution:
+Nintedanib exhibits biphasic distribution kinetics. After intravenous infusion, this drug demonstrates a large distribution volume that exceeds the total body volume (V
+dss
+: 1050 L). In vitro studies reveal that nintedanib is highly protein-bound; 97.8% is bound to serum albumin.
+[15]
+
+Metabolism:
+Nintedanib is primarily metabolized through hydrolytic cleavage by esterases, producing the free acid metabolite BIBF 1202, which is subsequently glucuronidated by UDP-glucuronosyltransferases such as UGT1A1. Only a minor portion of nintedanib undergoes metabolism via cytochrome P450 pathways, predominantly involving CYP3A4, accounting for about 5% of the biotransformation. The drug is mainly excreted via feces, with less than 1% eliminated in urine. Additionally, nintedanib is a substrate and weak inhibitor of P-glycoprotein and a minor substrate of CYP3A4. Patients receiving concomitant P-gp and CYP3A4 inhibitors should be closely monitored.
+[15]
+
+Elimination:
+The primary route of elimination is through fecal and biliary excretion, accounting for approximately 93% of the dose. The half-life of nintedanib in patients with idiopathic pulmonary fibrosis is approximately 9.5 hours.
+Administration
+
+Available Dosage Forms and Strengths
+
+Nintedanib therapy is available in 100 mg and 150 mg soft capsules. The manufacturer recommends that the capsules be taken whole with food and fluids. Chewing, crushing, or splitting the capsules can cause a bitter taste. Nintedanib should be stored at room temperature, away from moisture and excessive heat. The drug should be kept tightly closed in the same container it came in and out of reach from children.
+
+Adult Dosage
+
+The typical recommended dosage is 150 mg twice daily. Physicians should consider temporarily reducing the dose to 100 mg, interrupting treatment, or discontinuing the drug if adverse reactions occur. Extra capsules are not recommended to make up for a missed or skipped dose. Nintedanib should be disposed of safely, ensuring that children, pets, or other people cannot access the disposed-of capsules. A medication take-back program at a local pharmacy offers the best option for drug disposal.
+
+Specific Patient Populations
+
+Hepatic impairment:
+In cases of mild hepatic impairment (Child-Pugh class A), low body mass index (BMI), or persistent gastrointestinal adverse effects, a dose reduction to 100 mg twice daily is recommended.
+[16]
+Nintedanib is not advised for patients with moderate or severe hepatic impairment.
+
+Renal impairment:
+Adjustment of the nintedanib dosage for mild to moderate renal impairment is not needed. There is no available data regarding nintedanib administration for patients with severe renal impairment (CrCl <30 mL/min) and end-stage renal disease.
+[15]
+
+Pregnancy considerations:
+The use of nintedanib during pregnancy is not recommended.
+[17]
+Nintedanib is a pregnancy category D drug, and females of reproductive age should be counseled to use highly effective contraception (for example, reversible implantable contraceptive device) before initiating and during therapy. Contraception should be continued for at least 3 months after the last dose of nintedanib. A pregnancy test should be performed before and at regular intervals during treatment.
+
+Breastfeeding considerations:
+There is no available data on the clinical use of nintedanib during breastfeeding. Since nintedanib is over 97% bound to plasma proteins, the amount in breast milk is thought to be minimal. However, given its half-life of approximately 9.7 hours, there is a potential for drug accumulation in the breastfeeding infant. Therefore, it is recommended to avoid breastfeeding during nintedanib therapy.
+[18]
+
+Pediatric patients:
+The safety and efficacy of nintedanib have not been established in the pediatric population.
+
+Older patients:
+During clinical trials, the effectiveness and safety of nintedanib were similar across age groups, though increased sensitivity in some older individuals cannot be excluded.
+Adverse Effects
+The following adverse reactions are associated with nintedanib administration:
+Gastrointestinal:
+(most common) nausea, vomiting, diarrhea (76%), abdominal pain (10%), decreased appetite (10%)
+[19]
+Hepatic:
+elevation in liver enzymes
+[20]
+Endocrine:
+decreased weight (7%)
+Respiratory:
+nasopharyngitis (7%), cough (14%), upper respiratory tract infection (14%)
+Nervous system:
+headache (12%), fatigue (14%)
+Dermatological:
+dermal ulcer (16%)
+Genitourinary:
+urinary tract infection (12%)
+[21]
+Most diarrheal events were classified as mild to moderate and occurred mainly within the first 3 months of therapy. Patient education and supportive treatment such as adequate hydration, antidiarrheals, and antiemetics should be provided. A dose reduction or treatment interruption should be considered for patients with persistent gastrointestinal symptoms despite being on supportive treatment, or treatment should be discontinued.
+[16]
+A low BMI is the major risk factor for diarrhea, and adding prednisolone was beneficial. Additionally, low BMI and poor performance status were also significant risk factors for nausea.
+[22]
+[23]
+Elevated alanine transaminase (ALT), aspartate transaminase (AST), and bilirubinemia were commonly seen in patients with low BMI. These adverse effects are particularly common in females, Asians, and patients who weigh less than 65 kg. The risk of hepatotoxicity is reduced when treated with a reduced dose of 100 mg twice daily.
+[24]
+Reported post-marketing adverse events include gastrointestinal perforation, proteinuria, and pancreatitis. In several clinical trials, nintedanib was also found to be associated with an increased risk of bleeding, likely secondary to VEGFR inhibition. Although severe bleeding and arterial thromboembolic events such as myocardial infarction (MI) and stroke were rare, bleeding events with severe and fatal outcomes have been reported in the post-marketing surveillance of the drug.
+[17]
+As a result, patients on nintedanib therapy receiving full anticoagulation require close monitoring for adverse bleeding events.
+[25]
+The inhibition of VEGFR and its downstream signaling pathways has been associated with renal dysfunction, including proteinuria and hypertension. The literature review describes several cases of proteinuria and thrombotic microangiopathy related to the chronic use of nintedanib.
+[26]
+The proteinuria was reversible with the discontinuation of nintedanib only in some cases. Interruption of therapy should be considered in cases of new, worsening, or persistent proteinuria.
+
+Drug-Drug Interactions
+
+P-gp and CYP3A4 inducers:
+Precaution should be taken when nintedanib is co-administered with medications metabolized by CYP3A4 and P-glycoprotein enzymes due to altered bioavailability and metabolism.
+[15]
+Some commonly used drugs that may potentially affect nintedanib metabolism include but are not limited to omeprazole, barbiturates, phenytoin, amoxicillin, azithromycin, ketoconazole, carbamazepine, amiodarone, rifampin, and St. John's wort.
+Anticoagulants:
+Nintedanib, a vascular endothelial growth factor receptor (VEGFR) inhibitor, can potentially elevate the risk of bleeding complications. Patients undergoing anticoagulation therapy should be monitored closely for signs of bleeding.
+[4]
+For patients requiring anticoagulant therapy, direct oral anticoagulants (DOACs) may be an option; however, further research is needed.
+[27]
+Contraindications
+According to the FDA-approved labeling, there are no absolute contraindications.
+
+Warning and Precautions
+
+The use of nintedanib during pregnancy and breastfeeding is not recommended.
+[17]
+Moderate to severe hepatic impairment (Child-pugh class B and C) is also a relative contraindication to nintedanib therapy.
+[17]
+Nintedanib is not well-studied in patients with severe hepatic impairment.
+Tobacco use is associated with reduced efficacy of nintedanib, as well as worsening of preexisting disease, so patients should be advised to stop smoking before initiating treatment.
+[28]
+[29]
+Caution should be exercised when prescribing nintedanib to women older than 65 with low body mass index (BMI) or patients with coronary artery disease, thromboembolic events, anticoagulation, recent abdominal surgery, and a history of gastrointestinal perforation.
+Hepatotoxicity is discussed elsewhere (see Toxicity).
+[20]
+Monitoring
+Pregnancy testing before initiating therapy and periodically during the therapeutic course is recommended for women of reproductive age.
+A liver function test is necessary at baseline and within the first 3 months of therapy. Afterward, regular monitoring should be performed every 6 to 12 months or as clinically indicated.
+[16]
+Physicians should take precautionary measures in patients at high risk of bleeding and those with a history of arterial thromboembolism. Patients with signs and symptoms of acute coronary syndrome should undergo treatment interruption.
+[30]
+The optimal time to assess treatment response is not well defined. Clinicians should perform routine monitoring with pulmonary function tests (PFT), 6-minute walk tests (6MWT), home spirometry, subjective exercise tolerance, and physical exam findings.
+[31]
+In patients with IPF, physicians assess FVC at baseline and monitor for changes.
+[4]
+Changes in the patient's clinical condition may reflect superimposed infection, malignancy, or even the development of pulmonary artery hypertension and not just the progression of ILD.
+[32]
+Reevaluation of patients should occur if there are changes in the clinical status, which may involve repeating tests such as high-resolution computed tomography (HRCT), other imaging tests, and PFT. Quantitative HRCT is also a sensitive tool used to quantify the disease progression and response to treatment in patients with SSc-ILD.
+Toxicity
+
+Signs and Symptoms of Overdose
+
+Nintedanib therapy is frequently associated with elevated liver enzymes and bilirubin, but this is usually reversible with dose reduction or treatment interruption. For patients with ALT/AST elevations of less than 3 to 5 times the upper limit without signs of hepatotoxicity, therapy should be held and resumed at a lower dose of 100 mg twice daily once the liver enzymes normalize. Women with low BMI, low body surface area (BSA), or Asian ethnicity are at higher risk of hepatotoxicity when treated with 150 mg twice daily. This is reversible with treatment interruption or dose reduction. If there is no hepatotoxicity, these patients may also benefit from starting at 100 mg twice daily with dose titration.
+[24]
+
+Management of Overdose
+
+There are no recommended guidelines for managing a nintedanib overdose. Treatment should be interrupted in these scenarios, and supportive measures should be initiated. Any patient with a suspected overdose should undergo close monitoring in a healthcare facility. Treatment should be discontinued in patients who develop signs and symptoms of hepatotoxicity with AST/ALT elevation more than 3 to 5 times the normal upper limit.
+[25]
+Enhancing Healthcare Team Outcomes
+Managing progressive fibrosing ILD remains challenging for healthcare providers, and these patients have significant unmet needs. ILD can cause continued deterioration of lung function, reduced exercise tolerance, worsening dyspnea, and cough. These changes can result in reduced health-related quality of life (HR-QOL), increased morbidity and mortality, and some diseases with ILD have a median survival rate as low as 4.5 years.
+[33]
+[34]
+[35]
+
+Over the last decade, anti-fibrotic drugs such as nintedanib and pirfenidone have become emerging therapies for patients with IPF. Other conditions associated with progressive ILD have also shown promising results in slowing the progression of the disease. When used alone or in combination, the safety and tolerability of these medications are well established, although more studies are needed to determine the degree of the potential synergistic effect.
+[36]
+Nintedanib is an anti-fibrotic drug that has been proven to slow the course of progressive ILD, IPF, and SSc-ILD in clinical trial settings. In real-world studies, nintedanib's efficacy and safety profile are acceptable, and the FDA approved its use for patients with these conditions.
+[37]
+Patient education should be included in the provider's management tool kit. The pros and cons of this therapy and supportive care should be discussed with patients in detail. Adjunctive treatments, including oxygen therapy, should be prescribed to maintain daily activity and prevent or delay the onset of secondary pulmonary hypertension. Pulmonary rehabilitation has been shown to have long-term benefits as it emphasizes the importance of a comprehensive therapeutic approach to fibrotic lung disease.
+[38]
+
+A multidisciplinary team, including a pulmonologist, rheumatologist, cardiologist, and pulmonary rehabilitation medicine specialist, should be involved in patient care to prevent long-term complications. Although more studies are needed, such an approach may delay disease progression and reduce the need for lung transplantation. ILD is also a risk factor for ischemic heart disease.
+[39]
+Studies have shown that nintedanib can lower oxidative LDL-triggered inflammation and senescence, making it a potential therapy for treating atherosclerosis.
+[40]
+Interprofessional teamwork is also essential to optimal patient management and care. In addition to the multidisciplinary physician team, advanced practice providers (NPs and PAs), nursing staff, respiratory therapists, and pharmacists can all contribute from various areas of expertise to manage cases using nintedanib. All interprofessional team members must maintain meticulous records of their interactions and observations with the patient so all team members operate from the same accurate, updated information. If any caregiver notes any concerns or changes in status, they should reach out to the appropriate team member for further evaluation and possible interventions. This interprofessional approach will drive optimal patient outcomes.
+Patients should be encouraged to get approved vaccines against coronavirus, age-appropriate pneumococcal vaccine, and annual influenza vaccine. Continuous exposure to first-hand and second-hand smoking is detrimental and should be discouraged. There is also a strong association between ILD and depression, which is independently related to sleep quality, pain, and forced vital capacity.
+[41]
+Patients with ILD should routinely have screening for depression during follow-up visits. Recent observations suggest that nintedanib may improve functional ability in patients with pulmonary fibrosis secondary to COVID-19 infection.
+[42]
+
+In patients with progressive IPF not amenable to pharmacological therapy, the introduction of advance directives and palliative care should be considered as the prognosis remains guarded.
+[43]
+Prompt initiation of nintedanib from the time of diagnosis of IPF may result in reduced medical costs and hospitalization risk.
+[44]
+Additional studies are needed to fully understand the early initiation of anti-fibrotic therapy and patient outcomes. As explained above, an interprofessional team approach and excellent communication among clinicians, pulmonologists, rheumatologists, pharmacists, and nurses are crucial to decreasing potential adverse effects and improving patient outcomes related to nintedanib.
+Review Questions
+
+Access free multiple choice questions on this topic.
+
+Comment on this article.
+
+References
+1.
+Efficacy and Safety of Nintedanib in Idiopathic Pulmonary Fibrosis.
+N Engl J Med.
+2015 Aug 20;
+373
+(8):782.
+[
+PubMed
+: 26287867
+]
+2.
+Wollin L, Maillet I, Quesniaux V, Holweg A, Ryffel B. Antifibrotic and anti-inflammatory activity of the tyrosine kinase inhibitor nintedanib in experimental models of lung fibrosis.
+J Pharmacol Exp Ther.
+2014 May;
+349
+(2):209-20.
+[
+PubMed
+: 24556663
+]
+3.
+Distler O, Highland KB, Gahlemann M, Azuma A, Fischer A, Mayes MD, Raghu G, Sauter W, Girard M, Alves M, Clerisme-Beaty E, Stowasser S, Tetzlaff K, Kuwana M, Maher TM., SENSCIS Trial Investigators.  Nintedanib for Systemic Sclerosis-Associated Interstitial Lung Disease.
+N Engl J Med.
+2019 Jun 27;
+380
+(26):2518-2528.
+[
+PubMed
+: 31112379
+]
+4.
+Wu X, Li W, Luo Z, Chen Y. A comprehensive comparison of the safety and efficacy of drugs in the treatment of idiopathic pulmonary fibrosis: a network meta-analysis based on randomized controlled trials.
+BMC Pulm Med.
+2024 Jan 27;
+24
+(1):58.
+[
+PMC free article
+: PMC10822186
+] [
+PubMed
+: 38281037
+]
+5.
+Flaherty KR, Wells AU, Cottin V, Devaraj A, Walsh SLF, Inoue Y, Richeldi L, Kolb M, Tetzlaff K, Stowasser S, Coeck C, Clerisme-Beaty E, Rosenstock B, Quaresma M, Haeufel T, Goeldner RG, Schlenker-Herceg R, Brown KK., INBUILD Trial Investigators.  Nintedanib in Progressive Fibrosing Interstitial Lung Diseases.
+N Engl J Med.
+2019 Oct 31;
+381
+(18):1718-1727.
+[
+PubMed
+: 31566307
+]
+6.
+Gundogan BD, Taskinlar S, Arikoglu T, Balci Y, Citak EC. Bleomycin-induced Pneumonitis in a Child Treated With Nintedanib: Report of the First Case in a Childhood.
+J Pediatr Hematol Oncol.
+2022 Mar 01;
+44
+(2):e500-e502.
+[
+PubMed
+: 35200223
+]
+7.
+Lomanta JMJ, Quinto ML, Urquiza SC, Santiaguel JM. Pulmonary Function and Chest Computed Tomography (CT) Scan Findings After Antifibrotic Treatment for COVID-19-Related Pulmonary Fibrosis.
+Am J Case Rep.
+2022 Feb 13;
+23
+:e934830.
+[
+PMC free article
+: PMC8850995
+] [
+PubMed
+: 35152259
+]
+8.
+Raghu G, Montesi SB, Silver RM, Hossain T, Macrea M, Herman D, Barnes H, Adegunsoye A, Azuma A, Chung L, Gardner GC, Highland KB, Hudson M, Kaner RJ, Kolb M, Scholand MB, Steen V, Thomson CC, Volkmann ER, Wigley FM, Burlile D, Kemper KA, Knight SL, Ghazipura M. Treatment of Systemic Sclerosis-associated Interstitial Lung Disease: Evidence-based Recommendations. An Official American Thoracic Society Clinical Practice Guideline.
+Am J Respir Crit Care Med.
+2024 Jan 15;
+209
+(2):137-152.
+[
+PMC free article
+: PMC10806429
+] [
+PubMed
+: 37772985
+]
+9.
+Li DY, Liu X, Huang JY, Hang WL, Yu GR, Xu Y. Impact of antifibrotic therapy on disease progression, all-cause mortality, and risk of acute exacerbation in non-IPF fibrosing interstitial lung diseases: evidence from a meta-analysis of randomized controlled trials and prospective controlled studies.
+Ther Adv Respir Dis.
+2024 Jan-Dec;
+18
+:17534666241232561.
+[
+PMC free article
+: PMC10901065
+] [
+PubMed
+: 38414439
+]
+10.
+Wijsenbeek M, Swigris JJ, Inoue Y, Kreuter M, Maher TM, Suda T, Baldwin M, Mueller H, Rohr KB, Flaherty KR., INBUILD Trial Investigators.  Effects of nintedanib on symptoms in patients with progressive pulmonary fibrosis.
+Eur Respir J.
+2024 Feb;
+63
+(2)
+[
+PMC free article
+: PMC10831140
+] [
+PubMed
+: 38135442
+]
+11.
+Dixon G, Hague S, Mulholland S, Adamali H, Khin AMN, Thould H, Connon R, Minnis P, Murtagh E, Khan F, Toor S, Lawrence A, Naqvi M, West A, Coker RK, Ward K, Yazbeck L, Hart S, Garfoot T, Newman K, Rivera-Ortega P, Stranks L, Beirne P, Bradley J, Rowan C, Agnew S, Ahmad M, Spencer LG, Aigbirior J, Fahim A, Wilson AM, Butcher E, Chong SG, Saini G, Zulfikar S, Chua F, George PM, Kokosi M, Kouranos V, Molyneaux P, Renzoni E, Vitri B, Wells AU, Nicol LM, Bianchi S, Kular R, Liu H, John A, Barth S, Wickremasinghe M, Forrest IA, Grimes I, Simpson AJ, Fletcher SV, Jones MG, Kinsella E, Naftel J, Wood N, Chalmers J, Crawshaw A, Crowley LE, Dosanjh D, Huntley CC, Walters GI, Gatheral T, Plum C, Bikmalla S, Muthusami R, Stone H, Rodrigues JCL, Tsaneva-Atanasova K, Scotton CJ, Gibbons MA, Barratt SL. Real-world experience of nintedanib for progressive fibrosing interstitial lung disease in the UK.
+ERJ Open Res.
+2024 Jan;
+10
+(1)
+[
+PMC free article
+: PMC10789269
+] [
+PubMed
+: 38226064
+]
+12.
+Ghazipura M, Mammen MJ, Herman DD, Hon SM, Bissell BD, Macrea M, Kheir F, Khor YH, Knight SL, Raghu G, Wilson KC, Hossain T. Nintedanib in Progressive Pulmonary Fibrosis: A Systematic Review and Meta-Analysis.
+Ann Am Thorac Soc.
+2022 Jun;
+19
+(6):1040-1049.
+[
+PubMed
+: 35499854
+]
+13.
+Wollin L, Wex E, Pautsch A, Schnapp G, Hostettler KE, Stowasser S, Kolb M. Mode of action of nintedanib in the treatment of idiopathic pulmonary fibrosis.
+Eur Respir J.
+2015 May;
+45
+(5):1434-45.
+[
+PMC free article
+: PMC4416110
+] [
+PubMed
+: 25745043
+]
+14.
+Vancheri C. Idiopathic pulmonary fibrosis and cancer: do they really look similar?
+BMC Med.
+2015 Sep 24;
+13
+:220.
+[
+PMC free article
+: PMC4581087
+] [
+PubMed
+: 26399408
+]
+15.
+Wind S, Schmid U, Freiwald M, Marzin K, Lotz R, Ebner T, Stopfer P, Dallinger C. Clinical Pharmacokinetics and Pharmacodynamics of Nintedanib.
+Clin Pharmacokinet.
+2019 Sep;
+58
+(9):1131-1147.
+[
+PMC free article
+: PMC6719436
+] [
+PubMed
+: 31016670
+]
+16.
+Corte T, Bonella F, Crestani B, Demedts MG, Richeldi L, Coeck C, Pelling K, Quaresma M, Lasky JA. Safety, tolerability and appropriate use of nintedanib in idiopathic pulmonary fibrosis.
+Respir Res.
+2015 Sep 24;
+16
+:116.
+[
+PMC free article
+: PMC4581488
+] [
+PubMed
+: 26400368
+]
+17.
+Cottin V. The safety and tolerability of nintedanib in the treatment of idiopathic pulmonary fibrosis.
+Expert Opin Drug Saf.
+2017 Jul;
+16
+(7):857-865.
+[
+PubMed
+: 28571476
+]
+18.
+Drugs and Lactation Database (LactMed®) [Internet].
+National Institute of Child Health and Human Development; Bethesda (MD): Dec 3, 2018. Nintedanib. [
+PubMed
+: 29999921
+]
+19.
+Mira-Avendano I, Kaye M. Key learnings from the INBUILD trial in patients with progressive pulmonary fibrosis.
+Ther Adv Respir Dis.
+2024 Jan-Dec;
+18
+:17534666241266343.
+[
+PMC free article
+: PMC11311158
+] [
+PubMed
+: 39113425
+]
+20.
+LiverTox®: Clinical and Research Information on Drug-Induced Liver Injury [Internet].
+National Institute of Diabetes and Digestive and Kidney Diseases; Bethesda (MD): Dec 12, 2023. Nintedanib. [
+PMC free article
+: PMC547852
+] [
+PubMed
+: 31643465
+]
+21.
+Highland KB, Distler O, Kuwana M, Allanore Y, Assassi S, Azuma A, Bourdin A, Denton CP, Distler JHW, Hoffmann-Vold AM, Khanna D, Mayes MD, Raghu G, Vonk MC, Gahlemann M, Clerisme-Beaty E, Girard M, Stowasser S, Zoz D, Maher TM., SENSCIS trial investigators.  Efficacy and safety of nintedanib in patients with systemic sclerosis-associated interstitial lung disease treated with mycophenolate: a subgroup analysis of the SENSCIS trial.
+Lancet Respir Med.
+2021 Jan;
+9
+(1):96-106.
+[
+PubMed
+: 33412120
+]
+22.
+Kato M, Sasaki S, Nakamura T, Kurokawa K, Yamada T, Ochi Y, Ihara H, Takahashi F, Takahashi K. Author Correction: Gastrointestinal adverse effects of nintedanib and the associated risk factors in patients with idiopathic pulmonary fibrosis.
+Sci Rep.
+2020 Jul 16;
+10
+(1):12080.
+[
+PMC free article
+: PMC7363798
+] [
+PubMed
+: 32669649
+]
+23.
+Kato M, Sasaki S, Nakamura T, Kurokawa K, Yamada T, Ochi Y, Ihara H, Takahashi F, Takahashi K. Gastrointestinal adverse effects of nintedanib and the associated risk factors in patients with idiopathic pulmonary fibrosis.
+Sci Rep.
+2019 Aug 19;
+9
+(1):12062.
+[
+PMC free article
+: PMC6700168
+] [
+PubMed
+: 31427707
+]
+24.
+Ikeda S, Sekine A, Baba T, Yamanaka Y, Sadoyama S, Yamakawa H, Oda T, Okuda R, Kitamura H, Okudela K, Iwasawa T, Ohashi K, Takemura T, Ogura T. Low body surface area predicts hepatotoxicity of nintedanib in patients with idiopathic pulmonary fibrosis.
+Sci Rep.
+2017 Sep 07;
+7
+(1):10811.
+[
+PMC free article
+: PMC5589740
+] [
+PubMed
+: 28883482
+]
+25.
+Cottin V, Martinez FJ, Jenkins RG, Belperio JA, Kitamura H, Molina-Molina M, Tschoepe I, Coeck C, Lievens D, Costabel U. Safety and tolerability of nintedanib in patients with progressive fibrosing interstitial lung diseases: data from the randomized controlled INBUILD trial.
+Respir Res.
+2022 Apr 07;
+23
+(1):85.
+[
+PMC free article
+: PMC8991727
+] [
+PubMed
+: 35392908
+]
+26.
+Inoue D, Nishi H, Honda K, Ishii T, Abe H, Sato M, Nangaku M. Renal thrombotic microangiopathy during nintedanib treatment for idiopathic pulmonary fibrosis
+.
+Clin Nephrol.
+2020 Jan;
+93
+(1):47-50.
+[
+PubMed
+: 31699213
+]
+27.
+Grześk G, Woźniak-Wiśniewska A, Błażejewski J, Górny B, Wołowiec Ł, Rogowicz D, Nowaczyk A. The Interactions of Nintedanib and Oral Anticoagulants-Molecular Mechanisms and Clinical Implications.
+Int J Mol Sci.
+2020 Dec 30;
+22
+(1)
+[
+PMC free article
+: PMC7795697
+] [
+PubMed
+: 33396592
+]
+28.
+Collard HR, Richeldi L, Kim DS, Taniguchi H, Tschoepe I, Luisetti M, Roman J, Tino G, Schlenker-Herceg R, Hallmann C, du Bois RM. Acute exacerbations in the INPULSIS trials of nintedanib in idiopathic pulmonary fibrosis.
+Eur Respir J.
+2017 May;
+49
+(5)
+[
+PubMed
+: 28526798
+]
+29.
+Yoon HY, Kim H, Bae Y, Song JW. Smoking status and clinical outcome in idiopathic pulmonary fibrosis: a nationwide study.
+Respir Res.
+2024 Apr 29;
+25
+(1):191.
+[
+PMC free article
+: PMC11059669
+] [
+PubMed
+: 38685071
+]
+30.
+Ameri P, Tini G, Spallarossa P, Mercurio V, Tocchetti CG, Porto I. Cardiovascular safety of the tyrosine kinase inhibitor nintedanib.
+Br J Clin Pharmacol.
+2021 Oct;
+87
+(10):3690-3698.
+[
+PubMed
+: 33620103
+]
+31.
+Rizzi M, Sarzi-Puttini P, Airoldi A, Antivalle M, Battellino M, Atzeni F. Performance capacity evaluated using the 6-minute walk test: 5-year results in patients with diffuse systemic sclerosis and initial interstitial lung disease.
+Clin Exp Rheumatol.
+2015 Jul-Aug;
+33
+(4 Suppl 91):S142-7.
+[
+PubMed
+: 26339893
+]
+32.
+Katzen JB, Raparia K, Agrawal R, Patel JD, Rademaker A, Varga J, Dematte JE. Early stage lung cancer detection in systemic sclerosis does not portend survival benefit: a cross sectional study.
+PLoS One.
+2015;
+10
+(2):e0117829.
+[
+PMC free article
+: PMC4331488
+] [
+PubMed
+: 25689302
+]
+33.
+Richeldi L, du Bois RM, Raghu G, Azuma A, Brown KK, Costabel U, Cottin V, Flaherty KR, Hansell DM, Inoue Y, Kim DS, Kolb M, Nicholson AG, Noble PW, Selman M, Taniguchi H, Brun M, Le Maulf F, Girard M, Stowasser S, Schlenker-Herceg R, Disse B, Collard HR., INPULSIS Trial Investigators.  Efficacy and safety of nintedanib in idiopathic pulmonary fibrosis.
+N Engl J Med.
+2014 May 29;
+370
+(22):2071-82.
+[
+PubMed
+: 24836310
+]
+34.
+Barr JT, Schumacher GE, Freeman S, LeMoine M, Bakst AW, Jones PW. American translation, modification, and validation of the St. George's Respiratory Questionnaire.
+Clin Ther.
+2000 Sep;
+22
+(9):1121-45.
+[
+PubMed
+: 11048909
+]
+35.
+Tran T, Šterclová M, Mogulkoc N, Lewandowska K, Müller V, Hájková M, Kramer MR, Jovanović D, Tekavec-Trkanjec J, Studnicka M, Stoeva N, Hejduk K, Dušek L, Suissa S, Vašáková M., EMPIRE registry.  The European MultiPartner IPF registry (EMPIRE): validating long-term prognostic factors in idiopathic pulmonary fibrosis.
+Respir Res.
+2020 Jan 08;
+21
+(1):11.
+[
+PMC free article
+: PMC6951015
+] [
+PubMed
+: 31915023
+]
+36.
+Vancheri C, Kreuter M, Richeldi L, Ryerson CJ, Valeyre D, Grutters JC, Wiebe S, Stansen W, Quaresma M, Stowasser S, Wuyts WA., INJOURNEY Trial Investigators.  Nintedanib with Add-on Pirfenidone in Idiopathic Pulmonary Fibrosis. Results of the INJOURNEY Trial.
+Am J Respir Crit Care Med.
+2018 Feb 01;
+197
+(3):356-363.
+[
+PubMed
+: 28889759
+]
+37.
+Rivera-Ortega P, Hayton C, Blaikley J, Leonard C, Chaudhuri N. Nintedanib in the management of idiopathic pulmonary fibrosis: clinical trial evidence and real-world experience.
+Ther Adv Respir Dis.
+2018 Jan-Dec;
+12
+:1753466618800618.
+[
+PMC free article
+: PMC6156214
+] [
+PubMed
+: 30249169
+]
+38.
+Nishiyama O, Kataoka K, Ando M, Arizono S, Morino A, Nishimura K, Ogawa T, Shiraki A, Watanabe F, Kozu R, Ogura T, Kondoh Y. Protocol for long-term effect of pulmonary rehabilitation under nintedanib in idiopathic pulmonary fibrosis.
+ERJ Open Res.
+2021 Jul;
+7
+(3)
+[
+PMC free article
+: PMC8381249
+] [
+PubMed
+: 34435033
+]
+39.
+Clarson LE, Bajpai R, Whittle R, Belcher J, Abdul Sultan A, Kwok CS, Welsh V, Mamas M, Mallen CD. Interstitial lung disease is a risk factor for ischaemic heart disease and myocardial infarction.
+Heart.
+2020 Jun;
+106
+(12):916-922.
+[
+PMC free article
+: PMC7282497
+] [
+PubMed
+: 32114515
+]
+40.
+Li L, Chen Y, Shi C. Nintedanib ameliorates oxidized low-density lipoprotein -induced inflammation and cellular senescence in vascular endothelial cells.
+Bioengineered.
+2022 Mar;
+13
+(3):6196-6207.
+[
+PMC free article
+: PMC8974161
+] [
+PubMed
+: 35236245
+]
+41.
+Ryerson CJ, Arean PA, Berkeley J, Carrieri-Kohlman VL, Pantilat SZ, Landefeld CS, Collard HR. Depression is a common and chronic comorbidity in patients with interstitial lung disease.
+Respirology.
+2012 Apr;
+17
+(3):525-32.
+[
+PubMed
+: 22221976
+]
+42.
+Umemura Y, Mitsuyama Y, Minami K, Nishida T, Watanabe A, Okada N, Yamakawa K, Nochioka K, Fujimi S. Efficacy and safety of nintedanib for pulmonary fibrosis in severe pneumonia induced by COVID-19: An interventional study.
+Int J Infect Dis.
+2021 Jul;
+108
+:454-460.
+[
+PMC free article
+: PMC8146615
+] [
+PubMed
+: 34048887
+]
+43.
+Daniels CE, Ryu JH. Treatment of idiopathic pulmonary fibrosis.
+Semin Respir Crit Care Med.
+2006 Dec;
+27
+(6):668-76.
+[
+PubMed
+: 17195143
+]
+44.
+Singer D, Bengtson LGS, Conoscenti CS, Anderson AJ, Brekke L, Shetty SS, de Andrade J. Impact of timing of nintedanib initiation among patients newly diagnosed with idiopathic pulmonary fibrosis.
+J Med Econ.
+2022 Jan-Dec;
+25
+(1):532-540.
+[
+PubMed
+: 35321616
+]
+
+Disclosure:
+Shrey Gole declares no relevant financial relationships with ineligible companies.
+
+Disclosure:
+Prerna Mota declares no relevant financial relationships with ineligible companies.
+
+Disclosure:
+Adegbenga Bankole declares no relevant financial relationships with ineligible companies.
+
+Copyright
+© 2026, StatPearls Publishing LLC.
+
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(
+
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+
+), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+
+Bookshelf ID: NBK585049
+PMID:
+36251827

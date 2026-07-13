@@ -1,0 +1,928 @@
+=== Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis — ATS/ERS/JRS/ALAT Guideline ===
+Fonte: Am J Respir Crit Care Med 2022;205(9):e18-e47
+URL: https://academic.oup.com/ajrccm/article/205/9/e18/8492145
+Licenca: CC BY-NC-ND 4.0
+Doenca: fibrose | Idioma: en
+----------------------------------------------------------------------
+
+Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline
+
+Background
+
+This American Thoracic Society, European Respiratory Society, Japanese Respiratory Society, and Asociación Latinoamericana de Tórax guideline updates prior idiopathic pulmonary fibrosis (IPF) guidelines and addresses the progression of pulmonary fibrosis in patients with interstitial lung diseases (ILDs) other than IPF.
+
+Methods
+
+A committee was composed of multidisciplinary experts in ILD, methodologists, and patient representatives. 1) Update of IPF: Radiological and histopathological criteria for IPF were updated by consensus. Questions about transbronchial lung cryobiopsy, genomic classifier testing, antacid medication, and antireflux surgery were informed by systematic reviews and answered with evidence-based recommendations using the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach. 2) Progressive pulmonary fibrosis (PPF): PPF was defined, and then radiological and physiological criteria for PPF were determined by consensus. Questions about pirfenidone and nintedanib were informed by systematic reviews and answered with evidence-based recommendations using the GRADE approach.
+
+Results
+
+1) Update of IPF: A conditional recommendation was made to regard transbronchial lung cryobiopsy as an acceptable alternative to surgical lung biopsy in centers with appropriate expertise. No recommendation was made for or against genomic classifier testing. Conditional recommendations were made against antacid medication and antireflux surgery for the treatment of IPF. 2) PPF: PPF was defined as at least two of three criteria (worsening symptoms, radiological progression, and physiological progression) occurring within the past year with no alternative explanation in a patient with an ILD other than IPF. A conditional recommendation was made for nintedanib, and additional research into pirfenidone was recommended.
+
+Conclusions
+
+The conditional recommendations in this guideline are intended to provide the basis for rational, informed decisions by clinicians.
+
+Contents
+
+Introduction
+
+Methods
+
+Part I: Update on Diagnosis and Treatment of IPF
+
+Radiological Features of UIP
+
+Histopathological Features of UIP
+
+Evidence-based Recommendations for Diagnosis of IPF
+
+Diagnostic Approach
+
+Evidence-based Recommendations for Treatment of IPF
+
+Management Approach
+
+Future Directions
+
+Part II: Diagnosis and Treatment of PPF in Fibrotic ILD, Other than IPF
+
+Definition of PPF
+
+Physiological Criteria for PPF
+
+Radiological Criteria for PPF
+
+Evidence-based Recommendations for Treatment of PPF, Other than IPF
+
+Future Directions
+
+Conclusions
+
+Introduction
+
+Idiopathic pulmonary fibrosis (IPF) is a chronic, fibrosing interstitial pneumonia of unknown cause that is associated with radiological and histologic features of usual interstitial pneumonia (UIP). It occurs primarily in older adults, is characterized by progressive worsening of dyspnea and lung function, and has a poor prognosis. Diagnosis and management of IPF were addressed in prior guidelines. A formal American Thoracic Society (ATS) and European Respiratory Society (ERS) proposal process determined that several topics from the previous guidelines warrant reassessment, including the following: radiological and histopathological features of UIP, diagnostic criteria, diagnostic and treatment approaches, and prior evidence-based recommendations about antacid medications and transbronchial lung cryobiopsy (TBLC). In addition, it was decided that new questions about antireflux surgery and genomic classifier testing should be addressed.
+
+The acceptance of antifibrotic therapies for IPF led to the investigation of such therapies in other fibrotic lung diseases. While the IPF guidelines were being updated, a clinical trial reporting a beneficial effect of antifibrotic medication in interstitial lung diseases (ILDs) other than IPF that manifest progressive pulmonary fibrosis (PPF) was published, prompting a paradigm shift toward an en bloc approach to antifibrotic therapy. Given the importance and timeliness of the issue, the guideline committee was approved to expand its scope to also define progression of pulmonary fibrosis and to decide whether the en bloc approach to antifibrotic therapy should continue, or whether therapy should be restricted to specific types of progressive ILD.
+
+These guidelines for the diagnosis and treatment of IPF and other types of PPF are the result of a collaboration among the ATS, ERS, Japanese Respiratory Society (JRS), and Asociación Latinoamericana de Tórax (ALAT). They are intended to provide the basis for rational, informed decisions. The recommendations should never be considered absolute requirements by anyone who evaluates the actions of a healthcare professional.
+
+Methods
+
+Methods including conflict-of-interest management were established a priori and are described in the online supplement. The document can be conceptualized in two parts. Narrative portions (e.g., radiological criteria, histopathological criteria, physiological criteria, definitions) were created using consensus by discussion. Guideline portions address specific questions related to TBLC, genomic classifier testing, antacid medication, antireflux surgery for IPF, and pirfenidone and nintedanib for PPF. These sections are compliant with the Institute of Medicine standards for trustworthy guidelines and yield recommendations that were informed by systematic reviews and were formulated and graded using the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach (Table 1).
+
+Summary of Methods
+
+Methods	Used	 	Conflict-of-interest disclosure, vetting, and management prespecified	Y	 	Guideline committee multidisciplinary	Y	 	Guideline committee has patient representation	Y	 	Literature search strategy prespecified	Y	 	Multiple databases searched for relevant studies	Y	 	Titles and abstracts screened in duplicate	Y	 	Study selection criteria prespecified	Y	 	Study selection and data extraction performed in duplicate	Y	 	Studies aggregated by meta-analysis when possible	Y	 	GRADE approach used to formulate recommendations	Y	 	GRADE approach used to rate the strength of recommendation and quality of evidence	Y	 	Public commentary period	N	 	Process exists to periodically reassess for updating	Y
+
+Definition of abbreviations: GRADE = Grading of Recommendations, Assessment, Development and Evaluation; N = no; Y = yes.
+
+Evidence-based recommendations were formulated by discussion followed by voting. Briefly, committee members were provided the following options: a strong recommendation for a course of action, a conditional recommendation for a course of action, a conditional recommendation against a course of action, a strong recommendation against a course of action, and abstention (Table 2). Abstention was appropriate whenever a committee member was unwilling to commit for or against the proposed course of action, such as when there was insufficient evidence, or the committee member had insufficient expertise or a self-realized bias. Three outcomes were possible:
+
+Implications of the Guideline Recommendations
+
+Strong Recommendation(“We Recommend…”)	Conditional Recommendation(“We Suggest…”)	 	From the GRADE working group	 	 	 	 For patients	The overwhelming majority of individuals in this situation would want the recommended course of action, and only a small minority would not.	The majority of individuals in this situation would want the suggested course of action, but a sizable minority would not.	 	 For clinicians	The overwhelming majority of individuals should receive the recommended course of action. Adherence to this recommendation according to the guideline could be used as a quality criterion or performance indicator. Formal decision aids are not likely to be needed to help individuals make decisions consistent with their values and preferences.	Different choices will be appropriate for different patients, and you must help each patient arrive at a management decision consistent with her or his values and preferences. Decision aids may be useful to help individuals make decisions consistent with their values and preferences. Clinicians should expect to spend more time with patients when working toward a decision.	 	 For policy makers	The recommendation can be adapted as policy in most situations, including for the use as performance indicators.	Policy making will require substantial debates and involvement of many stakeholders. Policies are also more likely to vary among regions. Performance indicators would have to focus on the fact that adequate deliberation about the management options has taken place.	 	Additional conceptualization from the ATS/ERS/JRS/ALAT Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis Guidelines panel discussion	 	 	 	 	It is the right course of action for >95% of patients.	It is the right course of action for >50% of patients.	 	“Just do it.”	“Slow down, think about it, discuss it with the patient.”	 	You would be willing to tell a colleague who did not follow the recommendation that he/she did the wrong thing.	You would not be willing to tell a colleague who did not follow the recommendation that he/she did the wrong thing; it is “style” or “equipoise.”	 	The recommended course of action may be an appropriate performance measure.	The recommended course of action is not appropriate for a performance measure.
+
+Definition of abbreviations: ALAT = Asociación Latinoamericana de Tórax; ATS = American Thoracic Society; ERS = European Respiratory Society; GRADE = Grading of Recommendations, Assessment, Development and Evaluation; JRS = Japanese Respiratory Society. Adapted from Reference.
+
+Greater than 20% abstentions indicated that there was an insufficient quorum for decision making. If the primary reason for the abstentions was insufficient evidence, a research recommendation was also made.
+
+Fewer than 20% abstentions with >70% agreement on the appropriate course of action yielded a graded recommendation. This result was indicated by a statement beginning “We recommend…” for strong recommendations or “We suggest…” for conditional recommendations.
+
+Fewer than 20% abstentions with <70% agreement on the appropriate course of action yielded no recommendation because of insufficient agreement among the committee members regarding the appropriate course of action. This result was indicated by the statement, “We make no recommendation for or against… because of insufficient agreement among the committee members.”
+
+Part I: Update on Diagnosis and Treatment of IPF
+
+Radiological Features of UIP
+
+Radiological features of UIP, the hallmark of IPF, were described in detail in the 2018 guidelines for diagnosis of IPF. The guideline committee concluded that several radiological features warrant reiteration in the current guideline for emphasis, and they reconsidered the categories of high-resolution computed tomography (HRCT) patterns.
+
+Spectrum of HRCT findings in IPF
+
+Lung fibrosis is confidently recognized when traction bronchiectasis/bronchiolectasis (Figure 1) and/or honeycombing (Figure 2) are identified, although honeycombing must be distinguished from paraseptal emphysema (Figure 3) and airspace enlargement with fibrosis (Figure 4). Pathologic–computed tomography correlations have demonstrated that honeycombing and traction bronchiolectasis are closely related. Honeycombing corresponds to bronchiolar cysts, developed after collapse of fibrotic alveolar septa and dilatation of terminal airways. The cystic structures sometimes can be followed throughout the lobular core and seem to be connected with each other and are in continuity with the bronchial tree. Honeycombing cysts consist of both dilatation of peripheral airspaces due to surrounding alveolar septal fibrosis and tangentially viewed traction bronchiolectasis. HRCT findings typical of UIP and honeycombing on HRCT correlate best with bronchiolectasis histologically. Recent observations have underlined that in IPF, the remodeling process appears to be a continuum from traction bronchiectasis to honeycombing and that conceptual separation of the two processes may be misleading. Identification of traction bronchiectasis/bronchiolectasis and honeycombing on computed tomography (CT) scans is associated with moderate interobserver agreement.
+
+Traction bronchiectasis/bronchiolectasis. Axial, sagittal, and coronal computed tomography images show subpleural-predominant, lower lung–predominant reticular abnormality with traction bronchiectasis (arrows). Traction bronchiectasis/bronchiolectasis represents irregular bronchial and/or bronchiolar dilatation caused by surrounding retractile fibrosis; distorted airways are thus identified in a background of reticulation and/or ground-glass attenuation. On contiguous high-resolution computed tomography sections, the dilated bronchi or bronchioles can be tracked back toward more central bronchi. The pattern in this patient represents the probable usual interstitial pneumonia pattern.
+
+Honeycombing. Axial, sagittal, and coronal computed tomography images show subpleural-predominant, lower lung–predominant reticular abnormality with honeycombing (arrowheads). Honeycombing is defined by clustered, thick-walled, cystic spaces of similar diameters, measuring between 3 and 10 mm but up to 2.5 cm in size. The size and number of cysts often increase as the disease progresses. Often described in the literature as being layered, a single layer of subpleural cysts is also a manifestation of honeycombing. Honeycombing is an essential computed tomography criterion for typical (“definite”) usual interstitial pneumonia–idiopathic pulmonary fibrosis pattern when seen with a basal and peripheral predominance. In this pattern, honeycombing is usually associated with traction bronchiolectasis and a varying degree of ground-glass attenuation.
+
+Paraseptal emphysema. Axial and coronal computed tomography images show relatively large subpleural cysts of paraseptal emphysema (arrows), mainly in the upper lobes. Centrilobular emphysema is also present. The subpleural cysts of paraseptal emphysema usually occur in a single layer and are larger than honeycomb cysts (typically >1 cm); they are not associated with other features of fibrosis such as reticular abnormality or traction bronchiectasis.
+
+Airspace enlargement with fibrosis (AEF), also called smoking-related interstitial fibrosis, in a cigarette smoker. Axial and sagittal images show clustered asymmetric cysts that are larger and more irregular than typical honeycomb cysts, without traction bronchiectasis or other signs of fibrosis (arrows). Emphysema is also present. AEF is not regarded as a distinct form of idiopathic interstitial pneumonia but results from the presence of a greater amount of fibrosis than usually described in the classic definition of emphysema.
+
+The UIP pattern is a hallmark of IPF (IPF-UIP), but it can also be seen in patients with fibrotic hypersensitivity pneumonitis (HP) (Figure 5), connective tissue disease (CTD) (CTD-UIP) (Figure 6), or exposure-related ILDs. HP-UIP and CTD-UIP may sometimes be suspected on the basis of imaging appearance but are often indistinguishable radiologically from IPF-UIP. Pleuroparenchymal fibroelastosis may be seen in 6–10% of cases of IPF (Figure 7); it may be associated with more rapid decline in lung function, higher risk of pneumothorax and pneumomediastinum, and poorer survival.
+
+Spectrum of computed tomography (CT) appearances in usual interstitial pneumonia (UIP) pattern due to hypersensitivity pneumonitis (HP). (A) Coronal CT section obtained at deep inspiration showing honeycombing with traction bronchiolectasis in the peripheral part of the right lower lobe (short arrows) and numerous hyperlucent lobules in the left lower lobe (long arrows). (B) Lobular air trapping was confirmed on expiratory CT. HP-UIP should be considered when fibrosis and honeycomb cysts predominate in the upper or mid lungs, when mosaic attenuation or three-density sign is present, or when the fibrosis appears diffuse in the axial plane.
+
+Usual interstitial pneumonia (UIP) pattern due to connective tissue disease (CTD-UIP) in a patient with dermatomyositis/scleroderma overlap. Axial and coronal images show sharply demarcated fibrosis with exuberant honeycombing in the lower lobes and in the anterior upper lobes. CTD-UIP should be considered when honeycomb cysts are extensive, occupying >70% of the fibrotic portions of the lung (exuberant honeycombing sign); when fibrotic abnormality is sharply demarcated on coronal images from the relatively normal upper lungs (straight-edge sign); and when there is relative increase in fibrosis in the anterior upper lobes (anterior upper lobe sign).
+
+Combined pleuroparenchymal fibroelastosis and usual interstitial pneumonia patterns. Coronal computed tomography image shows dense subpleural fibrosis at the lung apices with traction bronchiectasis and upper lobe volume loss. There is subpleural reticular abnormality and honeycombing in both lower lobes.
+
+Probable UIP pattern in the diagnostic approach to IPF
+
+Four HRCT categories were defined in the 2018 guidelines for diagnosis of IPF: UIP pattern, probable UIP pattern, indeterminate for UIP pattern, and alternative diagnosis (Figures 1, 2, 4, and 8). Merger of the UIP and probable UIP patterns into a single category was considered; however, the guideline committee decided to retain the four categories with minor modifications for the purpose of clarity (Table 3).
+
+Three of the four high-resolution computed tomography patterns of usual interstitial pneumonia (UIP): (A) UIP pattern (associated with some paraseptal and centrilobular emphysema in the upper lobes), (B) probable UIP pattern with fibrotic features in the lung periphery (and some centrilobular emphysema in the upper lobes), and (C) indeterminate for UIP pattern (peribronchovascular and subpleural ground-glass opacities, intermingled with fine reticulation but no honeycombing or traction bronchiectasis). The fourth category, alternative diagnosis, is widely variable, depending on the specific alternative diagnosis, and is not shown.
+
+High-Resolution Computed Tomography Patterns in Idiopathic Pulmonary Fibrosis
+
+HRCT Pattern	 	UIP Pattern	Probable UIP Pattern	Indeterminate for UIP	CT Findings Suggestive of an Alternative Diagnosis	 	Level of confidence for UIP histology	Confident (>90%)	Provisional high confidence (70–89%)	Provisional low confidence (51–69%)	Low to very low confidence (⩽50%)	 	Distribution	• Subpleural and basal predominant• Often heterogeneous (areas of normal lung interspersed with fibrosis)• Occasionally diffuse• May be asymmetric	• Subpleural and basal predominant• Often heterogeneous (areas of normal lung interspersed with reticulation and traction bronchiectasis/bronchiolectasis)	• Diffuse distribution without subpleural predominance	• Peribronchovascular predominant with subpleural sparing (consider NSIP)• Perilymphatic distribution (consider sarcoidosis)• Upper or mid lung (consider fibrotic HP, CTD-ILD, and sarcoidosis)• Subpleural sparing (consider NSIP or smoking-related IP)	 	CT features	• Honeycombing with or without traction bronchiectasis/bronchiolectasis• Presence of irregular thickening of interlobular septa• Usually superimposed with a reticular pattern, mild GGO• May have pulmonary ossification	• Reticular pattern with traction bronchiectasis/bronchiolectasis• May have mild GGO• Absence of subpleural sparing	• CT features of lung fibrosis that do not suggest any specific etiology	• Lung findings ∘ Cysts (consider LAM, PLCH, LIP, and DIP) ∘ Mosaic attenuation or three-density sign (consider HP) ∘ Predominant GGO (consider HP, smoking-related disease, drug toxicity, and acute exacerbation of fibrosis) ∘ Profuse centrilobular micronodules (consider HP or smoking-related disease) ∘ Nodules (consider sarcoidosis) ∘ Consolidation (consider organizing pneumonia, etc.)• Mediastinal findings ∘ Pleural plaques (consider asbestosis) ∘ Dilated esophagus (consider CTD)
+
+Definition of abbreviations: CT = computed tomography; CTD = connective tissue disease; DIP = desquamative interstitial pneumonia; GGO = ground-glass opacity; HP = hypersensitivity pneumonitis; HRCT = high-resolution computed tomography; ILD = interstitial lung disease; IP = interstitial pneumonia; LAM = lymphangioleiomyomatosis; LIP = lymphoid interstitial pneumonia; NSIP = nonspecific interstitial pneumonia; PLCH = pulmonary Langerhans cell histiocytosis; UIP = usual interstitial pneumonia.
+
+The previous term, “early UIP pattern,” has been eliminated to avoid confusion with “interstitial lung abnormalities” described in the text. The term “indeterminate for UIP” has been retained for situations in which the HRCT features do not meet UIP or probable UIP criteria and do not explicitly suggest an alternative diagnosis. Adapted from Reference .
+
+There were several reasons that merging the UIP and probable UIP categories was considered: 1) there is increasing evidence that patients with the probable UIP pattern and UIP pattern on HRCT have similar disease behavior and clinical courses; 2) the likelihood of histologic confirmation of UIP in patients with the probable UIP pattern ranges from 80% to 85%; and 3) in the appropriate clinical context, histopathological confirmation of the UIP pattern is not required to ascertain the diagnosis of IPF in patients with either the probable UIP pattern or the UIP pattern.
+
+Despite these reasons, the guideline committee opted to maintain the differentiation between the two patterns for several reasons: 1) studies describing the correlation of probable UIP with histopathological UIP are from expert settings, and correlation in alternative settings is unknown; 2) there is evidence suggesting that patients with probable UIP might have better survival; 3) the predictive value of the probable UIP CT pattern for histologic UIP is slightly lower than for the UIP CT pattern, suggesting that the probable UIP CT pattern may show more overlap with other fibrotic lung diseases such as fibrotic HP; and 4) there is evidence that the predictive value of a probable UIP pattern for histologic UIP is lower in individuals with relatively mild fibrosis and in younger individuals. Although the UIP pattern and probable UIP pattern remain separate (Figure 9), the diagnostic approaches for these entities are similar (Figure 10), and histologic confirmation is usually unnecessary unless there is clinical concern for an alternative diagnosis.
+
+Idiopathic pulmonary fibrosis (IPF) diagnosis on the basis of high-resolution computed tomography (HRCT) and biopsy patterns, developed using consensus by discussion. *“Clinically suspected of having IPF” is defined as unexplained patterns of bilateral pulmonary fibrosis on chest radiography or chest computed tomography, bibasilar inspiratory crackles, and age > 60 years. Middle-aged adults (>40 and <60 yr old) can rarely present with otherwise similar clinical features, especially in patients with features suggesting familial pulmonary fibrosis. †Diagnostic confidence may need to be downgraded if histopathological assessment is based on transbronchial lung cryobiopsy given the smaller biopsy size and greater potential for sampling error compared with surgical lung biopsy. ‡IPF is the likely diagnosis when any of the following features are present: 1) moderate to severe traction bronchiectasis and/or bronchiolectasis (defined as mild traction bronchiectasis and/or bronchiolectasis in four or more lobes, including the lingula as a lobe, or moderate to severe traction bronchiectasis in two or more lobes) in a man >50 years old or in a woman >60 yr old, 2) extensive (>30%) reticulation on HRCT and age > 70 yr, 3) increased neutrophils and/or absence of lymphocytosis in BAL fluid, and 4) multidisciplinary discussion produces a confident diagnosis of IPF. §Indeterminate for IPF 1) without an adequate biopsy remains indeterminate and 2) with an adequate biopsy may be reclassified to a more specific diagnosis after multidisciplinary discussion and/or additional consultation. Adapted from Reference. dx = diagnosis; UIP = usual interstitial pneumonia.
+
+Diagnostic algorithm for idiopathic pulmonary fibrosis (IPF), developed using consensus by discussion. *Patients with a radiological pattern of probable usual interstitial pneumonia (UIP) can receive a diagnosis of IPF after multidisciplinary discussion (MDD) without confirmation by lung biopsy in the appropriate clinical setting (e.g., 60 yr old, male, smoker). BAL may be appropriate in some patients with a probable UIP pattern. †BAL may be performed before MDD in some patients evaluated in experienced centers. ‡Transbronchial lung cryobiopsy (TBLC) may be preferred to surgical lung biopsy (SLB) in centers with appropriate expertise and/or in some patient populations, as described in the text. A subsequent SLB may be justified in some patients with nondiagnostic findings on TBLC. Adapted from Reference. HRCT = high-resolution computed tomography.
+
+Histopathological Features of UIP
+
+The histopathological criteria that characterize UIP and probable UIP were reviewed and confirmed. A diagnosis of UIP made by biopsy is predicated on a combination of the following: 1) patchy dense fibrosis with architectural distortion (i.e., destructive scarring and/or honeycombing); 2) a predilection for subpleural and paraseptal lung parenchyma; 3) fibroblast foci; and 4) the absence of features that suggest an alternative diagnosis. When all of these features are present, a UIP pattern can be established with confidence. “Probable UIP” refers to biopsies in which some of these findings are present in the absence of features to suggest an alternative diagnosis.
+
+The committee concluded that the evolving use of TBLC merits commentary. Application of the histopathological criteria for UIP is more challenging with TBLC specimens because 1) the subpleural predominance of pathologic changes may not be readily appreciated and 2) the potential for sampling error results in less confident exclusion of features that may suggest an alternative diagnosis. Compared with surgical lung biopsy (SLB), TBLC is more likely to demonstrate a probable UIP pattern than a definite UIP pattern given the limited sampling of subpleural lung parenchyma in most cases. Nevertheless, a combination of patchy fibrosis, fibroblast foci, and the absence of features to suggest an alternative diagnosis is usually sufficient to establish a probable UIP pattern on TBLC. Combining UIP and probable UIP patterns in the context of multidisciplinary discussion (MDD) results in comparable rates of diagnostic agreement for SLB and TBLC in patients with IPF.
+
+Evidence-based Recommendations for Diagnosis of IPF
+
+We suggest that TBLC be regarded as an acceptable alternative to SLB for making a histopathological diagnosis in patients with ILD of undetermined type in medical centers with experience performing and interpreting TBLC (conditional recommendation, very low quality evidence).
+
+Background
+
+The 2018 guidelines for diagnosis of IPF addressed TBLC in patients with ILD of undetermined type but failed to garner enough agreement to make a consensus recommendation for or against TBLC. Additional studies have been published since the previous guideline; therefore, the guideline committee decided to reconsider the evidence pertaining to TBLC. In contrast, the 2018 diagnosis of IPF guidelines’ recommendation pertaining to SLB was not reevaluated. The committee concluded that there is insufficient new evidence to warrant reconsideration of the SLB recommendation at this time; in addition, a separate ERS task force may soon be addressing the topic.
+
+Summary of evidence
+
+The committee asked, “Should patients with newly detected ILD of undetermined type who are clinically suspected of having IPF undergo TBLC to obtain samples to make a histopathological diagnosis?” The systematic review that informed the committee’s recommendation is being published independently; we summarize the salient findings. Diagnostic yield was designated as a critical outcome. The remaining outcomes were rated as important outcomes, including diagnostic agreement and various complications.
+
+The systematic review identified 40 studies that evaluated TBLC in patients with ILD of undetermined type. The studies ranged in size from 12 to 699 patients and used either a 1.9- or 2.4-mm cryoprobe with fluoroscopic guidance. Five of the studies were prospective, most used deep sedation, most used rigid bronchoscopy, and the number and location of samples varied widely across studies.
+
+Regarding selection of diagnostic yield rather than sensitivity and specificity as the critical outcome, diagnostic yield is appropriate if the intervention is the reference standard, but sensitivity and specificity are appropriate if the intervention is compared with a reference standard. In this case, histopathological diagnosis was chosen a priori as the reference standard, making diagnostic yield the appropriate outcome. Clinical, radiological, and histopathological criteria applied by MDD were not chosen as the reference standard, because this would likely lead to misleading overestimates of sensitivity and specificity because of “incorporation bias.” Incorporation bias occurs when the test results are a component of the reference standard; in this case, histopathology obtained by TBLC is a key component of the diagnostic criteria considered during MDD.
+
+Diagnostic yield
+
+Diagnostic yield was defined as the number of procedures that yielded a histopathological diagnosis divided by the total number of procedures performed. The diagnostic yield of TBLC in patients with ILD of undetermined type was 79%. There was no difference in diagnostic yield across subgroups related to publication date, study size, or cryoprobe size. Only sample number appeared to affect diagnostic yield, with a diagnostic yield of 85% when three or more samples were collected and a diagnostic yield of 77% or less when fewer samples were collected.
+
+Diagnostic agreement
+
+Two studies reported agreement between the diagnostic interpretation of TBLC samples and SLB samples. The larger study demonstrated 70.8% agreement, which increased to 76.9% diagnostic agreement after MDD. Post hoc analysis suggested that agreement of TBLC with SLB improves by taking more samples. In contrast, the smaller study reported diagnostic agreement of only 38%.
+
+Complications
+
+Complications of TBLC included pneumothorax in 9% and any bleeding in 30%. Severe bleeding, procedural mortality, exacerbations, respiratory infections, and persistent air leak were rare.
+
+Quality of evidence
+
+The quality of evidence was very low for all outcomes, meaning that the committee should have very low confidence in the estimated effects, and therefore, the effects should be interpreted with caution. The main reason for the very low quality rating was that most of the studies were uncontrolled case series, and many were limited by not enrolling consecutive patients (potential selection bias).
+
+Guideline committee conclusions
+
+The original question and systematic review involved the comparison of TBLC versus no TBLC (i.e., TBLC followed by SLB, if needed, vs. going directly to SLB). However, the committee concluded that the comparison had become outdated because observations published during guideline development suggest that patients who have nondiagnostic findings on TBLC are likely to also have nondiagnostic findings on SLB. This changed the clinically meaningful comparison to TBLC versus SLB. Therefore, the committee compared the estimated 80% diagnostic yield of TBLC (according to the present systematic review) to the estimated 90% diagnostic yield of SLB (according to a previously published systematic review) and also considered that the sampling techniques provide similar diagnostic confidence in the context of MDD. They also compared the 9% and rare risk of pneumothorax and severe bleeding, respectively, on TBLC with the 6% and rare risk of pneumothorax and severe bleeding, respectively, on SLB. The committee judged the comparison favorably when one considers that TBLC is less invasive and less costly than SLB. As a result, the committee concluded that TBLC may be considered an acceptable alternative to SLB in experienced centers that have standardized their protocols to include steps to minimize risk and maximize diagnostic yield, as described in detail elsewhere. The committee emphasized the importance of the experience of the person performing the TBLC, the facilities, and the person interpreting the samples in the success of TBLC (as in SLB) and concluded that a conditional recommendation is more appropriate than a strong recommendation to account for variation in capabilities across institutions.
+
+The committee also emphasized that TBLC may not be appropriate for all patients. Similar physiological criteria should be considered whether assessing a patient’s suitability for TBLC or SLB. Severe lung function derangement (e.g., FVC < 50% predicted, DlCO < 35%), moderate or severe pulmonary hypertension (estimated systolic pulmonary arterial pressure > 40 mm Hg), uncorrectable bleeding risk, and/or significant hypoxemia (PaO2 < 55–60 mm Hg) are associated with a higher risk of adverse outcomes and are considered relative contraindications.
+
+There are emerging data regarding the safety and diagnostic yield of TBLC in subjects in whom SLB would not be performed because of significant lung function impairment or comorbidities. Although there are inconsistencies across studies, the data suggest that TBLC may be a reasonable option in some patients at higher risk for major complications, particularly when performed in higher volume centers. One study of 96 subjects from two centers reported no difference in the rates of adverse outcomes or length of hospitalization in higher risk patients (body mass index > 35 kg/m2, age > 75 yr, FVC < 50%, DlCO < 30%, systolic pulmonary arterial pressure > 40 mm Hg, or significant cardiac disease) compared with lower risk patients. Another study of 699 patients undergoing TBLC reported that both pathological and final multidisciplinary diagnostic yield were lower in patients with significant lung function impairment (FVC < 50% and/or DlCO < 35%). However, there were no significant differences in complications. Finally, another study showed that modified Medical Research Council score ⩾ 2, FVC ⩽ 50%, and Charlson Comorbidity Index ⩾ 2 were factors that predicted early and overall hospital readmission in the following 90 days. The overall mortality in this study at 90 days was 0.78%.
+
+Guideline committee vote
+
+The committee’s vote was as follows: strong recommendation to consider TBLC an appropriate alternative, 8 of 33 (24%); conditional recommendation to consider TBLC an appropriate alternative, 23 of 33 (70%); conditional recommendation to not consider TBLC an appropriate alternative, 2 of 33 (6%); and strong recommendation to not consider TBLC an appropriate alternative, 0 of 33 (0%). One participant abstained from voting because of insufficient expertise.
+
+Research needs
+
+The evidence was notable for inconsistency across studies, with some groups reporting significantly higher diagnostic yields than others. This suggests the continued need for procedural standardization, with subsequent measurement of outcomes, adjustments, and reevaluation.
+
+We make no recommendation for or against the addition of genomic classifier testing for the purpose of diagnosing UIP in patients with ILD of undetermined type who are undergoing transbronchial forceps biopsy, because of insufficient agreement among the committee members.
+
+Background
+
+A genomic classifier was developed with machine learning and whole transcriptome RNA sequencing using lung tissue obtained by SLB. More recently, it was introduced and validated for lung tissue obtained by transbronchial forceps biopsy. The appropriateness of genomic classifier testing in patients with ILD of unknown type has never been considered in the context of a clinical practice guideline.
+
+Summary of evidence
+
+The committee asked, “Should genomic classifier testing be performed for the purpose of diagnosing UIP in patients with ILD of undetermined type who are undergoing transbronchial forceps biopsy?” The systematic review that informed the committee’s recommendation is published independently; we summarize the salient findings. Diagnostic test characteristics were rated as critical outcomes, while diagnostic agreement, diagnostic confidence, and the adverse consequences of misclassification were rated as important outcomes.
+
+The systematic review identified four relevant studies, which included a total of 195 patients with ILD of unknown type. All of the studies were accuracy studies. Two of the studies also measured agreement in the categorization of UIP and non-UIP when a genomic classifier was or was not used, as well as diagnostic confidence before and after the use of a genomic classifier.
+
+Diagnostic test characteristics
+
+All four studies reported diagnostic test characteristics of genomic classifier testing and were included in a meta-analysis. The individual studies reported sensitivity ranging from 59% to 80% and specificity ranging from 78% to 100% using histopathological diagnosis from samples obtained by SLB, TBLC, or MDD as the reference standard. When aggregated by meta-analysis, genomic classifier testing identified the UIP pattern with sensitivity and specificity of 68% and 92%, respectively, in patients with ILD of unknown type.
+
+Diagnostic agreement and confidence
+
+Two studies reported diagnostic agreement and confidence. Multidisciplinary teams evaluated anonymized clinical information, radiology results, and either molecular classifier or histopathology results to categorize patients as having UIP pattern or non-UIP pattern. The studies then measured agreement of the categorizations obtained with and without genomic classifier testing, as well as diagnostic confidence before and after the use of genomic classifier data. One study reported agreement of 86% between categorical IPF or non-IPF diagnoses made using molecular classifier results or histopathology, with an increase in diagnostic confidence after the incorporation of genomic classifier data. The other study reported agreement of 88% between categorical IPF or non-IPF clinical diagnoses made by MDD with and without genomic classifier results, with an increase in the diagnostic confidence when genomic classifier results were considered.
+
+Quality of evidence
+
+The quality of evidence is determined by the critical outcomes, which was rated as low. There were well-done accuracy studies downgraded because of imprecision (wide confidence intervals and few patients), the maker of the diagnostic test funded three of the studies, and several of the individuals who developed the diagnostic test also conducted the studies (i.e., confirmation bias).
+
+Guideline committee conclusions
+
+The guideline committee made no recommendation for or against genomic classifier testing, because of insufficient agreement among the committee members. There were two schools of thought among the committee members. Those who favored genomic classifier testing believed that the high specificity provided important diagnostic information that can be used in MDD and, therefore, may reduce the need for additional sampling for histopathology diagnosis. Those who argued against genomic classifier testing believed that a recommendation in favor of testing was premature because 1) the sensitivity needs to improve (otherwise, a negative result fails to definitively exclude UIP); 2) the downstream consequences of false-negative results need to be better understood; 3) additional studies are necessary to obtain more precise estimates of sensitivity and specificity; 4) existing data incompletely address the incremental diagnostic value conferred by genomic classifier testing beyond what clinical and radiological data already provide, particularly given the possibility of a UIP pattern’s existing in a variety of ILDs; 5) the results do not provide the granular details that histopathology provides and are useful only in the context of MDD; 6) the importance of identifying UIP is less clear in the context of expanding antifibrotic indications; and 7) such testing is not yet widely available. Many also believed that transbronchial forceps biopsy testing needs to be considered at the same time that genomic classifier testing is considered because transbronchial forceps biopsy may have complications (the complications of transbronchial lung biopsy were reported in a previous guideline); in other words, the questions are inseparable. There was consensus that genomic classifier testing should be reconsidered once additional studies are published.
+
+Guideline committee vote
+
+The committee’s vote was as follows: strong recommendation for genomic classifier testing, 2 of 34 (6%); conditional recommendation for genomic classifier testing, 12 of 34 (35%); conditional recommendation against genomic classifier testing, 16 of 34 (47%); and strong recommendation against genomic classifier testing, 3 of 34 (12%). One participant abstained from voting because of insufficient expertise.
+
+Research needs
+
+The evidence base was notable for imprecision (wide confidence intervals) due to the small study sizes. Additional studies are needed to obtain more exact estimates of sensitivity and specificity. Research is also needed to improve the technique’s sensitivity, assess the downstream consequences of false-negative results (i.e., incorrectly categorizing a patient with the UIP pattern as not having the UIP pattern), and determine the ability of genomic classifier testing to differentiate UIP related to IPF and UIP related to other types of ILD.
+
+Diagnostic Approach
+
+The committee updated key figures from the 2018 guidelines for diagnosis of IPF. The primary change to the diagnostic algorithm is that patients with an HRCT pattern of probable UIP are now managed similarly to patients with UIP, meaning that lung sampling after initial MDD is less likely (Figure 10). The key change to the figure describing combinations of HRCT and histologic patterns is that an HRCT pattern suggestive of an alternative diagnosis combined with a histopathology pattern of probable UIP is now considered indeterminate for IPF rather than non-IPF (Figure 9). The rationale is the committee’s observation that patients with this combination of findings can have heterogeneous patterns of disease behavior and outcomes, including sometimes being similar to patients with IPF; therefore, labeling this as “indeterminate” seems preferable to the more limiting guidance that was provided in the previous guideline.
+
+Evidence-based Recommendations for Treatment of IPF
+
+We suggest not treating patients with IPF with antacid medication for the purpose of improving respiratory outcomes (conditional recommendation, very low quality evidence). Remarks: Antacid medication and other interventions may be appropriate for patients with both IPF and symptoms of gastroesophageal reflux disease (GERD) for the purpose of improving gastroesophageal reflux (GER)–related outcomes in accordance with GER-specific guidelines.
+
+Background
+
+Antacid medication was suggested in previous guidelines to improve respiratory outcomes in patients with IPF. The recommendations were based on several observations. First, up to 90% of patients with IPF have abnormal acidic GER. Second, patients with IPF have a high prevalence of hiatal hernias. Third, in theory, microaspiration might worsen IPF. Fourth, a retrospective cohort study reported that antacid therapy was associated with a survival benefit in patients with IPF. Finally, another observational study found a modest but statistically significant reduction in the FVC decline and fewer acute exacerbations. Since those recommendations were initially formulated, new evidence has been published, so the guideline committee revisited the topic.
+
+Summary of evidence
+
+The committee asked, “Should patients with IPF and confirmed GER, with or without symptoms of GERD, be treated with antacid medications to improve respiratory outcomes?” The systematic review that informed the committee’s recommendation is published independently; we summarize the salient findings. Five outcomes were designated as critical: disease progression, mortality, exacerbations, hospitalizations, and lung function. Two outcomes were designated as important: GER severity and adverse effects.
+
+An initial scoping review identified no studies that specifically analyzed patients with IPF who were stratified as either having or not having confirmed GER to determine the efficacy of antacid medication in these subgroups. Therefore, the search strategy and study selection criteria were broadened, and indirect evidence was sought (i.e., studies that enrolled patients with IPF regardless of whether GER had been confirmed). Fifteen studies were identified that evaluated antacid medication in patients with IPF. The number of participants ranged from 20 to 3,704. Studies included a small, randomized trial that compared the effects of omeprazole and placebo, 12 observational studies (4 of which enrolled patients from antifibrotic randomized trials) that compared proton pump inhibitors and/or histamine-2 receptor antagonists with no antacid medication at baseline, and 2 case series that evaluated proton pump inhibitors and/or histamine-2 receptor antagonists without a control group. Ten studies evaluated proton pump inhibitors and/or histamine-2 receptor antagonists, and the remaining 5 studies evaluated proton pump inhibitors only.
+
+Disease progression
+
+When the data from two observational studies were aggregated by meta-analysis, antacid medication had no statistically significant effect on disease progression when defined as a composite of >10% decline in FVC, >50-m decline in 6-minute-walk distance (6MWD), or death. An observational study of 1,061 patients that was not included in the meta-analysis because it defined disease progression differently showed that antacid medication was not associated with a statistically significant effect on disease progression when defined as a composite of ⩾5% decline in FVC or death; however, it was associated with increased disease progression when defined as a composite of ⩾10% decline in FVC or death.
+
+Mortality
+
+A small randomized trial found no significant difference in 90-day mortality when a proton pump inhibitor was compared with placebo, and multiple observational studies that reported mortality at time points ranging from 30 weeks to 5 years all revealed no significant difference when antacid medication was compared with no medication. Only the 1-year time point was reported by multiple observational studies and therefore could be evaluated by a meta-analysis, which showed no significant difference when antacid medication was compared with no antacid medication. There were similarly no differences in IPF-related mortality according to four observational studies.
+
+Exacerbations and hospitalizations
+
+Meta-analyses of observational studies detected no statistically significant effect on exacerbations over a 30-week to 1-year follow-up period or hospitalizations over a 90-day to 1-year follow-up period. A small randomized trial similarly showed no effect on hospitalizations at 90 days.
+
+Lung function
+
+A meta-analysis of three observational studies showed no difference in the change of percentage predicted FVC when patients who received antacid medication were compared with those who did not receive antacid medication. Additional observational studies similarly demonstrated no differences in the change in FVC or 6MWD between patients with and without antacid medication over 30 weeks to 1 year. A small randomized trial showed that FVC and percentage predicted FVC were both decreased at 90 days in the omeprazole group, but not the placebo group, with no differences in DlCO or 6MWD.
+
+Adverse effects
+
+One small randomized trial and three observational studies evaluated adverse effects of antacid medication in patients with IPF. In the randomized trial, there was no difference in any adverse effect, severe adverse effects, or specific adverse effects at 90 days. Two observational studies looked at specific types of adverse effects and revealed no difference in the antacid medication group compared with the control group at 1 year. In the third observational study, there was no difference in the rate of any adverse effect, but there was a higher rate of serious adverse effects in the antacid medication group compared with the control group, although the study had limitations that were acknowledged by its authors.
+
+Quality of evidence
+
+The quality of evidence for all outcomes was rated as very low, meaning that the committee should have very low confidence in the estimated effects, and therefore, the effects summarized below should be interpreted with caution. The main reason for the very low quality rating was that the critical outcomes were informed primarily by observational studies, many of which had a risk of immortal time bias. The lone randomized trial was limited by imprecision and short follow-up.
+
+Guideline committee conclusions
+
+The pertinent evidence was observational and indirect (i.e., the question was about patients with IPF who had confirmed GER, but the evidence consisted of unselected patients with IPF, both with and without confirmed GER). The committee discussed whether guidance should be provided for patients with IPF plus confirmed GER (i.e., the original question) or for all patients with IPF regardless of whether GER was confirmed or not (i.e., the population for which direct evidence exists), then voted by a two-thirds majority to provide guidance for all patients with IPF regardless of whether GER was confirmed. In the absence of any definitive benefits, the committee voted to make a conditional recommendation against treating patients with IPF with antacid medication for the sole purpose of improving respiratory outcomes.
+
+The committee emphasized three things, however. First, it is possible that antacid therapy may have beneficial effects in patients with confirmed GER that were negated by the inclusion of patients with IPF without GER in studies that enrolled all patients with IPF; therefore, the guidance might change if patients with IPF are stratified as either having or not having confirmed GER and the efficacy of antacid medication is determined for each subgroup. Second, the quality of evidence was very low, meaning that the committee had very low confidence in the estimated effects, which should be interpreted with caution. Finally, antacid medication may be indicated in patients with IPF with symptoms of GERD to improve GER-related outcomes, and the committee refers readers to GER-specific clinical practice guidelines.
+
+Guideline committee vote
+
+The committee’s vote was as follows: strong recommendation for antacid medication, 0 of 28 (0%); conditional recommendation for antacid medication, 2 of 28 (7%); conditional recommendation against antacid medication, 24 of 28 (86%); and strong recommendation against antacid medication, 2 of 28 (7%). Three participants abstained from voting, 1 citing insufficient evidence and 2 indicating that they believed they had insufficient expertise.
+
+Research needs
+
+The predominance of existing evidence is observational and, therefore, susceptible to bias due to unmeasured confounders. Randomized trials comparing the effects of antacid medication and placebo on respiratory outcomes in patients with IPF would be a valuable addition to the field, potentially enabling definitive recommendations. Theoretically, antacid therapy may have a differential effect in patients with confirmed or symptomatic GER, so randomized trials should be powered to look at these subgroups.
+
+We suggest not referring patients with IPF for antireflux surgery for the purpose of improving respiratory outcomes (conditional recommendation, very low quality evidence). Remarks: Antireflux surgery may be appropriate for patients with both IPF and symptoms of GERD for the purpose of improving GER-related outcomes in accordance with GER-specific guidelines.
+
+Background
+
+Antireflux surgery to improve respiratory outcomes in patients with IPF has never been considered in the context of a clinical practice guideline.
+
+Summary of evidence
+
+The committee asked, “Should patients with IPF and confirmed GER, with or without symptoms of GERD, be referred for antireflux surgery to improve respiratory outcomes?” The systematic review that informed the committee’s recommendation is published independently; we summarize the salient findings. Five outcomes were designated as critical: disease progression, mortality, exacerbations, hospitalizations, and lung function. Two outcomes were designated as important: GER severity and adverse effects.
+
+The systematic review identified four studies that evaluated antireflux surgery in patients with IPF. The number of participants ranged from 27 to 204. Studies included a small randomized trial comparing antireflux surgery with no surgery, 2 observational studies comparing antireflux surgery with no surgery, and 1 case series of patients who underwent antireflux surgery without a control group. The randomized trial required that patients have confirmed GER, whereas the observational studies and case series indicated that most patients had GER confirmed before surgery. Surgical procedures included any type of fundoplication, which was performed laparoscopically in three studies.
+
+Disease progression
+
+The randomized trial of 58 patients with IPF measured the effect of antireflux surgery on disease progression using various composite outcomes over 48 weeks: 1) >10% decline in FVC or death; 2) >10% decline in FVC, acute exacerbation, or death; 3) respiratory hospitalization or death; 4) nonelective hospitalization or death; or 5) 10% decline in FVC, 5-point change in University of California, San Diego Shortness of Breath Questionnaire (UCSD-SOBQ), respiratory hospitalization, or death. The first and second outcomes showed no effects when analyzed using relative risk and 95% confidence intervals but reached statistical significance when an adjusted P value was derived using a worst-rank analysis. The third, fourth, and fifth outcomes showed no effects with either a relative risk and 95% confidence interval analysis or a worst-rank analysis. An observational study of 34 patients used change in oxygen requirement as a surrogate for disease progression and demonstrated decreasing oxygen requirements in the surgery group and increasing oxygen requirements in the no-surgery group over a mean follow-up period of 15 months.
+
+Mortality
+
+The randomized trial showed no statistically significant effect on overall mortality at 48 weeks, while an observational study of 204 patients with IPF reported no significant association between antireflux surgery and overall mortality after a median follow-up period of >3 years.
+
+Exacerbation and hospitalization
+
+Only the randomized trial measured exacerbation and hospitalization rates. The trial reported no statistically significant effect on exacerbations, respiratory-related hospitalizations, or all hospitalizations.
+
+Lung function
+
+There were no differences in either absolute measurements and/or changes in FVC, DlCO, or 6MWD in either the randomized trial or an observational study of 34 patients.
+
+Surgical complications
+
+Surgical complications were reported in the randomized trial, one of the observational studies, and the case series. The aggregate 30-day rates of all surgical complications and severe surgical complications were 15% and 9%, respectively. Among the more common complications, dysphagia, abdominal distension, and nausea occurred in 18%, 15%, and 4% of patients, respectively.
+
+Quality of evidence
+
+The quality of evidence for all outcomes was rated as very low, meaning that the committee should have very low confidence in the estimated effects, and therefore, the effects summarized below should be interpreted with caution. The main reason for the very low quality rating was that many of the critical outcomes were informed by a randomized trial that was downgraded because of risk of bias (lack of blinding, crossover), imprecision (wide confidence intervals because of few events), and potential reporting bias (some secondary outcomes were not reported). Other outcomes were informed by observational evidence limited by small size and incomplete data availability for some outcomes.
+
+Guideline committee conclusions
+
+In the absence of any definite statistically significant benefits but surgical complications occurring in up to 15% of patients, the committee voted to make a conditional recommendation to not refer patients for antireflux surgery for the purpose of improving respiratory outcomes. However, the committee emphasized three things. First, many of the point estimates would be clinically important if real, but the confidence intervals extend from a large beneficial effect to harm, indicating that the sample size was too small to definitively confirm or exclude an effect. This suggests a need for further research to investigate these outcomes. Second, the quality of evidence is very low, meaning that the committee should have very low confidence in estimated effects. Finally, the conditional recommendation is about whether patients should be referred for antireflux surgery for the sole purpose of improving respiratory outcomes and is not intended as a judgment about the value of antireflux surgery to improve GER-related outcomes in patients with IPF. The latter may be appropriate in some situations.
+
+Guideline committee vote
+
+The committee’s vote was as follows: strong recommendation for referral for antireflux surgery, 0 of 28 (0%); conditional recommendation for referral for antireflux surgery, 7 of 28 (25%); conditional recommendation against referral for antireflux surgery, 15 of 28 (54%); and strong recommendation against referral for antireflux surgery, 6 of 28 (21%). Two participants abstained from voting, both indicating that they had inadequate expertise to address the question.
+
+Research needs
+
+The prevailing observation from the systematic review was that a single randomized trial exists that measured clinically meaningful outcomes and whose point estimates suggest a potential beneficial effect, but the trial was too small to either confirm or exclude such an effect. Thus, a larger, adequately powered randomized trial comparing antireflux surgery with no surgery in patients with confirmed GER is needed, with measurement of the same or similar outcomes as the existing randomized trial.
+
+Management Approach
+
+The committee updated a key figure summarizing the management of IPF from the 2011 IPF guidelines (Figure 11).
+
+Schematic pathway for clinical management of patients with idiopathic pulmonary fibrosis (IPF), developed using consensus by discussion. Treatment considerations should include both pharmacological (nintedanib and pirfenidone) and nonpharmacological (oxygen supplementation and/or pulmonary rehabilitation) therapies. Patients should be evaluated and treated for existing comorbidities, including pulmonary hypertension, gastroesophageal reflux, obstructive sleep apnea, and lung cancer. Patients may benefit from involvement of palliative care to help with symptom management (cough, dyspnea, and/or anxiety). Patient values and preferences should be explored. Patients at increased risk of mortality should be referred for lung transplantation at diagnosis. Patients should be evaluated every 3–6 months or more often for disease progression. Acute exacerbations may be treated with corticosteroids. Mechanical ventilation is not recommended for the majority of patients with respiratory failure. Adapted from Reference. CT = computed tomography; HRCT = high-resolution computed tomography.
+
+Future Directions
+
+Validate the utility of family history or genetics in diagnostic algorithms, as incorporating family aggregation and genetic data into the MDD might avoid invasive procedures.
+
+Evaluate combination therapies.
+
+Optimize strategies for addressing quality of life, including treatment of comorbidities, physical activity, emotional well-being, and palliation of symptoms.
+
+Research needs related to TBLC, genomic classifier testing, antacid medications, and antireflux surgery are addressed above. Additional needs include the following:
+
+Part II: Diagnosis and Treatment of PPF in Fibrotic ILD, Other than IPF
+
+Definition of PPF
+
+In a patient with ILD of known or unknown etiology other than IPF who has radiological evidence of pulmonary fibrosis, PPF is defined as at least two of the following three criteria occurring within the past year with no alternative explanation (Table 4):
+
+Definition of Progressive Pulmonary Fibrosis
+
+Definition of PPF	 	In a patient with ILD of known or unknown etiology other than IPF who has radiological evidence of pulmonary fibrosis, PPF is defined as at least two of the following three criteria occurring within the past year with no alternative explanation*:	 	1	Worsening respiratory symptoms	 	2	Physiological evidence of disease progression (either of the following): a. Absolute decline in FVC ⩾5% predicted within 1 yr of follow-up b. Absolute decline in DlCO (corrected for Hb) ⩾10% predicted within 1 yr of follow-up	 	3	Radiological evidence of disease progression (one or more of the following): a. Increased extent or severity of traction bronchiectasis and bronchiolectasis b. New ground-glass opacity with traction bronchiectasis c. New fine reticulation d. Increased extent or increased coarseness of reticular abnormality e. New or increased honeycombing f. Increased lobar volume loss
+
+Definition of abbreviations: ILD = interstitial lung disease; IPF = idiopathic pulmonary fibrosis; PPF = progressive pulmonary fibrosis.
+
+Although it is critical to exclude alternative explanations of worsening features for all patients with suspected progression, this is particularly important in patients with worsening respiratory symptoms and/or decline in DlCO given the lower specificity of these features for PPF compared with FVC and chest computed tomography.
+
+worsening respiratory symptoms;
+
+physiological evidence of disease progression, as defined below; and
+
+radiological evidence of disease progression, as defined below.
+
+Although it is critical to exclude alternative explanations of worsening features for all patients with suspected progression, this is particularly important in patients with worsening respiratory symptoms and/or decline in DlCO given the lower specificity of these features for PPF compared with FVC and chest CT.
+
+The guideline committee emphasized four points. First, PPF is defined separately from IPF, which was defined in previous guidelines (Figure 12). Second, PPF is not a diagnosis, and the definition of PPF is agnostic to the underlying condition. Representative fibrotic lung diseases that can manifest PPF are listed in Table 5. Third, the criteria for PPF reflect multiple clinical trials because the committee believed that no single trial should guide antifibrotic therapy. Even though trials used different criteria, they identified populations whose disease progressed similarly. Finally, the criteria for PPF have been associated only with prognosis; it is unclear if they also identify patients best suited for antifibrotic therapy.
+
+Interstitial lung diseases (ILDs) manifesting progressive pulmonary fibrosis (PPF), developed using consensus by discussion. The shaded area represents the estimated proportion of patients with various types of ILD who manifest PPF. Note that idiopathic pulmonary fibrosis (IPF) is not included in the figure, because it is excluded from the definition of PPF. While virtually all patients with IPF will manifest disease progression similar to PPF, the proportion of patients with ILDs other than IPF who manifest PPF is based on the consensus of opinions and the perception of the international committee. There are no data to provide the exact or estimated proportion of patients manifesting PPF in ILDs, other than IPF. *The committee acknowledges that eosinophilic pneumonia of unknown cause was not included in the IIP classification. †Myositis includes PM/DM/antisynthetase syndrome, which may be amyopathic. ‡Although respiratory bronchiolitis interstitial lung disease (RBILD) is acknowledged to be a consequence of exposure to cigarette smoke in virtually all patients with RBILD, RBILD and desquamative interstitial pneumonia (DIP) often coexist. Although DIP is also related to exposure to cigarette smoke in a majority of patients, DIP is also seen in some patients with connective tissue disease, without exposure to cigarette smoke, and without a known cause. Antifibrotic treatment is indicated for patients diagnosed with IPF. Antifibrotic treatment of the other types of ILD upon manifesting PPF is as suggested/recommended in this guideline. AFOP = acute fibrinous and organizing pneumonia; AIP = acute interstitial pneumonia; COP = cryptogenic organizing pneumonia; DM = dermatomyositis; HP = hypersensitivity pneumonitis; iDIP = idiopathic DIP; IIP = idiopathic interstitial pneumonia; iLIP = idiopathic lymphoid interstitial pneumonia; iNSIP = idiopathic nonspecific interstitial pneumonia; iPPFE = idiopathic pleuroparenchymal fibroelastosis; LAM = lymphangioleiomyomatosis; LCH = Langerhans cell histiocytosis; MCTD = mixed connective tissue disease; PAP = pulmonary alveolar proteinosis; PM = polymyositis; RA = rheumatoid arthritis; SLE = systemic lupus erythematosus; SSc = systemic sclerosis.
+
+Selected Fibrotic Lung Diseases That Can Manifest Progressive Pulmonary Fibrosis
+
+Potentially Fibrotic Interstitial Lung Diseases	Histologic Patterns	 	Idiopathic F-NSIP	• F-iNSIP 	 	PPFE	• IAFE • May coexist with other patterns such as UIP in patients with other forms of concomitant ILD (e.g., IPF) 	 	FOP	• Cicatricial organizing pneumonia • Organizing pneumonia with concomitant interstitial fibrosis (sometimes secondary to diffuse alveolar damage/acute interstitial pneumonia) 	 	DIP	• DIP*	 	Fibrotic CTD-related ILD	• F-NSIP, FOP, UIP (use histopathological criteria for idiopathic diseases)	 	Fibrotic HP	• HP and probable HP • Fibrotic element may be that of UIP, F-NSIP, or bronchiolocentric fibrosis	 	Fibrotic occupational ILD	• Dependent on occupational lung disease (asbestosis, fibrotic HP, silicosis, pneumoconiosis, or other) 	 	Fibrotic LCH	• F-LCH 	 	Fibrotic sarcoidosis	• Discrete nonnecrotizing granulomas with a lymphatic distribution with coexistent fibrosis 	 	Unclassified fibrotic ILD	• Cases should ideally be termed “unclassifiable” only after multidisciplinary discussion. Most cases represent combined or overlapping patterns of classifiable interstitial pneumonias, and these should be reported as such 	 	Other	• Fibrosis in association with inborn errors of metabolism, surfactant protein disorders, pulmonary involvement by systemic disorders, or others
+
+Definition of abbreviations: CTD = connective tissue disease; DIP = desquamative interstitial pneumonia; F-LCH = fibrotic Langerhans cell histiocytosis; F-iNSIP = fibrotic idiopathic nonspecific interstitial pneumonia; F-NSIP = fibrotic nonspecific interstitial pneumonia; FOP = fibrosing organizing pneumonia; HP = hypersensitivity pneumonitis; IAFE = intraalveolar fibrosis and elastosis; ILD = interstitial lung disease; IPF = idiopathic pulmonary fibrosis; LCH = Langerhans cell histiocytosis; PPFE = pleuroparenchymal fibroelastosis; UIP = usual interstitial pneumonia.
+
+Terminology for fibrotic interstitial pneumonias with DIP-like features is controversial, this overlapping with F-NSIP.
+
+The guideline committee considered other terms. They contemplated whether to maintain the term used in a hallmark clinical trial, “progressive fibrosing ILD,” but opted to adopt the term “PPF” instead because 1) disease progression is the result of PPF beyond the interstitial space in the lung parenchyma; 2) disease progression causes a clinical course similar to IPF; and 3) PPF is simple and compatible with the broadly used term that is well known and currently used by both clinicians and patients, “pulmonary fibrosis.” The committee also considered incorporating the term “phenotype” (e.g., progressive fibrotic phenotype). However, “phenotype” implies that there is an identified genotype, but there is no known genotype associated with PPF. The committee was not in favor of using “clinical phenotype,” because this was unlikely to be distinguished from “phenotype” by most clinicians.
+
+Physiological Criteria for PPF
+
+Absolute decline in FVC of ⩾5% within 1 year of follow-up.
+
+Absolute decline in DlCO (corrected for Hb) of ⩾10% within 1 year of follow-up.
+
+There is a paucity of published data regarding physiological measurements in patients with PPF. Therefore, the committee derived the physiological criteria for PPF by extrapolation of data from patients with IPF because the disease behavior and prognosis of IPF and PPF are comparable. The committee defined physiological evidence of disease progression as the presence of either of the following findings, if the findings are attributable to worsening fibrosis:
+
+Several physiological criteria were discussed, including changes in FVC, DlCO, and walk distance; acute exacerbations; hospitalizations; deteriorated or newly developed pulmonary hypertension; and change in quality of life. Only changes in FVC and DlCO were accepted by the guideline committee, as all other factors are highly variable or may be altered by the clinical context (e.g., hospitalization patterns).
+
+Absolute decline in FVC
+
+FVC is the physiological parameter most often used to follow patients with IPF because it is associated with prognosis. The guideline committee chose an absolute decline in FVC of ⩾5% over 1 year as a criterion for disease progression, a value that was extrapolated from the IPF literature.
+
+Although some trials have used a relative change in FVC to assess progression of pulmonary fibrosis, the committee prefers to use absolute change because it forecasts poorer outcomes and is regarded as an important predictor of mortality in IPF. It is important to understand that absolute and relative changes in FVC identify different populations. For example, a patient beginning with an FVC of 60% predicted would be determined to have progressive disease at an FVC of 55% if defined as an absolute decline of ⩾5% but would be determined to have progressive disease at an FVC of 57% if defined as a relative decline of ⩾5%. The absolute decline in FVC is calculated as the initial FVC measurement minus the final FVC measurement (example 1: 60% predicted minus 55% predicted equals a 5% absolute decline; example 2: 1,000 ml minus 950 ml equals a 50-ml absolute decline), whereas a relative decline in FVC is calculated as the difference between the initial and final FVC measurements, divided by the initial FVC measurement (example 1: [60% predicted minus 57% predicted] divided by 60% predicted equals a 5% relative decline; example 2: [1,000 ml minus 950 ml] divided by 1,000 ml equals a 5% absolute decline).
+
+Highlighting the importance of FVC as a measure of disease progression, FVC has been used to define disease progression in recent trials on patients with PPF, including the INBUILD (Efficacy and Safety of Nintedanib in Patients with Progressive Fibrosing Interstitial Lung Disease) trial, the RELIEF (Exploring Efficacy and Safety of Oral Pirfenidone for Progressive, Non-IPF Lung Fibrosis) trial, and a trial of patients with unclassifiable ILD (uILD). According to one retrospective analysis, there can be significant differences in the course of disease depending on the criteria used to define progression.
+
+Absolute decline in DlCO
+
+DlCO has not been a successful endpoint in clinical trials of patients with pulmonary fibrosis, likely because of measurement variability within patients, varying techniques across pulmonary function laboratories, and lack of specificity for progression of pulmonary fibrosis. Despite these limitations, change in DlCO (corrected for Hb) is a consistent and strong predictor of mortality in patients with a variety of fibrotic lung diseases. The committee’s inclusion of DlCO as a criterion for PPF is justified on this basis, with the caveat that it is essential to exclude alternative causes of worsening DlCO before ascribing any decline in DlCO to progressive fibrosis. The requirement that a decline in DlCO be attributed to progressive fibrosis mandates the performance of additional evaluation, typically including HRCT, to exclude alternative causes of worsening DlCO. Hb-corrected decline in absolute measurements of DlCO in the absence of another explanation for the decline may be a sign of PPF, especially when complemented by a decrease in FVC or increased extent of fibrosis on HRCT.
+
+The committee defined a clinically meaningful decline in DlCO as an absolute decline of ⩾10%, justifying the higher threshold on the basis of technical limitations affecting the reproducibility of this measurement. As with FVC, the committee prefers to use absolute change rather than relative change for DlCO. For example, a patient beginning with a DlCO of 60% predicted would be determined to have progressive disease at a DlCO of 50% or lower if defined as an absolute decline of ⩾10% but would be determined to have progressive disease at a DlCO of 54% or lower if defined as a relative decline of ⩾10%.
+
+An additional criterion that was considered by the committee was acute exacerbation, but this was deemed not appropriate for the definition of PPF because it has its own separate definition. In practice, clinicians should reassess patients after exacerbations and use these assessments to determine if progression occurred.
+
+Radiological Criteria for PPF
+
+Visual determination of progression of pulmonary fibrosis
+
+Progression of fibrosis is typically assessed visually, relying on the percentage of lung volume containing fibrotic features in the upper, mid, and lower lung zones. Transverse, coronal, and sagittal contiguous HRCT sections of the initial and follow-up CT examinations are compared side by side, after adjustment for lung volume changes. An increased extent of fibrotic features denotes progression (Figure 13). These may include increased traction bronchiectasis and bronchiolectasis, new ground-glass opacity with traction bronchiectasis, new fine reticulation, increased coarseness of reticular abnormality, new or increased honeycombing, and increased lobar volume loss.
+
+Progressive pulmonary fibrosis in a patient with idiopathic pulmonary fibrosis (probable usual interstitial pneumonia pattern). (A and B) Baseline axial and coronal images show moderately extensive reticular abnormality with traction bronchiectasis, with predominance in the subpleural lower lung. (C and D) Matched images 4 years later show substantial increase in extent of abnormality and increased traction bronchiectasis.
+
+In IPF, progression is usually manifested by increased extent of the UIP pattern, in both transverse and coronal planes. The size and number of honeycomb cysts often increase as the disease progresses. Progression of traction bronchiectasis and bronchiolectasis is a strong independent predictor of mortality in IPF. In ILDs other than IPF, however, the pattern of progression is variable and may include evolution of ground-glass abnormality to reticular abnormality, evolution of reticular abnormality to honeycombing, and/or increase in traction bronchiectasis/bronchiolectasis. Patients with nonspecific interstitial pneumonia (NSIP) may progress to a UIP-like CT pattern with honeycombing (Figure 14).
+
+Progressive pulmonary fibrosis due to fibrotic nonspecific interstitial pneumonia (NSIP). (A) Computed tomography in a 45-year-old woman with scleroderma shows lower lung–predominant reticular and ground-glass abnormality with subpleural sparing, typical for NSIP. (B) Nine years later, the fibrosis has progressed with increased extent of reticular abnormality, increased traction bronchiectasis, and evolution of reticular abnormality to honeycombing. Small bilateral pleural effusions are present.
+
+Follow-up HRCT is indicated when there is clinical suspicion of worsening fibrosis. The optimal interval for follow-up HRCT to determine disease progression is unknown. Limited data suggest that in patients with systemic sclerosis and stable pulmonary function, repeated chest HRCT within 12–24 months from baseline could be useful to promptly detect progression and possibly influence prognosis. Annual HRCT can also be considered to screen for complications, particularly lung cancer.
+
+It is difficult to predict the proportion of patients with non-IPF ILDs who will develop a progressive fibrotic pattern; however, some HRCT findings in individual patients are considered predictors of disease progression. For example, in addition to the presence of honeycombing and traction bronchiectasis, which are associated with worse prognosis, a greater extent of fibrotic changes is known to be predictive of mortality in IPF, rheumatoid arthritis–related ILD, systemic sclerosis–related ILD, fibrotic HP, pulmonary sarcoidosis, and uILD.
+
+CT features of early lung fibrosis include fine reticulation, intralobular lines, and architectural distortion (irregular, tortuous pulmonary vessels and airways or distorted lobular anatomy), seen either in isolation or superimposed on ground-glass opacities. This pattern, suggestive of interstitial changes at an early phase, may be seen incidentally on thoracic or abdominal CT scans obtained for other purposes, including screening for lung cancer, and is often associated with histologic evidence of fibrosis. These incidentally identified interstitial lung abnormalities (ILA) are an independent risk factor for mortality. At least 40% of subjects with ILA show progression of CT changes when followed over 4–6 years (see Figure E1 in the online supplement).
+
+Quantitative assessment of progression of pulmonary fibrosis
+
+Computer-based quantitative CT (QCT) can provide a more objective and reproducible measure of progression than visual assessment (Figure E2). QCT has evolved from relatively simple histogram-based techniques to machine learning methods based on texture, local histogram, and deep learning–based classification. These approaches have successfully defined the extent and progression of disease and predicted mortality. Further validation and adoption of standardized protocols will be necessary before QCT can be widely used in the community.
+
+Evidence-based Recommendations for Treatment of PPF, Other than IPF
+
+Pirfenidone
+
+We recommend further research into the efficacy, effectiveness, and safety of pirfenidone in both 1) non-IPF ILD manifesting PPF in general and 2) specific types of non-IPF ILD manifesting PPF.
+
+Background
+
+It is plausible that antifibrotic agents that slow disease progression in IPF may also slow progression in PPF. One such antifibrotic agent, pirfenidone, is an oral agent with antiinflammatory, antioxidative, and antiproliferative effects that was recommended for treatment of IPF in prior guidelines.
+
+The committee asked, “Should patients with PPF be treated with pirfenidone?” Given that many different types of ILD can manifest PPF, this overarching question was also asked for eight specific types of ILD that can manifest PPF: 1) Should patients with PPF and radiological UIP pattern be treated with pirfenidone? 2) Should patients with PPF and radiological non-UIP pattern be treated with pirfenidone? 3) Should patients with progressive fibrotic HP be treated with pirfenidone? 4) Should patients with progressive fibrotic CTD-related ILD be treated with pirfenidone? 5) Should patients with progressive fibrotic NSIP be treated with pirfenidone? 6) Should patients with progressive fibrotic sarcoidosis be treated with pirfenidone? 7) Should patients with progressive fibrotic occupational ILD be treated with pirfenidone? 8) Should patients with progressive fibrotic uILDs be treated with pirfenidone?
+
+Critical outcomes included mortality and disease progression (determined by change in FVC). Important outcomes included lung function (determined by changes in FEV1, TLC, DlCO, and 6MWD), respiratory symptoms (determined by change in St. George’s Respiratory Questionnaire, Leicester Cough Questionnaire, UCSD-SOBQ, or visual analog scale for cough scores), and adverse events (AEs).
+
+Summary of evidence
+
+The systematic review that informed the committee’s recommendation is published independently; we summarize the salient findings. The systematic review identified two randomized trials that enrolled patients with PPF and evaluated the effects of pirfenidone. One trial of uILD randomly assigned 253 patients with fibrotic uILD to receive pirfenidone or placebo, then followed them for 24 weeks. The other trial (RELIEF) randomly assigned 127 patients with PPF to receive pirfenidone or placebo, then followed them for 48 weeks. The latter trial included patients with chronic HP, CTD-related ILD, NSIP, and asbestosis-induced lung fibrosis. The trial was terminated early because of futility triggered by slow recruitment; however, imputations were conducted for missing data with the primary analysis favoring the pirfenidone arm.
+
+Disease progression
+
+When the trials were aggregated by meta-analysis, pirfenidone reduced the decreases in FVC by 100 ml and in percentage predicted FVC by 2.3% over 24 weeks. In the uILD trial, pirfenidone decreased by 1.6 times the likelihood that percentage predicted FVC would decline >5% and decreased by 1.9 times the likelihood that percentage predicted FVC would decline >10%.
+
+Mortality
+
+The uILD trial did not demonstrate a statistically significant difference in progression-free survival. Similarly, the RELIEF trial did not show a statistically significant difference in progression-free survival or mortality at 48 weeks.
+
+Lung function
+
+Only the RELIEF trial reported changes in FEV1 and TLC, neither of which was statistically significant. The RELIEF trial showed that pirfenidone reduced the mean decrease in DlCO by 0.40 mmol/kPa/min, while the uILD trial found that patients with fibrotic uILD who received pirfenidone had a 3.7-times reduced risk of a DlCO decline of >15%, although there was no statistically significant difference in the mean change in percentage predicted DlCO. When the trials were combined by meta-analysis, pirfenidone attenuated the decline in 6MWD by 25.2 m, whereas in the uILD trial the number of patients whose 6MWD declined by >50 m was unchanged.
+
+Respiratory symptoms
+
+There was no significant difference in mean St. George’s Respiratory Questionnaire score, Leicester Cough Questionnaire score, UCSD-SOBQ scores, or visual analog scale score for cough.
+
+AEs
+
+Pirfenidone increased the risk of gastrointestinal discomfort 1.8 times and photosensitivity 4.9 times. Pirfenidone increased the risk of any AE 1.2 times and the risk of treatment-related AEs 1.5 times.
+
+Quality of evidence
+
+The quality of evidence for all outcomes was rated as very low, meaning that the committee should have very low confidence in the estimated effects, and therefore, the effects summarized below should be interpreted with caution. The main reason for the very low quality rating was that although there were two randomized trials, one trial was terminated early because of futility, and both trials were limited by small sample sizes, resulting in confidence intervals whose ends included both benefit and harm.
+
+Guideline committee conclusions
+
+Approximately one-third of the committee abstained from voting for or against pirfenidone, citing insufficient evidence, yielding a research recommendation according to prespecified voting rules. Among the committee members who were willing to vote for or against pirfenidone, there was unanimous consensus in favor of pirfenidone. The guideline committee as a whole acknowledged that pirfenidone is a promising therapy for non-IPF PPF but voiced two major concerns. First, they were concerned that the estimated effects informing their decisions derived from only 127 patients who had PPF due to an ILD other than fibrotic uILD, which was not precisely defined. Second, they were concerned that if they made a recommendation pertaining specifically to patients with uILD, it may discourage clinicians from rigorously trying to identify the underlying type of ILD before the initiation of therapy, and the data are insufficient to warrant such a drastic paradigm shift.
+
+Guideline committee vote
+
+The committee’s vote was as follows: strong recommendation for pirfenidone, 0 of 34 (0%); conditional recommendation for pirfenidone, 21 of 34 (62%); conditional recommendation against pirfenidone, 0 of 34 (0%); and strong recommendation against pirfenidone, 0 of 34 (0%). Thirteen participants (38%) abstained from voting, 11 citing insufficient evidence to make a recommendation and 2 citing insufficient expertise to render a thoughtful judgment.
+
+Research needs
+
+The existing randomized trials encompass only 380 patients with PPF, among whom 253 had fibrotic uILD manifesting PPF. Additional randomized trials are needed that enroll patients with PPF due to other types of ILD, compare pirfenidone with placebo, and measure disease progression, mortality, and AEs. The number of patients should be sufficient to allow independent analysis of each type of ILD.
+
+Nintedanib
+
+We suggest nintedanib for the treatment of PPF in patients who have failed standard management for fibrotic ILD, other than IPF (conditional recommendation, low-quality evidence). Remarks: Standard management will differ from patient to patient. In many patients it will be immunosuppressive treatment in an attempt to stabilize or reverse initial disease, but this is not a prerequisite, as in some patients, standard management could be antigen remediation or observation. Besides this, it should be acknowledged that in many ILDs, evidence-based guidance for standard of care is lacking; hence, standard of care may vary from region to region.
+
+We recommend research into the efficacy, effectiveness, and safety of nintedanib in specific types of non-IPF ILD manifesting PPF.
+
+Background
+
+Nintedanib is another antifibrotic agent that, like pirfenidone, slows disease progression in IPF. It is an oral intracellular tyrosine kinase inhibitor that blocks pathways involved in fibrogenesis, which was recommended for treatment of IPF in prior guidelines.
+
+The committee asked, “Should patients with PPF be treated with nintedanib?” Given that many different types of ILD can manifest PPF, this question was also asked for the same eight specific types of ILD that were described in the pirfenidone section above. Critical outcomes included mortality and disease progression (determined by change in FVC). Important outcomes included respiratory symptoms (determined by changes in the King’s Brief Interstitial Lung Disease Questionnaire) and AEs.
+
+Summary of evidence
+
+The systematic review that informed the committee’s recommendation is published independently; we summarize the salient findings. The systematic review identified one randomized trial and a post hoc analysis of the trial. The randomized trial (INBUILD) randomly assigned 663 patients with PPF to nintedanibor placebo for 52 weeks, while the post hoc analysis compared the effects of nintedanib with placebo in the individual types of ILD that were manifesting PPF. The type of ILD was determined by the investigators at each study site without prespecified diagnostic criteria being provided to the site investigators, rather than through a central review process, so diagnostic variation across institutions was possible.
+
+Disease progression
+
+Among all patients with PPF, FVC declined in both the nintedanib and placebo arms of the INBUILD trial, but the mean annual decline was significantly less (107 ml) in the nintedanib arm. The trial also described “progression of ILD” as an AE without defining it in this context; however, nintedanib decreased the risk of this progression 2.4 times. The difference in the annual decline in FVC between the nintedanib and placebo arms was 128 ml/yr among patients who had a radiological UIP pattern, whereas it was 75.3 ml/yr among patients with a radiological non-UIP pattern. Nintedanib decreased the risk of progression of ILD as an AE 2.3 times among patients who had a radiological UIP pattern, but there was no significant difference among patients who had a radiological non-UIP pattern.
+
+Patients with PPF who received nintedanib had less annual decline in the FVC if their underlying ILD was CTD-related ILD (106.2 ml/yr less), fibrotic NSIP (141.7 ml/yr less), or fibrotic occupational lung disease (252.8 ml/yr less); however, there was no significant difference in the progression of ILD as an AE for any type of ILD. Among patients with PPF due to fibrotic HP, sarcoidosis, or uILD, there was no difference in the annual decline in FVC or the progression of ILD as an AE. It is noteworthy that the estimates are based on small sample sizes: CTD-related ILD, n = 147; fibrotic NSIP, n = 125; fibrotic occupational lung disease, n = 39; fibrotic HP, n = 173; sarcoidosis, n = 12; uILD, n = 114; and other, n = 53.
+
+Mortality
+
+The INBUILD trial showed no significant difference in all-cause mortality or fatal AEs among all patients with PPF. Similarly, there was no difference in all-cause mortality among patients with PPF who had a radiological UIP pattern. Mortality was not analyzed among patients with PPF who had a radiological non-UIP pattern or for the type of underlying ILD.
+
+Adverse effects
+
+Among all patients with PPF, nintedanib increased gastrointestinal AEs, including abdominal pain (4.2 times), nausea (3.1 times), vomiting (3.6 times), diarrhea (2.8 times), anorexia (2.8 times), weight loss (3.7 times), elevated aspartate aminotransferase (3.2 times), elevated alanine aminotransferase (3.6 times). It also increased the likelihood of any AE (1.1 times), an AE leading to permanent dose reduction (7.9 times), and an AE leading to treatment discontinuation (1.9 times). There were no significant differences in respiratory AEs (including cough, dyspnea, bronchitis, and nasopharyngitis), headache, serious AEs, or severe AEs. The finding of more AEs in the nintedanib arm was seen regardless of whether patients had a radiological UIP pattern or non-UIP pattern and regardless of the type of underlying ILD, although there was slight variation among groups in which AEs were positive.
+
+Quality of evidence
+
+The quality of evidence for all outcomes was rated as low, meaning that the committee had low confidence in the estimated effects, and therefore, the effects summarized below should be interpreted with caution. The overall low-quality rating is based on the lowest quality of evidence rating among the two critical outcomes; the quality of evidence was moderate for disease progression but low for mortality because there was a single randomized trial with a small number of events, resulting in confidence intervals whose ends included both benefit and harm.
+
+Guideline committee conclusions
+
+The decision to make a conditional recommendation for nintedanib in patients with PPF was based on two major factors: 1) there was a statistically significant reduction in disease progression, measured as the annual decline of FVC, and 2) the AEs are reversible with discontinuation of the medication. Of note, the committee acknowledged that the effects of therapy may differ depending on the type of underlying ILD and that management may be based on the underlying ILD in the future; however, for now, there are insufficient data to support such a targeted approach. Therefore, the committee made a research recommendation to investigate the efficacy, effectiveness, and AEs of nintedanib in patients with PPF due to specific types of ILD.
+
+Guideline committee vote
+
+The committee’s vote was as follows: strong recommendation for nintedanib, 10 of 34 (29%); conditional recommendation for nintedanib, 21 of 34 (62%); conditional recommendation against nintedanib, 0 of 34 (0%); and strong recommendation against nintedanib, 0 of 34 (0%). Three participants (9%) abstained from voting, 1 citing insufficient evidence to make a recommendation and 2 citing insufficient expertise to render a thoughtful judgment.
+
+Research needs
+
+The existing randomized trial included 663 patients with PPF, but the number of individuals with the various types of ILD that may manifest PPF was small, ranging from only 12 to 173. Limited analyses suggest that there might be differential effects across the different types of ILD. Additional trials are necessary to better quantify treatment effects and identify specific patient populations most likely to benefit from therapy.
+
+Future Directions
+
+Determine the reasons that a subset of patients with ILD of different etiologies develop a progressive and irreversible fibrotic phenotype in a relatively short time despite initial treatment, including triggers, genetic predisposition, and the role of vascular remodeling.
+
+Validate serum biomarkers to identify those at risk of PPF, which may be facilitated by proteomic analyses of peripheral blood and BAL fluid and transcriptomic studies.
+
+Validate convolutional neural networks (e.g., machine and deep learning algorithms) developed from large HRCT data sets, which may be useful for disease pattern recognition, prognostication, and identifying progression and for the characterization of incidentally detected ILAs.
+
+Prioritize research related to the timing and sequence of antifibrotic drugs in relation to corticosteroids and immunosuppressants in the various types of ILD that can manifest PPF.
+
+Research needs related to antifibrotic therapy in PPF were described above. Additional needs include the following:
+
+Conclusions
+
+An international, multidisciplinary committee of experts described radiological and histopathological features of UIP, diagnostic testing for IPF, and treatment of GER in IPF. The committee also defined PPF; described the physiological, radiological, and histopathological features of PPF; and addressed antifibrotic treatment of PPF. Two specific questions pertaining to the diagnosis of IPF, two specific questions pertaining to the treatment of IPF, and two specific questions pertaining to pharmacotherapy for PPF were answered with evidence-based, graded recommendations. These recommendations are not mandates, because they cannot account for all unique clinical circumstances, and they should be revisited as new evidence is published. This guideline was reviewed by the ATS Quality Improvement and Implementation Committee; it was determined that none of the recommendations are appropriate targets for performance measures.
+
+Supported by the American Thoracic Society, European Respiratory Society, Japanese Respiratory Society, and Asociación Latinoamericana de Tórax.
+
+An Executive Summary of this document is available at http://www.atsjournals.org/doi/suppl/10.1164/rccm.202202-0399ST.
+
+This article has an online supplement, which is accessible from this issue’s table of contents at www.atsjournals.org.
+
+DOI: 10.1164/rccm.202202-0399ST
+
+Subcommittee Disclosures: G.R. served on a data safety and monitoring board for Avalyn; received research support from NIH/NHLBI; and served as a consultant for Bellerophon, Biogen, Blade Therapeutics, Boehringer Ingelheim, Bristol-Myers Squibb, Electra Therapeutics, Fibrogen, Nitto, Novartis, Promedior, Respivant, Roche-Genentech, United Therapeutics, Veracyte, and Zambon. M.R.-J. served on an advisory committee, provided expert testimony, and served as a speaker for Siemens Healthineers; and served as a consultant for Actelion, Boehringer Ingelheim, and LEO Pharma. L.R. served on an advisory committee for Boehringer Ingelheim, CSL Behring, F. Hoffmann La Roche, FibroGen, Nitto, Promedior, and RespiVant; served as a consultant for Acceleron, Asahi Kasei, Biogen Idec, Bristol-Myers Squibb, Celgene, CSL Behring, ImmuneWorks, Nitto, Pliant Therapeutics, RespiVant, Toray Industries, Veracyte, and Zambon; served on a data safety and monitoring board for Celgene; served as a speaker for Boehringer Ingelheim, F. Hoffmann La Roche, and Zambon; and received research support from Boehringer Ingelheim. C.C.T. served on an advisory committee for American College of Radiology and Healthmyne; served as a consultant for American Lung Association and Fulcrum; served as a speaker for American Cancer Society and National Lung Cancer Roundtable; and received royalties from Decision Support Medicine and UpToDate. K.M.A. received research support, travel grants, and honoraria from AstraZeneca, Boehringer Ingelheim, GlaxoSmithKline, and Roche. D.B. served on an advisory committee, served as a speaker, and received research support from Boehringer Ingelheim and F. Hoffmann La Roche; received research support from Chiesi Hellas and ELPEN Pharma; and served as a speaker for AstraZeneca and Menarini. B.C. served on an advisory committee for Apellis, AstraZeneca, Boehringer Ingelheim, and Bristol-Myers Squibb; and served as a speaker for AstraZeneca, Boehringer Ingelheim, Bristol-Myers Squibb, Novartis, Roche, and Sanofi. M.G. is an employee of ZS Associates. L.H. served as a consultant for Genentech and Roche. Y.I. served on an advisory committee for Asahi Kasei, Boehringer Ingelheim, Galapagos, Roche, Savara, and Taiho; served as a consultant for Boehringer Ingelheim, Promedir, Roche, Savara, and Taiho; served as a speaker for Boehringer Ingelheim, Kyorin, Shionogi, and Thermo Fisher; and received research support from Japanese Ministry of Health Labor and Welfare and Japan Agency for Medical Research and Development. Y.H.K. served as a speaker for Boehringer Ingelheim and Roche. M.K. served on an advisory committee and received research support from Boehringer Ingelheim and Roche; and served on an advisory committee for Galapagos. D.A.L. served on an advisory committee and speaker for Boehringer Ingelheim; served as a consultant for Calyx, Parexel, and Veracyte; and has a patent issued for “Systems and methods for automatic detection and quantification of pathology using dynamic feature classification.” T.M.M. served on an advisory committee for AstraZeneca, Blade Therapeutics, Bristol-Myers Squibb, Boehringer Ingelheim, Galapagos, Galecto, GlaxoSmithKline, IQVIA, Pliant, Roche/Genentech, and Veracyte; served as a consultant for Bristol-Myers Squibb, Boehringer Ingelheim, Galapagos, and Roche; served on a data safety and monitoring board for AstraZeneca, Blade Therapeutics, Celgene, Fibrogen, IQVIA, and United Therapeutics; served as a speaker for Boehringer Ingelheim and Roche; and received research support from AstraZeneca and GlaxoSmithKline. F.J.M. served on an advisory committee for AstraZeneca, Boehringer Ingelheim, Bristol-Myers Squibb, CSL Behring, DevPro, Gilead, GlaxoSmithKline, IQVIA, Nitto, Novartis, Patara/Respivant, Polarean, ProMedior/Roche, and Veracyte; served as a consultant for AbbVie, AstraZeneca, Bayer, Biogen, Boehringer Ingelheim, Bristol-Myers Squibb, CSL Behring, DevPro, Genentech, GlaxoSmithKline, IQVIA, Novartis, Polarean, ProTerrix Bio, Pulmatrix, Pulmonx, Raziel, Sanofi, Sanofi/Regeneron, Shionogi, Teva, Theravance/Viatris, twoXAR, United Therapeutics, Veracyte, and Verona; served on a data safety and monitoring board for AbbVie, Biogen, Boehringer Ingelheim, GlaxoSmithKline, and Medtronic; served as a speaker for Academy for Continuing Healthcare Learning, Boehringer Ingelheim, Brooklyn Methodist Hospital, CME Outfitters, France Foundation, GlaxoSmithKline, Integritas, Integrity Communication, Medscape, NACE/Haymarket, National Association of Managed Care Physicians, Paradigm, PeerView, Physician Education Resource, Projects in Knowledge, United Therapeutics, UpToDate, Vindico, and WebMD/MedScape; received research support from Afferent/Merck, AstraZeneca, Bayer, Biogen, Boehringer Ingelheim, Chiesi, DevPro, Gilead, GlaxoSmithKline, Nitto, Patara/Respivant, ProMedior/Roche, and Sanofi/Regeneron; and received royalties from UpToDate. M.M.-M. served on an advisory committee for Boehringer Ingelheim, Chiesi, Esteve-Teijin, and Pfizer; served as a speaker for Chiesi and Galapagos; and received research support form Almirall, Boehringer Ingelheim, GlaxoSmithKline, and Roche. J.M. served on an advisory committee and speaker for Boehringer Ingelheim and F. Hoffman La Roche. J.L.M. received research support from Veracyte. A.G.N. served as a consultant for Actelion, Boehringer Ingelheim, Galapagos, Medical Quantitative Image Analysis, and Sanofi; and served as a speaker for Boehringer Ingelheim, Roche, and UpToDate. A.L.O. served as a consultant, speaker, and employee of Boehringer Ingelheim (contributions were prior to employment at Boehringer Ingelheim and participation in guideline ceased when employment began); served as a speaker for France Foundation, Genentech, and Peer View; served on an advisory committee for MCG Diagnostics; and received research support from United Therapeutics. A.P. served on an advisory committee for Boehringer Ingelheim; served as a consultant for EBSCO/DynaMed, Imvaria, Regeneron, and Roche; served as a speaker for National Association for Continuing Medical Education; and received research support from NHLBI and American Lung Association. V.P. served on an advisory committee and as a speaker for Boehringer Ingelheim; and served as a speaker for ERBE Elektromedizin. C.J.R. served on an advisory committee for AstraZeneca, Boehringer Ingelheim, Cipla, Ensho Health Intelligent Systems, F. Hoffmann La Roche, Pliant Therapeutics, and Veracyte; served as a consultant for Boehringer Ingelheim, F. Hoffmann La Roche, and Veracyte; served as a speaker for AstraZeneca, Boehringer Ingelheim, Cipla, Ensho Health Intelligent Systems, F. Hoffmann La Roche, Pliant Therapeutics, and Veracyte; and received research support from Boehringer Ingelheim, Galapagos, and F. Hoffman La Roche. M.S. served as a consultant for Boehringer Ingelheim and Celgene. M.E.S. served on an advisory committee for Fibrogen; served as a consultant for, served as a speaker for, and received research support from Boehringer Ingelheim; and received research support from Galapagos and Novartis. L.K.T. received research support from Bayer, Cook Medical, ERBE Elektromedizin, Karl Storz, Medtronic, Olympus, and Rymed; served as a speaker for Boehringer Ingelheim; and served on an advisory committee for Roche. M.W. served on an advisory committee for Boehringer Ingelheim, Bristol-Myers Squibb, Galapagos, F. Hoffman La Roche, and Novartis; served as a consultant for CLS Behring, Galapagos, Galecto, F. Hoffman La Roche, Nerre Therapeutics, and Respivant; served on a data safety and monitoring board for Galapagos and Savara; served as a speaker for Boehringer Ingelheim, Galapagos, and F. Hoffman La Roche; and received research support from Boehringer Ingelheim, Galapagos, and F. Hoffman La Roche. K.C.W. is the ATS Chief of Guidelines and Documents, as well as the ATS Documents Editor. B.D.B., I.B.-R., F.C., T.E., D.D.H., S.H., T.H., T.J., S.J., F.K., S.L.K., M.M., and M.J.M. reported no commercial or relevant noncommercial interests.
+
+References
+
+An official ATS/ERS/JRS/ALAT statement: idiopathic pulmonary fibrosis: evidence-based guidelines for diagnosis and management
+
+Diagnosis of idiopathic pulmonary fibrosis: an official ATS/ERS/JRS/ALAT clinical practice guideline
+
+An official ATS/ERS/JRS/ALAT clinical practice guideline: treatment of idiopathic pulmonary fibrosis. An update of the 2011 clinical practice guideline
+
+Nintedanib in progressive fibrosing interstitial lung diseases
+
+What’s in a name? That which we call IPF, by any other name would act the same
+
+An official ATS statement: grading the quality of evidence and strength of recommendations in ATS guidelines and recommendations
+
+Collaborative radiologic and histopathologic assessment of fibrotic lung disease
+
+Idiopathic pulmonary fibrosis may be a disease of recurrent, tractional injury to the periphery of the aging lung: a unifying hypothesis regarding etiology and pathogenesis
+
+Thin-section CT features of idiopathic pulmonary fibrosis correlated with micro-CT and histologic analysis
+
+Do you really know precise radiologic-pathologic correlation of usual interstitial pneumonia?
+
+A comparative study of honeycombing on high resolution computed tomography with histologic lung remodeling in explants with usual interstitial pneumonia
+
+From “traction bronchiectasis” to honeycombing in idiopathic pulmonary fibrosis: a spectrum of bronchiolar remodeling also in radiology?
+
+Inter-observer agreement in identifying traction bronchiectasis on computed tomography: its improvement with the use of the additional criteria for chronic fibrosing interstitial pneumonia
+
+Interobserver agreement for the ATS/ERS/JRS/ALAT criteria for a UIP pattern on CT
+
+Interobserver variability in the CT assessment of honeycombing in the lungs
+
+Pleuroparenchymal fibroelastosis in patients with idiopathic pulmonary fibrosis
+
+Distinct characteristics of pleuroparenchymal fibroelastosis with usual interstitial pneumonia compared with idiopathic pulmonary fibrosis
+
+Probable usual interstitial pneumonia pattern on chest CT: is it sufficient for a diagnosis of idiopathic pulmonary fibrosis?
+
+Computed tomography patterns predict clinical course of idiopathic pulmonary fibrosis
+
+Effect of nintedanib in subgroups of idiopathic pulmonary fibrosis by diagnostic criteria
+
+CT scan findings of probable usual interstitial pneumonitis have a high predictive value for histologic usual interstitial pneumonitis
+
+CT-pathologic correlation of major types of pulmonary fibrosis: insights for revisions to current guidelines
+
+Diagnostic criteria for idiopathic pulmonary fibrosis: a Fleischner Society white paper
+
+The 2018 diagnosis of idiopathic pulmonary fibrosis guidelines: surgical lung biopsy for radiological pattern of probable usual interstitial pneumonia is not mandatory
+
+Possible UIP pattern on high-resolution computed tomography is associated with better survival than definite UIP in IPF patients
+
+The use of pretest probability increases the value of high-resolution CT in diagnosing usual interstitial pneumonia
+
+Diagnostic accuracy of transbronchial lung cryobiopsy for interstitial lung disease diagnosis (COLDICE): a prospective, comparative study
+
+Cryobiopsy for identification of usual interstitial pneumonia and other interstitial lung disease features: further lessons from COLDICE, a prospective multi-center study
+
+Transbronchial lung cryobiopsy in patients with interstitial lung disease: a systematic review
+
+Radial endobronchial ultrasound-guided transbronchial cryobiopsy
+
+Complications and hospital admission in the following 90 days after lung cryobiopsy performed in interstitial lung disease
+
+The complimentary role of transbronchial lung cryobiopsy and endobronchial ultrasound fine needle aspiration in the diagnosis of sarcoidosis
+
+Transbronchial cryobiopsy in interstitial lung disease: experience in 106 cases—how to do it
+
+Role of transbronchial lung cryobiopsies in diffuse parenchymal lung diseases: interest of a sequential approach
+
+Cryobiopsies trans-bronchiques au cours des pneumopathies interstielles diffuses—expériences préliminaires
+
+Transbronchial cryobiopsy in interstitial lung disease: are we on the right path?
+
+Transbronchial lung cryobiopsy in the diagnosis of interstitial lung disease: a retrospective single-center experience
+
+Diagnostic approach in parenchymal lung diseases: transbronchial lung biopsy or cryobiopsy?
+
+Safety of performing transbronchial lung cryobiopsy on hospitalized patients with interstitial lung disease
+
+The safety and efficacy of different methods for obtaining transbronchial lung cryobiopsy in diffuse lung diseases
+
+Usefulness of an angioplasty balloon as selective bronchial blockade device after transbronchial cryobiopsy
+
+Histological diagnosis of interstitial lung diseases by cryo-transbronchial biopsy
+
+Diagnostic yield of transbronchial cryobiopsy in non-neoplastic lung disease: a retrospective case series
+
+Validation of transbronchial cryobiopsy in interstitial lung disease-interim analysis of a prospective trial and critical review of the literature
+
+The role of transbronchial cryobiopsy and surgical lung biopsy in the diagnostic algorithm of interstitial lung disease
+
+Cryobiopsy in the diagnosis of diffuse interstitial lung disease: yield and cost-effectiveness analysis [in English, Spanish]
+
+Bleeding risk of transbronchial cryobiopsy compared to transbronchial forceps biopsy in interstitial lung disease—a prospective, randomized, multicentre cross-over trial
+
+Prospective multicentre study on the safety and utility of transbronchial lung cryobiopsy with endobronchial balloon
+
+Diagnostic yield and safety of transbronchial cryobiopsy in sarcoidosis
+
+Introduction of cryobiopsies in the diagnostics of interstitial lung diseases—experiences in a referral center
+
+Bronchoscopic cryobiopsy for the diagnosis of diffuse parenchymal lung disease
+
+Utility of flexible bronchoscopic cryobiopsy for diagnosis of diffuse parenchymal lung diseases
+
+Transbronchial lung cryobiopsy: associated complications
+
+Diagnostic yield of transbronchial cryobiopsy in interstitial lung disease: a randomized trial
+
+Cryobiopsy in the diagnosis of lung tumors: a single center experience
+
+Transbronchial lung biopsy: the pathologist’s point of view
+
+Comparison of transbronchial and cryobiopsies in evaluation of diffuse parenchymal lung disease
+
+Diagnostic yield and risk/benefit analysis of trans-bronchial lung cryobiopsy in diffuse parenchymal lung diseases: a large cohort of 699 patients
+
+Poor concordance between sequential transbronchial lung cryobiopsy and surgical lung biopsy in the diagnosis of diffuse interstitial lung diseases
+
+Transbronchial cryobiopsy validity in diagnosing diffuse parenchymal lung diseases in Egyptian population
+
+Transbronchial cryobiopsy in interstitial lung disease: safety of a standardized procedure
+
+A single US center experience of transbronchial lung cryobiopsy for diagnosing interstitial lung disease with a 2-scope technique
+
+Prognostic value of transbronchial lung cryobiopsy for the multidisciplinary diagnosis of idiopathic pulmonary fibrosis: a retrospective validation study
+
+Bronchoscopic lung cryobiopsy increases diagnostic confidence in the multidisciplinary diagnosis of idiopathic pulmonary fibrosis
+
+High diagnostic accuracy of transbronchial cryobiopsy in fibrotic interstitial lung diseases compared to final explant diagnosis
+
+Transbronchial cryobiopsy in diffuse parenchymal lung disease: retrospective analysis of 74 cases
+
+Transbronchial cryobiopsies for diagnosing interstitial lung disease: real-life experience from a tertiary referral center for interstitial lung disease
+
+Transbronchial lung cryobiopsy in diffuse parenchymal lung disease: comparison between biopsy from 1 segment and biopsy from 2 segments-diagnostic yield and complications
+
+Transbronchial cryobiopsies for the diagnosis of diffuse parenchymal lung diseases: expert statement from the cryobiopsy working group on safety and utility and a call for standardization of the procedure
+
+In-hospital mortality after surgical lung biopsy for interstitial lung disease in the United States. 2000 to 2011
+
+Transbronchial cryobiopsy for diffuse parenchymal lung disease: a state-of-the-art review of procedural techniques, current evidence, and future challenges
+
+Trans-bronchial lung cryobiopsy in patients at high-risk of complications
+
+Classification of usual interstitial pneumonia in patients with interstitial lung disease: assessment of a machine learning approach using high-dimensional transcriptional data
+
+Use of a molecular classifier to identify usual interstitial pneumonia in conventional transbronchial lung biopsy samples: a prospective validation study
+
+Use of a genomic classifier in patients with interstitial lung disease: a systematic review
+
+Using bronchoscopic lung cryobiopsy and a genomic classifier in the multidisciplinary diagnosis of diffuse interstitial lung diseases
+
+Usual interstitial pneumonia can be detected in transbronchial biopsies using machine learning
+
+Utility of a molecular classifier as a complement to high-resolution computed tomography to identify usual interstitial pneumonia
+
+High prevalence of abnormal acid gastro-oesophageal reflux in idiopathic pulmonary fibrosis
+
+Increased prevalence of gastroesophageal reflux in patients with idiopathic pulmonary fibrosis
+
+Hiatal hernia on thoracic computed tomography in pulmonary fibrosis
+
+Gastroesophageal reflux therapy is associated with longer survival in patients with idiopathic pulmonary fibrosis
+
+Anti-acid treatment and disease progression in idiopathic pulmonary fibrosis: an analysis of data from three randomised controlled trials
+
+Antacid medication and anti-reflux surgery in patients with idiopathic pulmonary fibrosis: a systematic review
+
+Randomised, double-blind, placebo-controlled pilot trial of omeprazole in idiopathic pulmonary fibrosis
+
+Anti-acid therapy in idiopathic pulmonary fibrosis: insights from the INPULSIS® trials
+
+Pleiotropic effect of the proton pump inhibitor esomeprazole leading to suppression of lung inflammation and fibrosis
+
+Gastroesophageal reflux and antacid therapy in IPF: analysis from the Australia IPF Registry
+
+Impact of comorbidities on mortality in patients with idiopathic pulmonary fibrosis
+
+Antacid therapy and disease progression in patients with idiopathic pulmonary fibrosis who received pirfenidone
+
+Antacid therapy and disease outcomes in idiopathic pulmonary fibrosis: a pooled analysis
+
+Protective effect of proton pump inhibitor for survival in patients with gastroesophageal reflux disease and idiopathic pulmonary fibrosis
+
+Chronic use of anti-reflux therapy improves survival of patients with pulmonary fibrosis
+
+Effectiveness of proton pump inhibitors in idiopathic pulmonary fibrosis: a population-based cohort study
+
+Impact of antacid therapy on transplant free survival of patients with idiopathic pulmonary fibrosis [abstract]
+
+Effect of acid suppression therapy on gastroesophageal reflux and cough in idiopathic pulmonary fibrosis: an intervention study
+
+Laparoscopic anti-reflux surgery for the treatment of idiopathic pulmonary fibrosis (WRAP-IPF): a multicentre, randomised, controlled phase 2 trial
+
+Laparoscopic fundoplication in patients with end-stage lung disease awaiting transplantation
+
+Laparoscopic anti-reflux surgery for idiopathic pulmonary fibrosis at a single centre
+
+Family history of pulmonary fibrosis predicts worse survival in patients with interstitial lung disease
+
+Familial pulmonary fibrosis is the strongest risk factor for idiopathic pulmonary fibrosis
+
+Interstitial lung disease in relatives of patients with pulmonary fibrosis
+
+Clinical characteristics of patients with familial idiopathic pulmonary fibrosis (f-IPF)
+
+Predictive factors and prognostic effect of telomere shortening in pulmonary fibrosis
+
+Development and progression of radiologic abnormalities in individuals at risk for familial interstitial lung disease
+
+Idiopathic pulmonary fibrosis: new and emerging treatment options
+
+Target inhibition of galectin-3 by inhaled TD139 in patients with idiopathic pulmonary fibrosis
+
+Effect of recombinant human pentraxin 2 vs placebo on change in forced vital capacity in patients with idiopathic pulmonary fibrosis: a randomized clinical trial
+
+Shedding light on developmental drugs for idiopathic pulmonary fibrosis
+
+Pharmacological management of idiopathic pulmonary fibrosis: current and emerging options
+
+Pamrevlumab, an anti-connective tissue growth factor therapy, for idiopathic pulmonary fibrosis (PRAISE): a phase 2, randomised, double-blind, placebo-controlled trial
+
+Ambulatory oxygen for treatment of exertional hypoxaemia in pulmonary fibrosis (PFOX trial): a randomised controlled trial
+
+Managing fatigue in patients with interstitial lung disease
+
+Palliative care in interstitial lung disease: living well
+
+Palliative care for patients with pulmonary fibrosis: symptom relief is essential
+
+Randomised clinical trial of an early palliative care intervention (SUPPORT) for patients with idiopathic pulmonary fibrosis (IPF) and their caregivers: protocol and key design considerations
+
+Gaps in care of patients living with pulmonary fibrosis: a joint patient and expert statement on the results of a Europe-wide survey
+
+Short and long-term effects of pulmonary rehabilitation in interstitial lung diseases: a randomised controlled trial
+
+The therapy of idiopathic pulmonary fibrosis: what is next?
+
+The added value of comorbidities in predicting survival in idiopathic pulmonary fibrosis: a multicentre observational study
+
+Cost-effectiveness of ambulatory oxygen in improving quality of life in fibrotic lung disease: preliminary evidence from the AmbOx trial
+
+Comprehensive supportive care for patients with fibrosing interstitial lung disease
+
+The natural history of progressive fibrosing interstitial lung diseases
+
+Forced vital capacity in idiopathic pulmonary fibrosis--FDA review of pirfenidone and nintedanib
+
+Forced vital capacity in patients with idiopathic pulmonary fibrosis: test properties and minimal clinically important difference
+
+RELIEF Investigators. Pirfenidone in patients with progressive fibrotic interstitial lung diseases other than idiopathic pulmonary fibrosis (RELIEF): a double-blind, randomised, placebo-controlled, phase 2b trial
+
+Pirfenidone in patients with unclassifiable progressive fibrosing interstitial lung disease: a double-blind, randomised, placebo-controlled, phase 2 trial
+
+To be or not to be—the uncertainty of PF-ILD
+
+Changes in clinical and physiologic variables predict survival in idiopathic pulmonary fibrosis
+
+Prevalence and prognosis of unclassifiable interstitial lung disease
+
+Acute exacerbation of idiopathic pulmonary fibrosis: an international working group report
+
+Long-term follow-up high-resolution CT findings in non-specific interstitial pneumonia
+
+High-resolution CT findings in fibrotic idiopathic interstitial pneumonias with little honeycombing: serial changes and prognostic implications
+
+Clinical course and changes in high-resolution computed tomography findings in patients with idiopathic pulmonary fibrosis without honeycombing
+
+Serial CT analysis in idiopathic pulmonary fibrosis: comparison of visual features that determine patient outcome
+
+Nonspecific interstitial pneumonia and idiopathic pulmonary fibrosis: changes in pattern and distribution of disease over time
+
+Diagnosis of hypersensitivity pneumonitis in adults: an official ATS/JRS/ALAT clinical practice guideline
+
+Development and validation of a radiological diagnosis model for hypersensitivity pneumonitis
+
+Longitudinal change during follow-up of systemic sclerosis: correlation between high-resolution computed tomography and pulmonary function tests
+
+The natural history of progressive fibrosing interstitial lung diseases
+
+Imaging patterns are associated with interstitial lung abnormality progression and mortality
+
+Interstitial lung abnormality: recognition and perspectives
+
+CT staging and monitoring of fibrotic interstitial lung diseases in clinical practice and treatment trials: a position paper from the Fleischner Society
+
+Computed tomographic biomarkers in idiopathic pulmonary fibrosis: the future of quantitative analysis
+
+Quantitative CT indexes in idiopathic pulmonary fibrosis: relationship with physiologic impairment
+
+Idiopathic pulmonary fibrosis: physiologic tests, quantitative CT indexes, and CT visual scores as predictors of mortality
+
+Predictors of lung function decline in scleroderma-related interstitial lung disease based on high-resolution computed tomography: implications for cohort enrichment in systemic sclerosis-associated interstitial lung disease trials
+
+Comparison of the quantitative CT imaging biomarkers of idiopathic pulmonary fibrosis at baseline and early change with an interval of 7 months
+
+Quantitative texture-based assessment of one-year changes in fibrotic reticular patterns on HRCT in scleroderma lung disease treated with oral cyclophosphamide
+
+Classification of parenchymal abnormality in scleroderma lung using a novel approach to denoise images collected via a multicenter study
+
+Idiopathic pulmonary fibrosis: the association between the adaptive multiple features method and fibrosis outcomes
+
+CT analysis of the effect of pirfenidone in patients with idiopathic pulmonary fibrosis
+
+Chronic hypersensitivity pneumonitis: identification of key prognostic determinants using automated CT analysis
+
+Unclassifiable-interstitial lung disease: outcome prediction using CT and functional indices
+
+Likelihood of pulmonary hypertension in patients with idiopathic pulmonary fibrosis and emphysema
+
+Mortality prediction in idiopathic pulmonary fibrosis: evaluation of computer-based CT analysis with conventional severity measures
+
+Predicting outcomes in idiopathic pulmonary fibrosis using automated computed tomographic analysis
+
+Quantitative high-resolution computed tomography fibrosis score: performance characteristics in idiopathic pulmonary fibrosis
+
+Idiopathic pulmonary fibrosis: data-driven textural analysis of extent of fibrosis at baseline and 15-month follow-up
+
+MUC5B variant is associated with visually and quantitatively detected preclinical pulmonary fibrosis
+
+Pirfenidone in progressive pulmonary fibrosis
+
+Nintedanib in progressive pulmonary fibrosis
+
+Nintedanib in patients with progressive fibrosing interstitial lung diseases-subgroup analyses by interstitial lung disease diagnosis in the INBUILD trial: a randomised, double-blind, placebo-controlled, parallel-group trial
+
+When things go wrong: exploring possible mechanisms driving the progressive fibrosis phenotype in interstitial lung diseases
+
+Inhaled treprostinil in pulmonary hypertension due to interstitial lung disease
+
+Spectrum of fibrotic lung diseases
+
+Analysis by proteomics reveals unique circulatory proteins in idiopathic pulmonary fibrosis
+
+Peripheral blood proteomic profiling of idiopathic pulmonary fibrosis biomarkers in the multicentre IPF-PRO Registry
+
+Validation of a 52-gene risk profile for outcome prediction in patients with idiopathic pulmonary fibrosis: an international, multicentre, cohort study
+
+Towards a functional proteomics approach to the comprehension of idiopathic pulmonary fibrosis, sarcoidosis, systemic sclerosis and pulmonary Langerhans cell histiocytosis
+
+Single-cell RNA sequencing reveals profibrotic roles of distinct epithelial and mesenchymal lineages in pulmonary fibrosis
+
+Single-cell transcriptomic analysis of human lung provides insights into the pathobiology of pulmonary fibrosis
+
+Holistic classification of CT attenuation patterns for interstitial lung diseases via deep convolutional neural networks
+
+Deep learning for classifying fibrotic lung disease on high-resolution computed tomography: a case-cohort study
+
+Imaging research in fibrotic lung disease; applying deep learning to unsolved problems
+
+Classification of interstitial lung abnormality patterns with an ensemble of deep convolutional neural networks
+
+An official American Thoracic Society/European Respiratory Society statement: update of the international multidisciplinary classification of the idiopathic interstitial pneumonias
+
+Pleuroparenchymal fibroelastosis: a review of histopathological features and the relationship between histologic parameters and survival
+
+Cicatricial variant of cryptogenic organizing pneumonia
+
+Fibrosing organising pneumonia
+
+Pathology of asbestosis—an update of the diagnostic criteria: report of the Asbestosis Committee of the College of American Pathologists and Pulmonary Pathology Society
+
+Diagnostic approach to advanced fibrotic interstitial lung disease: bringing together clinical, radiologic, and histologic clues
+
+Histopathology of explanted lungs from patients with a diagnosis of pulmonary sarcoidosis

@@ -1,0 +1,646 @@
+=== Predictors of Readmission for COPD Patients — A Systematic Review ===
+Fonte: Int J COPD 2023
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10664718/
+Licenca: CC BY-NC 3.0
+Doenca: dpoc | Idioma: en
+----------------------------------------------------------------------
+
+Predictors of Readmission, for Patients with Chronic Obstructive Pulmonary Disease (COPD) – A Systematic Review
+
+Introduction
+
+Chronic obstructive pulmonary disease (COPD) is the third-leading cause of death globally and is responsible for over 3 million deaths annually. One of the factors contributing to the significant healthcare burden for these patients is readmission. The aim of this review is to describe significant predictors and prediction scores for all-cause and COPD-related readmission among patients with COPD.
+
+Methods
+
+A search was conducted in Ovid MEDLINE, Ovid Embase, Cochrane Database of Systematic Reviews, and Cochrane Central Register of Controlled Trials, from database inception to June 7, 2022. Studies were included if they reported on patients at least 40 years old with COPD, readmission data within 1 year, and predictors of readmission. Study quality was assessed. Significant predictors of readmission and the degree of significance, as noted by the p-value, were extracted for each study. This review was registered on PROSPERO (CRD42022337035).
+
+Results
+
+In total, 242 articles reporting on 16,471,096 patients were included. There was a low risk of bias across the literature. Of these, 153 studies were observational, reporting on predictors; 57 studies were observational studies reporting on interventions; and 32 were randomized controlled trials of interventions. Sixty-four significant predictors for all-cause readmission and 23 for COPD-related readmission were reported across the literature. Significant predictors included 1) pre-admission patient characteristics, such as male sex, prior hospitalization, poor performance status, number and type of comorbidities, and use of long-term oxygen; 2) hospitalization details, such as length of stay, use of corticosteroids, and use of ventilatory support; 3) results of investigations, including anemia, lower FEV1, and higher eosinophil count; and 4) discharge characteristics, including use of home oxygen and discharge to long-term care or a skilled nursing facility.
+
+Conclusion
+
+The findings from this review may enable better predictive modeling and can be used by clinicians to better inform their clinical gestalt of readmission risk.
+
+Introduction
+
+Chronic obstructive pulmonary disease (COPD) is a common respiratory condition characterized by persistent airflow limitation and is thought to affect over 10% of the population. As a consequence of its chronicity, COPD is responsible for over 3 million deaths globally, making it the third most common cause of death.
+
+Patients with COPD commonly require hospitalized care, and COPD is one of the most common causes of hospitalization, among chronic diseases. Moreover, a notable proportion of patients with COPD will be readmitted, making readmission one of the factors contributing to the significant healthcare burden for these patients. It has been estimated that up to 50% of patients diagnosed with COPD are readmitted within 30 days of initial discharge in the USA. In addition to the utilization of healthcare resources, readmission is associated with a worse overall prognosis. Over the past decade, there has been an increased interest in identifying predictors and predictive models for readmission. Several systematic reviews have attempted to summarize the literature, but they only focused on all-cause or COPD-related readmission alone, and/or did not undertake a quality assessment of the included studies. In addition, given the rapidly developing literature, with many studies being reported in the past few years, these systematic reviews may not account for current findings.
+
+The aim of this systematic review is to describe significant predictors and prediction scores for all-cause and COPD-related readmission among patients with COPD.
+
+Methods
+
+This review was registered a priori on PROSPERO (CRD42022337035) and reported as per the PRISMA statement.
+
+Search Strategy
+
+A comprehensive search strategy was developed for Ovid MEDLINE, Ovid Embase, Cochrane Database of Systematic Reviews, and Cochrane Central Register of Controlled Trials from database inception to June 7, 2022, using a combination of database-specific subject headings and text words for the main concepts of COPD and hospital readmissions. An expanded search filter for clinical prediction guides was used. Results were limited to adult human studies. No other limits were applied (Appendix 1).
+
+Eligibility Criteria
+
+Two review authors (RC, OWS) independently screened articles for their eligibility for inclusion. A calibration exercise of 20 articles was undertaken to ensure concordance between reviewers. Discrepancies were resolved by discussion and consensus. If consensus could not be achieved, a third review author (RW) participated in the discussion to resolve discrepancies.
+
+Articles were eligible after level 1 title and abstract screening, if they reported on primary research articles reporting on patients with COPD and readmission. Secondary research articles, such as review articles and economic analyses, as well as editorials/commentaries, were excluded at this stage. Studies included after level 2 full-text screening eligibility criteria required studies to report on patients at least 40 years old with COPD, readmission data within 1 year of a COPD hospitalization, and predictors of readmission. Studies including patients admitted for reasons unrelated to acute exacerbations of COPD (eg pneumonia, acute hypercapnic respiratory failure, obstructive sleep apnea, lung cancer, anxiety/depression) and studies reporting on home care/telemonitoring were excluded at this stage, to limit included articles to only patients with COPD.
+
+Data Extraction
+
+Two of the three review authors (RC, OWS, JHBI) conducted data extraction. As with screening, discrepancies were resolved by discussion and consensus, with or without the input of a third reviewer (RW). Study characteristics of country, sample size, age of participants, and percentage of females enrolled in study were noted. Studies were classified as either assessing predictors or assessing interventions. Studies assessing interventions were further subclassified as either observational cohort studies or randomized controlled trials. Significant predictors of readmission and the degree of significance, as noted by the p-value, were extracted for each study. For studies that did not report p-values, p-values were calculated based on the provided statistics (eg odds ratio and 95% confidence intervals) where possible.
+
+Study Quality
+
+Study quality was assessed for each study. For randomized controlled trials, the risk of bias version 2 tool was used. For observational studies reporting on interventions, the ROBINS-I tool was used. For observational studies reporting on predictors, the ROBINS-E tool was used.
+
+Synthesis
+
+Significant predictors were reported by the time of readmission post-discharge and the degree of significance. Predictors were reported as significant predictors for the timepoint of 1-month readmission, the interval of 2–3-month readmission, and the interval of 6–12-month readmission. Predictors were further reported based on whether they were significant at a type I error of 0.05, type I error of 0.01, or no degree of significance available. Significant predictors, as reported by the authors (Supplementary Tables 1 and 2), were grouped together into similarly reported predictors across the literature (eg all mentions of hospital length of stay were grouped together).
+
+Because of the non-uniform reporting of non-significant predictors, where some studies explicitly reported non-significant predictors in the methods/results and others only mentioned significant predictors, non-significant predictors were not presented.
+
+Results
+
+PRISMA flow diagram.
+
+Quality assessment: (a) studies assessing predictors (ROBINS-E); (b) cohort studies assessing interventions (ROBINS-I); (c) randomized controlled trials assessing interventions (RoB 2).
+
+In total, 4035 articles were identified from the database search. After 970 duplicates were removed, 3065 records were screened. Ultimately, 242 articles reporting on 16,471,096 patients were included in this review (Figure 1). Across the literature, there was generally a low risk of bias (Figure 2).
+
+Studies Assessing Predictors
+
+Study	Country	n	Age (years)	% Female	 	Mean ± SD	Median (IQR)	 	Abrams 2011	USA	28,156	69.1±10.6		3.1%	 	Abusaada 2017	USA	1419	65.1±2.3		47.7%	 	Agarwal 2016	USA	7257		75–84	64.2%	 	Aksoy 2018	Turkey	2727	69.8±10.2		31.5%	 	Al Aqqad 2017	Malaysia	81		72.0 (66.4–78.0)	2.5%	 	Almagro 2006	Spain	129	72.0±9.2		7.0%	 	Almagro 2012	Spain	606	72.6±9.9		2.0%	 	Almagro 2014	Spain	983	72.3±9.7		8.5%	 	Alpaydin 2021	Turkey	300	73.1±10.1		28.3%	 	Alqahtani 2021	UK	82	71.0±10.4		51.2%	 	Bade 2019	USA	48,888	68.7±10.1		3.7%	 	Bahadori 2009	Canada	310	74.0±12.0		46.5%	 	Baker 2013	USA	6095		55–59	58.9%	 	Barba 2012	Spain	275,512	72.0±15.4		30.0%	 	Bartels 2018	Canada	511	66.5±13.3		35.2%	 	Belanger 2018	Canada	479	68.9±9.4		48.0%	 	Bernabeu-Mora 2017	Spain	103	71.0±9.1		6.8%	 	Bishwakarma 2017	USA	6066	76.9±7.2		67.3%	 	Boeck 2014	Switzerland	43	Not reported		53.5%	 	Boixeda 2017	Spain	120	72.9±8.6		2.5%	 	Bollu 2013	USA	2463	68.6±10.6		57.2%	 	Bollu 2017	USA	13,675	67.1±12.4		55.6%	 	Breyer-Kohansal 2019	Austria	823	68.5±10.2		40.9%	 	Brownridge 2017	Australia	130	72.9±10.7		51.6%	 	Buhr 2019	USA	1,622,983	68.0±11.9		58.9%	 	Buhr 2020	USA	1,622,983	68.0±11.9		57.8%	 	Candrilli 2015	USA	264,526	67.6±11.2		50.9%	 	Carneiro 2010	Portugal	45	68±12.4		15.6%	 	Chan 2011	Hong Kong	65,497	76.8±9.6		23.0%	 	Chang 2014	China	135		66 (60–74)	11.9%	 	Chawla 2014	USA	54	70.0±12.0		70.0%	 	Chen 2006	Taiwan	145	72.2±10.0		26.9%	 	Chen 2009	Canada	108,726	72.3±10.9		45.5%	 	Chen 2021	China	636	70.8±9.9		33.2%	 	Chu 2004	Hong Kong	110	73.7±7.6		22.7%	 	Chung 2010	Australia	100	70.6±9.5		44.0%	 	Coban Agca 2017	Turkey	1490	67.7±11.1		35.0%	 	Connolly 2006	New Zealand	7113		65–74	47.7%	 	Couillard 2017	Canada	167	71.4±10.3		48.5%	 	Coventry 2011	UK	79	65.3±9.9		44.3%	 	Crisafulli 2014	Spain	123	69.4±9.8		6.6%	 	Crisafulli 2015	Spain	125	69.2±9.8		6.4%	 	Crisafulli 2016	Spain	110	70.5±9.6		6.4%	 	de Miguel-Diez 2016	Spain	301,794	74.8±10.0		14.0%	 	Duman 2015	Turkey	1704	Not reported		34.5%	 	Ehsani 2019	USA	42	70.4±8.1		33.3%	 	Emtner 2007	Sweden	21	65.0±9.3		66.7%	 	Eriksen 2010	Denmark	300	72.1		61.7%	 	Ernst 2019	Canada	203,642	Not reported		Not reported	 	Euceda 2018	USA	272	73.2±12.4		56.3%	 	Fernandez-Garcia 2020	Spain	253	68.99.8		22.5%	 	Fu 2015	USA	15,755	71.0±12.5		52.9%	 	Ganapathy 2017	USA	11,496	70.7±10.8		52.5%	 	Garcia-Aymerich 2003	Spain	340	69±9		Not reported	 	Garcia-Pachon 2021	Spain	106	73±10		21.7%	 	Garcia-Sanz 2020	Spain	602	73.8±10.6		14.0%	 	Gavish 2015	Israel	195	66±10		17.4%	 	Ghanei 2007	Iran	98	58.3±11.0		37.0%	 	Giron 2009	Spain	78	71±10		0.0%	 	Glaser 2015	USA	617	Not reported		Not reported	 	Gonzalez 2008	Spain	112	69.3±7.5		Not reported	 	Goto 2017	USA	845,465	70		59.0%	 	Goto 2018	USA	76,697		76 (71–83)	59.6%	 	Goto 2020	USA	905		76 (68–82)	54.0%	 	Gudmundsson 2005	Sweden	406	69.2±10.5		51.2%	 	Guerrero 2016	Spain	378	71.4±10.0		15.9%	 	Hajizadeh 2015	USA	4791	74.3±6.4		Not reported	 	Hakansson 2020	Denmark	4022		73.1 (63.7–81.1)	55.2%	 	Harries 2017	UK	19,551	72.4±10.8		47.8%	 	Hartl 2016	European countries	16,016	70.8±10.8		32.2%	 	Hasegawa 2016	USA	3084		70 (61–79)	50.0%	 	Hegewald 2020	USA	2445	68.4±11.6		50.7%	 	Hemenway 2017	USA	369	66		57.5%	 	Huertas 2017	Spain	150		70 (65–76)	3.0%	 	Ingadottir 2018	Iceland	121	73.7±9.0		57.0%	 	Islam 2015	USA	350	Not reported		54.9%	 	Iyer 2016	USA	422	64.8±11.7		49.9%	 	Jacobs 2018	USA	1,055,830		68 (59–77)	58.5%	 	Janson 2020	Sweden	51,247	74.6±10.1		54.8%	 	Jing 2016	China	8	Not reported		Not reported	 	Jo 2020	South Korea	15,101	73.4±9.7		25.4%	 	Johannesdottir 2013	Denmark	3176		72.1 (65.2–77.7)	55.2%	 	Jones 2020	UK	1029	74.4±9.9		49.0%	 	Kasirye 2013	USA	209	Not reported		Not reported	 	Kerkhof 2020	UK	16,661	75.1±9.9		50.3%	 	Keshishian 2019	USA	7892	78.1±7.6		57.7%	 	Kim 2010	South Korea	77	69.2±9.4		16.9%	 	Kim 2021	South Korea	4867		75–79	30.9%	 	Kishor 2020	India	100	64.0±8.5		16.0%	 	Ko 2020	Hong Kong	346	74.9±7.8		3.8%	 	Lau 2017	USA	597,502	Not reported		55.3%	 	Law 2016	Australia	90	70.7±9.3		50.0%	 	Li 2020	China	108	70.6±9.3		21.3%	 	Lindenauer 2014	USA	25,628		69 (61–77)	56.6%	 	Lindenauer 2018	USA	2340	76.3±7.5		56.1%	 	Liu 2007	Taiwan	100	73.8±10.6		15.0%	 	Loh 2017	USA	123	64.9±11.3		47.2%	 	Marcos 2017	USA	143	72.3±10.0		7.0%	 	Martinez-Gestoso 2021	Spain	615	73.9±10.6		13.8%	 	Myers 2021	USA	7825	Not reported		55.1%	 	Myers 2021	USA	333,429		70 (61–80)	57.1%	 	Nantsupawat 2012	USA	81	73.9		53.1%	 	Narewski 2015	USA	160	63.9±10.8		58.8%	 	Nastars 2019	USA	298,706	77.7±7.7		59.6%	 	Ng 2007	China	376	72.2±8.4		14.9%	 	Nguyen 2015	USA	2910	72±11		57.1%	 	Niu 2021	China	378	75.2±8.9		15.9%	 	Njoku 2022	Australia	2448		72 (64–80)	50.1%	 	Osman 1997	UK	266	68.0±9.1		47.0%	 	Ozyilmaz 2013	Turkey	107	66.3±8.6		15.0%	 	Park 2016	South Korea	339,379	71.5±11.6		29.8%	 	Peng 2021	China	123	71.1±9.6		26.8%	 	Pienaar 2015	South Africa	178	63±12		42.1%	 	Ponce Gonzalez 2017	Spain	361	75.0±11.5		21.1%	 	Portoles-Callejon 2020	Spain	108	71.5±11.7		18.5%	 	Pouw 2000	Netherlands	28	70.0±7.2		42.9%	 	Pozo-Rodriguez 2015	Spain	5174	Not reported		Not reported	 	Price 2006	UK	7529	Not reported		Not reported	 	Quintana 2022	Spain	876	73.7±9.4		20.5%	 	Rahimi-Rad 2015	Iran	100	70.8±10.3		31.0%	 	Rinne 2015	USA	25,301	68.9±10.5		3.2%	 	Rinne 2017	USA	33,558	68.7±10.4		3.4%	 	Rinne 2017	USA	33,558	68.7±10.4		3.4%	 	Roberts 2002	UK	1373		72 (66–78)	Not reported	 	Roberts 2011	UK	9716		65–74	50.0%	 	Roberts 2015	USA	306	70.3±12.3		56.2%	 	Roberts 2016	USA	3612	66.6±12.1		67.2%	 	Roberts 2020	USA	10,405	72.6±10.3		62.3%	 	Rodrigo-Troyano 2018	Spain	106	71±8		17.9%	 	Ruby 2020	Egypt	190	63.1±10.1		0.0%	 	Shah 2015	USA	947,084	Not reported		Not reported	 	Shani 2022	Israel	1203	70.6±11.0		37.3%	 	Sharif 2014	USA	8263	56.5±5.7		58.8%	 	Shay 2020	USA	111	67.1±11.7		62.2%	 	Simmering 2016	USA	286,313	Not reported		Not reported	 	Singer 2020	USA	28,240	72.7±8.7		51.9%	 	Singh 2016	USA	135,498		75–84	60.2%	 	Snider 2015	USA	378,419	76.2±6.9		56.8%	 	Stefan 2017	USA	13,893		69	57.6%	 	Stuart 2010	USA	6322	74.7±0.4		48.9%	 	Tran 2016	USA	375	59.3±7.4		64.0%	 	Turner 2014	England	1942	Not reported		Not reported	 	Ushida 2022	Japan	3396	75.0±11.2		20.4%	 	Wang 2013	Norway	481	72.8±10.5		53.4%	 	Wong 2008	Canada	109	63.0±14.5		38.5%	 	Wu 2020	Taiwan	625	76.3±10.6		12.0%	 	Wu 2021	Taiwan	625	76.3±10.6		12.0%	 	Wu 2021	USA	91	60±11		63.7%	 	Yilmaz 2021	Turkey	110	67.8±9.3		18.2%	 	Yu 2015	USA	18,282	56.6±5.8		62.4%	 	Zapatero 2013	Spain	313,233	72.7±15.7		30.3%	 	Zhou 2021	China	417	75±12		20.4%	 	Zhu 2021	China	239		72	16.7%
+
+Note: Blacked out cells indicate that data are not available/applicable.
+
+Studies Assessing Interventions
+
+Study	Country	n	Age (years)	% Female	 	Mean ± SD	Median (IQR)	 	Cohort Studies	 	Adamson 2016	Canada	462	70.6±13.2		40.9%	 	Agarwal 2018	USA	1248	Not reported		Not reported	 	Alshehri 2021	Saudi Arabia	80	67.0±10.3		41.3%	 	Ankjaergaard 2017	Denmark	201	71.5±10.8		56.7%	 	Ban 2012	Malaysia	193	68.5±8.8		13.0%	 	Bashir 2016	USA	461	71.7±13.3		32.5%	 	Bhatt 2017	USA	187	70.4±11.2		61.0%	 	Collinsworth 2018	USA	308	70.5±12.2		58.4%	 	Cope 2015	UK	464	Not reported		Not reported	 	Dalal 2012	USA	1936	63.9±9.9		55.4%	 	De Batlle 2012	Spain	274	68±8		6.9%	 	Gay 2020	USA	157	70.6±11.2		56.1%	 	Gentene 2021	USA	Not reported	Not reported		Not reported	 	George 2016	Singapore	340	72.6±9.1		11.8%	 	Gerber 2018	Australia	381	71±12		39.9%	 	Gerrits 2003	Netherlands	1219		65–74	40.4%	 	Gulati 2018	USA	250	69±11		42.0%	 	Ingadottir 2018	Iceland	99		73.0 (71.0–77.0)	54.5%	 	Ingadottir 2018	Iceland	121	73.7±9.0		57.0%	 	Jeffs 2005	Australia	216	67.5		63.9%	 	Joyner 2022	USA	253	73.6±7.1		65.2%	 	Kawasumi 2013	Canada	3723	72.8		50.8%	 	Kim 2020	USA	65	62.5±9.0		58.5%	 	Kiri 2005	UK	2557	71.1±9.0		49.6%	 	Kiser 2019	USA	28,700		60–69	53.9%	 	Ko 2014	Hong Kong	185	76.9±7.37		10.3%	 	Ko 2021	 	Lalmolda 2017	Spain	48	72.5±7.2		6.2%	 	LaRoche 2016	USA	3024	Not reported		Not reported	 	Lee 2016	USA	995	67.3±10.5		52.6%	 	Matsui 2017	Japan	12,572	78.4±9.5		18.7%	 	McGurran 2019	USA	2885	70.5±11.5		46.9%	 	Moullec 2012	Canada	189	72.1±10.4		50.3%	 	Myers 2020	USA	805,764	Not reported		56.3%	 	Nguyen 2014	USA	4596	72.3±10.8		Not reported	 	Nguyen 2021	USA	128	64.6±9.2		56.3%	 	Ohar 2018	USA	1274	Not reported		56.3%	 	Pant 2020	Nepal	86	70.6±11.0		47.7%	 	Parikh 2016	USA	44	66		40.9%	 	Pendharkar 2018	Canada	1435	70±12		48.5%	 	Petite 2020	USA	358	67.1±11.6		60.9%	 	Pitta 2006	Belgium	17		69 (60−78)	5.9%	 	Puebla Neira 2021	USA	4,587,542	Not reported		42.2%	 	Revitt 2013	UK	160	70.4±8.6		45.6%	 	Rueda-Camino 2017	Spain	87	70.4±9.3		11.5%	 	Russo 2017	USA	160	65.9±10.0		52.5%	 	Seys 2018	European countries	257	69.8±10.3		33.9%	 	Sharma 2010	USA	62,746		75–84	58.6%	 	Shi 2018	China	6333	67.5±9.5		Not reported	 	Shin 2019	South Korea	308	72.3±9.5		23.7%	 	Sin 2001	Canada	22,620	75.1±6.7		43.5%	 	Sonstein 2014	USA	420	66.5±11.2		49.5%	 	Stefan 2013	USA	53,900		70 (61–78)	58.0%	 	Stefan 2021	USA	197,376	76.9±7.6		58.6%	 	Suh 2015	England	120	70±9		51.7%	 	van Eeden 2017	Netherlands	10	62.9±9.6		80.0%	 	Werre 2015	USA	244	Not reported		Not reported	 	Zafar 2019	USA	Not reported	Not reported		Not reported	 	Zafar 2020	USA	133	60.0±9.8		36.1%	 	Randomized Controlled Trials	 	Atwood 2022	Canada	3710	71.7±12.4		49.7%	 	Benzo 2016	USA	215	68.0±9.5		54.9%	 	Bucknall 2012	UK	464	69.1±9.3		63.4%	 	Conti 2002	Italy	49	71.8±7.8		Not reported	 	Criner 2018	USA	64	61.7±7.9		60.9%	 	De Jong 2007	Netherlands	210	70.7±8.4		25.3%	 	Deutz 2021	USA	214	74.8±7.3		52.8%	 	Eaton 2006	New Zealand	78	77.3±7.1		53.8%	 	Eaton 2009	New Zealand	97	69.9±9.8		56.7%	 	Garcia-Aymerich 2007	Spain	113	73±8		14.2%	 	Gunen 2007	Turkey	159	64.1±8.9		12.0%	 	Hegelund 2020	Denmark	100		73 (45–89)	58.0%	 	Ip 2004	Hong Kong	130	80.5±6.6		0.0%	 	Jennings 2015	USA	172	64.7±10.6		55.2%	 	Jimenez 2021	Spain	737	70.4±9.9		26.5%	 	Kebede 2022	Norway	40	73.8±8.2		62.5%	 	Khosravi 2020	Iran	60	71.0±8.9		28.3%	 	Ko 2011	Hong Kong	60	73.6±7.0		1.7%	 	Ko 2017	Hong Kong	180	74.8±8.2		4.4%	 	Ko 2021	Hong Kong	136	75.0±7.6		2.9%	 	Lellouche 2016	Canada	50	72±8		46.0%	 	Li 2020	China	378	66.3±8.1		15.9%	 	Monreal 2016	Spain	120		71 (61–78)	33.3%	 	Ozturk 2020	Turkey	61	62.5±8.6		11.5%	 	Pourrashid 2018	Iran	62	63.4±8.5		16.1%	 	Stolz 2007	Switzerland	226	69.5		50.4%	 	Struik 2014	Netherlands	201	63.7±8.3		58.7%	 	Utens 2012	Netherlands	139	68.0±10.8		38.1%	 	Vanhaecht 2016	European countries	342	69.9±10.3		32.2%	 	Vermeersch 2019	Belgium	301	65.5±9.5		43.9%	 	Wang 2016	China	191	72.9±9.6		28.3%	 	Xia 2022	China	337		70.0 (65.0–75.0)	16.9%
+
+Note: Blacked out cells indicate that data are not available/applicable.
+
+Overall, 153 studies were observational studies reporting on predictors; 57 studies were observational studies reporting on interventions; and 32 were randomized controlled trials of interventions. The studies were published between 1997 and 2022, with over half of the studies published since 2017. Over one-third of articles (91 studies, 37.6%) originated from the USA; 31 (12.8%) studies originated from Spain, 14 (5.8%) from Canada, 13 (5.4%) from the UK, and 13 (5.4%) from China. Sample sizes ranged from 8 to 4,587,542. The mean/median age was greater than 60 years for nearly all studies. The percentage of females in a study ranged from 0.0% to 80.0%. Individual study characteristics are reported in Table 1 and Table 2.
+
+Continued.
+
+Significant predictors of all-cause readmission: (a) patient characteristics; (b) comorbidities; (c) medications prior to admission; (d) hospital care; (e) investigations; (f) medications during hospitalization; (g) medications on discharge; (h) disposition.
+
+Significant Predictors for All-Cause Readmission
+
+Variable Type	Type I Error	1 Month	2–3 Months	6–12 Months	 	Patient Characteristics	 	Age	<0.05	CorrelatedInversely correlated	CorrelatedInversely correlated	Correlated	 	<0.01	CorrelatedInversely correlated	Correlated	CorrelatedInversely correlated	 	Not reported	Correlated			 	Alcohol/drug abuse	<0.05	Correlated			 	<0.01	Correlated	Correlated		 	Not reported				 	Community-acquired pneumonia	<0.05	CorrelatedInversely correlated	Correlated		 	<0.01	Correlated	Correlated		 	Not reported				 	COPD severity, assessed by scales	<0.05				 	<0.01	Correlated	Correlated	Correlated	 	Not reported				 	Dyspnea	<0.05	Correlated	Correlated	Correlated	 	<0.01	Correlated			 	Not reported				 	Income	<0.05	Correlated			 	<0.01	Inversely correlated		Correlated	 	Not reported				 	Insurance: public insurance/Medicare/Medicaid vs private insurance	<0.05				 	<0.01	Correlated			 	Not reported				 	Male	<0.05	CorrelatedInversely correlated	Inversely correlated	CorrelatedInversely correlated	 	<0.01	Correlated Inversely correlated	Correlated	Correlated	 	Not reported	Correlated			 	Malnutrition	<0.05	Correlated		Correlated	 	<0.01	Correlated			 	Not reported				 	Poorer performance status/activities of daily living	<0.05	Correlated	Correlated	Correlated	 	<0.01		Correlated		 	Not reported				 	Prior hospitalization	<0.05	Correlated	Correlated	Correlated	 	<0.01	Correlated	Correlated	Correlated	 	Not reported		Correlated		 	Race: black	<0.05	Inversely correlated			 	<0.01	Correlated			 	Not reported				 	Tobacco smoker	<0.05	Correlated	Correlated		 	<0.01	Inversely correlated	Inversely correlated		 	Not reported				 	Vaccination: influenza	<0.05	Correlated			 	<0.01	Inversely correlated			 	Not reported				 	Comorbidities	 	Number of comorbidities	<0.05	Correlated	Correlated	Correlated	 	<0.01	Correlated	Correlated	Correlated	 	Not reported				 	Arrhythmias	<0.05	Correlated		Correlated	 	<0.01				 	Not reported				 	Cancer	<0.05		Correlated		 	<0.01	Correlated	Correlated		 	Not reported				 	Cardiovascular comorbidities	<0.05	Correlated	Correlated		 	<0.01	Correlated	Correlated		 	Not reported				 	Cerebrovascular disease	<0.05				 	<0.01	Correlated		Correlated	 	Not reported				 	Charlson comorbidity index	<0.05	Correlated	Correlated	Inversely correlated	 	<0.01	Correlated	Correlated		 	Not reported				 	Chronic kidney disease	<0.05	Correlated	Correlated	Inversely correlated	 	<0.01	Correlated	Correlated	Correlated	 	Not reported				 	Connective tissue/rheumatologic disease	<0.05			Correlated	 	<0.01		Correlated		 	Not reported				 	Coronary heart disease/myocardial infarction	<0.05		Correlated		 	<0.01	CorrelatedInversely correlated		Correlated	 	Not reported				 	Diabetes	<0.05	Correlated	CorrelatedInversely correlated	Correlated	 	<0.01	Correlated		Correlated	 	Not reported				 	Gastrointestinal comorbidities	<0.05	Correlated	Inversely correlated		 	<0.01	Correlated			 	Not reported				 	Heart failure	<0.05	Correlated		Correlated	 	<0.01	Correlated	Correlated	Correlated	 	Not reported				 	Right-sided heart failure/cor pulmonale	<0.05		Inversely correlated		 	<0.01		Correlated		 	Not reported				 	Hematologic malignancy	<0.05				 	<0.01	Inversely correlated	Correlated		 	Not reported				 	Hypertension	<0.05	Correlated			 	<0.01	Inversely correlated			 	Not reported				 	Ischemic heart disease	<0.05	Correlated	Correlated		 	<0.01		Correlated		 	Not reported				 	Liver disease	<0.05			Correlated	 	<0.01	Correlated	Correlated		 	Not reported				 	Lung cancer	<0.05				 	<0.01	Correlated	Correlated		 	Not reported				 	Mental health comorbidity	<0.05	Correlated		Correlated	 	<0.01	Correlated			 	Not reported				 	Musculoskeletal comorbidity	<0.05				 	<0.01	Correlated			 	Not reported				 	Obesity	<0.05			Correlated	 	<0.01	Inversely correlated			 	Not reported				 	Peripheral vascular disease	<0.05				 	<0.01	Correlated		Correlated	 	Not reported				 	Pulmonary hypertension	<0.05				 	<0.01	Correlated			 	Not reported				 	Pulmonary vascular disease	<0.05		Inversely correlated		 	<0.01	Correlated		Correlated	 	Not reported				 	Medications Prior to Admission	 	Long-term oxygen therapy	<0.05	Correlated	Correlated	Correlated	 	<0.01			Correlated	 	Not reported				 	Steroid	<0.05		Correlated	Correlated	 	<0.01				 	Not reported				 	Hospital Care	 	Admission to ICU	<0.05	Correlated	Correlated		 	<0.01	Correlated			 	Not reported				 	Hospital length of stay	<0.05	Correlated	CorrelatedInversely correlated	Correlated	 	<0.01	Correlated	Correlated		 	Not reported				 	Intubation	<0.05		Inversely correlated		 	<0.01	Correlated	Correlated		 	Not reported				 	Non-invasive ventilation	<0.05	Correlated			 	<0.01	Correlated	Correlated		 	Not reported				 	Steroid treatment success	<0.05	Inversely correlated		Inversely correlated	 	<0.01		Inversely correlated		 	Not reported				 	Investigations	 	Anemia	<0.05			CorrelatedInversely correlated	 	<0.01	Correlated			 	Not reported				 	C-reactive protein	<0.05	Correlated			 	<0.01			CorrelatedInversely correlated	 	Not reported				 	Eosinophil count	<0.05	Inversely correlated	Correlated	CorrelatedInversely correlated	 	<0.01	Correlated		Correlated	 	Not reported				 	FEV1	<0.05	Inversely correlated	Inversely correlated	Inversely correlated	 	<0.01	Inversely correlated		Inversely correlated	 	Not reported				 	Leukocyte count	<0.05				 	<0.01	Correlated		Correlated	 	Not reported				 	Neutrophil-to-lymphocyte ratio	<0.05				 	<0.01	Correlated		Correlated	 	Not reported				 	PaCO2	<0.05			Correlated	 	<0.01	Correlated			 	Not reported				 	pH	<0.05	Inversely correlated			 	<0.01				 	Not reported				 	Medications During Hospitalization	 	Anticholinergics	<0.05			Correlated	 	<0.01			Inversely correlated	 	Not reported				 	Inhaled corticosteroids	<0.05				 	<0.01	Inversely correlated		Inversely correlated	 	Not reported				 	Oxygen therapy	<0.05				 	<0.01	Correlated		Correlated	 	Not reported				 	Long-acting beta-agonist	<0.05	Correlated			 	<0.01			Correlated	 	Not reported				 	Systemic corticosteroids	<0.05	Correlated			 	<0.01	Correlated	Correlated	Correlated	 	Not reported				 	Medications on Discharge	 	Oral corticosteroids	<0.05	Inversely correlated	Correlated		 	<0.01				 	Not reported				 	Maintenance medication	<0.05	Inversely correlated			 	<0.01			Inversely correlated	 	Not reported				 	Short-acting muscarinic antagonist	<0.05				 	<0.01		CorrelatedInversely correlated		 	Not reported				 	Disposition	 	Discharged with home care	<0.05			Correlated	 	<0.01	Correlated			 	Not reported				 	Discharged to long-term care/skilled nursing facility	<0.05	CorrelatedInversely correlated		Correlated	 	<0.01	Correlated			 	Not reported				 	Follow-up within 30 days of discharge	<0.05		CorrelatedInversely correlated		 	<0.01	Inversely correlated	Correlated		 	Not reported				 	Prediction Scores	 	BODEX index			p=0.008		 	CODEX index			p<0.0001	p<0.0001	 	CORE score	p<0.001				 	DOSE index			p<0.01		 	PEARL score	p<0.0001				 	RACE scale	R2=0.923
+
+A total of 64 significant predictors for all-cause readmission were reported across the literature. Summarizing across all readmission time frames, male sex, prior hospitalization, poorer performance status/activities of daily living, and older age were the most frequently reported patient characteristics that were predictors of readmission. Other significant predictors were COPD severity, alcohol/drug abuse, malnutrition, and history of community-acquired pneumonia (Figure 3a). Heart failure, mental health comorbidity, higher Charlson comorbidity index, diabetes, higher number of comorbidities, chronic kidney disease, and cancer were among the most commonly reported comorbidity predictors of readmission (Figure 3b). Among medications used prior to admission that were significant of readmission, long-term oxygen therapy was the most commonly reported predictor (Figure 3c). Hospital length of stay, non-invasive ventilation, intubation, and admission to the intensive care unit were the most common hospital care predictors of readmission (Figure 3d). Among laboratory values, lower FEV1 and anemia were the most common predictors (Figure 3e). Use of systemic corticosteroids during hospital admission was the most frequently reported predictor of readmission, among medications used during admission (Figure 3f). Discharge to long-term care or a skilled nursing facility was the most commonly reported predictor of readmission, of assessed predictors after admission (Figure 3f–h). Degrees of significance, and the specific studies reporting on each significant predictor, are reported in Table 3.
+
+Significant predictors of COPD-related readmission: (a) patient characteristics; (b) comorbidities; (c) hospital care; (d) investigations; (e) medications on discharge.
+
+Significant Predictors of COPD-Related Readmission
+
+Type I Error	1 Month	2–3 Months	6–12 Months	 	Patient Characteristics	 	Age	<0.05	Correlated		Correlated	 	<0.01	CorrelatedInversely correlated	CorrelatedInversely correlated		 	Not reported				 	COPD severity, assessed by scales	<0.05			Correlated	 	<0.01	Correlated	Correlated		 	Not reported				 	Dyspnea	<0.05	Correlated		Correlated	 	<0.01	Correlated		Correlated	 	Not reported				 	Male	<0.05			Correlated	 	<0.01	Correlated			 	Not reported	Correlated			 	Prior hospitalization	<0.05			Correlated	 	<0.01	Correlated	Correlated	Correlated	 	Not reported				 	Tobacco smoking	<0.05				 	<0.01		Correlated	Correlated	 	Not reported				 	Comorbidities	 	Number of comorbidities	<0.05				 	<0.01	Correlated	Correlated		 	Not reported				 	Asthma	<0.05			Correlated	 	<0.01	Correlated	Correlated	Correlated	 	Not reported				 	Cancer	<0.05	Correlated	Correlated		 	<0.01			Correlated	 	Not reported				 	Cardiovascular disease	<0.05	Correlated	Correlated		 	<0.01		Correlated		 	Not reported				 	Charlson/Elixhauser comorbidity index	<0.05		Correlated		 	<0.01	Correlated	Correlated		 	Not reported				 	Chronic kidney disease	<0.05				 	<0.01	Correlated	Correlated	Correlated	 	Not reported				 	Diabetes	<0.05	Correlated			 	<0.01	Correlated		Correlated	 	Not reported				 	Heart failure	<0.05				 	<0.01			Correlated	 	Not reported				 	Right-sided heart failure/cor pulmonale	<0.05			Correlated	 	<0.01		Correlated		 	Not reported				 	Mental health comorbidity	<0.05			Correlated	 	<0.01	Correlated	Correlated	Correlated	 	Not reported				 	Musculoskeletal comorbidity	<0.05			Correlated	 	<0.01			Correlated	 	Not reported				 	Myocardial infarction	<0.05				 	<0.01			Correlated	 	Not reported	Correlated			 	Hospital Care	 	Hospital length of stay	<0.05	Inversely correlated		Correlated	 	<0.01	Correlated	Correlated		 	Not reported				 	Investigations	 	Eosinophil count	<0.05	Correlated		CorrelatedInversely correlated	 	<0.01	Correlated	CorrelatedInversely correlated	Correlated	 	Not reported				 	FEV1	<0.05				 	<0.01	Inversely correlated	Inversely correlated	Inversely correlated	 	Not reported				 	Medications During Admission	 	Oxygen therapy	<0.05				 	<0.01	Inversely correlated		Correlated	 	Not reported				 	Medications on Discharge	 	Home oxygen	<0.05			Correlated	 	<0.01		Correlated		 	Not reported
+
+For COPD-related readmission, 23 significant predictors were found. The most common patient characteristics that were predictors were older age and prior hospitalization (Figure 4a). Mental health comorbidity, diabetes, high Charlson/Elixhauser comorbidity index, and cancer were the most frequently reported comorbidity predictors of readmission (Figure 4b). Longer hospital length of stay, higher eosinophil count, and home oxygen after discharge were also frequently reported predictors of readmission (Figure 4c and e). Degrees of significance, and the specific studies reporting on each significant predictor, are reported in Table 4.
+
+Characteristics of Prediction Scores
+
+CODEX	BODEX	PEARL	CORE	RACE	 	Patient characteristics	ComorbidityNumber of severe exacerbations (ED or admission) mMRC scale	BMINumber of severe exacerbations (ED or admission) mMRC scale	AgePrevious admissionsLeft heart failure/right heart failure eMRC scaleRight heart failure	Lung functionNeuromuscular disease exacerbations Triple inhaler management	AgeGenderIncomeRacePayerComorbidities	 	Hospitalization management	–	–	–	–		 	In-hospital investigations	FEV1%	FEV1%		Eosinophil count		 	Discharge characteristics	–	–	–	–
+
+Six prediction scores – the BODEX index, CODEX index, CORE score, DOSE index, PEARL score, and RACE scale – were reported to be predictive of all-cause readmission. The included components of each prediction score are reported in Table 5. CORE, PEARL, and RACE were reported to have good predictive value for readmission as a time-to-event outcome variable. The BODEX index, CODEX index, and DOSE index were reported to have good predictive ability for 2–3-month readmission. The CODEX index was reported to have good predictive ability for 6–12-month readmission (Table 3).
+
+Some studies reported significant interventions that can reduce all-cause and COPD-related readmission, most notably use of a COPD-specific care package (Supplementary Tables 3 and 4). Most studies reporting on interventions reported that their intervention was not associated with a significant reduction in readmission rates.
+
+Discussion
+
+This is the largest systematic review to date, reporting on predictors for readmission of patients with COPD, with 242 articles reporting on 16,471,096 patients included in this review. We comprehensively report on predictors for both all-cause and COPD-related readmissions, for readmission at 1 month, 2–3 months, and 6–12 months. The included studies originated from around the world, and there was generally a low risk of bias. There were 64 predictors for all-cause readmission and 23 predictors for COPD-specific readmission. Significant predictors for all-cause readmissions included 1) pre-admission patient characteristics, such as male sex, prior hospitalization, poor performance status, number and type of comorbidities, and use of long-term oxygen; 2) hospitalization details, such as length of stay, use of corticosteroids, and use of ventilatory support; 3) results of investigations, including anemia, lower FEV1, and higher eosinophil count; and 4) discharge characteristics, including the use of home oxygen and discharge to long-term care or a skilled nursing facility.
+
+Several prior systematic reviews have also reported on predictors. Alqahtani et al reviewed 14 studies, stating that comorbidities, previous exacerbations/hospitalizations, and increased length of initial hospital stay were major risk factors for 30- and 90-day all-cause readmission. Heart failure, renal failure, depression, and alcohol use were also associated with increased 30-day all-cause readmission, with being female described as a protective factor for readmission. Bahadori and Fitzgerald examined 17 studies, and found that previous hospital admission, dyspnea, and oral corticosteroids were significant risk factors for readmission. Njoku et al reviewed 57 studies, and found that hospitalization in the year prior to index admission, comorbidities (such as asthma), living in a deprived area, and living in/or discharge to a nursing home were key predictors of COPD-related readmission.
+
+This review identifies some notable predictors worth highlighting that are not contained in previous studies, which were parsimonious. While prior studies reported heart failure and neuromuscular disease, we identified other significant preadmission comorbidities, including alcohol use, diabetes, and mental health. Similarly, poor performance status and malnutrition were both identified as important predictors of readmission. In-hospital use of critical care, including non-invasive ventilation, invasive ventilation, and ICU stay, was also identified as predictors. Use of steroids was also predictive of readmission; this was probably related to the severity of disease. Eosinophil count was both correlated and inversely correlated in different studies. While all studies excluded corticosteroid use prior to measurement of the eosinophil count, the studies used various cut-offs to define eosinopenia. Further research to determine the utility of eosinophil count is needed.
+
+With COPD patients having a high all-cause readmission rate of 50% and being the largest single group of chronic disease patients reported in the literature, identifying those at greatest risk of readmission is a priority as more resources can be directed to this group. This comprehensive systematic review identifies many predictors across multiple domains, including prior to admission, during hospitalization, and post-hospitalization. Current prediction rules for readmissions have areas under the receiver operating characteristics curve in the range 0.70–0.72, and may be limited by lacking variables in all domains (Table 5). The findings from this systematic review can be used to develop other prediction scores with higher predictive power. The findings can also be used in clinical practice to help identify individual patients who may benefit from more resources to reduce their risk of readmission. While most prediction scores for COPD readmission are parsimonious, having five or fewer variables for ease of use, a more complicated model with more predictors may be more accurate. More complex models may be enabled through the increase in electronic patient records, which enable more discrete data elements as well as computer decision support.
+
+This review was not without limitations. There was heterogeneous reporting on some predictor variables; many studies used different cut-off points for predictor variables. We therefore reported on the general directionality of a predictor variable as it relates to readmission. We have reported the predictors as reported by the studies, using their original cut-off points and without any synthesis, in Supplementary Tables 1 and 2. In addition, we were unable to report non-significant predictors owing to non-uniform reporting and therefore the total number of studies investigating each predictor. It is therefore unclear how many studies investigated specific predictors, and what proportion of them reported significant correlation with readmission. For certain predictors that may not be as well studied (eg malnutrition), there could be underestimation of importance.
+
+It is also important to note that some published literature suggests that not all patients discharged with a diagnosis of “COPD” have spirometrically confirmed COPD, and therefore patients discharged with “COPD” may in fact have other comorbidities, such as congestive heart failure. Therefore, caution is needed in the interpretation of some of the included studies, given that they simply included patients with a diagnosis of COPD which may not necessarily be confirmed on spirometry. Future studies could look to assess only patients who have spirometrically confirmed COPD.
+
+There may also be some concerns over the generalizability of individual studies to the larger population of patients with COPD admitted to hospitals. There were three studies with sample sizes of less than 20, and another three studies with sample sizes of 20–40 patients. Moreover, there were three studies with no females included in the sample, and another 52 studies where less than 20% of the sample comprised of females. Reassuringly, the significant predictors reported by these studies agree with larger and more representative studies. In addition, a large proportion of the studies originated from the USA, which may make the results of this review more generalizable to the US population and slightly less generalizable to other countries, especially given the lack of a universal healthcare system in the USA and therefore the potential confounding effect on readmissions.
+
+In conclusion, we found that predictors of readmissions after an admission for COPD exacerbation included patient characteristics prior to and at admission, hospitalization management, results from admission investigations, and discharge characteristics. Findings from this review may enable better model generation if predictors from all these domains are included. These findings may also be used to identify new predictors in the different domains and can be used by clinicians to help generate their gestalt of readmission.
+
+Disclosure
+
+The authors report no conflicts of interest in this work.
+
+References
+
+International variation in the prevalence of COPD (The BOLD Study): a population-based prevalence study
+
+Global, regional, and national prevalence of, and risk factors for, chronic obstructive pulmonary disease (COPD) in 2019: a systematic review and modelling analysis
+
+Chronic obstructive pulmonary disease (COPD)
+
+The burden of chronic disorders on hospital admissions prompts the need for new modalities of care: a cross-sectional analysis in a tertiary hospital
+
+Reducing 30-day all-cause acute exacerbation of chronic obstructive pulmonary disease readmission with a multidisciplinary quality improvement project
+
+Length of stay of COPD hospital admissions between 2006 and 2010: a retrospective longitudinal study
+
+Prognostic models for outcome prediction in patients with chronic obstructive pulmonary disease: systematic review and critical appraisal
+
+Risk factors for all-cause hospital readmission following exacerbation of COPD: a systematic review and meta-analysis
+
+Risk factors of hospitalization and readmission of patients with COPD exacerbation--systematic review
+
+Risk factors and associated outcomes of hospital readmission in COPD: a systematic review
+
+RoB 2: a revised tool for assessing risk of bias in randomised trials
+
+ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions
+
+Risk of Bias in Non-randomized Studies - of Exposure (ROBINS-E)
+
+Acute exacerbations of chronic obstructive pulmonary disease and the effect of existing psychiatric comorbidity on subsequent mortality
+
+Comparison of hospital outcomes and resource use in acute COPD exacerbation patients managed by teaching versus nonteaching services in a community hospital
+
+Impact of individualized care on readmissions after a hospitalization for acute exacerbation of COPD
+
+A natural language processing framework for assessing hospital readmissions for patients with COPD
+
+Process and outcome measures among COPD patients with a hospitalization cared for by an advance practice provider or primary care physician
+
+A revised treatment approach for hospitalized patients with Eosinophilic and Neutrophilic exacerbations of chronic obstructive pulmonary disease
+
+Hospitalisation of multiethnic older patients with AECOPD: exploration of the occurrence of anxiety, depression and factors associated with short-term hospital readmission
+
+Risk factors for hospital readmission in patients with chronic obstructive pulmonary disease
+
+Comorbidities and short-term prognosis in patients hospitalized for acute exacerbation of COPD: the EPOC en servicios de medicina interna (ESMI) study
+
+Short- and medium-term prognosis in patients hospitalized for COPD exacerbation: the CODEX index
+
+30-day readmission after an acute exacerbation of chronic obstructive pulmonary disease is associated with cardiovascular comorbidity
+
+Predictors of 30- and 90-day COPD exacerbation readmission: a Prospective Cohort Study
+
+Short-term versus long-term systemic corticosteroid use in the acute exacerbation of chronic obstructive pulmonary disease patients
+
+COPD: mortality and readmissions in relation to number of admissions with noninvasive ventilation
+
+Optimizing COPD acute care patient outcomes using a standardized transition bundle and care-coordinator: a randomized clinical trial
+
+Sex differences in veterans admitted to the hospital for chronic obstructive pulmonary disease exacerbation
+
+Risk factors and outcomes associated with chronic obstructive pulmonary disease exacerbations requiring hospitalization
+
+Risk assessment of readmissions following an initial COPD-related hospitalization
+
+Impact of clinical pathway on clinical outcomes in the management of COPD exacerbation
+
+Anemia in chronic obstructive pulmonary disease: a readmission prognosis factor
+
+Emergency department management of acute exacerbations of chronic obstructive pulmonary disease: factors predicting readmission
+
+Evaluation of prediction strategy and care coordination for COPD readmissions
+
+Eosinophil counts in first COPD hospitalizations: a comparison of health service utilization
+
+Health coaching and chronic obstructive pulmonary disease rehospitalization. A Randomized Study
+
+Frailty is a predictive factor of readmission within 90 days of hospitalization for acute exacerbations of chronic obstructive pulmonary disease: a longitudinal study
+
+Results of a medicare bundled payments for care improvement initiative for chronic obstructive pulmonary disease readmissions
+
+Long-acting bronchodilators with or without inhaled corticosteroids and 30-day readmission in patients hospitalized for COPD
+
+Adenovirus-specific IgG maturation as a surrogate marker in acute exacerbations of COPD
+
+Gamma globulin fraction of the proteinogram and chronic obstructive pulmonary disease exacerbations
+
+Hospital readmissions following initiation of nebulized arformoterol tartrate or nebulized short-acting beta-agonists among inpatients treated for COPD
+
+Readmission Risk in chronic obstructive pulmonary disease patients: comparative study of nebulized beta2-agonists
+
+The European COPD audit: adherence to guidelines, readmission risk and hospital care for acute exacerbations in Austria
+
+Retrospective audit of antimicrobial prescribing practices for acute exacerbations of chronic obstructive pulmonary diseases in a large regional hospital
+
+Glasgow supported self-management trial (GSuST) for patients with moderate to severe COPD: randomised controlled trial
+
+Factors associated with differential readmission diagnoses following acute exacerbations of chronic obstructive pulmonary disease
+
+Comorbidity and thirty-day hospital readmission odds in chronic obstructive pulmonary disease: a comparison of the Charlson and Elixhauser comorbidity indices
+
+Factors associated with inpatient readmission among managed care enrollees with COPD
+
+Risk factors for readmission after hospital discharge in chronic obstructive pulmonary disease. The role of quality of life indicators
+
+Risk factors of hospitalization and readmission of patients with COPD in Hong Kong population: analysis of hospital admission records
+
+Utility of the combination of serum highly-sensitive C-reactive protein level at discharge and a risk index in predicting readmission for acute exacerbation of COPD
+
+Physical activity as a predictor of thirty-day hospital readmission after a discharge for a clinical exacerbation of chronic obstructive pulmonary disease
+
+Prediction of readmission in patients with acute exacerbation of chronic obstructive pulmonary disease within one year after treatment and discharge
+
+Age and sex variations in hospital readmissions for COPD associated with overall and cardiac comorbidity
+
+Factors related to chronic obstructive pulmonary disease readmission in Taiwan
+
+Readmission rates and life threatening events in COPD survivors treated with non-invasive ventilation for acute hypercapnic respiratory failure
+
+Five-year outcome in COPD patients after their first episode of acute exacerbation treated with non-invasive ventilation
+
+Does eosinophilia and neutrophil to lymphocyte ratio affect hospital re-admission in cases of COPD exacerbation?
+
+The impact of patient education and shared decision making on hospital readmissions for COPD
+
+Admissions to hospital with exacerbations of chronic obstructive pulmonary disease: effect of age related factors and service organisation
+
+Noninvasive vs. conventional mechanical ventilation in patients with chronic obstructive pulmonary disease after failure of medical treatment in the ward: a randomized trial
+
+Developing a specialist-nurse-led ‘COPD in-reach service’
+
+Eosinophils in COPD exacerbations are associated with increased readmissions
+
+Psychosocial risk factors for hospital readmission in COPD patients on early discharge services: a cohort study
+
+Effects of roflumilast on rehospitalization and mortality in patients
+
+Inhaled corticosteroids do not influence the early inflammatory response and clinical presentation of hospitalized subjects with COPD exacerbation
+
+predicting in-hospital treatment failure (<= 7 days) in patients with COPD exacerbation using antibiotics and systemic steroids
+
+C-reactive protein at discharge, diabetes mellitus and ≥1 hospitalization during previous year predict early readmission in patients with acute exacerbation of chronic obstructive pulmonary disease
+
+Rehospitalization risks and outcomes in COPD patients receiving maintenance pharmacotherapy
+
+Cured meat consumption increases risk of readmission in COPD patients
+
+Oral or IV prednisolone in the treatment of COPD exacerbations: a randomized, controlled, double-blind study
+
+Readmissions following an initial hospitalization by COPD exacerbation in Spain from 2006 to 2012
+
+Reduced mortality risk in malnourished hospitalized older adult patients with COPD treated with a specialized oral nutritional supplement: sub-group analysis of the NOURISH study
+
+The utility of inflammatory markers to predict readmissions and mortality in COPD cases with or without eosinophilia
+
+Short-burst oxygen therapy for COPD patients: a 6-month randomised, controlled study
+
+Does early pulmonary rehabilitation reduce acute health-care utilization in COPD patients admitted with an exacerbation? A randomized controlled study
+
+Upper-extremity function prospectively predicts adverse discharge and all-cause COPD readmissions: a pilot study
+
+Walking distance is a predictor of exacerbations in patients with chronic obstructive pulmonary disease
+
+Management and survival of patients admitted with an exacerbation of COPD: comparison of two Danish patient cohorts
+
+Comparative effectiveness of fluoroquinolone antibiotic use in uncomplicated acute exacerbations of COPD: a multi-cohort study
+
+The effects of a comprehensive care management program on readmission rates after acute exacerbation of COPD at a community-based academic hospital
+
+Social and clinical predictors of short- and long-term readmission after a severe exacerbation of copd
+
+Lower 30-day readmission rates with roflumilast treatment among patients hospitalized for chronic obstructive pulmonary disease
+
+Health resource utilization for inpatients with COPD treated with nebulized arformoterol or nebulized formoterol
+
+Risk factors of readmission to hospital for a COPD exacerbation: a prospective study
+
+Effects of an integrated care intervention on risk factors of COPD readmission
+
+Prediction of three-month readmission based on haematological parameters in patients with severe COPD exacerbation
+
+Impact of hyponatremia on COPD exacerbation prognosis
+
+The association between hospital readmission and pulmonologist follow-up visits in patients with COPD
+
+A multidisciplinary intervention to improve care for high-risk COPD patients
+
+Multidisciplinary team utilizing pharmacists in multimodal, bundled care reduce chronic obstructive pulmonary disease hospital readmission rates
+
+Evaluation of a disease management program for COPD using propensity matched control group
+
+Compliance with a COPD bundle of care in an Australian emergency department: a cohort study
+
+N-acetylcysteine reduces the risk of re-hospitalisation among patients with chronic obstructive pulmonary disease
+
+Logistic regression model to predict chronic obstructive pulmonary disease exacerbation
+
+Nutritional state during COPD exacerbation: clinical and prognostic implications
+
+Exploring novel medicare readmission risk variables in chronic obstructive pulmonary disease patients at high risk of readmission within 30 days of hospital discharge
+
+Importance of noninvasively measured respiratory muscle overload among the causes of hospital readmission of COPD patients
+
+Time-varying readmission diagnoses during 30 days after hospitalization for COPD exacerbation
+
+Sex and racial/ethnic differences in the reason for 30-day readmission after COPD hospitalization
+
+Contribution of social factors to readmissions within 30 days after hospitalization for COPD exacerbation
+
+Risk factors for rehospitalisation in COPD: role of health status, anxiety and depression
+
+Readmission for acute exacerbation within 30 days of discharge is associated with a subsequent progressive increase in mortality risk in COPD patients: a long-Term observational study
+
+The use of a standardized order set reduces systemic corticosteroid dose and length of stay for individuals hospitalized with acute exacerbations of COPD: a cohort study
+
+The role of nebulised budesonide in the treatment of exacerbations of COPD
+
+What happens to patients with COPD with long-term oxygen treatment who receive mechanical ventilation for COPD exacerbation? A 1-year retrospective follow-up study
+
+High suPAR and low blood Eosinophil count are risk factors for hospital readmission and mortality in patients with COPD
+
+Hospital readmissions for COPD: a retrospective longitudinal study
+
+Risk of death and readmission of hospital-admitted COPD exacerbations: European COPD Audit
+
+Prevalence of blood eosinophilia in hospitalized patients with acute exacerbation of COPD
+
+The impact of a personalised action plan delivered at discharge to patients with COPD on readmissions: a pilot study
+
+Blood Eosinophil count and hospital readmission in patients with acute exacerbation of chronic obstructive pulmonary disease
+
+Evaluation of corticosteroid dose in acute exacerbation of chronic obstructive pulmonary disease
+
+Effectiveness of a respiratory day hospital program to reduce admissions for exacerbation in patients with severe COPD: a Prospective, Multicenter Study
+
+Two components of the new ESPEN diagnostic criteria for malnutrition are independent predictors of lung function in hospitalized patients with chronic obstructive pulmonary disease (COPD)
+
+Association of energy and protein intakes with length of stay, readmission and mortality in hospitalised patients with chronic obstructive pulmonary disease
+
+Short-stay in-patient rehabilitation of elderly patients with chronic obstructive pulmonary disease: prospective study
+
+The association between glucose levels and hospital outcomes in patients with acute exacerbations of chronic obstructive pulmonary disease
+
+Depression is associated with readmission for acute exacerbation of chronic obstructive pulmonary disease
+
+Early hospital readmissions after an acute exacerbation of chronic obstructive pulmonary disease in the nationwide readmissions database
+
+Management and risk of mortality in patients hospitalised due to a first severe COPD exacerbation
+
+The effect of a post acute respiratory outreach service for patients with chronic obstructive pulmonary disease on hospital readmission rates
+
+Predischarge bundle for patients with acute exacerbations of COPD to reduce readmissions and ED visits: a randomized controlled trial
+
+Effect of a pulmonary embolism diagnostic strategy on clinical outcomes in patients hospitalized for COPD exacerbation: a randomized clinical trial
+
+Systemic inflammatory marker CRP was better predictor of readmission for AECOPD than sputum inflammatory markers
+
+Risk factors for early readmission after acute exacerbation of chronic obstructive pulmonary disease
+
+Hospitalization with acute exacerbation of chronic obstructive pulmonary disease and associated health resource utilization: a population-based Danish cohort study
+
+COPD exacerbation phenotypes in a real-world five year hospitalisation cohort
+
+Comparison of narrow-versus broad-spectrum antibiotics in elderly patients with acute exacerbations of chronic obstructive pulmonary disease
+
+Association between blood glucose level and outcomes in patients hospitalized for acute exacerbation of chronic obstructive pulmonary disease
+
+Comparative effectiveness of tiotropium and ipratropium in prevention of hospital readmission for COPD: a Population-Based Cohort Study
+
+Effect of pharmacist-led inhaler technique assessment service on readmissions in hospitalized COPD patients: a randomized, controlled pilot study
+
+Blood eosinophil count predicts treatment failure and hospital readmission for copd
+
+Reduction in hospital readmission rates among medicare beneficiaries with chronic obstructive pulmonary disease: a real-world outcomes study of nebulized bronchodilators
+
+Effects of a comprehensive care program on the readmission rate and adherence to treatment in elderly patients with chronic obstructive pulmonary disease
+
+Comprehensive and collaborative pharmacist transitions of care service for underserved patients with chronic obstructive pulmonary disease
+
+Risk factors associated with frequent hospital readmissions for exacerbation of COPD
+
+The association with COPD readmission rate and access to medical institutions in elderly patients
+
+Inhaled corticosteroids are more effective in COPD patients when used with LABA than with SABA
+
+Impact of macrolide antibiotics on hospital readmissions and other clinically important outcomes in critically ill patients with acute exacerbations of chronic obstructive pulmonary disease: a Propensity Score-Matched Cohort Study
+
+Evaluation of PEARL score in assessing prognosis among patients with acute exacerbation of chronic obstructive pulmonary disease
+
+Blood eosinophil count as a predictor of hospital length of stay in COPD exacerbations
+
+Comprehensive care programme for patients with chronic obstructive pulmonary disease: a randomised controlled trial
+
+Effect of early pulmonary rehabilitation on health care utilization and health status in patients hospitalized with acute exacerbations of COPD
+
+COPD care programme can reduce readmissions and in-patient bed days
+
+Effect of short-course exercise training on the frequency of exacerbations and physical activity in patients with COPD: a randomized controlled trial
+
+Effect of a rehabilitation-based chronic disease management program targeting severe COPD exacerbations on readmission patterns
+
+Impact of an electronic medical record screening tool and therapist-driven protocol on length of stay and hospital readmission for COPD
+
+Readmission after COPD exacerbation scale: determining 30-day readmission risk for COPD patients
+
+Malnutrition screening in patients admitted to hospital with an exacerbation of chronic obstructive pulmonary disease and its association with patient outcomes
+
+Benefits of early roflumilast treatment after hospital or emergency department discharge for a COPD exacerbation
+
+Automated oxygen titration and weaning with FreeO2 in patients with acute exacerbation of COPD: a pilot randomized trial
+
+Effects of Chinese herbal medicine on acute exacerbations of COPD: a Randomized, Placebo-Controlled Study
+
+Clinical value of IL-13 and ECP in the serum and sputum of eosinophilic AECOPD patients
+
+Risk trajectories of readmission and death in the first year after hospitalization for chronic obstructive pulmonary disease
+
+Outcomes associated with invasive and noninvasive ventilation among patients hospitalized with exacerbations of chronic obstructive pulmonary disease
+
+Factors influencing short-term re-admission and one-year mortality in patients with chronic obstructive pulmonary disease
+
+Suboptimal inspiratory flow rates are associated with chronic obstructive pulmonary disease and all-cause readmissions
+
+Relationship between severity classification of acute exacerbation of chronic obstructive pulmonary disease and clinical outcomes in hospitalized patients
+
+Variability of blood eosinophil count and prognosis of COPD exacerbations
+
+Outcomes after early and delayed rehabilitation for exacerbation of chronic obstructive pulmonary disease: a nationwide retrospective cohort study in Japan
+
+Impact of a comprehensive copd therapeutic interchange program on 30-day readmission rates in hospitalized patients
+
+Discontinuing non-invasive ventilation in severe chronic obstructive pulmonary disease exacerbations: a randomised controlled trial
+
+Effect of an integrated care programme on re-hospitalization of patients with chronic obstructive pulmonary disease
+
+Reducing readmissions for chronic obstructive pulmonary disease in response to the hospital readmissions reduction program
+
+Pulmonary rehabilitation and readmission rates for medicare beneficiaries with acute exacerbation of chronic obstructive pulmonary disease
+
+The hospital readmissions reduction program and readmissions for chronic obstructive pulmonary disease, 2006–2015
+
+Factors affecting chronic obstructive pulmonary disease early rehospitalization
+
+Is methicillin-resistant Staphylococcus aureus colonization associated with worse outcomes in COPD hospitalizations?
+
+Race/ethnicity and 30-day readmission rates in medicare beneficiaries with COPD
+
+Depressive symptoms and chronic obstructive pulmonary disease: effect on mortality, hospital readmission, symptom burden, functional status, and quality of life
+
+Systemic steroid and nebulized budesonide combination therapy versus systemic steroid monotherapy in patients with acute exacerbation of chronic obstructive pulmonary disease in a community hospital: a Retrospective Cohort Study
+
+Associations between physical activity and 30-day readmission risk in chronic obstructive pulmonary disease
+
+Functional status at discharge and 30-day readmission risk in COPD
+
+Effect of community-acquired pneumonia on acute exacerbation of chronic obstructive pulmonary disease
+
+Hospital readmission due to chronic obstructive pulmonary disease: a Longitudinal Study
+
+A comprehensive care plan that reduces readmissions after acute exacerbations of COPD
+
+Quality of life and hospital re-admission in patients with chronic obstructive pulmonary disease
+
+Self-management training in chronic obstructive lung disease improves the quality of life
+
+Unsuspected risk factors of frequent exacerbations requiring hospital admission in chronic obstructive pulmonary disease
+
+Risk factors associated with ninety day readmission in chronic obstructive pulmonary disease exacerbation at a tertiary care hospital: a retrospective cohort study
+
+COPD exacerbation care bundle improves standard of care, length of stay, and readmission rates
+
+Nurse staffing and 30-day readmission of chronic obstructive pulmonary disease patients: a 10-year Retrospective Study of Patient Hospitalization
+
+Effectiveness of a standardized electronic admission order set for acute exacerbation of chronic obstructive pulmonary disease
+
+High blood Eosinophil and YKL-40 levels, as well as low CXCL9 levels, are associated with increased readmission in patients with acute exacerbation of chronic obstructive pulmonary disease
+
+Impact of the implementation of a pharmacist-driven chronic obstructive pulmonary disease exacerbation orderset in an inpatient setting
+
+A descriptive study of patients admitted with acute exacerbation of chronic obstructive pulmonary disease in three hospitals in Cape Town, South Africa
+
+Physical activity and hospitalization for exacerbation of COPD
+
+Effectiveness and safety of outpatient parenteral antimicrobial therapy in acute exacerbation of chronic obstructive pulmonary disease
+
+Adequacy and prognostic impact of treatment for severe exacerbation of chronic obstructive pulmonary disease
+
+Role of Vitamin D replacement on health related quality of life in hospitalized patients with “acute exacerbation of chronic obstructive pulmonary disease”
+
+Early non-elective readmission for chronic obstructive pulmonary disease is associated with weight loss
+
+Determinants of between-hospital variations in outcomes for patients admitted with COPD exacerbations: findings from a nationwide clinical audit (AUDIPOC) in Spain
+
+UK National COPD audit 2003: impact of hospital resources and organisation of care on patient outcome following admission for acute COPD exacerbation
+
+Readmissions reduction program: mortality and readmissions for chronic obstructive pulmonary disease
+
+Predictors of short-term COPD readmission
+
+Eosinopenia as a marker of outcome in acute exacerbations of chronic obstructive pulmonary disease
+
+Short outpatient pulmonary rehabilitation programme reduces readmission following a hospitalization for an exacerbation of chronic obstructive pulmonary disease
+
+Implementation of guideline-based therapy for chronic obstructive pulmonary disease: differences between men and women veterans
+
+Association between length of stay and readmission for COPD
+
+Weekend discharges and length of stay among veterans admitted for chronic obstructive pulmonary disease
+
+Clinical audit indicators of outcome following admission to hospital with acute exacerbation of chronic obstructive pulmonary disease
+
+Co-morbidities and 90-day outcomes in hospitalized COPD exacerbations
+
+A retrospective analysis to identify predictors of COPD-related rehospitalization
+
+Comparative causal analysis of the effects of long-acting muscarinic antagonist versus no long-acting bronchodilator use on readmission or mortality after hospitalization for chronic obstructive pulmonary disease
+
+Clinical factors, including all patient refined diagnosis related group severity, as predictors of early rehospitalization after COPD exacerbation
+
+Pseudomonas aeruginosa in chronic obstructive pulmonary disease patients with frequent hospitalized exacerbations: a Prospective Multicentre Study
+
+The impact of community-acquired pneumonia on acute exacerbation of chronic obstructive pulmonary disease patients as regards in-hospital complications and early readmission
+
+High doses of systemic corticosteroids in patients hospitalised for exacerbation of chronic obstructive pulmonary disease. A cohort study
+
+Impact of a post-discharge integrated disease management program on COPD hospital readmissions
+
+Teamwork and adherence to recommendations explain the effect of a care pathway on reduced 30-day readmission for patients with a COPD exacerbation
+
+Understanding why patients with COPD get readmitted: a large national study to delineate the medicare population for the readmissions penalty expansion
+
+The importance of having good quality indicators for care of patients with COPD: a look at hospital readmission rates
+
+Predictors of early readmission among patients 40 to 64 years of age hospitalized for chronic obstructive pulmonary disease
+
+Outpatient follow-up visit and 30-day emergency department visit and readmission in patients hospitalized for chronic obstructive pulmonary disease
+
+Mobility and functional status among hospitalized COPD patients
+
+Effects of integrated case payment on medical expenditure and readmission of inpatients with chronic obstructive pulmonary disease: a Nonrandomized, Comparative Study in Xi County, China
+
+Early readmission and mortality in acute exacerbation of chronic obstructive pulmonary disease with community-acquired pneumonia
+
+Identifying patients with COPD at high risk of readmission
+
+Inhaled corticosteroids and the risk of mortality and readmission in elderly patients with chronic obstructive pulmonary disease
+
+Healthcare resource utilization, exacerbations, and readmissions among medicare patients with chronic obstructive pulmonary disease after long-acting muscarinic antagonist therapy initiation with soft mist versus dry powder inhalers
+
+Association of psychological disorders with 30-day readmission rates in patients with COPD
+
+Effect of hospital use of oral nutritional supplementation on length of stay, hospital cost, and 30-day readmissions among medicare patients with COPD
+
+Improving adherence for management of acute exacerbation of chronic obstructive pulmonary disease
+
+Association between initiation of pulmonary rehabilitation and rehospitalizations in patients hospitalized with COPD
+
+Hospital volume and outcomes of noninvasive ventilation in patients hospitalized with an acute exacerbation of chronic obstructive pulmonary disease
+
+Association between antibiotic treatment and outcomes in patients hospitalized with acute exacerbation of COPD treated with systemic steroids
+
+Antibiotic treatment of exacerbations of COPD: a randomized, controlled trial comparing procalcitonin-guidance with standard therapy
+
+Nocturnal non-invasive ventilation in copd patients with prolonged hypercapnia after ventilatory support for acute respiratory failure: a randomised, controlled, parallel-group study
+
+Impact of maintenance therapy on hospitalization and expenditures for medicare beneficiaries with chronic obstructive pulmonary disease
+
+Neural respiratory drive predicts clinical deterioration and safe discharge in exacerbations of COPD
+
+Predictors of appropriate pharmacotherapy management of COPD exacerbations and impact on 6-month readmission
+
+Evaluation of oxygen prescription in relation to hospital admission rate in patients with chronic obstructive pulmonary disease
+
+Hospital frailty risk score predicts outcomes in chronic obstructive pulmonary disease exacerbations
+
+Early assisted discharge with generic community nursing for chronic obstructive pulmonary disease exacerbations: results of a randomised controlled trial
+
+Effectiveness of case management in the prevention of COPD re-admissions: a pilot study
+
+Impact of a care pathway for COPD on adherence to guidelines and hospital readmission: a cluster randomized trial
+
+Treatment failure and hospital readmissions in severe COPD exacerbations treated with azithromycin versus placebo - a post-hoc analysis of the BACE randomized controlled trial
+
+Acute exacerbations of chronic obstructive pulmonary disease with low serum procalcitonin values do not benefit from antibiotic treatment: a prospective randomized controlled trial
+
+Readmissions for COPD: propensity case-matched comparison between pulmonary and non-pulmonary departments
+
+Comparison of therapist-directed and physician-directed respiratory care in COPD subjects with acute pneumonia
+
+Acute exacerbation of chronic obstructive pulmonary disease: influence of social factors in determining length of hospital stay and readmission rates
+
+Role of peripheral eosinophilia in acute exacerbation of chronic obstructive pulmonary disease
+
+Native American Patients with chronic obstructive pulmonary disease exacerbations in a tertiary academic medical center - A Pilot Study
+
+The COPD-readmission (CORE) score: a novel prediction model for one-year chronic obstructive pulmonary disease readmissions
+
+High-flow nasal cannula versus conventional oxygen therapy in acute COPD exacerbation with mild hypercapnia: a multicenter randomized controlled trial
+
+Risk assessment and rate of readmission within 30 days of discharge after hospitalization for acute exacerbation of chronic obstructive pulmonary disease
+
+Assessing the importance of predictors in unplanned hospital readmissions for chronic obstructive pulmonary disease
+
+COPD care bundle in emergency department observation unit reduces emergency department revisits
+
+Pragmatic challenge of sustainability: long-term adherence to COPD care bundle maintains lower readmission rate
+
+Malnutrition and obesity: influence in mortality and readmissions in chronic obstructive pulmonary disease patients
+
+Main pulmonary artery enlargement predicts 90-day readmissions in Chinese COPD patients
+
+Dynamic increase of red cell distribution width predicts increased risk of 30-day readmission in patients with acute exacerbation of chronic obstructive pulmonary disease
+
+An overview of clinical decision support systems: benefits, risks, and strategies for success
+
+Discrepancy in the use of confirmatory tests in patients hospitalized with the diagnosis of chronic obstructive pulmonary disease or congestive heart failure

@@ -1,0 +1,608 @@
+=== Pharmacologic Management of COPD — ATS Clinical Practice Guideline ===
+Fonte: Am J Respir Crit Care Med 2020;201(9):e56-e69
+URL: https://academic.oup.com/ajrccm/article/201/9/e56/8496645
+Licenca: CC BY-NC
+Doenca: dpoc | Idioma: en
+----------------------------------------------------------------------
+
+Pharmacologic Management of Chronic Obstructive Pulmonary Disease. An Official American Thoracic Society Clinical Practice Guideline
+
+Background: This document provides clinical recommendations for the pharmacologic treatment of chronic obstructive pulmonary disease (COPD). It represents a collaborative effort on the part of a panel of expert COPD clinicians and researchers along with a team of methodologists under the guidance of the American Thoracic Society.
+
+Methods: Comprehensive evidence syntheses were performed on all relevant studies that addressed the clinical questions and critical patient-centered outcomes agreed upon by the panel of experts. The evidence was appraised, rated, and graded, and recommendations were formulated using the Grading of Recommendations, Assessment, Development, and Evaluation approach.
+
+Results: After weighing the quality of evidence and balancing the desirable and undesirable effects, the guideline panel made the following recommendations: 1) a strong recommendation for the use of long-acting β2-agonist (LABA)/long-acting muscarinic antagonist (LAMA) combination therapy over LABA or LAMA monotherapy in patients with COPD and dyspnea or exercise intolerance; 2) a conditional recommendation for the use of triple therapy with inhaled corticosteroids (ICS)/LABA/LAMA over dual therapy with LABA/LAMA in patients with COPD and dyspnea or exercise intolerance who have experienced one or more exacerbations in the past year; 3) a conditional recommendation for ICS withdrawal for patients with COPD receiving triple therapy (ICS/LABA/LAMA) if the patient has had no exacerbations in the past year; 4) no recommendation for or against ICS as an additive therapy to long-acting bronchodilators in patients with COPD and blood eosinophilia, except for those patients with a history of one or more exacerbations in the past year requiring antibiotics or oral steroids or hospitalization, for whom ICS is conditionally recommended as an additive therapy; 5) a conditional recommendation against the use of maintenance oral corticosteroids in patients with COPD and a history of severe and frequent exacerbations; and 6) a conditional recommendation for opioid-based therapy in patients with COPD who experience advanced refractory dyspnea despite otherwise optimal therapy.
+
+Conclusions: The task force made recommendations regarding the pharmacologic treatment of COPD based on currently available evidence. Additional research in populations that are underrepresented in clinical trials is needed, including studies in patients with COPD 80 years of age and older, those with multiple chronic health conditions, and those with a codiagnosis of COPD and asthma.
+
+Contents
+
+Summary of Recommendations
+
+Introduction
+
+Methods
+
+Group Composition
+
+Literature Searches
+
+Manuscript Preparation
+
+Funding and Updating
+
+Results
+
+Question 1: In Patients with COPD Who Complain of Dyspnea or Exercise Intolerance, Is LABA/LAMA Combination Therapy More Effective than and as Safe as LABA or LAMA Monotherapy?
+
+Question 2: In Patients with COPD Who Complain of Dyspnea or Exercise Intolerance despite the Use of Dual Therapy with LABA/LAMA, Is Triple Therapy with ICS/LABA/LAMA More Effective than and as Safe as Dual Therapy with LABA/LAMA?
+
+Question 3: In Patients with COPD Who Are Receiving Triple Therapy (ICS/LABA/LAMA), Should the ICS Be Withdrawn?
+
+Question 4: In Patients with COPD and Blood Eosinophilia, Should Treatment Include an ICS in Addition to a Long-Acting Bronchodilator?
+
+Question 5: In Patients with COPD Who Have a History of Severe and Frequent Exacerbations despite Otherwise Optimal Therapy, Is Maintenance Oral Steroid Therapy More Effective than and as Safe as No Maintenance Oral Steroid Therapy?
+
+Question 6: In Patients with COPD Who Experience Advanced Refractory Dyspnea despite Otherwise Optimal Therapy, Is Opioid-based Therapy More Effective than and as Safe as No Additional Therapy?
+
+Conclusions
+
+Summary of Recommendations
+
+In patients with chronic obstructive pulmonary disease (COPD) who complain of dyspnea or exercise intolerance, we recommend long-acting β2-agonist (LABA)/long-acting muscarinic antagonist (LAMA) combination therapy over LABA or LAMA monotherapy (strong recommendation, moderate certainty evidence).
+
+In patients with COPD who complain of dyspnea or exercise intolerance despite dual therapy with LABA/LAMA, we suggest the use of triple therapy with inhaled corticosteroids (ICS)/LABA/LAMA over dual therapy with LABA/LAMA in those patients with a history of one or more exacerbations in the past year requiring antibiotics or oral steroids or hospitalization (conditional recommendation, moderate certainty evidence).
+
+In patients with COPD who are receiving triple therapy (ICS/LABA/LAMA), we suggest that the ICS can be withdrawn if the patient has had no exacerbations in the past year (conditional recommendation, moderate certainty evidence).
+
+We do not make a recommendation for or against ICS as an additive therapy to long-acting bronchodilators in patients with COPD and blood eosinophilia, except for those patients with a history of one or more exacerbations in the past year requiring antibiotics or oral steroids or hospitalization, for whom we suggest ICS as an additive therapy (conditional recommendation, moderate certainty evidence).
+
+In patients with COPD and a history of severe and frequent exacerbations despite otherwise optimal therapy, we advise against the use of maintenance oral corticosteroid therapy (conditional recommendation, low certainty evidence).
+
+In individuals with COPD who experience advanced refractory dyspnea despite otherwise optimal therapy, we suggest that opioid-based therapy be considered for dyspnea management, within a personalized shared decision-making approach (conditional recommendation, very low certainty evidence).
+
+Introduction
+
+The Global Initiative for Chronic Obstructive Lung Disease 2019 report defines COPD as a “common, preventable and treatable disease that is characterized by persistent respiratory symptoms and airflow limitation that is due to airway or alveolar abnormalities, usually caused by significant exposure to noxious particles or gases”. Pharmacologic treatment for COPD aims to improve quality of life (QOL) and control symptoms while reducing the frequency of exacerbations.
+
+In patients with COPD who complain of dyspnea or exercise intolerance, is LABA/LAMA combination therapy more effective than and as safe as LABA or LAMA monotherapy?
+
+In patients with COPD who complain of dyspnea or exercise intolerance despite use of dual therapy with LABA/LAMA, is triple therapy with ICS/LABA/LAMA more effective than and as safe as dual therapy with LABA/LAMA?
+
+In patients with COPD who are receiving triple therapy (ICS/LABA/LAMA) should the ICS be withdrawn?
+
+In patients with COPD with blood eosinophilia, should treatment include an ICS in addition to a long-acting bronchodilator?
+
+In patients with COPD who have a history of severe and frequent exacerbations despite otherwise optimal therapy, is maintenance oral steroid therapy more effective than and as safe as no maintenance oral steroid therapy?
+
+In patients with COPD who experience advanced refractory dyspnea despite otherwise optimal therapy, is opioid-based therapy more effective than and as safe as no additional therapy?
+
+The purpose of this clinical practice guideline is to address specific clinically important questions regarding the pharmacologic management of COPD. The expert panel, in collaboration with a team of methodologists, prioritized and developed six questions that addressed significant COPD management issues. These questions were rephrased by the methods team using the Population, Intervention, Comparator, and Outcomes (PICO) format, and panel members then compiled and prioritized a list of outcomes that were important for clinical decision-making and particularly important to patients. Evidence syntheses for each PICO question were focused on clinical outcomes deemed “critical” for clinical decision-making. The panel used the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) approach (see Table 1) for the following clinical questions:
+
+Implications of Strong and Conditional Recommendations: From the Grading of Recommendations, Assessment, Development, and Evaluation Working Group
+
+Strong Recommendation (“We recommend . . .”)	Conditional Recommendation (“We suggest . . .”)	 	For patients	The overwhelming majority of individuals in this situation would want the recommended course of action, and only a small minority would not. (It is the right course of action for >95% of patients.)	The majority of individuals in this situation would want the suggested course of action, but a sizable minority would not. (It is the right course of action for >50% of patients.)	 	For clinicians	The overwhelming majority of individuals should receive the recommended course of action. Adherence to this recommendation according to the guideline could be used as a quality criterion or performance indicator. Formal decision aids are not likely to be needed to help individuals make decisions consistent with their values and preferences. (It is reasonable to recommend it strongly to patients and caregivers.)	Different choices will be appropriate for different patients, and the clinician must help each patient arrive at a management decision consistent with her or his values and preferences. Decision aids may be useful to help individuals make decisions consistent with their values and preferences. Clinicians should expect to spend more time with patients when working toward a decision. (Slow down, think about it, discuss it with the patient.)	 	For policy makers	The recommendation can be adopted as policy in most situations, including for use as a performance indicator. (The recommended course of action may be an appropriate performance measure.)	Policy making will require substantial debates and involvement of many stakeholders. Policies are also more likely to vary between regions. Performance indicators would have to focus on the fact that adequate deliberation about the management options has taken place. (The recommended course of action is not appropriate for a performance measure.)
+
+The target audience for this guideline includes specialists in respiratory medicine. However, given that COPD is a common condition, primary care physicians, internists, other healthcare professionals, patients, and policymakers may also find benefit from these recommendations.
+
+Although the panel used a systematic approach and the best available evidence to develop this guideline, it is important to note that study participants in many clinical trials may not reflect all populations. Specifically, patients older than 80 years, those with multiple chronic conditions, and those with a codiagnosis of COPD and asthma are rarely represented in clinical trials. We recommend that for all clinical management decisions, the patient and the healthcare provider should engage in a shared decision-making process.
+
+Methods
+
+The methodology applied in the development of this document with regard to formulating questions, rating the important outcomes, selecting studies, and synthesizing, formulating, and grading the evidence is described in detail in the online supplement. For all outcomes reporting standardized mean differences (SMDs), we used a default threshold of 0.50 for the SMD point estimate to describe a meaningful clinically important difference (MCID). Some important aspects of the methodology are summarized in the following subsections.
+
+Group Composition
+
+The Task Force co-chairs (L.N. and S.D.A.) were selected by the American Thoracic Society (ATS). They led all aspects of project management and selected the panelists, which included 18 clinicians and researchers with experience in COPD. In addition, there were three methodologists (P.E.A., M.J.M., and E.C.) who identified, collected, and synthesized the evidence, constructed the evidence profiles, and ensured that all methodological requirements were met. The co-chairs and panelists discussed the evidence and formulated the recommendations; the methodologists did not participate in the development of recommendations. All panel members were required to disclose their conflicts of interest. Both co-chairs and at least 50% of the panel were required to be free from conflicts of interest. Individuals with potential conflicts of interest took part in the evidence discussions but did not participate in the formulation of recommendations.
+
+Literature Searches
+
+The literature searches queried MEDLINE, Embase, and the Cochrane Library (the Cochrane Central Register of Controlled Trials and the Cochrane Database of Systematic Reviews) from 1990 to January 2019. Additional relevant publications that were found in reference lists, were not retrieved in the original searching strategy, or were deemed eligible by the panel, and more recent studies published between January and July 4, 2019, were subsequently screened for eligibility by the methods team and included in the assessed body of evidence. All study design types were included in the searches except for case report/case series, letters/editorials/narrative reviews, and abstracts. Thus, the search included both nonrandomized studies of interventions and randomized controlled trials (RCTs). The searches focused on studies that were conducted in humans and published in the English language.
+
+Manuscript Preparation
+
+The initial draft of the manuscript was prepared by the co-chairs and methodologists. The methodologists wrote the content for the online supplement, which was edited by the co-chairs. Both the manuscript and the online supplement were reviewed, edited, and approved by all panel members before submission. A summary of the recommendations can be found in Table 2.
+
+Recommendations for the Pharmacologic Treatment of Stable Chronic Obstructive Pulmonary Disease
+
+PICO Question	Recommendation	Strength of Recommendation	Certainty of Evidence	 	1. In patients with COPD who complain of dyspnea or exercise intolerance, is LABA/LAMA combination therapy more effective than and as safe as LABA or LAMA monotherapy?	In patients with COPD who complain of dyspnea or exercise intolerance, we recommend LABA/LAMA combination therapy over LABA or LAMA monotherapy.	Strong	Moderate certainty	 	2. In patients with COPD who complain of dyspnea or exercise intolerance despite the use of dual therapy with LABA/LAMA, is triple therapy with ICS/LABA/LAMA more effective than and as safe as dual therapy with LABA/LAMA?	In patients with COPD who complain of dyspnea or exercise intolerance despite dual therapy with LABA/LAMA, we suggest the use of triple therapywith ICS/LABA/LAMA over dual therapy with LABA/LAMA in those patients with a history of one or more exacerbations in the past year requiring antibiotics or oral steroids or hospitalization.	Conditional	Moderate certainty	 	3. In patients with COPD who are receiving triple therapy (ICS/LABA/LAMA), should the ICS be withdrawn?	In patients with COPD who are receiving triple therapy (ICS/LABA/LAMA), we suggest that the ICS can be withdrawn if the patient has had no exacerbations in the past year.	Conditional	Moderate certainty	 	4. In patients with COPD and blood eosinophilia, should treatment include an ICS in addition to a long-acting bronchodilator?	We do not make a recommendation for or against ICS as an additive therapy to long-acting bronchodilators in patients with COPD and blood eosinophilia, except for those patients with a history of one or more exacerbations in the past year requiring antibiotics or oral steroids or hospitalization, for whom we suggest ICS as an additive therapy.	Conditional	Moderate certainty	 	5. In patients with COPD who have a history of severe and frequent exacerbations despite otherwise optimal therapy, is maintenance oral steroid therapy more effective than and as safe as no maintenance oral steroid therapy?	In patients with COPD and a history of severe and frequent exacerbations despite otherwise optimal therapy, we advise against the use of maintenance oral corticosteroid therapy.	Conditional	Low certainty	 	6. In patients with COPD who experience advanced refractory dyspnea despite otherwise optimal therapy, is opioid-based therapy more effective than and as safe as no additional therapy?	In individuals with COPD who experience advanced refractory dyspnea despite otherwise optimal therapy, we suggest that opioid-based therapy be considered for dyspnea management, within a personalized shared decision-making approach.	Conditional	Very low certainty
+
+Definition of abbreviations: COPD = chronic obstructive pulmonary disease; ICS = inhaled corticosteroids; LABA = long-acting β2-agonist; LAMA = long-acting muscarinic antagonist; PICO = Population, Intervention, Comparator, and Outcomes.
+
+Funding and Updating
+
+Guideline development was funded by the ATS. The guideline will be reevaluated in 4–5 years by the relevant ATS Assembly to determine whether updating is warranted.
+
+Results
+
+Question 1: In Patients with COPD Who Complain of Dyspnea or Exercise Intolerance, Is LABA/LAMA Combination Therapy More Effective than and as Safe as LABA or LAMA Monotherapy?
+
+Recommendation
+
+For patients with COPD who complain of dyspnea or exercise intolerance, we recommend LABA/LAMA combination therapy over LABA or LAMA monotherapy (strong recommendation, moderate certainty evidence).
+
+Critical outcomes
+
+Outcome prioritization by the panel resulted in ranking hospital admissions, dyspnea, exacerbations, health-related QOL, and treatment-related adverse events as critical outcomes.
+
+Summary of the evidence
+
+The expert medical librarian initially identified 2,543 citations in MEDLINE (n = 1,086), Embase (n = 1,290), and the Cochrane Library (n = 167), with deduplication resulting in n = 1,845 warranting screening. Six additional studies were identified through other means. The majority (98.6%) were ineligible either because of a nonrigorous study methodology or lack of relevance to the PICO question, and this resulted in screeners identifying 24 studies for final review inclusion. All 24 identified studies were RCTs.
+
+The total sample size for the 24 studies was 45,441 participants; 29,589 (65.4%) of these participants were randomized to the treatment/intervention arms and 15,852 (34.6%) were in the control (comparator) arms.
+
+Dyspnea score: assessed using the Transition Dyspnea Index or COPD Assessment Test
+
+Eleven studies (n = 17,650) assessed dyspnea. Because the Transition Dyspnea Index (TDI) and the COPD Assessment Test (CAT) are scored in opposite directions, changes in CAT values were multiplied by −1. The panel acknowledged that the CAT is a broader estimate of health status; however, one of its core components is dyspnea. Therefore, the panel believed that it was reasonable to use this tool as a proxy for dyspnea when other measures of dyspnea were unavailable for a particular study. The studies revealed an increased score (less breathlessness) in patients randomized to dual LABA/LAMA therapy versus monotherapy (SMD = 0.10; 95% confidence interval [CI], 0.07–0.13; P < 0.001), although this did not reach the MCID threshold. There was a high certainty in the estimate of effect based on GRADE (absolute risk effect was 0.1 SDs more; 95% CI, 0.07 more to 0.13 more).
+
+Exacerbations
+
+Fifteen studies (n = 22,733) assessed exacerbation risk. The studies revealed a reduced risk with dual LABA/LAMA therapy versus monotherapy (risk ratio [RR], 0.80; 95% CI, 0.69–0.92; P = 0.002). There was moderate certainty in estimates of effect based on GRADE (absolute risk effect was 88 fewer per 1,000 patients; 95% CI, 136 fewer to 35 fewer).
+
+Health-related QOL: assessed using the Chronic Respiratory Disease Questionnaire or St. George’s Respiratory Questionnaire
+
+Eleven studies (n = 18,897) assessed health-related QOL. The studies revealed a reduced score (improved QOL) favoring dual LABA/LAMA therapy over monotherapy (SMD = −0.13; 95% CI, −0.16 to −0.10; P < 0.001), although this did not reach the MCID threshold. There was high certainty in estimates of effect based on GRADE (absolute difference was 0.13 SDs fewer; 95% CI, 0.16 fewer to 0.10 fewer).
+
+Hospital admissions
+
+Three studies (n = 9,719) assessed risk of hospital admission. The studies revealed a reduced risk with dual LABA/LAMA therapy versus monotherapy (RR, 0.89; 95% CI, 0.82–0.97; P = 0.01) There was high certainty in estimates of effect based on GRADE (absolute risk effect was 19 fewer hospital admissions per 1,000 patients treated with LABA/LAMA as opposed to monotherapy; 95% CI, 32 fewer to 5 fewer).
+
+Treatment-related adverse events
+
+Twenty-three studies (n = 38,758) assessed treatment-related adverse events. The studies revealed no significant difference in risk of treatment-related adverse events with dual LABA/LAMA therapy versus monotherapy (RR, 0.99; 95% CI, 0.97–1.01; P = 0.34). There was high certainty in estimates of effect based on GRADE (absolute risk effect was 4 fewer per 1,000 patients; 95% CI, 12 fewer to 4 more).
+
+Summary
+
+Based on the five critical outcomes and completion of the GRADE evidence table, the overall certainty of evidence was judged to be “moderate” and this certainty was assigned to the final recommendation as per GRADE guidance.
+
+Committee discussion
+
+The panel noted a statistically significant decrease in exacerbations and hospital admissions among patients receiving dual therapy as opposed to monotherapy. The evidence also showed a statistically significant improvement in dyspnea and QOL with dual therapy, although these did not reach the MCID threshold. In addition, the available studies did not reveal any evidence of harm from dual therapy compared with monotherapy. Given the above evidence, we believe that patients would thus opt for dual therapy over monotherapy.
+
+The panel examined and discussed feasibility, acceptability, and health-equity issues, and concluded that dual therapy would be feasible to implement and would be acceptable to patients. The panel did note that dual long-acting bronchodilator therapy is more expensive than long-acting bronchodilator monotherapy, and that this could pose health-equity challenges to patients of limited means who might be unable to obtain the drug because of cost or lack of availability. However, a formal cost-effectiveness analysis was not performed, and the literature evidence was not fully examined in this regard. Because dual long-acting bronchodilators are available as single inhalers, the burden of use for patients was not deemed a factor that would preclude patients from choosing dual therapy over monotherapy. However, the panel noted that if a physician chooses to prescribe two separate long-acting bronchodilator inhalers rather than a single combination dual therapy inhaler, this could increase the complexity and burden of medication use for patients.
+
+After considering these issues, and armed with moderate certainty evidence, the panel concluded that in patients with COPD who complain of dyspnea or exercise intolerance, the balance of benefits of dual LABA/LAMA therapy outweighs the risks when compared with LABA or LAMA monotherapy.
+
+Research needs
+
+The available clinical trials have demonstrated the superiority of dual bronchodilator therapy over single bronchodilator therapy. However, the panel noted that these trials excluded certain patient populations, including patients older than 80 years, those with multiple chronic conditions, and those with a codiagnosis of COPD and asthma. Large sample sizes and high-quality observational studies with results that reveal large magnitudes of effect and dose–response relationships may be useful for supplementing the available RCT evidence in these populations.
+
+Question 2: In Patients with COPD Who Complain of Dyspnea or Exercise Intolerance despite the Use of Dual Therapy with LABA/LAMA, Is Triple Therapy with ICS/LABA/LAMA More Effective than and as Safe as Dual Therapy with LABA/LAMA?
+
+Recommendation
+
+In patients with COPD who complain of dyspnea or exercise intolerance despite dual therapy with LABA/LAMA, we suggest the use of triple therapy with ICS/LABA/LAMA rather than dual therapy with LABA/LAMA in those patients with a history of one or more exacerbations in the past year requiring antibiotics or oral steroids or hospitalization (conditional recommendation, moderate certainty evidence).
+
+Critical outcomes
+
+Outcome prioritization by the panel resulted in ranking pneumonia, hospital admissions, exacerbations, ICU admissions, dyspnea, and health-related QOL as critical outcomes.
+
+Subgroup analysis
+
+The panel decided a priori that a subgroup analysis would be done based on patients with a history of one or more COPD exacerbations in the past year requiring treatment with antibiotics or oral steroids or hospitalization versus patients with zero to less than one exacerbation in the past year requiring treatment with antibiotics or oral steroids or hospitalization.
+
+Summary of the evidence
+
+The expert medical librarian initially identified 1,482 citations in MEDLINE (n = 668), Embase (n = 768), and the Cochrane Library (n = 46), with deduplication resulting in n = 1,102 warranting screening. An additional two studies were identified through other means. The majority (99.5%) were ineligible either because of a nonrigorous study methodology or lack of relevance to the PICO question, and this resulted in screeners identifying four studies for final review inclusion. The four identified studies were multicenter RCTs. The total sample size for the four RCTs was 9,313 participants; 5,700 (61.2%) of these participants were in the treatment/intervention arms and 3,613 (38.8%) were in the control (comparator) arms. Three of the four studies enrolled patients with a history of one or more exacerbations per year. In one study, patients were not required to have had an exacerbation in the past year.
+
+Pneumonia
+
+Three studies (n = 8,964) assessed incidence of pneumonia. The studies revealed a significantly increased risk of pneumonia with triple therapy as compared with dual therapy (rate ratio, 1.39; 95% CI, 1.02–1.90; P = 0.03). There was high certainty in estimates of effect based on GRADE (absolute risk effect was 15 more pneumonias per 1,000 patients; 95% CI, 1 more to 35 more). The χ2 interaction test for subgroup differences suggested similar effects in frequency of pneumonia for those with a history of one or more exacerbations in the past year and those with zero to less than one exacerbation in the past year (P = 0.74), suggesting that any differences could be explained by chance.
+
+Hospital admissions
+
+One study (n = 293) evaluated the risk of all-cause hospital admissions. The study revealed no significant difference in risk of hospital admission with triple therapy as compared with dual therapy (rate ratio, 0.87; 95% CI, 0.62–1.24; P = 0.44). There was moderate certainty in estimates of effect based on GRADE (absolute risk effect was 42 fewer per 1,000 patients; 95% CI, 123 fewer to 78 more). There were no subgroups available to analyze.
+
+Exacerbations
+
+Four studies (n = 9,257) evaluated the risk of COPD exacerbations. The studies revealed a significantly decreased risk of exacerbations with triple therapy as compared with dual therapy with LABA/LAMA (rate ratio, 0.71; 95% CI, 0.59–0.86; P < 0.001). There was moderate certainty in estimates of effect based on GRADE (absolute risk effect was 64 fewer exacerbations per 1,000 patients; 95% CI, 90 fewer to 31 fewer). The χ2 interaction test for subgroup differences suggested different effects in frequency of exacerbations for those with a history of one or more exacerbations in the past year and those with zero to less than one exacerbation in the past year (P < 0.001).
+
+Subgroup with a history of one or more exacerbations in the past year
+
+Three studies (n = 7,993) evaluated the risk of COPD exacerbations in subjects with a history of one or more exacerbations in the past year. The studies revealed a significantly decreased risk of exacerbations with triple therapy as compared with dual therapy with LABA/LAMA (rate ratio, 0.77; 95% CI, 0.72–0.81; P < 0. 001). Assuming a baseline risk of COPD exacerbation in this subgroup of 1.0 exacerbations per patient per year, the absolute risk effect was 230 fewer exacerbations per 1,000 patients (95% CI, 280 fewer to 190 fewer).
+
+Subgroup with zero to less than one exacerbation in the past year
+
+One study (n = 1,264) revealed a significant reduction in the rate of exacerbations with triple therapy as compared with dual therapy with LABA/LAMA (rate ratio, 0.48; 95% CI, 0.37–0.62; P < 0.001). Assuming a baseline risk of COPD exacerbation in this subgroup of 0.35 exacerbations per patient per year, the absolute risk difference/risk effect was 182 fewer exacerbations per 1,000 patients (95% CI, 220 fewer to 133 fewer).
+
+ICU admissions
+
+ICU admissions were not reported in any of the RCTs and therefore could not be analyzed.
+
+Dyspnea score: assessed using the TDI
+
+Two studies (n = 1,494) assessed dyspnea. The studies revealed no significant change in dyspnea in patients treated with triple therapy as compared with dual therapy (MD = 0.20; 95% CI, −0.04 to 0.44; P = 0.11), and this did not reach the MCID threshold of 1 TDI unit. There was high certainty in the estimate of effect based on GRADE (absolute difference was 0.20 TDI units more; 95% CI, 0.04 less to 0.44 more). The χ2 interaction test for subgroup differences suggested similar effects for those with exacerbations and without exacerbations (P = 0.58), suggesting that any differences could be explained by chance.
+
+Health-related QOL: assessed using the St. George’s Respiratory Questionnaire
+
+Three studies (n = 6,292) assessed health-related QOL. The studies revealed a significantly lower score (improved QOL) favoring triple therapy over dual therapy (MD = −1.56; 95% CI, −2.39 to −0.74; P < 0. 001); however, this does not exceed the MCID threshold for a St. George’s Respiratory Questionnaire (SGRQ) score of −4 units. There was high certainty in estimates of effect based on GRADE (absolute difference was 1.56 SGRQ units less; 95% CI, 2.39 units fewer to 0.74 fewer). The χ2 interaction test for subgroup differences suggested similar effects in health-related QOL for those with exacerbations and without exacerbations (P = 0.81), suggesting that any differences could be explained by chance.
+
+Summary
+
+Based on the five critical outcomes and completion of the GRADE evidence table, the overall certainty of evidence was judged to be “moderate” and this certainty was assigned to the final recommendation as per GRADE guidance.
+
+Committee discussion
+
+The panel concluded that the benefits of triple therapy with ICS/LABA/LAMA outweigh the risks as compared with treatment with LABA/LAMA dual therapy in patients with COPD who complain of dyspnea or exercise intolerance despite dual therapy and have experienced one or more exacerbations in the past year. The panel noted that in three studies that randomized symptomatic patients with COPD who had a history of exacerbations, the benefits of triple therapy in protecting against the risk of future exacerbations outweighed the increased risk of pneumonia. In patients with COPD and a history of one or more exacerbations in the past year, the 23% rate reduction in exacerbations was believed to outweigh the 39% increased rate of pneumonia, as exacerbation events are much more common than pneumonia events in these patients. This was confirmed when the absolute risk differences were examined. Patients treated with triple therapy experienced 15 more pneumonias per 1,000 patients; however, they also experienced 230 fewer COPD exacerbations per 1,000 patients. Thus, the panel concluded that for patients with COPD and a history of exacerbations, the benefits of triple therapy outweigh the risks.
+
+However, the panel concluded that the benefits of triple therapy do not clearly outweigh the risks as compared with treatment with dual therapy in patients with COPD who have experienced zero to less than one exacerbation in the past year, because only one clinical trial that assessed this specific subgroup was available. In this study, patients with COPD and no history of exacerbations had a 39% increased relative risk of pneumonia and a 52% reduced relative risk of exacerbations. Patients treated with triple therapy experienced 15 more pneumonias per 1,000 patients, and experienced 182 fewer COPD exacerbations per 1,000 patients. Although the data from this study suggest that these patients may benefit from triple therapy, the panel believed that additional studies are needed before triple therapy can be recommended for this subgroup.
+
+The panel examined and discussed feasibility, acceptability, and health-equity issues, and concluded that the therapy options (dual therapy or triple therapy) would be feasible to implement and would be acceptable to patients. The panel did note that triple therapy is more expensive than dual long-acting bronchodilator therapy, and that this could pose health-equity challenges to patients of limited means who might be unable to obtain the drug because of cost or lack of availability. However, a formal cost-effectiveness analysis was not performed, and the literature evidence was not fully examined in this regard. Because triple therapy is available as a single inhaler, the burden of use for patients was not deemed a factor that would preclude patients from choosing triple therapy over dual therapy. However, the panel noted that if a physician chooses to prescribe two or three separate inhalers rather than a single combination triple therapy inhaler, this could increase the complexity and burden of medication use for patients. After considering these issues, the panel decided that for patients with COPD who complain of dyspnea or exercise intolerance, the balance of benefits of triple therapy with ICS/LABA/LAMA clearly outweigh the risks when compared with dual therapy with LABA/LAMA in those patients with a history of one or more exacerbations in the past year requiring antibiotics or oral steroids or hospitalization.
+
+Research needs
+
+The studies available to date used the criterion of one or more exacerbations in the past year to define a patient with frequent exacerbations. This criterion is inadequate because there are likely different risks (and different responses to pharmacotherapy) for patients depending on both the number and severity of exacerbations. For example, a patient with less than one exacerbation per year would likely be at low risk, patients with one exacerbation per year may have a moderate risk, and patients with two or more exacerbations per year or those with at least one severe exacerbation requiring hospitalization may be at high risk. Trials using risk stratification of exacerbation risks to more precisely target a treatment response are needed. Evidence is also lacking with regard to the subgroup with no history of exacerbations, and trials are needed to better establish the role of triple therapy in this patient population.
+
+Adequately powered, well-designed effectiveness studies (e.g., pragmatic RCTs and nonrandomized studies of interventions), with larger sample sizes, in the area of triple therapy versus dual therapy should be conducted in real-life situations, such as those involving patients older than 80 years of age, those with multiple chronic health conditions, current smokers, and those with a codiagnosis of COPD and asthma. The results of such trials could provide much-needed robust evidence for optimal personalized clinical management.
+
+Question 3: In Patients with COPD Who Are Receiving Triple Therapy (ICS/LABA/LAMA), Should the ICS Be Withdrawn?
+
+Recommendation
+
+In patients with COPD who are receiving triple therapy with ICS/LABA/LAMA, we suggest that the ICS can be withdrawn if the patient has had no exacerbations in the past year (conditional recommendation, moderate certainty evidence).
+
+Subgroup analysis
+
+The panel decided a priori that a subgroup analysis would be done for the exacerbation outcome based on patients with a history of one or more COPD exacerbations in the past year requiring treatment with antibiotics or oral steroids or hospitalization versus patients with no exacerbation in the past year requiring treatment with antibiotics or oral steroids or hospitalization.
+
+Critical outcomes
+
+Outcome prioritization by the panel resulted in ranking pneumonia, hospital admissions, exacerbations, all-cause death, ICU admissions, dyspnea, health-related QOL, and physical activity as critical outcomes.
+
+Summary of the evidence
+
+The expert medical librarian initially identified 1,482 citations in MEDLINE (n = 668), Embase (n = 768), and the Cochrane Library (n = 46), with deduplication resulting in n = 1,102 warranting screening. The majority (99.6%) were ineligible either because of a nonrigorous study methodology or lack of relevance to the PICO question, and this resulted in screeners identifying three studies for final review inclusion. The three identified studies were RCTs; however, one of the three studies was a subgroup analysis of a larger trial, and thus only two studies were included for review. The total sample size for the two studies was 3,538 participants; 1,769 (50%) of these participants were in the treatment/intervention arms and 1,769 (50%) were in the control (comparator) arms. The two studies were both multicenter trials.
+
+Pneumonia
+
+Two studies (n = 3,538) assessed incidence of pneumonia. The studies revealed no significant difference in risk of pneumonia with withdrawal of ICS and subsequent dual therapy with LABA/LAMA as compared with triple therapy (RR, 0.92; 95% CI, 0.67–1.25; P = 0.58). There was moderate certainty in estimates of effect based on GRADE (absolute risk effect was 4 fewer pneumonias per 1,000 patients; 95% CI, 15 fewer to 11 more).
+
+Hospital admissions
+
+One study (n = 2,485) evaluated the frequency of hospital admissions. The study revealed no significant difference in hospital admissions with withdrawal of ICS and subsequent dual therapy with LABA/LAMA as compared with continued triple therapy (RR, 0.99; 95% CI, 0.86–1.15; P = 0.93). There was moderate certainty in estimates of effect based on GRADE (absolute risk effect was 2 fewer admissions per 1,000 patients; 95% CI, 31 fewer to 33 more).
+
+Exacerbations
+
+Two studies (n = 3,538) evaluated the risk of COPD exacerbations. The studies revealed no significant difference in risk of exacerbations with withdrawal of ICS and subsequent dual therapy with LABA/LAMA as compared with continued triple therapy (rate ratio, 1.07; 95% CI, 0.97–1.17; P = 0.17). There was moderate certainty in estimates of effect based on GRADE (absolute effect was 15 more exacerbation events per 1,000 patients; 95% CI, 7 fewer to 37 more). The χ2 interaction test for subgroup differences suggested similar effects for the risk of COPD exacerbations for those with one or more exacerbations in the past year and those without a history of exacerbations (P = 0.88), suggesting that any differences could be explained by chance.
+
+All-cause mortality
+
+Two studies (n = 3,538) evaluated all-cause mortality. The studies revealed no significant difference in risk of death with withdrawal of ICS and subsequent dual therapy with LABA/LAMA as compared with continued triple therapy (RR, 1.09; 95% CI, 0.73–1.65; P = 0.66). There was moderate certainty in estimates of effect based on GRADE (absolute risk effect was 2 more deaths per 1,000 patients; 95% CI, 7 fewer to 17 more).
+
+ICU admissions
+
+ICU admissions were not reported in the RCTs and therefore could not be analyzed.
+
+Dyspnea
+
+Information regarding dyspnea was not complete from the available RCTs, and thus the results could not be pooled.
+
+Health-related QOL: assessed using the SGRQ
+
+Two studies (n = 3,538) assessed health-related QOL. The studies showed a significant decrease in QOL (increased SGRQ score) with withdrawal of ICS versus continued triple therapy (MD = 1.22; 95% CI, 1.15–1.29; P < 0.0001); however, this does not exceed the MCID threshold for an SGRQ score of 4 units. There was high certainty in estimates of effect based on GRADE (absolute risk effect was 1.22 SGRQ units higher; 95% CI, 1.15 higher to 1.29 higher).
+
+Physical activity
+
+Physical activity was not reported in the RCTs and therefore could not be analyzed.
+
+Summary
+
+Based on the six critical outcomes and completion of the GRADE evidence table, the overall certainty of evidence was judged to be “moderate” and this certainty was assigned to the final recommendation as per GRADE guidance.
+
+Committee discussion
+
+According to the available evidence, withdrawal of ICS was not associated with a statistically significant difference in risk of pneumonia, all-cause mortality, or risk of COPD exacerbation. The change in QOL did not exceed the MCID threshold. Given the paucity of evidence and hence the inability to confirm the risks and benefits associated with withdrawal of ICS from triple therapy, and in light of the analysis of data from PICO question 2, which showed that triple therapy is of benefit in patients with a history of exacerbations, the panel suggests that ICS can be withdrawn and patients can be converted from triple therapy to dual therapy with LABA/LAMA if there is no history of exacerbations in the past year.
+
+The panel examined and discussed feasibility, acceptability, and health-equity issues, and concluded that withdrawal of ICS from triple therapy would be feasible to implement, would be acceptable to patients, and would pose limited (if any) health-equity challenges. A cost-effectiveness analysis was not performed, and the literature evidence was not fully examined in this regard. However, the panel believed that the costs of dual therapy versus triple therapy would not be a rate-limiting step for patients in terms of access to treatment, as dual therapy would be expected to be less expensive than triple therapy. The burden of use for patients was also not deemed to be a factor that would preclude them from choosing dual therapy over triple therapy. After considering these issues, the panel concluded that withdrawal of ICS from triple therapy can be considered for patients with COPD who do not have a history of exacerbations in the past year.
+
+Research needs
+
+Adequately powered, well-designed effectiveness studies in the area of withdrawal of ICS from triple therapy are needed to confirm these findings. These future trials should evaluate important subgroups, including patients with different frequencies and severities of exacerbations, blood eosinophilia, and asthma/COPD overlap. Evaluation of additional clinically important outcomes, such as dyspnea, activity limitation, and exercise tolerance, may provide further insight into optimal clinical management.
+
+Question 4: In Patients with COPD and Blood Eosinophilia, Should Treatment Include an ICS in Addition to a Long-Acting Bronchodilator?
+
+Recommendation
+
+We do not make a recommendation for or against ICS as an additive therapy to long-acting bronchodilators in patients with COPD and blood eosinophilia (defined as ≥2% blood eosinophils or ≥150 cells/μl), except for those patients with a history of one or more exacerbations in the past year requiring antibiotics or oral steroids or hospitalization, for whom we suggest ICS as an additive therapy (conditional recommendation, moderate certainty evidence).
+
+Critical outcomes
+
+Outcome prioritization by the panel resulted in ranking pneumonia, hospital admissions, exacerbations, dyspnea, and health-related QOL as critical outcomes.
+
+Summary of the evidence
+
+The expert medical librarian initially identified 2,953 citations in MEDLINE (n = 1,734), Embase (n = 1,187), and the Cochrane Library (n = 32), with deduplication resulting in n = 1,923 warranting abstract screening. An additional seven studies were identified through other means. The majority (99.4%) were ineligible either because of a nonrigorous study methodology or lack of relevance to the PICO question, and this resulted in screeners identifying eight studies for final review inclusion. All eight identified unique studies were RCTs. The total sample size for the eight RCTs was 9,123 participants; 5,945 (65.2%) of these participants were in the treatment/intervention arms and 3,178 (34.8%) were in the control (comparator) arms.
+
+The chosen thresholds for the percentage of eosinophils in blood (≥2% eosinophils) and the number of eosinophils per microliter of blood (≥150) were based on the values presented in the studies analyzed for the review.
+
+Pneumonia (≥2% eosinophils)
+
+Two studies (n = 4,131) assessed incidence of pneumonia in patients with ≥2% blood eosinophils. The studies revealed an increased risk of pneumonia with an ICS in addition to a long-acting bronchodilator (RR, 1.99; 95% CI, 1.31–3.00; P = 0.001). There was moderate certainty in estimates of effect based on GRADE (absolute risk effect was 26 more pneumonias per 1,000 patients; 95% CI, 8 more to 52 more).
+
+Pneumonia (≥150 eosinophils)
+
+Two studies (n = 4,267) assessed incidence of pneumonia in patients with ≥150 blood eosinophils/μl. The studies revealed an increased risk of pneumonia with an ICS in addition to a long-acting bronchodilator (RR, 1.55; 95% CI, 1.23–1.95; P < 0.001). There was moderate certainty in estimates of effect based on GRADE (absolute risk effect was 44 more pneumonias per 1,000 patients; 95% CI, 18 more to 76 more).
+
+Hospital admissions
+
+Hospital admissions were not reported in the studies and therefore could not be analyzed.
+
+Exacerbations (≥2% eosinophils)
+
+Six studies (n = 5,517) assessed rates of COPD exacerbations in patients with ≥2% blood eosinophils. The studies revealed a reduced risk of exacerbations with an ICS in addition to a long-acting bronchodilator versus a long-acting bronchodilator (rate ratio, 0.78; 95% CI, 0.67–0.92; P = 0.004). There was moderate certainty in estimates of effect based on GRADE. Assuming a baseline risk of COPD exacerbation in this subgroup of one exacerbation per patient per year, the absolute risk effect was 209 fewer exacerbations per 1,000 patients (95% CI, 313 fewer to 76 fewer).
+
+Exacerbations (≥150 eosinophils/μl)
+
+Six studies (n = 8,106) assessed rates of COPD exacerbations in patients with ≥150 blood eosinophils/μl. The studies revealed a reduced risk of exacerbations with an ICS in addition to a long-acting bronchodilator versus a long-acting bronchodilator (rate ratio, 0.70; 95% CI, 0.59–0.84; P < 0.001). There was moderate certainty in estimates of effect based on GRADE. Assuming a baseline risk of COPD exacerbation in this subgroup of one exacerbation per patient per year, the absolute risk effect was 285 fewer exacerbations per 1,000 patients (95% CI, 390 fewer to 152 fewer).
+
+Dyspnea score: assessed using the TDI (≥150 eosinophils/μl)
+
+One study (n = 4,269) assessed dyspnea in patients with ≥200 blood eosinophils/μl. The study revealed no significant difference in dyspnea with an ICS in addition to a long-acting bronchodilator versus a long-acting bronchodilator (MD = 0.16; 95% CI, −0.15 to 0.47; P = 0.31), and this did not reach the MCID threshold for a TDI of 1 unit. There was moderate certainty in estimates of effect based on GRADE (absolute difference was 0.16 units more; 95% CI, 0.15 fewer to 0.47 more).
+
+Health-related QOL: assessed using the SGRQ (≥150 eosinophils/μl)
+
+Two studies assessed health-related QOL (n = 4,762). The studies revealed a statistically improved QOL with an ICS in addition to a long-acting bronchodilator versus a long-acting bronchodilator (MD = −2.31 units; 95% CI, −3.83 to −0.78; P = 0.003), however, this does not exceed the MCID threshold for an SGRQ score of −4 units. There was moderate certainty in estimates of effect based on GRADE (absolute difference was 2.31 units fewer; 95% CI, 3.83 fewer to 0.78 fewer).
+
+Summary
+
+Based on the five critical outcomes and completion of the GRADE evidence table, the overall certainty of evidence was judged to be “moderate” and this certainty was assigned to the final recommendation as per GRADE guidance.
+
+Committee discussion
+
+According to the available evidence, the addition of ICS to a long-acting bronchodilator in patients with COPD and blood eosinophilia was associated with a significantly increased risk of pneumonia and a significantly decreased risk of exacerbations. Patients with blood eosinophilia treated with ICS plus long-acting bronchodilators experienced 26–44 more pneumonias per 1,000 patients, and 209–285 fewer COPD exacerbations per 1,000 patients.
+
+However, the panel recognized that the studies included within this PICO question analyzed the effects of ICS and long-acting bronchodilators in patients with elevated blood eosinophils as subgroup analyses. In many cases, the subgroup analyses were performed post hoc after the primary trial results had already been published. In addition, nonstandardized thresholds were used in the various studies to define “eosinophilia.” Thus, the panel believed the quality of the available studies providing the evidence was not optimal, and hence the committee was reluctant to recommend ICS for all patients with COPD and blood eosinophilia. However, given the weight of the evidence presented in PICO 2, which shows that ICS are beneficial in patients with a history of exacerbations, the panel concluded that patients with blood eosinophilia and a history of exacerbations would likewise benefit from the addition of ICS to a long-acting bronchodilator.
+
+The panel believed that the addition of ICS to a long-acting bronchodilator in patients with blood eosinophilia and a history of exacerbations is feasible, and the burden of therapy would be acceptable to patients. A cost-effectiveness analysis was not performed because the literature was not fully examined in this regard. However, the panel did note that combination inhaled steroid/long-acting bronchodilator therapy is more expensive than long-acting bronchodilator monotherapy, and this could pose health-equity challenges to patients of limited means who might be unable to obtain the drug because of cost or lack of availability. The burden of use for patients was not deemed to be a factor that would preclude patients from choosing a long-acting bronchodilator with ICS over a long-acting bronchodilator therapy without ICS. After considering these issues, the panel did not suggest ICS as an additive therapy to long-acting bronchodilators in patients with COPD and blood eosinophilia, except for those patients with a history of one or more exacerbations in the past year.
+
+Research needs
+
+Well-designed clinical trials with large sample sizes should be conducted in patients with COPD and blood eosinophilia. These studies should stratify patients by eosinophil levels and exacerbation risk. It is unclear whether different threshold values for blood eosinophilia would affect outcomes, and we recommend further research to define the most predictive threshold values. Finally, research is needed to determine the relevance of measuring changes in blood eosinophil counts as a dynamic parameter, and whether this may correlate with treatment response.
+
+Question 5: In Patients with COPD Who Have a History of Severe and Frequent Exacerbations despite Otherwise Optimal Therapy, Is Maintenance Oral Steroid Therapy More Effective than and as Safe as No Maintenance Oral Steroid Therapy?
+
+Recommendation
+
+In patients with COPD and a history of severe and frequent exacerbations despite otherwise optimal therapy, we advise against the use of maintenance oral corticosteroid therapy (conditional recommendation, low certainty evidence).
+
+Critical outcomes
+
+Outcome prioritization by the panel resulted in ranking mortality, exacerbations, dyspnea, hospital admissions, bone fractures, QOL, and treatment-emergent adverse events as critical outcomes.
+
+Summary of the evidence
+
+The expert medical librarian initially identified 1,500 citations in MEDLINE (n = 777), Embase (n = 664), and the Cochrane Library (n = 59), with deduplication resulting in n = 932 warranting abstract screening. The majority (98.8%) were ineligible either because of a nonrigorous study methodology or lack of relevance to the PICO question, resulting in the screeners identifying 11 studies for final review inclusion. Four of the 11 studies were RCTs. The total sample size for the four RCTs was 477 patients; 290 (60.8%) of these patients were in the treatment/intervention arms and 187 (39.2%) were in the control (comparator) arms. The four studies were a combination of single- and multicenter designs.
+
+We initially analyzed both RCT and observational (nonrandomized) evidence for this question given the available evidence, while recognizing that nonrandomized evidence can be affected by selection bias and residual confounding (e.g., confounding by indication). After the analysis, we judged the RCT evidence to be the optimal evidence on which to base this recommendation. As such, for the application of GRADE methods, we used the RCT evidence in determining the certainty of evidence, and we present the RCT evidence for the respective patient-important outcomes.
+
+Mortality
+
+Two studies (n = 241) assessed mortality risk. The studies revealed no significant difference in mortality with the use of oral steroid versus no oral steroid (RR 1.01; 95% CI, 0.28–3.70; P = 0.98). There was moderate certainty in estimates of effect based on GRADE (absolute risk effect was 0 fewer per 1,000 patients; 95% CI, 26 fewer to 98 more).
+
+Exacerbations
+
+Two studies (n = 108) assessed exacerbation risk. The studies revealed no significant difference in exacerbations with the use of maintenance oral steroid versus no oral steroid (RR 1.38; 95% CI, 0.90–2.10; P = 0.14). There was moderate certainty in estimates of effect based on GRADE (absolute risk effect was 190 more per 1,000 patients; 95% CI, 50 fewer to 550 more).
+
+Dyspnea (daily symptom score, visual analog scale)
+
+Two studies (n = 142) assessed dyspnea. The studies revealed no statistically significant difference in dyspnea with the use of maintenance oral steroids versus no oral steroid (SMD = −0.22; 95% CI, −0.56 to 0.12; P = 0.21). There was moderate certainty in estimates of effect based on GRADE (absolute risk effect was 0.22 SDs lower; 95% CI, 0.56 lower to 0.12 higher).
+
+Hospital admissions
+
+One study (n = 191) assessed the risk of hospital admission. The study revealed no significant difference in admissions with the use of oral steroids versus no oral steroids (RR, 0.64; 95% CI, 0.25–1.61; P = 0.34). There was moderate certainty in estimates of effect based on GRADE (absolute risk effect was 42 fewer per 1,000 patients; 95% CI, 88 fewer to 71 more).
+
+Treatment-emergent adverse events
+
+Two studies (n = 247) assessed the risk of treatment-emergent adverse events. The list of adverse events included (but was not limited to) hyperglycemia, hypertension, secondary infection, upper gastrointestinal bleeding, acute psychiatric illness requiring a consultation, an invasive procedure, or initiation of a specific therapy. The studies revealed a statistically significant increased risk of adverse events with oral steroid use versus no oral steroid (RR, 1.65; 95% CI, 1.16–2.34; P = 0.006). There was low certainty in estimates of effect based on GRADE (absolute risk effect was 174 more per 1,000 patients; 95% CI, 43 more to 359 more).
+
+Summary
+
+Based on the five critical outcomes using RCT evidence and completion of the GRADE evidence table, the overall certainty of evidence was judged to be “low” and this certainty was assigned to the final recommendation as per GRADE guidance.
+
+Committee discussion
+
+The panel believed that maintenance oral steroid therapy has not been shown in clinical trials to improve clinical outcomes, and the available evidence suggests that chronic oral steroid therapy has a potential for harm. Two RCTs revealed an increased risk of adverse events with oral steroid use, suggesting excess adverse events (harms) in patients who are prescribed daily oral steroids. However, this recommendation was based on RCTs that had small sample sizes, a small number of events, short durations, and broad CIs around the point estimates. In addition, these studies occurred when there was a paucity of medications available for maintenance therapy. The quality of the underlying evidence was poor, and therefore the panel believed that a recommendation in favor of maintenance oral steroid use would be problematic given the concerns surrounding patient safety. The panel also believed that well-informed patients would place a greater value on avoiding the potential harms of adverse events and less value on the uncertain benefits of decreased dyspnea and hospital admissions.
+
+After considering these issues and the low certainty of the evidence, the panel concluded that in patients with COPD and a history of severe and frequent exacerbations, the balance of benefits of maintenance oral steroid therapy did not outweigh the risks when compared with no steroid use. Given that the panel recommended against the intervention, issues related to feasibility, acceptability, and health equity were not discussed.
+
+Research needs
+
+Additional well-designed clinical trials with large sample sizes, conducted in real-life situations, could provide the needed robust evidence to determine whether the benefits of maintenance oral steroid therapy might outweigh its harms. In the meantime, the use of maintenance oral steroid therapy in COPD treatment could be considered by clinicians and well-informed patients, underscoring the need for shared decision-making.
+
+Question 6: In Patients with COPD Who Experience Advanced Refractory Dyspnea despite Otherwise Optimal Therapy, Is Opioid-based Therapy More Effective than and as Safe as No Additional Therapy?
+
+Recommendation
+
+In individuals with COPD who experience advanced refractory dyspnea despite otherwise optimal therapy, we suggest that opioid-based therapy be considered for dyspnea management within a personalized shared decision-making approach (conditional recommendation, very low certainty evidence).
+
+Critical outcomes
+
+Outcome prioritization by the panel resulted in ranking emergency department visits, dyspnea, exacerbations, health-related QOL, falls/accidents, overdose, and exercise capacity as critical outcomes.
+
+Summary of the evidence
+
+The expert medical librarian initially identified 576 citations in MEDLINE (n = 267), Embase (n = 193), and the Cochrane Library (n = 116), with deduplication resulting in n = 370 warranting abstract screening. The majority (96.2%) were ineligible either because of a nonrigorous study methodology or lack of relevance to the PICO question, and this resulted in screeners identifying 14 studies for final review inclusion. All of the 14 identified studies were RCTs, and 13 of these studies used a crossover design. Each RCT had a relatively small sample size and the total sample size for the 14 studies was 366 participants. There were 184 participants in the treatment/intervention arms (opioid-based treatment) across the trials (50.2%) and 182 (49.7%) in the control (comparator) arms. The majority of the 14 studies were single-center studies.
+
+Exacerbations
+
+One study (n = 30) assessed exacerbation risk. The study revealed no significant difference in exacerbations between the opioid and nonopioid groups (RR, 1.38; 95% CI, 0.74–2.55; P = 0.31). There was low certainty in estimates of effect based on GRADE (absolute risk effect was 190 more exacerbations per 1,000 patients; 95% CI, 130 fewer to 775 more).
+
+Emergency department visits
+
+One study (n = 30) assessed the risk of emergency department visits. However, the small number of events and small sample size, as well as zero events in one arm, resulted in an excessively wide 95% CI, with unstable estimates of effect. The study revealed no significant difference in risk between the opioid and nonopioid groups (RR, 4.41; 95% CI, 0.23–84.79; P = 0.33). There was low certainty in estimates of effect based on GRADE (absolute risk effect was 125 more admissions per 1,000 patients; 95% CI, 66 fewer to 316 more per 1,000 patients).
+
+Falls/accidents
+
+One study (n = 38) with a small sample size assessed the risk of falls/accidents. The evidence from this study is very limited and underpowered. The study revealed no significant difference in risk of falls between the opioid and nonopioid groups (RR, 0.37; 95% CI, 0.02–8.51; P = 0.53). There was low certainty in estimates of effect based on GRADE (absolute risk effect was 32 fewer per 1,000 patients; 95% CI, 49 fewer to 376 more).
+
+Overdose
+
+One study (n = 38) assessed the risk of overdose/oversedation. The study revealed no significant difference in risk between the opioid and nonopioid groups (RR, 3.32; 95% CI, 0.14–76.6; P = 0.45). There was low certainty in estimates of effect based on GRADE (absolute risk effect was 56 more per 1,000 patients; 95% CI, 82 fewer overdoses per 1,000 patients to 193 more per 1,000 patients).
+
+Health-related QOL: assessed using a visual analog scale
+
+One study (n = 40) assessed health-related QOL. The study revealed a significant difference in the visual analog scale, with an increased score in the group that was randomized to opioids (MD = 1.50; 95% CI, 0.66–2.34; P = 0.03), indicating improved QOL. There was very low certainty in estimates of effect based on GRADE (absolute risk effect was 1.50 fewer; 95% CI, 2.34 more to 0.66 more fewer).
+
+Dyspnea: assessed using a variety of methods, including diary cards, visual analog scales, Medical Research Council scale, and Chronic Respiratory Disease Questionnaire dyspnea subscale
+
+Twelve studies (n = 240) assessed dyspnea. The studies revealed a significant difference in dyspnea, favoring the group that received opioids (SMD = −0.60; 95% CI, −1.08 to −0.13; P = 0.01), and this exceeded the MCID threshold. There was low certainty in estimates of effect based on GRADE (absolute difference was 0.60 SDs lower; 95% CI, 1.08 lower to 0.13 lower). No subgroup differences were noted when systemic versus nebulized administration subgroups were analyzed (P = 0.08).
+
+Exercise capacity
+
+Nine studies (n = 103) assessed exercise capacity. The data were pooled across distance in meters, duration in minutes, and workload capacity in watts. The studies revealed no significant difference between the opioid and no-opioid groups (SMD = 0.14; 95% CI, −1.42 to 1.70; P = 0.86), and this did not reach the MCID threshold. There was moderate certainty in estimates of effect based on GRADE (absolute difference was 0.14 SDs higher; 95% CI, 1.42 lower to 1.70 higher). No subgroup differences were noted when systemic versus nebulized administration subgroups were analyzed (P = 0.10).
+
+Summary
+
+Based on the eight critical outcomes and completion of the GRADE evidence table, the overall certainty of evidence was judged to be “very low” and this certainty was assigned to the final recommendation as per GRADE guidance.
+
+Committee discussion
+
+The panel noted that in patients with advanced refractory dyspnea, there was a statistically and clinically meaningful improvement in dyspnea with opioid treatment. The panel believed that a conditional recommendation in favor of opioid use was reasonable for dyspnea management given the accumulated evidence, and that well-informed patients might place a higher value on the improvement in dyspnea and less value on the uncertain harms of exacerbations, hospitalizations, falls, or overdoses. The panel believed that the observed benefit in dyspnea outweighed the uncertain risks. However, many of these studies were undertaken when there was a relative paucity of maintenance medications available to treat COPD, and the presumed effects of opioids might differ in today’s clinical context. Therefore, given the very low certainty of evidence, the use of opioids must be evaluated by clinicians and patients in a shared decision-making process.
+
+The panel debated the issues of feasibility, acceptability, and health equity, and felt confident that a trial of opioid therapy to determine if there was individual benefit could be implemented, would be acceptable to patients, and would pose limited (if any) health-equity challenges. A cost-effectiveness analysis was not performed, and the literature evidence was not fully examined in this regard. However, the panel also believed that opioid treatment would not be prohibitively expensive in terms of access to treatment. The burden of use for patients was also not deemed to be a factor that would preclude patients from taking opioids for advanced refractory dyspnea despite otherwise optimal COPD therapy if prescribed. After considering these issues, and armed with very low certainty evidence, the panel concluded that in individuals with COPD who experience advanced refractory dyspnea despite otherwise optimal therapy, the balance of benefits of opioid therapy may outweigh the risks when compared with no opioid use. The panel suggested that the use of opioid treatment in COPD should be carefully considered by both the clinician and the well-informed patient, underscoring the need for shared decision-making.
+
+Research needs
+
+Adequately powered, well-designed studies with larger sample sizes should be conducted in real-life situations, which could provide needed robust evidence. These studies could also allow for the inclusion of patients >80 years of age and those with multiple comorbidities in conjunction with opioid treatment.
+
+Conclusions
+
+In developing this guideline, we performed a rigorous, PICO-driven distillation of the scientific evidence to provide recommendations pertaining to key questions regarding the pharmacologic treatment of COPD. We hope that clinicians and researchers will find this guideline useful; however, it is important to apply these recommendations along with clinical assessments and shared decision-making to ensure that patients receive optimal clinical care. We also recognize that slowing the progression of disease and improving mortality are important goals of therapy; however, pharmacotherapy has not definitely been proven to affect these outcomes. Improvements in COPD mortality and disease progression have thus far only been achieved through smoking cessation.
+
+The panel recognizes that there are limitations to this clinical practice guideline. The recommendations were based on the available scientific evidence. In many cases, the available clinical trials did not include certain COPD populations, such as patients over 80 years of age, those with chronic comorbid conditions, and those with COPD/asthma overlap. In addition, the available evidence did not risk stratify patients with exacerbations or those with eosinophilia. It is also important to note that the panel did not include patient representatives or family/caregiver representatives. Their participation might have been important in prioritizing clinical outcomes.
+
+Many questions remain regarding the optimal pharmacologic therapy for patients with varying risks of exacerbations and varying levels of eosinophilia, as well as potentially different responses to medication among current and former smokers. We hope that the research priorities outlined in this document will prompt new research to identify more specific patient profiles and enable personalized, patient-centered care.
+
+Supplementary Material
+
+This official clinical practice guideline was approved by the American Thoracic Society February 2020
+
+An Executive Summary of this document is available at http://www.atsjournals.org/doi/suppl/10.1164/rccm.202003-0625ST.
+
+This document has a related editorial.
+
+This document has an online supplement, which is accessible from this issue’s table of contents at www.atsjournals.org.
+
+Originally Published in Press as DOI: 10.1164/rccm.202003-0625ST on April 13, 2020
+
+Author Disclosures: D.H.A. served as a consultant for Gilead; and on a data and safety monitoring board for Novartis. C.M.B. received author royalties from UpToDate. E.C. served on an advisory committee for Mylan/Theravance. G.J.C. served as a consultant for Amirall, Bayer, Chiesi, Celerion, Holaira, Mereo, Novartis, Nuvaira, PneumRx, Pulmonetics, Pulmonx, ResMed, and Respironics; received research support from Actelion, Aeris, AstraZeneca, Boehringer Ingelheim, Chiesi, Celerion, Forest, GlaxoSmithKline, Ikaria, MedImmune, Mereo, Novartis, Pearl, PneumRx, Pulmonx, ResMed, Respironics, and Spiration; served on an advisory committee for AstraZeneca, Boehringer Ingelheim, and GlaxoSmithKline; and has ownership or investment interests in HGE Health Care Solutions. G.C.D. served as a consultant and received research support from AstraZeneca. M.D. served as a consultant for Almirall, Boehringer Ingelheim, Hamilton, Linde, Novartis, Pfizer, Philips Respironics, ResMed, and Roche; served as a speaker for Actelion, AstraZeneca, Bayer, Boehringer Ingelheim, Chiesi, Hamilton, Heinen und Löwenstein, InterMune, Linde, Novartis, Pfizer, Philips Respironics, ResMed, and Roche; received research support from Philips Respironics and ResMed; and received personal fees from Berlin Chemie and GlaxoSmithKline. M.K.H. served as a consultant for AstraZeneca, Boehringer Ingelheim, GlaxoSmithKline, Merck, and Mylan; served on a data and safety monitoring board for Novartis; served as a speaker for Novartis; and received research support from Novartis and Sunovion. J.A.K. served on a data safety and monitoring board for Sanofi; served as a speaker for Philips; and received research support from Inogen, PCORI, and ResMed. M.J.M. received research support from GlaxoSmithKline and Sanofi. F.J.M. served on an advisory committee for AstraZeneca, Boehringer Ingelheim, CSL Behring, Gala, Genentech, GlaxoSmithKline, Merck, Novartis, Pearl, Veracyte, and Zambon; served as a consultant for AstraZeneca, Boehringer Ingelheim, Bridge Biotherapeutics, Bristol Myers Squibb, Chiesi, Genentech, GlaxoSmithKline, Patara/Respivent, ProTerrixBio, Sunovion, Teva, and TwoXR; served on a data safety and monitoring board for Biogen, Boehringer Ingelheim, Genentech, and GlaxoSmithKline; served as a speaker for Boehringer Ingelheim, CME Outfitters, France Foundation, MD Magazine, Miller Communications, National Association for Continuing Education, Novartis, PeerView, Physicians Education Resource, Prime Education, Rare Diseases Healthcare Communications, Rockpointe, Vindico, and WebMD/MedScape; received research support from AstraZeneca, Bayer, Biogen, Boehringer Ingelheim, Gilead, GlaxoSmithKline, Nitto, Patara/Respivent, Promedior, ProMetic, ProTerrixBio, Veracyte, Verona, and Zambon; and received author royalties from UpToDate. M.I.P. served as a consultant for GlaxoSmithKline and Philips Respironics; and received research support from GlaxoSmithKline. M.S. served as a speaker for AstraZeneca, Boehringer Ingelheim, and GlaxoSmithKline; and received research support from AstraZeneca and GlaxoSmithKline. D.D.S. served as a speaker for Boehringer Ingelheim; and received research support from AstraZeneca and IKOMED. G.R.W. served on an advisory committee for Boehringer Ingelheim, CSL Behring, GlaxoSmithKline, and Vertex; served as a consultant for Boehringer Ingelheim, CSL Behring, Janssen, Novartis, PulmonX, and Vertex; served on a data and safety monitory board for PulmonX; received research support from Boehringer Ingelheim, BTG, and Janssen; has ownership and investment interest in Quantitative Image Solutions; and his spouse is an employee of Biogen. J.A.W. served as a speaker for Medscape; served on a data and safety monitoring board for Virtus Respiratory Research; received research support from AstraZeneca, Boehringer Ingelheim, Chiesi, Genentech, GlaxoSmithKline, Johnson & Johnson, and Novartis; and received travel support from AstraZeneca, Boehringer Ingelheim, Cipla, and Novartis. L.N., S.D.A., P.E.A., V.S.F., A.S.G., P.M.M., M.M., and M.A.P. reported no relevant commercial relationships.
+
+References
+
+Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease
+
+GRADE guidelines: 15. Going from evidence to recommendation-determinants of a recommendation’s direction and strength
+
+Evidence to decision framework provides a structured “roadmap” for making GRADE guidelines recommendations
+
+Interpretation of changes in health-related quality of life: the remarkable universality of half a standard deviation
+
+Once-daily umeclidinium/vilanterol 125/25 mcg in COPD: a randomized, controlled study
+
+Effects of arformoterol twice daily, tiotropium once daily, and their combination in patients with COPD
+
+FLIGHT1 and FLIGHT2: efficacy and safety of QVA149 (indacaterol/glycopyrrolate) versus its monocomponents and placebo in patients with chronic obstructive pulmonary disease
+
+Effects of a combination of umeclidinium/vilanterol on exercise endurance in patients with chronic obstructive pulmonary disease: two randomized, double-blind clinical trials
+
+A randomised double-blind, placebo-controlled, long-term extension study of the efficacy, safety and tolerability of fixed-dose combinations of aclidinium/formoterol or monotherapy in the treatment of chronic obstructive pulmonary disease
+
+Efficacy and safety of aclidinium bromide/formoterol fumarate fixed-dose combinations compared with individual components and placebo in patients with COPD (ACLIFORM-COPD): a multicentre, randomised study
+
+Efficacy and safety of glycopyrrolate/formoterol metered dose inhaler formulated using co-suspension delivery technology in patients with COPD
+
+Long-term safety and efficacy of glycopyrrolate/formoterol metered dose inhaler using novel Co-Suspension™ Delivery Technology in patients with chronic obstructive pulmonary disease
+
+Long-term safety of aclidinium bromide/formoterol fumarate fixed-dose combination: results of a randomized 1-year trial in patients with COPD
+
+Efficacy and safety of umeclidinium/vilanterol 62.5/25 mcg and tiotropium 18 mcg in chronic obstructive pulmonary disease: results of a 24-week, randomized, controlled trial
+
+Tiotropium + olodaterol shows clinically meaningful improvements in quality of life
+
+Tiotropium and olodaterol fixed-dose combination versus mono-components in COPD (GOLD 2-4)
+
+Dual bronchodilation with QVA149 versus single bronchodilator therapy: the SHINE study
+
+Analysis of chronic obstructive pulmonary disease exacerbations with the dual bronchodilator QVA149 compared with glycopyrronium and tiotropium (SPARK): a randomised, double-blind, parallel-group study
+
+Tiotropium in combination with placebo, salmeterol, or fluticasone-salmeterol for treatment of chronic obstructive pulmonary disease: a randomized trial
+
+Umeclidinium/vilanterol as step-up therapy from tiotropium in patients with moderate COPD: a randomized, parallel-group, 12-week study
+
+Long-term maintenance bronchodilation with indacaterol/glycopyrrolate versus indacaterol in moderate-to-severe COPD patients: the FLIGHT 3 study
+
+Efficacy and safety of once-daily umeclidinium/vilanterol 62.5/25 mcg in COPD
+
+Formoterol mono- and combination therapy with tiotropium in patients with COPD: a 6-month study
+
+Efficacy and safety of combining olodaterol Respimat(®) and tiotropium HandiHaler(®) in patients with COPD: results of two randomized, double-blind, active-controlled studies
+
+Efficacy and safety of coadministration of once-daily indacaterol and glycopyrronium versus indacaterol alone in COPD patients: the GLOW6 study
+
+Tiotropium and olodaterol in the prevention of chronic obstructive pulmonary disease exacerbations (DYNAGITO): a double-blind, randomised, parallel-group, active-controlled trial
+
+Efficacy and safety of umeclidinium plus vilanterol versus tiotropium, vilanterol, or umeclidinium monotherapies over 24 weeks in patients with chronic obstructive pulmonary disease: results from two multicentre, blinded, randomised controlled trials
+
+Concurrent use of indacaterol plus tiotropium in patients with COPD provides superior bronchodilation compared with tiotropium alone: a randomised, double-blind comparison
+
+Extrafine inhaled triple therapy versus dual bronchodilator therapy in chronic obstructive pulmonary disease (TRIBUTE): a double-blind, parallel group, randomised controlled trial
+
+Once-daily single-inhaler triple versus dual therapy in patients with COPD
+
+Triple therapy with budesonide/glycopyrrolate/formoterol fumarate with co-suspension delivery technology versus dual therapies in chronic obstructive pulmonary disease (KRONOS): a double-blind, parallel-group, multicentre, phase 3 randomised controlled trial
+
+Blood eosinophil count and exacerbations in severe chronic obstructive pulmonary disease after withdrawal of inhaled corticosteroids: a post-hoc analysis of the WISDOM trial
+
+Withdrawal of inhaled glucocorticoids and exacerbations of COPD
+
+Long-Term triple therapy de-escalation to indacaterol/glycopyrronium in patients with chronic obstructive pulmonary disease (SUNSET): a randomized, double-blind, triple-dummy clinical trial
+
+Blood eosinophil counts, exacerbations, and response to the addition of inhaled fluticasone furoate to vilanterol in patients with chronic obstructive pulmonary disease: a secondary analysis of data from two parallel randomised controlled trials
+
+Blood eosinophils and treatment response with triple and dual combination therapy in chronic obstructive pulmonary disease: analysis of the IMPACT trial
+
+Blood eosinophils and inhaled corticosteroid/long-acting β-2 agonist efficacy in COPD
+
+Blood eosinophils and response to maintenance chronic obstructive pulmonary disease treatment: data from the FLAME trial
+
+Blood eosinophils: a biomarker of response to extrafine beclomethasone/formoterol in chronic obstructive pulmonary disease
+
+Single inhaler extrafine triple therapy versus long-acting muscarinic antagonist therapy for chronic obstructive pulmonary disease (TRINITY): a double-blind, parallel group, randomised controlled trial
+
+Blood eosinophils as a continuous variable in the treatment of COPD: impact on the guidelines
+
+Effect of systemic glucocorticoids on exacerbations of chronic obstructive pulmonary disease
+
+Oral corticosteroid trials in the management of stable chronic obstructive pulmonary disease
+
+Effects of long-term treatment with corticosteroids in COPD
+
+Effects of high dose inhaled beclomethasone dipropionate, 750 micrograms and 1500 micrograms twice daily, and 40 mg per day oral prednisolone on lung function, symptoms, and bronchial hyperresponsiveness in patients with non-asthmatic chronic airflow obstruction
+
+Effects of oral morphine on breathlessness and exercise tolerance in patients with chronic obstructive pulmonary disease
+
+Randomised, double blind, placebo controlled crossover trial of sustained release morphine for the management of refractory dyspnoea
+
+Effects of nebulized morphine sulfate on the exercise tolerance of the ventilatory limited COPD patient
+
+Oral diamorphine: lack of effect on dyspnoea and exercise tolerance in the “pink puffer” syndrome
+
+Lack of effect of high doses of inhaled morphine on exercise endurance in chronic obstructive pulmonary disease
+
+Effect of inhaled morphine on the development of breathlessness during exercise in patients with chronic lung disease
+
+Effect of 30 mg of morphine alone or with promethazine or prochlorperazine on the exercise capacity of patients with COPD
+
+The effect of sustained-release morphine on breathlessness and quality of life in severe chronic obstructive pulmonary disease
+
+Effect of nebulized morphine on dyspnea of mustard gas-exposed patients: a double-blind randomized clinical trial study
+
+Effect of low dose nebulised morphine on exercise endurance in patients with chronic lung disease
+
+Inhaled fentanyl citrate improves exercise endurance during high-intensity constant work rate cycle exercise in chronic obstructive pulmonary disease
+
+Disabling dyspnoea in patients with advanced disease: lack of effect of nebulized morphine
+
+Effects of dihydrocodeine, alcohol, and caffeine on breathlessness and exercise tolerance in patients with chronic obstructive lung disease and normal blood gases
+
+Dihydrocodeine for breathlessness in “pink puffers”

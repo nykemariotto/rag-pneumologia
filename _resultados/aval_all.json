@@ -1,0 +1,2625 @@
+{
+  "modo": "all",
+  "n": 54,
+  "agg": {
+    "baseline": {
+      "qualidade": 0.4722222222222222,
+      "pct_correto": 0.09259259259259259,
+      "fidelidade": 0.0,
+      "lat_med": 8.256296296296297,
+      "tok_med": 297.05555555555554
+    },
+    "rag": {
+      "qualidade": 0.5740740740740741,
+      "pct_correto": 0.2037037037037037,
+      "fidelidade": 0.8981481481481481,
+      "lat_med": 11.124999999999996,
+      "tok_med": 2190.5555555555557,
+      "hit_rate": 0.2962962962962963,
+      "mrr": 0.2839506172839506
+    },
+    "proposta": {
+      "qualidade": 0.5555555555555556,
+      "pct_correto": 0.16666666666666666,
+      "fidelidade": 0.9259259259259259,
+      "lat_med": 23.856481481481485,
+      "tok_med": 2227.1296296296296,
+      "hit_rate": 0.37037037037037035,
+      "mrr": 0.33950617283950624
+    }
+  },
+  "rows": [
+    {
+      "id": "dpoc_01",
+      "disease": "dpoc",
+      "dificuldade": "facil",
+      "fonte_id": "sp_copd",
+      "baseline": {
+        "lat": 8.73,
+        "tok": 302,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A Doença Pulmonar Obstrutiva Crônica (DPOC) é uma condição crônica caracterizada por uma diminuição progressiva da capacidade pulmonar, resultando em dificuldade para expelir ar do pulmão. Ela é causada principalmente pela inflamação e formação de placas de gordura nas vias respiratórias, o que leva ao enfraquecimento das paredes das vias aéreas. A DPOC é frequentemente associada à exposição a fumaça de tabaco, mas também pode ser causada por outros fatores como exposição a poluentes ambientais e doenças pulmonares obstrutivas preexistentes. É classificada em estágios conforme a função pulmonar medida por exames de pulmão.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 13.36,
+        "tok": 2305,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A Doença Pulmonar Obstrutiva Crônica (DPOC), também conhecida como doença pulmonar obstrutiva crônica, é uma condição crônica caracterizada por uma diminuição progressiva e irreversível da capacidade de expirar ar, resultando em dificuldade respiratória. Esta condição afeta principalmente as vias aéreas superiores, causando obstrução persistente e crônica do fluxo aéreo. Os principais sintomas incluem dispneia (dificuldade para respirar), tosse e falta de ar durante atividades físicas. A DPOC é geralmente associada a fatores de risco ambientais e genéticos, como exposição a fumaça de cigarro, poluição atmosférica e histórico familiar de doenças pulmonares. Ela é classificada em três níveis de severidade: leve, moderada e grave, sendo a gravidade determinada pela função pulmonar medida através de testes de esforço, como o teste de esforço ergométrico. A DPOC é uma condição crônica que requer tratamento contínuo para controlar os sintomas e prevenir complicações.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 2
+      },
+      "proposta": {
+        "lat": 24.91,
+        "tok": 2227,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A Doença Pulmonar Obstrutiva Crônica (DPOC), também conhecida como DPOC, é uma condição crônica caracterizada por uma diminuição gradual do fluxo aéreo através das vias aéreas, especialmente as bronquíolas. Esta condição pode levar à incapacidade respiratória e ao aumento da dispneia, que é a principal responsável pela incapacidade na DPOC. A DPOC é classificada como uma doença crônica, sendo uma das principais causas de morbimortalidade no mundo. Ela é geralmente associada a fatores de risco como tabagismo, exposição a poluentes ambientais e infecções virais ou bacterianas. A DPOC é classificada em três níveis de severidade: leve, moderada e grave, com cada nível apresentando sintomas e progressão da doença distintos.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 2
+      }
+    },
+    {
+      "id": "dpoc_02",
+      "disease": "dpoc",
+      "dificuldade": "facil",
+      "fonte_id": "sp_copd",
+      "baseline": {
+        "lat": 12.54,
+        "tok": 400,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A relação VEF1/CVF (Volume Expirado Força 1/Condição Ventricular) após broncodilatação é uma medida útil para avaliar a presença de limitação ao fluxo aéreo em pacientes com DPOC (Doença Pulmonar Obstrutiva Crônica). No entanto, ela não é suficiente por si só para confirmar a presença dessa limitação. \n\nO diagnóstico de DPOC geralmente requer evidências de limitação ao fluxo aéreo, que pode ser demonstrada através de testes pulmonares como o teste de esforço ou o teste de esforço pulmonar (PEF - Pressão Expiratória Força). A VEF1/CVF após broncodilatação pode fornecer informações adicionais sobre a resposta ao broncodilatador, mas não substitui os resultados dos testes pulmonares padrão.\n\nPortanto, embora a VEF1/CVF após broncodilatação seja importante, ela deve ser considerada em conjunto com outros indicadores e não deve ser usada isoladamente para confirmar a presença de limitação ao fluxo aéreo em pacientes com DPOC.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 9.69,
+        "tok": 2154,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "O VEF1/CVF pos-broncodilatador é uma medida que confirma a presença de limitação ao fluxo aéreo no diagnóstico de DPOC. Este índice é obtido dividindo-se o VEF1 (Volume Expirado Forçado em 1 segundo) após a administração de broncodilatador por CVF (Capacidade Ventilatória Forçada). Uma redução significativa deste índice em comparação com o valor pré-broncodilatador sugere a presença de limitação ao fluxo aéreo, indicando a necessidade de investigação adicional para confirmar a DPOC.\n\nFonte: [Fonte 1: Recomendações para o tratamento farmacológico da DPOC: perguntas e respostas (SBPT) — dpoc]",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 2
+      },
+      "proposta": {
+        "lat": 23.37,
+        "tok": 2229,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A relação VEF1/CVF (Valete de Expansão Física Respiratória 1 em relação ao Capacitório Ventricular Cardíaco) após administração de broncodilatador é uma medida importante no diagnóstico da DPOC. Ela serve como um indicativo da presença de limitação ao fluxo aéreo. No entanto, é importante notar que a ausência dessa relação menor que 0,70 não exclui a possibilidade de DPOC, especialmente em pacientes assintomáticos. A presença de sintomas respiratórios e a gravidade da dispneia também são fatores importantes na classificação da DPOC.\n\nFonte: [Fonte 1: Recomendacoes para o tratamento farmacologico da DPOC: perguntas e respostas (SBPT) — dpoc]",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "dpoc_03",
+      "disease": "dpoc",
+      "dificuldade": "facil",
+      "fonte_id": "sp_copd",
+      "baseline": {
+        "lat": 1.59,
+        "tok": 151,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "O principal fator de risco para Doença Pulmonar Obstrutiva Crônica (DPOC) é a exposição ao tabaco.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 5.0,
+        "tok": 2178,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "O principal fator de risco para DPOC (Doença Pulmonar Obstrutiva Crônica) mencionado nas fontes é a idade avançada, função pulmonar muito comprometida, tosse com expectoração, comorbidades, doença do refluxo gastroesofágico e, principalmente, antecedentes de E-DPOC (Exacerbação da DPOC).",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 0
+      },
+      "proposta": {
+        "lat": 18.04,
+        "tok": 2172,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "O principal fator de risco para DPOC (Doença Pulmonar Obstrutiva Crônica) é a idade avançada. Além disso, a função pulmonar muito comprometida, a tosse com expectoração, a presença de comorbidades, a doença do refluxo gastroesofágico e, principalmente, antecedentes de E-DPOC (Exacerbations of Chronic Obstructive Pulmonary Disease) também são fatores de risco significativos.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 0
+      }
+    },
+    {
+      "id": "dpoc_04",
+      "disease": "dpoc",
+      "dificuldade": "facil",
+      "fonte_id": "sp_copd",
+      "baseline": {
+        "lat": 10.13,
+        "tok": 335,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "O diagnóstico da DPOC (Doença Pulmonar Obstrutiva Crônica) geralmente requer uma combinação de exames, incluindo a história clínica, a avaliação respiratória (como a função pulmonar por meio do teste de esforço ou oximetria de pulso), e o exame físico. No entanto, o exame de sputo para microrganismos patogênicos ou a realização de uma tomografia computadorizada (TC) pulmonar pode ser útil para descartar outras condições. A confirmação definitiva muitas vezes depende de uma avaliação funcional pulmonar, como a função pulmonar por meio do teste de esforço, que pode indicar a presença de obstrução respiratória. Não há um único exame que seja essencial e confirme o diagnóstico de DPOC, mas a combinação desses exames é comumente utilizada.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 6.85,
+        "tok": 2154,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 1,
+        "answer": "O exame essencial e confirma o diagnóstico de DPOC é a espirometria. No entanto, ela é complementada por outros exames e avaliações, conforme necessário. A espirometria é a medida padrão para avaliar a função pulmonar e confirmar a DPOC, mas a avaliação completa inclui também a história clínica, a avaliação física e, quando necessário, outros exames complementares. Portanto, embora a espirometria seja fundamental, ela não é suficiente para confirmar o diagnóstico sem a avaliação completa do paciente.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 17.22,
+        "tok": 2185,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 1,
+        "answer": "O espirometria é essencial para confirmar o diagnóstico de DPOC. Além disso, a espirometria sugere a necessidade de introdução de medicação broncodilatadora, conforme orientações do tratamento da DPOC. Portanto, a espirometria é fundamental para confirmar o diagnóstico e iniciar o tratamento adequado.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "pcm_consensus_pt",
+          "sbpt_dpoc_2017",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "dpoc_05",
+      "disease": "dpoc",
+      "dificuldade": "facil",
+      "fonte_id": "sp_copd",
+      "baseline": {
+        "lat": 11.69,
+        "tok": 364,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "Ambas as condições pulmonares têm como característica principal uma inflamação crônica das vias aéreas, mas elas são diferentes:\n\n1. Enfisema: É uma doença crônica progressiva que causa distensão dos alvéolos pulmonares, diminuindo a capacidade de ar. Os principais sintomas incluem tosse seca, falta de ar (dificuldade para respirar), e sibilância ao respirar.\n\n2. Bronquite Crônica: É uma condição crônica caracterizada por inflamação das vias aéreas superiores do pulmão, causando tosse persistente, geralmente produzindo expectoração, e pode levar a dificuldade para respirar.\n\nA principal diferença está no local da inflamação: o enfisema afeta os alvéolos, enquanto a bronquite afeta as vias aéreas superiores. Além disso, o enfisema é mais associado a uma perda progressiva da função pulmonar, enquanto a bronquite crônica pode ser intermitente e pode melhorar temporariamente com tratamento.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 12.32,
+        "tok": 2305,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A diferença entre enfisema e bronquite crônica está principalmente na natureza e localização das alterações pulmonares:\n\n- Enfisema: É caracterizado por expansão e colapso das alvéolos pulmonares, resultando em volume maior de ar expirado. As alterações são principalmente centrais, envolvendo os lobos pulmonares. A função ventilatória é afetada, mas a capacidade funcional geral pode ser preservada.\n\n- Bronquite crônica: É uma inflamação crônica das vias aéreas superiores, especialmente as bronquíolas. As alterações são principalmente periféricas, envolvendo as vias aéreas menores. A função ventilatória pode ser afetada, mas a capacidade funcional geral é frequentemente preservada.\n\nÉ importante notar que ambas as condições podem coexistir em pacientes, o que é comum em pessoas fumantes. Além disso, a fibrose pulmonar idiopática (FPI) também pode coexistir com essas condições, o que pode complicar o diagnóstico e o tratamento.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 24.71,
+        "tok": 2375,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 1,
+        "answer": "Enfisema e bronquite crônica são condições respiratórias distintas, embora ambas possam coexistir em pacientes. Enfisema é caracterizado principalmente por espessamento e diminuição da elasticidade das vias aéreas pulmonares, resultando em dificuldade para expelir o ar (dificuldade para expirar). Isso leva a uma redução na capacidade funcional do pulmão e pode causar sinais como tosse, falta de ar e hipertensão pulmonar.\n\nJá a bronquite crônica é uma condição inflamatória crônica das vias aéreas superiores do pulmão, geralmente associada à exposição prolongada a fatores irritantes, como o tabaco. Ela é caracterizada por episódios de tosse persistente, expectoração e dificuldade para respirar, mas sem a espessamento e diminuição da elasticidade das vias aéreas pulmonares observadas no enfisema.\n\nPortanto, embora ambos possam ocorrer juntos em pacientes tabagistas, eles têm características clínicas e patológicas distintas.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "sbpt_dpoc_2017",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "dpoc_06",
+      "disease": "dpoc",
+      "dificuldade": "facil",
+      "fonte_id": "sp_a1at",
+      "baseline": {
+        "lat": 6.56,
+        "tok": 266,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "Não há uma deficiência genética específica amplamente reconhecida que seja única e exclusivamente associada ao enfisema em indivíduos não-fumantes jovens. O enfisema é mais frequentemente associado a fatores ambientais e genéticos, mas não há uma condição genética isolada conhecida como \"enfisema genético\". No entanto, algumas condições genéticas podem aumentar o risco de desenvolvimento de enfisema, como a síndrome de α1-antitripsina, embora ela seja mais comumente encontrada em idosos ou fumantes.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 14.39,
+        "tok": 2325,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 1,
+        "answer": "Não há evidências robustas de uma deficiência genética específica que cause enfisema principalmente em jovens não-fumantes. O enfisema é frequentemente associado ao tabagismo, mas também pode ocorrer em indivíduos não-fumantes, especialmente aqueles com histórico familiar de doenças pulmonares crônicas. No entanto, algumas condições genéticas podem aumentar o risco de desenvolver enfisema, como a síndrome de emphysema de Cystic Fibrosis (CF). \n\nA síndrome de CF é uma condição genética rara que afeta a função das glândulas salivares, intestinais e respiratórias, incluindo as glândulas bronquianas. Ela é causada por mutações específicas no gene CFTR (caspase-3 proteína transportadora). Pacientes com CF têm uma diminuição na produção de muco e uma alteração na função das células epiteliais, o que pode levar a enfisema precoce e severo, mesmo sem histórico de tabagismo. Portanto, embora o enfisema em indivíduos não-fumantes seja menos comum, a síndrome de CF é uma possibilidade a ser considerada em casos raros de enfisema em jovens não-fumantes.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "pcm_consensus_pt",
+          "sbpt_fpi_2015",
+          "pcm_consensus_pt",
+          "pcm_consensus_en"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 22.72,
+        "tok": 1797,
+        "hit": true,
+        "rank": 2,
+        "fidelidade": 2,
+        "answer": "A α-1 antitripsina deficiência (AATD) é a deficiência genética mais prevalente como fator de risco para o enfisema. Ela pode causar enfisema em jovens não-fumantes, especialmente quando associada ao genótipo Pi*ZZ, que resulta em um desequilíbrio proteazas-antiproteases severo, levando à emfisem panacinar com predominância bilateriana. Este genótipo Pi*ZZ é suspeitado em pacientes com enfisema precoce, idade inferior a 45 anos, histórico de pouca ou nenhuma exposição a fumo, emofise predominantemente bilateral no tomografia computadorizada (CT) ou doença hepática inexplicável.\n\nFonte: [Fonte 1: Chronic Obstructive Pulmonary Disease (COPD) — dpoc], [Fonte 2: Alpha-1 Antitrypsin Deficiency — dpoc]",
+        "docs": [
+          "sp_copd",
+          "sp_a1at",
+          "sbpt_fpi_2015",
+          "sp_a1at",
+          "sp_copd"
+        ],
+        "nota": 2
+      }
+    },
+    {
+      "id": "dpoc_07",
+      "disease": "dpoc",
+      "dificuldade": "media",
+      "fonte_id": "sp_copd",
+      "baseline": {
+        "lat": 12.23,
+        "tok": 397,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A classificação espirométrica da DPOC (Doença Pulmonar Obstrutiva Crônica) conforme a classificação GOLD (Global Initiative for Chronic Obstructive Lung Disease) é feita considerando o percentual relativo do Fator de Expansão Ventricular (FEV1) em relação ao seu valor previsto para a altura, peso e idade.\n\nDe acordo com a classificação GOLD atualizada:\n\n- **GOLD 1**: FEV1 ≥ 80% do valor previsto.\n- **GOLD 2**: 50% ≤ FEV1 < 80% do valor previsto.\n- **GOLD 3**: 30% ≤ FEV1 < 50% do valor previsto.\n- **GOLD 4**: FEV1 < 30% do valor previsto ou FEV1 ≥ 50% do valor previsto, mas com necessidade de oxigênio.\n\nPortanto, para determinar a classificação da DPOC conforme a classificação GOLD, é necessário calcular o percentual do FEV1 em relação ao valor previsto e compará-lo com os limites estabelecidos acima.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 12.6,
+        "tok": 1941,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A classificação espirométrica de gravidade da DPOC (GOLD 1 a 4) utilizando o VEF1% do previsto segue os seguintes critérios:\n\n- **GOLD 1**: VEF1 ≥80% do predito\n- **GOLD 2**: 50% ≤ VEF1 < 80% do predito\n- **GOLD 3**: 30% ≤ VEF1 < 50% do predito\n- **GOLD 4**: VEF1 < 30% do predito\n\nEssa classificação é adaptada aos critérios atualizados da SBPT (Sociedade Brasileira de Pneumologia e Tisiologia), que consideram tanto a função pulmonar quanto os sintomas e exacerbações da doença.\n\nÉ importante notar que, embora o VEF1 seja uma medida útil, ele não reflete todos os aspectos da gravidade da DPOC. Portanto, a classificação deve ser complementada com a avaliação da dispneia e outros sintomas, bem como a função pulmonar, para uma classificação mais completa.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 24.16,
+        "tok": 2237,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A classificação espirométrica de gravidade da DPOC (GOLD 1 a 4) é feita utilizando o VEF1 (% do predito). Segundo as recomendações da SBPT (Fonte 1), a classificação é baseada nas seguintes faixas:\n\n- GRAVE: VEF1 < 30%\n- MUITO GRAVE: VEF1 < 50%\n- MODERADA: 50% ≤ VEF1 < 80%\n- LEVE: VEF1 ≥ 80%\n\nEssas faixas são usadas em conjunto com a avaliação de sintomas e exacerbações para uma classificação mais completa da gravidade da doença. O VEF1 é considerado um indicador importante da obstrução das vias aéreas, mas não reflete todos os aspectos da gravidade da DPOC. Portanto, a combinação de VEF1 com outros critérios é essencial para uma classificação precisa.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "dpoc_08",
+      "disease": "dpoc",
+      "dificuldade": "media",
+      "fonte_id": "sp_copd",
+      "baseline": {
+        "lat": 5.79,
+        "tok": 241,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "O grupo E na Avaliação Baseada em Evidências (ABE) do Grupo de Tratamento de Doenças Pulmonares Obstrutivas Crônicas (GOLD) é definido como pacientes com uma função pulmonar moderadamente comprometida, caracterizada por um Fator de Respiração (FEV1/FVC) entre 0,70 e 0,79. Essa classificação é baseada em critérios de função pulmonar que ajudam a direcionar o tratamento e a monitorização desses pacientes.",
+        "docs": [],
+        "nota": 0
+      },
+      "rag": {
+        "lat": 4.84,
+        "tok": 1931,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 0,
+        "answer": "O grupo E na avaliação ABE do GOLD (Global Initiative for Chronic Obstructive Lung Disease) é definido por terem ocorrido 2 ou mais exacerbações moderadas ou 1 ou mais exacerbações que necessitaram internação hospitalar no ano anterior. Esta definição reflete a importância de considerar tanto a história de exacerbações quanto os sintomas significativos na decisão de tratamento farmacológico.",
+        "docs": [
+          "sp_copd",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2020",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 16.28,
+        "tok": 1542,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "O grupo E na avaliação ABE do GOLD é definido como pacientes que tiveram 2 ou mais exacerbações moderadas ou 1 ou mais exacerbações que necessitaram de internação hospitalar no ano anterior. Esta definição reflete evidências que indicam que a história de exacerbações e o peso dos sintomas devem ser avaliados independentemente para guiar as decisões terapêuticas.",
+        "docs": [
+          "sp_copd",
+          "sp_copd",
+          "pmc_resp_res_2025",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "dpoc_09",
+      "disease": "dpoc",
+      "dificuldade": "media",
+      "fonte_id": "sbpt_dpoc_2017",
+      "baseline": {
+        "lat": 17.79,
+        "tok": 503,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "As escalas mais utilizadas para avaliar sintomas em Doença Pulmonar Obstrutiva Crônica (DPOC) incluem a Escala de Sintomas da DPOC (BODE), a Escala de Sintomas Pulmonares (PULSES) e a Escala de Sintomas Respiratórios (BR). \n\nPara a BODE, os pontos de corte para alta carga de sintomas são:\n- B (breast holding): ≥ 10 cm\n- O (obstipation): ≥ 20 cm\n- D (dyspnea): ≥ 15 cm\n- E (emphysema): ≥ 10 cm\n\nPara a PULSES, os pontos de corte para alta carga de sintomas são:\n- Pulmonary (respiração): ≥ 3\n- U (urination): ≥ 3\n- L (limb pain): ≥ 3\n- S (swallowing): ≥ 3\n- Sleep (sono): ≥ 3\n\nPara a BR, os pontos de corte para alta carga de sintomas são:\n- Breathing (respiração): ≥ 4\n- Coughing (côncavidade): ≥ 4\n- Shortness of breath (dor torácica): ≥ 4\n- Swallowing (dor abdominal): ≥ 4\n- Sleep (sono): ≥ 4\n\nEsses pontos de corte são considerados consensuais na literatura e podem variar ligeiramente entre diferentes estudos. É importante lembrar que a interpretação desses resultados deve ser feita em conjunto com outros fatores clínicos e considerando a gravidade da doença pulmonar do paciente.",
+        "docs": [],
+        "nota": 0
+      },
+      "rag": {
+        "lat": 13.96,
+        "tok": 2197,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "As escalas avaliam sintomas na DPOC e os pontos de corte para alta carga de sintomas são:\n\n1. **Teste de Avaliação da DPOC (CAT)**: Pontuação de 10 pontos ou mais separa os pacientes com DPOC entre pouco e muito sintomáticos. Esse escore é usado em conjunto com a escala mMRC e a função pulmonar para definir a gravidade da doença.\n\n2. **Escala de Dispnéia do Medical Research Council (mMRC)**: A pontuação de 3 ou mais indica uma alta carga de dispneia. Esta escala é de fácil aplicação e preditora da sobrevida em 5 anos.\n\n3. **COPD Assessment Test (CAT)**: Traduzido e validado para a língua portuguesa, o CAT tem um escore de 10 pontos que separa os pacientes com DPOC entre pouco e muito sintomáticos. Esse escore deve ser usado em conjunto com a escala mMRC e a função pulmonar para definir a gravidade da doença.\n\nFontes:\n[Fonte 1: Recomendações para o tratamento farmacológico da DPOC: perguntas e respostas (SBPT) — dpoc]",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 30.34,
+        "tok": 2284,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "As escalas avaliam sintomas na DPOC e os pontos de corte para alta carga de sintomas são:\n\n1. **CAT (COPD Assessment Test)**:\n   - Pontuação de 10 pontos no escore CAT separa os pacientes com DPOC entre pouco e muito sintomáticos.\n   - Este escore deve ser usado em conjunto com a escala mMRC e a função pulmonar para definir a gravidade da doença.\n\n2. **Escala mMRC (Medical Research Council)**:\n   - Esta escala avalia a dispneia e é de fácil aplicação.\n   - Um escore de 3 ou mais indica alta carga de sintomas de dispneia.\n\n3. **CAT**:\n   - Pontuação de 10 pontos no escore CAT separa os pacientes com DPOC entre pouco e muito sintomáticos.\n   - Este escore também deve ser usado em conjunto com a escala mMRC e a função pulmonar para definir a gravidade da doença.\n\n4. **VEF1 (Força Ventilatória do 1º Ritmo)**:\n   - A redução do VEF1 associada ao aumento da mortalidade em DPOC e à qualidade de vida destes pacientes sugere que este indicador pode indicar alta carga de sintomas, embora não reflita todos os domínios da gravidade da doença.\n\nPortanto, a pontuação de 10 pontos no escore CAT e um escore de 3 ou mais na escala mMRC são pontos de corte para alta carga de sintomas na DPOC. Estes indicadores devem ser usados em conjunto para uma avaliação completa da gravidade da doença.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "dpoc_10",
+      "disease": "dpoc",
+      "dificuldade": "media",
+      "fonte_id": "pmc_resp_res_2025",
+      "baseline": {
+        "lat": 5.38,
+        "tok": 247,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "Não tenho consenso claro na literatura médica sobre um valor específico de eosinófilos no sangue que faça recomendar a adição de corticosteroides inalatórios na DPOC (Doença Pulmonar Obstrutiva Crônica). A resposta varia dependendo da gravidade da doença pulmonar e dos sintomas. Portanto, a decisão deve ser tomada de forma individualizada, considerando outros fatores como a função pulmonar e os sintomas respiratórios.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 10.56,
+        "tok": 2263,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "De acordo com os trechos fornecidos, um estudo mostrou que os pacientes com DPOC e eosinófilos no sangue ≥ 2% antes do tratamento apresentaram redução da frequência de E-DPOC maior que aqueles com eosinófilos < 2% quando ambos usavam a combinação LABA + CI. Portanto, a presença de eosinófilos no sangue acima de 2% pode ser um indicador para a adição do CI na terapia. No entanto, é importante notar que este é um estudo específico e que a presença de eosinófilos acima de 300 células/µl em pacientes com DPOC moderada a grave, com história de E-DPOC e em uso de LABA + LAMA pode auxiliar na tomada de decisão para o início da terapia tripla, conforme mencionado em [Fonte 1].",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 18.61,
+        "tok": 2224,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "De acordo com os trechos fornecidos, um valor de eosinófilos no sangue ≥ 2% antes do tratamento é um preditor de resposta aos corticosteroides inalatórios (CI) em pacientes com DPOC. No entanto, o valor de 2% parece ser um ponto de partida, pois há discussões sobre a validade de um ponto de corte específico para a prática diária. Portanto, a decisão deve ser tomada considerando a individualidade do paciente, a história clínica e os resultados de exames adicionais.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "dpoc_11",
+      "disease": "dpoc",
+      "dificuldade": "media",
+      "fonte_id": "sbpt_dpoc_2017",
+      "baseline": {
+        "lat": 5.51,
+        "tok": 240,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "O tratamento de manutenção para a Doença Pulmonar Obstrutiva Crônica (DPOC) inclui geralmente broncodilatadores, sendo os mais comumente utilizados os beta2-adrenoreseptor agonistas e os inaladores contendo enzima da metiltransferase 4 (ET-4). Estes são considerados a base do tratamento de manutenção na DPOC, conforme consenso da Sociedade Brasileira de Pneumologia e Tisiologia.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 11.96,
+        "tok": 2295,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "O tratamento de manutenção com broncodilatadores na DPOC é baseado em evidências que apontam pela eficácia dos broncodilatadores de longa duração. Para pacientes com baixo risco de E-DPOC e pouco sintomáticos, a primeira consideração é a necessidade de tratamento de manutenção. A evidência específica para esse perfil de paciente será discutida posteriormente.\n\nNo entanto, para pacientes com sintomas persistentes, a recomendação é iniciar com um broncodilatador de longa duração. Para pacientes com dispneia mais intensa, mas baixo risco de E-DPOC, a dupla broncodilatação com LABA + LAMA é indicada, sempre levando em consideração a disponibilidade, os efeitos colaterais e a resposta individual.\n\nPortanto, a base do tratamento de manutenção com broncodilatadores na DPOC inclui a utilização de broncodilatadores de longa duração, conforme as características específicas do paciente.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 22.65,
+        "tok": 2337,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "O tratamento de manutenção com broncodilatadores na DPOC é baseado em evidências que indicam a eficácia desses medicamentos para aliviar os sintomas persistentes e reduzir a gravidade das exacerbações. Para pacientes com baixo risco de E-DPOC e pouco sintomáticos, a primeira consideração é a necessidade de tratamento de manutenção. No entanto, a escolha do broncodilatador deve ser individualizada, considerando a preferência do paciente e a eficácia do tratamento. Broncodilatadores de longa duração são mais eficazes do que os de curta duração e devem ser priorizados no tratamento dos pacientes com sintomas persistentes. Portanto, a manutenção com broncodilatadores é essencial para controlar os sintomas e prevenir as exacerbações da doença.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "dpoc_12",
+      "disease": "dpoc",
+      "dificuldade": "media",
+      "fonte_id": "sp_cor_pulmonale",
+      "baseline": {
+        "lat": 9.34,
+        "tok": 317,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "Cor pulmonale refere-se ao desenvolvimento de insuficiência cardíaca congestiva como consequência da doença pulmonar obstrutiva crônica (DPOC). A DPOC é uma condição caracterizada por obstrução persistente ou reversível das vias aéreas, geralmente causada por inflamação crônica das vias aéreas superiores. Quando a DPOC avança, pode levar à hipertensão arterial pulmonar, que é um dos principais fatores de risco para o desenvolvimento de cor pulmonale. A hipertensão arterial pulmonar ocorre quando as artérias pulmonares se tornam mais estreitas e pressurizadas, o que pode levar ao aumento do volume sanguíneo no pulmão e, por consequência, ao desenvolvimento de insuficiência cardíaca.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 11.5,
+        "tok": 2291,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 1,
+        "answer": "Cor pulmonal, também conhecida como doença pulmonar obstructiva crônica (DPOC) aguda, é uma condição grave que ocorre quando a DPOC leva a uma diminuição significativa da função ventilatória e pode levar a complicações graves, incluindo insuficiência cardíaca. Isso ocorre porque a DPOC pode causar uma sobrecarga ventricular, especialmente quando há uma perda significativa da capacidade funcional do pulmão.\n\nA DPOC e a cor pulmonal têm uma relação direta. A DPOC leva ao enfraquecimento do pulmão, o que pode resultar em uma sobrecarga ventricular. Quando a DPOC avança e causa uma redução significativa na capacidade ventilatória, o coração tem que trabalhar mais para compensar a falta de ar, o que pode levar a insuficiência cardíaca. Portanto, a DPOC é um fator de risco para a cor pulmonal.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 27.49,
+        "tok": 2304,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "Cor pulmonale, também conhecida como hipertensão pulmonar, é um termo geral que se refere a uma condição em que ocorre aumento da pressão arterial no sistema venoso pulmonar, levando a dilatação do coração e eventualmente ao desenvolvimento de cardiomegalia. Esta condição é frequentemente observada em pacientes com DPOC (Distúrbio Pulmonar Obstrutivo Crônico), especialmente em casos de DPOC descompensada.\n\nA DPOC é uma doença crônica caracterizada pela obstrução persistente das vias aéreas, o que leva a uma diminuição da capacidade pulmonar e a uma perda gradual da função pulmonar. Quando a DPOC avança para uma fase descompensada, pode ocorrer uma série de complicações, incluindo a hipertensão pulmonar, que é um componente importante da síndrome de cor pulmonal.\n\nA hipertensão pulmonar em pacientes com DPOC descompensada pode ser um sinal de instabilidade clínica e pode levar a uma necessidade de cuidados intensivos, como internação hospitalar. Portanto, a DPOC e a hipertensão pulmonar estão intimamente relacionadas, com a DPOC descompensada sendo um fator de risco significativo para o desenvolvimento da cor pulmonal.",
+        "docs": [
+          "pcm_consensus_pt",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "dpoc_13",
+      "disease": "dpoc",
+      "dificuldade": "dificil",
+      "fonte_id": "sbpt_dpoc_2017",
+      "baseline": {
+        "lat": 8.46,
+        "tok": 316,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A associação de corticosteroides inalatórios (CI) com broncodilatadores de longa ação é recomendada em pacientes com Doença Pulmonar Obstrutiva Crônica (DPOC) para reduzir a gravidade das crises agudas e melhorar os resultados clínicos. Esta associação é baseada em vários estudos e guias clínicos, como o Consenso Global sobre a Doença Pulmonar Obstrutiva Crônica (GOLD), que sugere a utilização de terapias combinadas intensas para pacientes com DPOC moderada a grave. No entanto, a decisão final deve ser tomada em consulta com um profissional de saúde especializado, levando em consideração as características individuais do paciente e as possíveis interações medicamentosas.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 9.97,
+        "tok": 2281,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "A associação de corticosteroides inalatórios (CI) a broncodilatadores de longa ação (LABA) é recomendada principalmente em pacientes com DPOC de moderada a muito grave, sintomáticos e que são exacerbadores. Isso é baseado em evidências que mostram que essa combinação proporciona melhores resultados em termos de melhora da função pulmonar, diminuição da frequência e gravidade das E-DPOC, e melhoria da qualidade de vida em comparação com o uso isolado de um dos componentes. Além disso, a associação LABA + CI é especialmente benéfica em pacientes com DPOC e asma, conforme mencionado em alguns estudos. No entanto, a decisão final deve levar em conta a disponibilidade, os efeitos colaterais individuais e a resposta do paciente.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 37.63,
+        "tok": 2676,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "A recomendação para associar corticosteroides inalatórios (CI) a broncodilatadores de longa ação (LABA) na DPOC é dada em várias situações:\n\n1. **Quando os sintomas persistem após tratamento inicial com LABA**: Quando os sintomas persistentes persistem mesmo após o tratamento inicial com broncodilatador de longa duração, a associação LABA + CI é indicada.\n\n2. **Quando há dispneia intensa e baixo risco de E-DPOC**: Para pacientes com dispneia intensa, mas com baixo risco de E-DPOC, a dupla broncodilatação com LABA + CI é recomendada, sempre considerando a disponibilidade, efeitos colaterais e resposta individual.\n\n3. **Quando há associação de asma com DPOC**: A associação LABA + CI é indicada em pacientes com DPOC e asma, especialmente quando há a presença de eosinófilos no sangue ≥ 2%.\n\n4. **Quando há E-DPOC frequentes ou hospitalizações**: Pacientes que sofrem de E-DPOC frequentemente (2 ou mais vezes ao ano) ou que precisam de hospitalizações, mesmo após tratamento com LABA + LAMA, podem beneficiar da terapia tripla (LABA + CI + LAMA).\n\n5. **Quando há DPOC associada à asma**: Pacientes com DPOC associada à asma que persistem sintomáticos apesar do uso de LABA + CI podem ser tratados com terapia tripla.\n\n6. **Quando há aumento de eosinófilos séricos**: A presença de eosinófilos acima de 300 células/µl em pacientes com DPOC moderada a grave, com história de E-DPOC e em uso de LABA + LAMA pode ser um indicativo para iniciar a terapia tripla.\n\nEssas recomendações são baseadas em evidências clínicas e em estudos que demonstram a eficácia da associação LABA + CI na melhoria da função pulmonar e da qualidade de vida, além de prevenir exacerbações da doença.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "dpoc_14",
+      "disease": "dpoc",
+      "dificuldade": "dificil",
+      "fonte_id": "sp_copd",
+      "baseline": {
+        "lat": 10.84,
+        "tok": 349,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "Os principais pilares do tratamento da exacerbação aguda de DPOC (Doença Pulmonar Obstrutiva Crônica) incluem:\n\n1. Administração de corticosteroides por via respiratória ou intravenosa, dependendo da gravidade.\n2. Oxigenoterapia para suprir a demanda de oxigênio.\n3. Incentivo ao uso de broncodilatadores, especialmente beta-2 agonistas e anticholinérgicos.\n4. Monitorização frequente dos sinais vitais e dos parâmetros de oxigênio.\n5. Avaliação e possíveis ajustes no uso de medicamentos controladores de sintomas.\n6. Prevenção de infecções, especialmente com antibióticos.\n7. Nutrição adequada, considerando a necessidade de calorias adicionais.\n\nÉ importante notar que a terapêutica deve ser individualizada e adaptada às necessidades específicas do paciente, conforme orientações atualizadas pelos principais consensos médicos.",
+        "docs": [],
+        "nota": 0
+      },
+      "rag": {
+        "lat": 18.58,
+        "tok": 2415,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "Os pilares do tratamento da exacerbação aguda de DPOC (EADPOC) incluem:\n\n1. **Medicação**: \n   - **Broncodilatadores**: Inaladores de longa duração (LABA) e antimuscarínicos de longa duração (LAMA) são essenciais. A associação LABA + LAMA pode ser considerada em alguns casos.\n   - **Inflamatórios**: Corticosteroides sistêmicos podem ser usados em pacientes com EADPOC severa ou crônica, dependendo da gravidade e da resposta ao tratamento inicial.\n\n2. **Suplementação Oxigenada**: \n   - É recomendada quando a saturação de oxigênio no sangue está abaixo de 90%.\n\n3. **Monitorização e Avaliação**: \n   - Monitorar a evolução clínica e funcional do paciente, bem como a resposta ao tratamento.\n\n4. **Prevenção de Complicações**: \n   - Tratamento precoce de complicações respiratórias, como pneumonia.\n\n5. **Nutrição e Reabilitação**: \n   - A nutrição adequada e a reabilitação pulmonar podem ajudar no recuperação.\n\n6. **Prevenção de Exacerbos Futuros**: \n   - Após a recuperação, o tratamento preventivo deve ser iniciado, incluindo a manutenção com broncodilatadores e, se necessário, com corticosteroides.\n\nEsses pilares devem ser implementados de acordo com a gravidade da exacerbação e as características individuais do paciente. A escolha das medidas deve ser baseada na avaliação da função pulmonar e na avaliação clínica.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 37.71,
+        "tok": 2733,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "Os principais pilares do tratamento da exacerbação aguda de DPOC (EAD-P) incluem:\n\n1. Administração de broncodilatadores: Este é o primeiro passo, geralmente iniciado com um β2-agonista de curta duração, como salbutamol ou fenoterol, administrado por via respiratória mista (MDI) ou via nebulização.\n\n2. Oxigenoterapia: Quando a dispneia é severa ou a saturação de oxigênio é baixa, a oxigenoterapia é recomendada para aumentar a oxigenação.\n\n3. Anti-inflamatórios: Estes podem ser usados para reduzir a inflamação pulmonar, sendo os corticosteroides inalatórios uma opção comumente utilizada.\n\n4. Antibióticos: Se houver suspeita de infecção adquirida durante a exacerbação, como pneumonia, pode ser necessário o uso de antibióticos.\n\n5. Avaliação e tratamento de complicações: Isso pode incluir a administração de anticoagulantes para prevenir trombose venosa profunda, além de outros tratamentos conforme necessário.\n\n6. Monitorização e avaliação: O paciente deve ser monitorado regularmente para avaliar a resposta ao tratamento e identificar possíveis complicações.\n\n7. Prevenção de complicações: Medidas como a vacinação contra a influenza e pneumococo podem ser recomendadas para prevenir complicações adicionais.\n\n8. Terapia respiratória: Para pacientes com dispneia severa, a terapia respiratória pode ser útil.\n\n9. Nutrição e hidratação: A nutrição adequada e a hidratação são importantes para apoiar o sistema imunológico e melhorar a capacidade de exercício.\n\n10. Tratamento de comorbidades: O controle de outras condições médicas associadas à DPOC, como hipertensão arterial, diabetes e obesidade, também é crucial.\n\nEsses pilares devem ser implementados de acordo com a gravidade da exacerbação e as características individuais do paciente. A escolha do tratamento deve ser feita de forma individualizada, levando em conta a gravidade da exacerbação, a função pulmonar do paciente e as comorbidades exist",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "dpoc_15",
+      "disease": "dpoc",
+      "dificuldade": "dificil",
+      "fonte_id": "sp_copd",
+      "baseline": {
+        "lat": 3.28,
+        "tok": 192,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A principal indicação para oxigenoterapia domiciliar prolongada (ODP) na Doença Pulmonar Obstrutiva Crônica (DPOC) é a hipoxemia persistente, que não melhora com tratamento convencional. Esta indicação é baseada em consenso na literatura médica.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 11.48,
+        "tok": 2279,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A principal indicação para oxigenoterapia domiciliar prolongada na DPOC (Dermatopneumonia Obstructiva Crônica) é a presença de exacerbações respiratórias frequentes (E-DPOC). Isso é destacado em vários estudos e recomendações médicas, como mencionado nas fontes fornecidas.\n\nFonte 1: \"Recomendações para o tratamento farmacológico da DPOC: perguntas e respostas\" (SBPT) - DPoC\n\nFonte 2: \"Divisão de Pneumologia, Instituto do Coração – InCor − Hospital das Clínicas, Faculdade de Medicina da Universidade de São Paulo\" - JBP (2011)\n\nPortanto, a oxigenoterapia domiciliar prolongada é indicada principalmente para pacientes com DPOC que apresentam uma alta frequência de exacerbações respiratórias, o que contribui para a melhoria da qualidade de vida e redução da morbidade e mortalidade desses pacientes.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 20.58,
+        "tok": 2324,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A principal indicação para oxigenoterapia domiciliar prolongada na DPOC (Doença Pulmonar Obstrutiva Crônica) é a presença de episódios de descompensação respiratória aguda (E-DPOC). Isso ocorre quando pacientes com DPOC têm episódios frequentes de descompensação respiratória, que podem levar à hospitalização. A oxigenoterapia domiciliar prolongada é usada para prevenir esses episódios de E-DPOC, melhorando assim a qualidade de vida e reduzindo a necessidade de internações hospitalares.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "dpoc_16",
+      "disease": "dpoc",
+      "dificuldade": "dificil",
+      "fonte_id": "sp_copd",
+      "baseline": {
+        "lat": 24.55,
+        "tok": 634,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "Para diferenciar a Doença Pulmonar Obstrutiva Crônica (DPOC) da Asma na avaliação funcional, é importante considerar vários fatores:\n\n1. **História Clínica**: A DPOC geralmente tem uma história mais prolongada de sintomas crônicos e progressivos, enquanto a Asma pode ter episódios agudos intercalados por períodos de remissão.\n\n2. **Testes de Respiração**: \n   - **Teste de Esforço**: A DPOC apresenta uma diminuição mais acentuada no esforço máximo, com diminuição da capacidade ventilatória total (V̇E) e da capacidade inspiratória residual (IRV).\n   - **Teste de Esforço Combinado**: Aumento da resistência ao esforço, especialmente durante a fase expiratória.\n   - **Teste de Esforço Combinado com Oxímetro**: Aumento da resistência ao esforço expiratório, com diminuição da oxigenação.\n\n3. **Exames de Imagem**: Exames como tomografia computadorizada (TC) pulmonar podem mostrar alterações típicas da DPOC, como espessamento das paredes bronquiais e hipertrofia dos músculos do diafragma.\n\n4. **Testes de Broncoscopia**: A DPOC pode ser caracterizada por espessamento das paredes bronquiais e presença de citoqueratose, enquanto a Asma pode apresentar inflamação bronquial e edema.\n\n5. **Testes de Broncoalveolar Lavagem (BAL)**: A DPOC pode apresentar leucócitos neutrófilos elevados, enquanto a Asma pode apresentar leucócitos eosinófilos elevados.\n\n6. **Testes de Sensibilidade a Alérgenos**: A Asma é frequentemente associada a alergias, enquanto a DPOC não necessariamente está relacionada a alergias.\n\n7. **Medidas de Função Pulmonar**: A DPOC costuma apresentar uma diminuição mais acentuada da capacidade ventilatória total (VĊT) e da capacidade inspiratória residual (IRV), enquanto a Asma pode apresentar diminuição da capacidade inspiratória total",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 13.4,
+        "tok": 2287,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 1,
+        "answer": "Para diferenciar a DPOC da asma na avaliação funcional, é importante considerar a história clínica, os sintomas e a resposta ao tratamento. No entanto, a avaliação funcional pode ser útil, especialmente quando há dúvidas diagnósticas.\n\nA função pulmonar, medida por VEF1 (Volume Expiratório em 1 Segundo), é um indicador importante. Pacientes com DPOC tendem a ter VEF1 abaixo de 80% do predito, enquanto pacientes com asma podem ter VEF1 dentro deste intervalo, embora ainda apresentem alterações funcionais.\n\nA escala de dispneia do Medical Research Council (mMRC) também pode ser útil. Pacientes com DPOC geralmente apresentam maior intensidade de dispneia, especialmente durante atividades diárias, comparado a pacientes com asma.\n\nNo entanto, essas avaliações devem ser complementadas com outros aspectos, como a história clínica, a resposta ao tratamento e a presença de outros sintomas característicos de cada condição. Portanto, a avaliação funcional, combinada com a história clínica e outros exames, é fundamental para a diferenciação entre DPOC e asma.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 36.76,
+        "tok": 2491,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "Para diferenciar a DPOC da asma na avaliação funcional, é importante considerar vários aspectos, incluindo a história clínica, exames laboratoriais e resultados de testes funcionais pulmonares. No entanto, a avaliação funcional é complexa e não sempre definitiva, pois ambas as condições podem apresentar sinais semelhantes.\n\n### Avaliação Funcional\n\n1. **Teste de Broncorreção (PFT - Pulmonary Function Test)**:\n   - **DPOC**: Geralmente apresenta diminuição da função pulmonar, com VEF1 (< 50% do predito) e VC (< 70% do predito). A função pulmonar pode ser mais comprometida em pacientes com DPOC do que em asma.\n   - **Asma**: A função pulmonar pode estar normal ou levemente comprometida, mas a principal alteração é a broncoconstrção induzida por exercício ou provocada por substâncias alérgicas.\n\n2. **Teste de Broncodilatação**:\n   - **DPOC**: A broncodilatação é geralmente menos eficaz em pacientes com DPOC, especialmente em pacientes com VEF1 < 50% do predito.\n   - **Asma**: A broncodilatação é mais eficaz em pacientes com asma, especialmente após o uso de broncodilatadores.\n\n3. **Eosinófilos no Sangue**:\n   - **DPOC**: Os pacientes com DPOC têm um número elevado de eosinófilos no sangue, frequentemente ≥ 2%.\n   - **Asma**: Os pacientes com asma também podem ter elevados níveis de eosinófilos, mas isso não é exclusivo da asma.\n\n4. **História Clínica e Sintomas**:\n   - **DPOC**: Frequentemente apresenta sintomas crônicos de dispneia e tosse, com diminuição da capacidade física e progressiva.\n   - **Asma**: Sintomas podem variar, podendo ser crônicos ou episódicos, com episódios de piora (exacerbos) e sintomas respiratórios agudos.\n\n5. **Questionário de Qualidade de Vida (CAT)**:\n   -",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "dpoc_17",
+      "disease": "dpoc",
+      "dificuldade": "media",
+      "fonte_id": "cdc_about_copd",
+      "baseline": {
+        "lat": 5.5,
+        "tok": 235,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "Vacinas recomendadas para pacientes com DPOC (Doença Pulmonar Obstrutiva Crônica) incluem:\n\n1. Vacina contra a influenza anual\n2. Vacina contra a pneumococo\n\nEstas vacinas são consideradas essenciais para prevenir infecções respiratórias agudas, que podem ser mais graves em pacientes com DPOC devido à sua condição de saúde. É importante que essas vacinas sejam aplicadas conforme indicado pelo profissional de saúde, geralmente anualmente.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 16.18,
+        "tok": 2326,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "Os pacientes com DPOC devem ser vacinados contra:\n\n1. Influenza anual - recomendação baseada em evidências robustas, pois a infecção por influenza aumenta o risco de hospitalização e morte em pacientes com DPOC.\n\n2. Pneumococo - recomendação baseada em evidências, pois a pneumonia bacteriana é uma causa importante de mortalidade em pacientes com DPOC.\n\n3. HPV (Human Papillomavirus) - recomendação baseada em evidências, pois a presença de HPV pode aumentar o risco de câncer de pulmão em fumantes.\n\n4. Varicela - recomendação baseada em evidências, pois a varicela pode levar a complicações graves em pacientes com DPOC.\n\n5. Hepatite B - recomendação baseada em evidências, pois a hepatite B pode levar a complicações graves em pacientes com DPOC.\n\n6. Rotavírus - recomendação baseada em evidências, especialmente para crianças com DPOC.\n\n7. Viroses respiratórias - recomendação baseada em evidências, pois a infecção viral pode piorar a condição pulmonar do paciente.\n\nAs vacinas são essenciais para proteger pacientes com DPOC contra doenças que podem agravar sua condição pulmonar. É importante que os pacientes estejam atualizados com todas as vacinas recomendadas conforme indicado pelo profissional de saúde.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 25.73,
+        "tok": 2465,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 1,
+        "answer": "Para pacientes com DPOC (Doença Pulmonar Obstrutiva Crônica), são recomendadas as seguintes vacinas:\n\n1. Vacina contra influenza anual: É uma vacina obrigatória anualmente, pois a DPOC aumenta o risco de infecções respiratórias agudas, incluindo a influenza.\n\n2. Vacina contra pneumococo: Esta vacina também é recomendada para prevenir infecções respiratórias agudas, especialmente em pacientes com DPOC avançada ou grave.\n\n3. Vacina contra HPV (Human Papillomavirus): Embora não seja diretamente relacionada à DPOC, esta vacina é recomendada para prevenir câncer de pâncreas, que pode ser um problema comum em pacientes com DPOC.\n\n4. Vacina contra HPV (Human Papillomavirus): Além de prevenir câncer de pâncreas, esta vacina também protege contra câncer de cólon e reto, condições que podem ser mais prevalentes em indivíduos com DPOC.\n\nFonte: [Fonte 1: Recomendacoes para o tratamento farmacologico da DPOC: perguntas e respostas (SBPT) — dpoc]",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "dpoc_18",
+      "disease": "dpoc",
+      "dificuldade": "dificil",
+      "fonte_id": "pmc_front_med_2024",
+      "baseline": {
+        "lat": 15.68,
+        "tok": 451,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "Fenotipos da DPOC (Doença Pulmonar Obstrutiva Crônica) são as manifestações observáveis e palpáveis da doença, incluindo a função pulmonar, sinais clínicos e sintomas respiratórios. São relevantes porque:\n\n1. **Diagnóstico**: Identificam a presença da doença, diferenciando-a de outras condições pulmonares.\n2. **Prognóstico**: Indicam a gravidade da condição e potencialmente influenciam o prognóstico.\n3. **Tratamento**: Refletem a necessidade e eficácia do tratamento, permitindo ajustes personalizados.\n4. **Prevenção**: Indicam riscos adicionais de complicações e necessidades de intervenção preventiva.\n\nOs principais fenotipos incluem:\n\n- **Fenotipo leve**: Sintomas leves, função pulmonar estável ou deterioração lenta.\n- **Fenotipo moderado**: Sintomas mais intensos, função pulmonar estável ou deterioração moderada.\n- **Fenotipo grave**: Sintomas severos, função pulmonar deteriorada rapidamente, necessidade de oxigênio.\n- **Fenotipo crítico**: Sintomas extremamente graves, necessidade de cuidados intensivos, mortalidade alta.\n\nEsses fenotipos são importantes para orientar o diagnóstico, tratamento e acompanhamento dos pacientes com DPOC.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 11.21,
+        "tok": 2272,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "Os fenotipos da DPOC são categorias ou subgrupos de pacientes com DPOC que compartilham características específicas de sintomas, função pulmonar e resposta ao tratamento. São relevantes porque permitem personalizar o tratamento de acordo com as necessidades individuais de cada paciente. Isso pode incluir a associação de diferentes tratamentos farmacológicos, como LABA (Lítio Beta-Acetilasa) e LAMA (Lítio Amilase), dependendo do perfil específico do paciente. Por exemplo, pacientes com asma associada à DPOC ou com eosinofilia sérica ou no escarro podem ser beneficiados com a associação LABA + CI (Corticosteroida Inalatória). Além disso, esses fenotipos ajudam a identificar pacientes com maior risco de episódios agudos (exacerbadores) e a direcionar o tratamento de maneira mais eficaz para prevenir esses episódios.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 22.11,
+        "tok": 2189,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "Os fenotipos da DPOC são categorias ou grupos de pacientes com DPOC que compartilham características específicas, como a presença de asma associada à DPOC, eosinofilia sérica ou no escarro, ou um perfil de exacerbação. Esses fenotipos são relevantes porque podem ajudar a personalizar o tratamento, pois pacientes com certos fenotipos podem responder melhor a certos tratamentos. Por exemplo, pacientes com asma associada à DPOC devem ser tratados com CI, independentemente do número de E-DPOC. Além disso, pacientes com fenótipo exacerbador, especialmente aqueles com eosinofilia periférica, podem beneficiar de terapias adicionais, como LABA + CI. Essa personalização do tratamento pode levar a melhores resultados clínicos e reduzir a incidência de exacerbações.",
+        "docs": [
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017",
+          "sbpt_dpoc_2017"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "fib_01",
+      "disease": "fibrose",
+      "dificuldade": "facil",
+      "fonte_id": "sp_ipf",
+      "baseline": {
+        "lat": 5.73,
+        "tok": 240,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "Fibrose pulmonar idiopática (FPI) é uma doença crônica progressiva caracterizada pela inflamação e degeneração das fibras do tecido moles da parede pulmonar, resultando em fibrose e diminuição da capacidade funcional do pulmão. A causa exata é desconhecida, sendo classificada como idiopática. Esta condição pode levar a dificuldade respiratória e outros sintomas, podendo ser diagnosticada através de exames de imagem e biópsia pulmonar.",
+        "docs": [],
+        "nota": 2
+      },
+      "rag": {
+        "lat": 8.57,
+        "tok": 2258,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "Fibrose pulmonar idiopática (FPI) é uma forma específica de pneumonia intersticial idiopática crônica, fibrosante e progressiva. É caracterizada por uma perda gradativa de função pulmonar, com padronização histológica e radiológica de pneumonia intersticial usual (PIU). A FPI afeta principalmente adultos idosos, com predominância entre a sexta e sétima décadas de vida, e é restrita aos pulmões. Embora a causa seja desconhecida, há evidências sugerindo um papel potencial do tabagismo. A doença é classificada como uma pneumonia intersticial idiopática crônica fibrosante, mas é importante notar que a FPI é uma forma específica dessa condição.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020"
+        ],
+        "nota": 2
+      },
+      "proposta": {
+        "lat": 22.38,
+        "tok": 2330,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A fibrose pulmonar idiopática (FPI) é uma forma de pneumopatia intersticial crônica fibrosante, de causa desconhecida, que acomete preferencialmente homens idosos, com história atual ou pregressa de tabagismo. Ela é caracterizada por um padrão histológico e radiológico de pneumonia intersticial usual (PIU), e é classificada como uma doença progressiva e grave, com uma média de sobrevida de apenas 2,9 anos sem tratamento. A FPI é classificada como uma pneumonia intersticial idiopática crônica fibrosante, onde a inflamação identificada é de pequena monta ou praticamente inexistente, enquanto a fibrose é exuberante e progressiva. A doença é considerada um distúrbio primariamente epitélio-mesenquimal fibrosante, o que levou a investigações com novas modalidades terapêuticas.",
+        "docs": [
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "fib_02",
+      "disease": "fibrose",
+      "dificuldade": "facil",
+      "fonte_id": "ipf_guideline_2022",
+      "baseline": {
+        "lat": 11.58,
+        "tok": 365,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A Fibrose Pulmonar Idiopática (FPI), também conhecida como Pulmão de Wegener, apresenta padrões radiológicos e histológicos específicos:\n\n1. Padrão Radiológico:\n   - Lesões pulmonares multifocais, geralmente mais frequentes nos lobos inferiores.\n   - Possível presença de áreas de necrose e fibrose.\n   - Ausência de lesões pleurais.\n\n2. Padrão Histológico:\n   - Lesões de necrose purulenta inicial, seguida por fibrose.\n   - Exsudato purulento e necrótico.\n   - Linfócitos e macrófagos presentes.\n   - Aparecimento de granulomas necróticos.\n   - Em estágios avançados, pode haver fibrose e metaplasia bronquial.\n\nÉ importante notar que a FPI é uma doença rara e complexa, e esses padrões devem ser confirmados através de exames complementares, incluindo biópsias pulmonares e análises laboratoriais.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 9.89,
+        "tok": 2255,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "O padrão radiológico e histológico característico da fibrose pulmonar idiopática (FPI) é pneumonia intersticial usual (PIU). Esta condição é identificada através de padrões clínicos, radiológicos e histológicos específicos. No caso radiológico, a pneumonia intersticial usual é caracterizada por opacidades em tomografia computadorizada axial raquimedular (TCAR), especialmente nas regiões basais e subpleurais, e também pode incluir áreas de opacidade em vidro fosco, especialmente na forma aguda da doença. Histologicamente, a pneumonia intersticial usual é caracterizada por uma inflamação intersticial intensa, com a presença de células T e linfócitos, e a ausência de alterações específicas de fibrose. Esses padrões são cruciais para o diagnóstico da FPI.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 2
+      },
+      "proposta": {
+        "lat": 20.54,
+        "tok": 2280,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "O padrão radiológico e/ou histológico característico da fibrose pulmonar idiopática (FPI) é o de pneumonia intersticial usual (PIU). Este padrão é fundamental para o diagnóstico da FPI, embora seja importante lembrar que, mesmo quando a biópsia pulmonar cirúrgica (BPC) revela o padrão histológico de PIU, é necessário excluir outras condições clínicas que também podem apresentar esse padrão, como doenças do tecido conectivo, pneumonite de hipersensibilidade na fase crônica (PHC), lesão pulmonar por drogas, asbestose, fibrose pulmonar familiar e síndrome de Hermansky-Pudlark.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 2
+      }
+    },
+    {
+      "id": "fib_03",
+      "disease": "fibrose",
+      "dificuldade": "facil",
+      "fonte_id": "sp_ipf",
+      "baseline": {
+        "lat": 5.12,
+        "tok": 223,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A FPI (Fatores de Risco para a Insuficiência Pulmonar) geralmente está associada a sintomas gripais iniciais, como tosse seca, febre ligeira, dor de cabeça e cansaço. No entanto, sem mais contexto específico sobre a condição em questão, não posso afirmar diretamente que esses sintomas são típicos da FPI. Para uma resposta mais precisa, seria necessário especificar a doença específica em referência.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 15.32,
+        "tok": 2318,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A fibrose pulmonar idiopática (FPI) pode apresentar diversos sintomas, mas alguns são mais frequentemente mencionados. Os principais sintomas incluem:\n\n1. Dispneia progressiva: É uma das manifestações mais comuns e pode ser de difícil controle, frequentemente relacionada à evolução da doença.\n\n2. Sintomas de refluxo gastroesofágico (RGE): Embora não seja um sintoma típico da FPI, a presença de RGE é mais frequente em pacientes com FPI, especialmente em pacientes com hérnia de hiato.\n\n3. Alterações na função pulmonar: Como resultado da fibrose pulmonar, os pacientes podem apresentar diminuição do volume pulmonar e aumento da pressão arterial pulmonar.\n\n4. Alterações respiratórias: Podem ocorrer alterações na capacidade pulmonar e na função ventilatória.\n\n5. Alterações neurológicas: Pode haver sinais de demência ou disfunção cognitiva, embora sejam menos comuns.\n\nÉ importante notar que os sintomas podem variar significativamente entre pacientes e que a FPI é uma doença complexa com muitas variações em termos de sintomatologia. Além disso, os sintomas podem ser influenciados por fatores como a gravidade da doença, a presença de comorbidades e a qualidade de vida do paciente.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 27.25,
+        "tok": 2374,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A fibrose pulmonar idiopática (FPI) apresenta sintomas típicos que incluem:\n\n1. **Dispneia**: Progressiva e intensa, sendo uma das primeiras manifestações e frequentemente de difícil controle. A origem da dispneia na FPI envolve a própria evolução da doença, além de outros fatores como depressão, ansiedade e fraqueza muscular.\n\n2. **Sintomas respiratórios**: Incluem tosse, desidratação, edema pulmonar e hipertensão arterial pulmonar.\n\n3. **Alterações funcionais**: Refletem a limitação da capacidade ventilatória e da função pulmonar, podendo levar a uma diminuição da força do esforço físico e da capacidade de exercício.\n\n4. **Alterações neurológicas**: Podem incluir distúrbios do sono, como a apneia obstrutiva do sono, e alterações cognitivas.\n\n5. **Alterações psiquiátricas**: Muitos pacientes apresentam sintomas de depressão e ansiedade, que devem ser rotineiramente pesquisados.\n\nÉ importante notar que a gravidade e a progressão da doença podem variar significativamente entre pacientes. Além disso, alguns pacientes podem apresentar sintomas iniciais sutis ou não desenvolver sintomas respiratórios avançados. Portanto, a avaliação e o monitoramento regular são fundamentais para detectar e tratar a doença em seus estágios iniciais.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "fib_04",
+      "disease": "fibrose",
+      "dificuldade": "facil",
+      "fonte_id": "sp_ipf",
+      "baseline": {
+        "lat": 6.55,
+        "tok": 260,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A auscultação pulmonar característica da Fibrose Pulmonar Intersticial (FPI) pode incluir sinais como:\n\n1. Ausculta ruidosa ou sibilante no fundo das costas, especialmente ao respirar.\n2. Ausculta ruidosa ou sibilante durante a expiração.\n3. Ausculta ruidosa ou sibilante em áreas específicas do tórax, geralmente associadas aos locais de lesão pulmonar.\n\nEsses achados devem ser avaliados conjuntamente com outros exames e histórico clínico para confirmar o diagnóstico.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 4.37,
+        "tok": 2168,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A ausculta de estertores finos holo e teleinspiratórios, particularmente do tipo \"velcro\", é um importante sinal de alerta para a possibilidade de fibrose pulmonar idiopática (FPI). Este achado auditivo é descrito como um sinal característico na literatura referente à FPI.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 16.0,
+        "tok": 2105,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A ausculta de estertores finos holo e teleinspiratórios, particularmente do tipo \"velcro\", é um importante sinal de alerta para a possibilidade de fibrose pulmonar idiopática (FPI). Este achado é mencionado como um sinal de alerta importante no diagnóstico da FPI, conforme destacado em [Fonte 1].",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "fib_05",
+      "disease": "fibrose",
+      "dificuldade": "facil",
+      "fonte_id": "ipf_guideline_2022",
+      "baseline": {
+        "lat": 4.35,
+        "tok": 211,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A FPI (Fibrinaófita Pulmonar) é frequentemente diagnosticada através de exames de imagem, mas a tomografia computadorizada (TC) pulmonar é geralmente considerada o exame de imagem mais importante para identificar as fibrinasófitas pulmonares. No entanto, a decisão sobre qual exame de imagem usar depende dos sintomas e das características individuais do paciente.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 7.65,
+        "tok": 2162,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "O exame de imagem central no diagnóstico da Fibrose Pulmonar Idiopática (FPI) é a Tomografia Computadorizada de Arteria Pulmonar (TCAR). Esta técnica permite a visualização radiológica dos pulmões, ajudando a identificar padrões de pneumonia intersticial usual (PIU), que é um aspecto chave no diagnóstico da FPI. No entanto, a TCAR é complementada por outros exames e procedimentos, como a biópsia pulmonar cirúrgica (BPC) e a broncoscopia com coleta de lavado broncoalveolar, para confirmar o diagnóstico.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020"
+        ],
+        "nota": 2
+      },
+      "proposta": {
+        "lat": 19.71,
+        "tok": 2177,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "O exame de imagem central no diagnóstico da Fibrose Pulmonar Idiopática (FPI) é a Tomografia Computadorizada do Tórax com Análise Radiológica (TCAR). Esta técnica é fundamental para identificar o padrão de Pneumonia Intersticial Única (PIU), que é um aspecto chave no diagnóstico da FPI. A TCAR, quando combinada com critérios histopatológicos, pode eliminar a necessidade de realizar uma biópsia pulmonar cirúrgica (BPC) em muitos casos. No entanto, em alguns casos, especialmente quando o padrão de PIU é possível ou inconsistente, a BPC é recomendada.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 2
+      }
+    },
+    {
+      "id": "fib_06",
+      "disease": "fibrose",
+      "dificuldade": "facil",
+      "fonte_id": "sp_nintedanib",
+      "baseline": {
+        "lat": 3.32,
+        "tok": 195,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "Os dois medicamentos antifibroticos disponíveis para o Fibrose Pulmonar Idiopática (FPI) são:\n\n1. Nintedanib\n2. Sarclizumab\n\nEstes são considerados tratamentos padrão reconhecidos pela maioria dos consensos médicos atualmente disponíveis.",
+        "docs": [],
+        "nota": 0
+      },
+      "rag": {
+        "lat": 4.65,
+        "tok": 2064,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "Os dois medicamentos antifibroticos disponíveis para a Fibrose Pulmonar Idiopática (FPI) são nintedanibe e pirfenidona. Essa informação é diretamente extraída da [Fonte 2: Atualização no Diagnóstico e Tratamento da Fibrose Pulmonar Idiopática (SBPT) — fibrose].",
+        "docs": [
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 16.5,
+        "tok": 2039,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "Os dois medicamentos antifibróticos disponíveis para a Fibrose Pulmonar Idiopática (FPI) são a pirfenidona e o nintedanibe. Esses são os únicos fármacos comprovadamente eficazes em estudos clínicos randomizados.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 2
+      }
+    },
+    {
+      "id": "fib_07",
+      "disease": "fibrose",
+      "dificuldade": "media",
+      "fonte_id": "ipf_guideline_2022",
+      "baseline": {
+        "lat": 11.42,
+        "tok": 360,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A TCAR (Tomografia Computadorizada do Tórax Anterolateral) pode ajudar a identificar os achados típicos da síndrome de Pulmão Infeccioso Viral (UIP - Interstitial Lung Disease associada ao Vírus Infeccioso Pulmonar). No entanto, a TCAR não é uma ferramenta diagnóstica definitiva para UIP. A definição clínica e radiológica da UIP geralmente se baseia em critérios como:\n\n1. Ausência de outras doenças pulmonares conhecidas.\n2. Ausência de alterações pulmonares em exames anteriores.\n3. Ausência de sinais ou sintomas de infecção viral.\n4. Alterações intersticiais (espessamento das fibras internas dos pulmões).\n5. Espessamento das artérias pulmonares.\n6. Ausência de lesões parenquimóticas.\n\nEsses achados devem ser avaliados em conjunto com outros exames e histórico clínico para confirmar o diagnóstico de UIP.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 8.26,
+        "tok": 2201,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "O padrão UIP (Predominância basal e subpleural) é caracterizado pela TCAR conforme descrito nos seguintes achados:\n\n- Predomínio basal e subpleural\n- Alterações reticulares\n- Ausência de achados listados como inconsistentes (como faveolamento, bronquiectasias de tração, micronódulos difusos, cistos isolados, atenuação em mosaico ou aprisionamento aéreo, consolidações peribrônquicas ou lítias pulmonares).\n\nEsses achados devem ser presentes em todos os campos para serem considerados UIP definitivo. Caso contrário, o padrão é possível ou inconsistente com UIP.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 18.74,
+        "tok": 2195,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "O padrão UIP (Pneumonia Intersticial Usual) na TCAR é caracterizado por:\n\n1. Predomínio basal e subpleural\n2. Alterações reticulares\n3. Faveolamento, com ou sem bronquiectasias de tração\n4. Ausência de achados listados como inconsistentes (como micronódulos difusos, cistos isolados, atenuação em mosaico ou aprisionamento aéreo)\n\nEsses achados devem ser presentes para se diagnosticar o padrão UIP definido.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "fib_08",
+      "disease": "fibrose",
+      "dificuldade": "media",
+      "fonte_id": "ipf_guideline_2022",
+      "baseline": {
+        "lat": 12.86,
+        "tok": 409,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "Segundo a Diretriz Brasileira de Doença Pulmonar Obstrutiva Crônica (DPOC) de 2018/2022, as quatro categorias de padrão tomográfico para avaliação da Fibrose Pulmonar Idiopática (FPI) são:\n\n1. **Normal** - Não há sinais de fibrose ou alterações típicas da doença.\n2. **Suspeita** - A presença de pequenas áreas de alteração semelhantes a fibrose, mas sem padrões específicos.\n3. **Probabilidade** - Aparecimento de padrões mais definidos de fibrose, como áreas de espessamento das paredes bronquiais ou alterações de padrão de reticular.\n4. **Diagnóstico** - Manifestação clara e consistente dos padrões diagnósticos da FPI, como áreas de espessamento das paredes bronquiais, espessamento das fibras de sustentação e alterações de padrão reticular.\n\nEssas categorias são baseadas no padrão de alteração detectado na tomografia computadorizada (TC) pulmonar e são utilizadas para orientar a classificação da severidade da doença.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 17.65,
+        "tok": 2252,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "De acordo com a diretriz de 2018/2022, a avaliação da fibrose pulmonar idiopática (FPI) é classificada em quatro padrões tomográficos:\n\n1. Padrão PIU (Pneumonia Intersticial Usual):\n   - Achados: opacidades em vidro fosco, predominantes nas regiões basais e subpleurais, sem evidências de fibrose ou inflamação.\n   - Classificação: Biorreceptiva, não necessita de biopsia.\n\n2. Possível PIU:\n   - Achados: opacidades em vidro fosco, predominantes nas regiões basais e subpleurais, com evidências de inflamação ou fibrose.\n   - Classificação: Biorreceptiva, pode necessitar de biopsia.\n\n3. PIU ou Provável PIU:\n   - Achados: opacidades em vidro fosco, predominantes nas regiões basais e subpleurais, com evidências de inflamação ou fibrose.\n   - Classificação: Suspeita, pode necessitar de biopsia.\n\n4. Provável FPI:\n   - Achados: opacidades em vidro fosco, predominantes nas regiões basais e subpleurais, sem evidências de inflamação ou fibrose.\n   - Classificação: Suspeita, pode necessitar de biopsia.\n\nEssas categorias são baseadas em achados de tomografia computadorizada (TCAR) e podem ser complementadas por achados histológicos para definir a classificação final da FPI.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 0
+      },
+      "proposta": {
+        "lat": 27.07,
+        "tok": 2194,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "De acordo com a diretriz de 2018/2022, as quatro categorias de padrão tomográfico na avaliação da fibrose pulmonar idiopática (FPI) são:\n\n1. **UIP Pattern (Patrôn UIP)**: Associado a algumas emflutuações paraseptais e centrilobulares nos lombos superiores.\n\n2. **Probable UIP Pattern (Patrôn Probável UIP)**: Com características de fibrose periférica e algumas emflutuações centrilobulares nos lombos superiores.\n\n3. **Indeterminate for UIP Pattern (Patrôn Indeterminado para UIP)**: Com opacidades peribronquiovasculares e opacidades de gesso subplacentares, misturadas com reticulações finas, mas sem haimetragoma ou bronquiectasia de tensão.\n\n4. **Alternative Diagnosis (Diagnóstico Alternativo)**: Variável dependendo do diagnóstico específico alternativo, não mostrado.\n\nFonte: [Fonte 1: Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis — ATS/ERS/JRS/ALAT Guideline — fibrose]",
+        "docs": [
+          "ipf_guideline_2022",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "fib_09",
+      "disease": "fibrose",
+      "dificuldade": "media",
+      "fonte_id": "sp_nintedanib",
+      "baseline": {
+        "lat": 3.26,
+        "tok": 187,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A dose habitual do nintedanibe para a Fibrose Pulmonar Idiopática (FPI) é 10 mg/dia, administrado por via oral em cápsulas de 10 mg. Esta dose é considerada padrão no tratamento da FPI segundo consensos médicos.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 5.21,
+        "tok": 2274,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A dose habitual do nintedanibe na fibrose pulmonar idiopática (FPI) é de 150 mg, via oral (v.o.), duas vezes ao dia. Esta dose é considerada a dose de referência recomendada pelo fabricante. É importante mencionar que essa dose pode ser reduzida transitoriamente para 100 mg/dia em caso de surgimento de reações adversas.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 14.83,
+        "tok": 2282,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A dose habitual do nintedanibe na Fibrose Pulmonar Idiopática (FPI) é de 150 mg duas vezes ao dia. Esta dose pode ser reduzida transitoriamente para 100 mg/dia em função do surgimento de reações adversas.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "fib_10",
+      "disease": "fibrose",
+      "dificuldade": "media",
+      "fonte_id": "pmc_pharm_2024_antifibrotic",
+      "baseline": {
+        "lat": 5.95,
+        "tok": 243,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A dose-alvo da pirfenidona para o tratamento da Fibrose Pulmonar Idiopática (FPI) varia dependendo do estudo e do paciente. No entanto, geralmente, a dose inicial recomendada é de 300 mg duas vezes ao dia. Essa dose pode ser aumentada gradualmente até atingir 1,5 g duas vezes ao dia, conforme indicado por um profissional de saúde. É importante notar que a dose deve ser ajustada individualmente, considerando fatores como tolerância e resposta clínica.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 6.14,
+        "tok": 2249,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "De acordo com os trechos fornecidos, a dose-alvo da pirfenidona na fibrose pulmonar idiopática (FPI) é de 1.200 mg ou 1.800 mg por dia, conforme descrito no estudo multicêntrico de Taniguchi et al. (27). No entanto, é importante notar que a dose ideal pode variar entre pacientes, e a escolha da dose deve ser individualizada com base nas respostas individuais e tolerabilidade.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 19.78,
+        "tok": 2258,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A dose-alvo da pirfenidona na fibrose pulmonar idiopática (FPI) é de 2.403 mg/dia, conforme evidenciado em vários estudos clínicos. Especificamente, em um estudo denominado ASCEND, 278 pacientes com FPI receberam pirfenidona na dose de 2.403 mg/dia durante 52 semanas. Este estudo demonstrou um menor ritmo de queda da capacidade vital crônica (CVF) e um maior tempo livre de progressão da doença em comparação com o grupo controlado que recebeu placebo.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 2
+      }
+    },
+    {
+      "id": "fib_11",
+      "disease": "fibrose",
+      "dificuldade": "media",
+      "fonte_id": "ipf_guideline_2022",
+      "baseline": {
+        "lat": 8.25,
+        "tok": 306,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A fibrose pulmonar progressiva (PPF), também conhecida como fibrose cística pulmonar, foi introduzida na Diretriz Brasileira de Fibrose Cística para 2022. Esta condição é uma doença genética crônica que afeta o sistema respiratório, resultando em inflamação e necrose das vias aéreas pulmonares, o que leva ao desenvolvimento de fibrose. A PPF é caracterizada por alterações genéticas no gene CFTR, que codifica para um proteína essencial para a função normal das células epiteliais nas vias aéreas pulmonares. A inclusão desta condição na diretriz reflete sua importância clínica e a necessidade de tratamento adequado para os pacientes.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 6.55,
+        "tok": 1821,
+        "hit": true,
+        "rank": 3,
+        "fidelidade": 1,
+        "answer": "A fibrose pulmonar progressiva (PPF) é mencionada como um dos tipos de fibrose pulmonar que podem manifestar deterioração funcional pulmonar progressiva. No entanto, não há informações específicas sobre o conteúdo da diretriz de 2022 que aborde a definição ou características da PPF. A PPF é descrita como um fenômeno observado em alguns pacientes com fibrose pulmonar idiopática (FPI), mas não há detalhes sobre como é diagnosticada ou tratada naquela diretriz específica.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "ipf_guideline_2022",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 27.1,
+        "tok": 2314,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "Fibrose pulmonar progressiva (PPF) é um termo adotado pela Comissão de Guia da Associação Thoracic Society (ATS), American Lung Association (ALA), European Respiratory Society (ERS) e Joint Thoracic Society (JRS) para descrever uma forma de fibrose pulmonar crônica, progressiva e de origem idiopática. Este termo foi escolhido porque reflete melhor a evolução progressiva da doença além da superfície intersticial do pulmão, causando um curso clínico semelhante à fibrose pulmonar idiopática (FPI).\n\nOs critérios para diagnóstico de PPF incluem:\n\n1. Declínio absoluto de FVC (Volume de Inspiração Total Absoluta) de pelo menos 5% em um período de 1 ano de acompanhamento.\n2. Declínio absoluto de DLCO (Volume de Expiração Total Absoluta Corrigido para Hemoglobina) de pelo menos 10% em um período de 1 ano de acompanhamento.\n\nEsses critérios foram estabelecidos para facilitar o diagnóstico e o monitoramento da PPF, diferenciando-a da FPI, que tem características distintas, como uma inflamação de baixa intensidade ou praticamente inexistente e uma fibrose exuberante e progressiva.",
+        "docs": [
+          "ipf_guideline_2022",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "fib_12",
+      "disease": "fibrose",
+      "dificuldade": "media",
+      "fonte_id": "sp_ipf",
+      "baseline": {
+        "lat": 6.27,
+        "tok": 246,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "O índice GAP (Glicose Aproximadamente Positiva) é uma medida utilizada na FPI (Frequência Pulmonar Infrassônica) para avaliar a presença de edema pleural. Ele é calculado como a diferença entre a frequência pulmonar máxima e a frequência pulmonar mínima. Quando o GAP é positivo, indica a possibilidade de edema pleural. No entanto, é importante notar que a interpretação precisa deste indicador deve ser feita por profissionais treinados, pois pode haver variáveis que influenciam o resultado.",
+        "docs": [],
+        "nota": 0
+      },
+      "rag": {
+        "lat": 7.96,
+        "tok": 2166,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 1,
+        "answer": "Não há informações específicas sobre o \"indice GAP\" na fibrose pulmonar idiopática (FPI) nos trechos fornecidos. No entanto, o GAP (Grau de Dispneia) é um instrumento utilizado para avaliar a severidade da dispneia em pacientes com doenças respiratórias crônicas, incluindo a FPI. Este índice é composto por três itens: dor torácica, esforço físico e dificuldade respiratória. Ele é amplamente utilizado para monitorar a progressão da doença e a resposta ao tratamento. No entanto, não há indicação direta de seu uso específico na FPI nos trechos fornecidos.",
+        "docs": [
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 28.14,
+        "tok": 2414,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "O índice GAP (Grau de Agressividade Pulmonar) é uma classificação utilizada para avaliar a severidade da fibrose pulmonar idiopática (FPI). Embora não seja mencionado diretamente nos trechos fornecidos, o GAP é amplamente utilizado na classificação da FPI e é baseada em critérios radiológicos e clínicos.\n\nA classificação GAP é dividida em quatro graus:\n\n- **Grau 1 (GAP 1):** A fibrose pulmonar está limitada a áreas específicas dos pulmões, sem comprometimento significativo da função pulmonar.\n- **Grau 2 (GAP 2):** A fibrose pulmonar está presente em áreas mais extensas dos pulmões, mas ainda sem comprometimento significativo da função pulmonar.\n- **Grau 3 (GAP 3):** A fibrose pulmonar está presente em áreas mais extensas dos pulmões, com comprometimento significativo da função pulmonar.\n- **Grau 4 (GAP 4):** A fibrose pulmonar está presente em áreas extensas dos pulmões, com comprometimento severo da função pulmonar.\n\nEsta classificação ajuda a guiar o tratamento e a monitorização da doença, pois permite identificar pacientes com diferentes níveis de severidade e necessitar de diferentes estratégias terapêuticas. No entanto, é importante notar que a classificação GAP é uma ferramenta auxiliar e não substitui a avaliação clínica completa e radiológica do paciente.",
+        "docs": [
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "fib_13",
+      "disease": "fibrose",
+      "dificuldade": "dificil",
+      "fonte_id": "sbpt_fpi_2020",
+      "baseline": {
+        "lat": 7.61,
+        "tok": 295,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "De acordo com as Diretrizes Brasileiras da Sociedade Brasileira de Pneumologia e Tisiologia (SBPT) para Fibrose Pulmonar Idiopática (FPI), o tratamento farmacológico antifibrotico é indicado em pacientes com FPI de alto risco de progressão da doença, conforme definido pela SBPT. Isso inclui pacientes com FPI de classe funcional IV, com sintomas avançados ou com evidências de comprometimento pulmonar agudo. No entanto, a SBPT recomenda que o tratamento seja individualizado e avaliado periodicamente, considerando fatores como idade, estado geral de saúde e presença de complicações associadas à doença.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 5.89,
+        "tok": 2083,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "De acordo com as diretrizes brasileiras para o tratamento farmacológico da fibrose pulmonar idiopática (SBPT), não há evidências suficientes para recomendar ou não recomendar o uso de corticosteroides como monoterapia para o tratamento da fibrose pulmonar idiopática (FPI). Portanto, não há indicação específica para o uso de tratamentos antifibroticos farmacológicos na FPI de acordo com as diretrizes apresentadas.",
+        "docs": [
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020"
+        ],
+        "nota": 0
+      },
+      "proposta": {
+        "lat": 23.37,
+        "tok": 2130,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "De acordo com as diretrizes brasileiras para o tratamento farmacológico da fibrose pulmonar idiopática (SBPT), os agentes antifibróticos são indicados para pacientes com fibrose pulmonar idiopática (FPI) em fase estável. Esses agentes incluem nintedanibe e pirfenidona, conforme destacado nas diretrizes. A recomendação é condicional, pois ainda não há um fármaco com capacidade curativa para a FPI. No entanto, as evidências indicam que nintedanibe e pirfenidona são as únicas opções de tratamento farmacológico capazes de induzir uma redução do declínio funcional na FPI. É importante que se avaliem as peculiaridades de cada caso na indicação ou não de algum desses fármacos, incluindo a gravidade do acometimento.",
+        "docs": [
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2020"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "fib_14",
+      "disease": "fibrose",
+      "dificuldade": "dificil",
+      "fonte_id": "ipf_guideline_2022",
+      "baseline": {
+        "lat": 7.16,
+        "tok": 276,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A biópsia pulmonar cirúrgica é geralmente considerada uma opção quando outras técnicas diagnósticas, como exames de imagem (como tomografia computadorizada) e testes de função pulmonar, não são suficientemente claras ou precisas para determinar a causa da Fibrose Pulmonar Idiopática (FPI). Essa técnica é indicada principalmente em casos complexos onde há dúvidas sobre a natureza da doença ou quando se deseja obter material para análise molecular. No entanto, ela é uma intervenção invasiva e tem riscos associados, então sua indicação deve ser discutida cuidadosamente com o paciente.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 8.42,
+        "tok": 2128,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A biópsia pulmonar cirúrgica (BPC) é necessária quando há dúvidas diagnósticas após a avaliação inicial, especialmente quando o padrão tomográfico sugere pneumonia intersticial usual (PIU). No entanto, a BPC não é recomendada quando a suspeita diagnóstica é de pneumonia intersticial usual (PIU). Em alguns casos, a técnica emergente de criobiópsia endoscópica pode ser útil, embora ainda esteja em desenvolvimento e não seja amplamente utilizada. Portanto, a decisão sobre a realização da BPC deve ser tomada após uma avaliação cuidadosa do paciente, considerando todos os aspectos clínicos, radiológicos e histológicos.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 19.84,
+        "tok": 2184,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A biópsia pulmonar cirúrgica (BPC) é necessária quando há suspeita de Fibrose Pulmonar Idiopática (FPI) e os padrões tomográficos indicam pneumonia intersticial usual (PIU), mas a TCAR não confirma o padrão de PIU definitivamente. Isso ocorre quando a TCAR mostra padrão possível ou inconsistente para PIU. Nesses casos, a BPC é recomendada para confirmar ou rejeitar o diagnóstico de FPI. Portanto, a BPC é uma medida adicional para garantir um diagnóstico preciso, especialmente quando a TCAR não fornece certeza absoluta sobre o padrão de PIU presente.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "fib_15",
+      "disease": "fibrose",
+      "dificuldade": "dificil",
+      "fonte_id": "ipf_guideline_2022",
+      "baseline": {
+        "lat": 7.44,
+        "tok": 283,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A discussão multidisciplinar (DMD) pode desempenhar um papel importante no diagnóstico da FPI (Fobia Social Interações Públicas), pois permite a integração de diferentes perspectivas e conhecimentos para uma avaliação mais completa do paciente. No entanto, a literatura médica sobre a eficácia específica da DMD no diagnóstico da FPI é limitada e não há consenso definitivo sobre seu papel. A DMD pode auxiliar na identificação precoce de sintomas, na validação dos sintomas apresentados pelo paciente e na elaboração de um plano de tratamento integrado, incluindo terapia cognitivo-comportamental e/ou medicamentos, se necessário.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 10.69,
+        "tok": 2173,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A discussão multidisciplinar (DMD) é fundamental no diagnóstico da Fibrose Pulmonar Idiopática (FPI), especialmente em casos complexos. Ela envolve pneumologistas, radiologistas e patologistas, permitindo uma abordagem integrada que é essencial para um diagnóstico preciso. Mesmo quando a biópsia pulmonar cirúrgica (BPC) revela o padrão histológico de pneumonia intersticial usual (PIU), a DMD é crucial para estabelecer um diagnóstico definitivo de FPI. Isso ocorre porque o diagnóstico de FPI é baseado na ausência de uma causa conhecida de fibrose pulmonar, associada à presença de padrão PIU. Portanto, a DMD ajuda a garantir que todos os aspectos relevantes sejam considerados e que o diagnóstico seja feito de forma consistente e confiável.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 2
+      },
+      "proposta": {
+        "lat": 27.36,
+        "tok": 2340,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A discussão multidisciplinar (DMD) é fundamental no diagnóstico da fibrose pulmonar idiopática (FPI). Ela é essencial para estabelecer diagnósticos acurados em pacientes nos quais a aplicação dos critérios propostos se mostra difícil. A DMD permite a integração de informações provenientes de diferentes especialidades médicas, como pneumologia, radiologia e patologia, contribuindo para uma avaliação mais completa e precisa da condição do paciente.\n\nDe acordo com as fontes, a DMD é sempre fundamental para o estabelecimento de diagnósticos acurados em pacientes com FPI. Isso ocorre especialmente quando a aplicação dos critérios propostos para o diagnóstico da FPI se torna complexa, como quando há dificuldade na identificação do padrão de pneumonia intersticial usual (PIU) ou quando há dúvidas sobre a presença de fibrose pulmonar.\n\nAlém disso, a DMD também é importante para discutir e avaliar possíveis diagnósticos diferenciais, como a pleurite hiperplásica (PHC) e a pneumonia intersticial não específica fibrótica (PINF), especialmente em pacientes que não podem ou não querem realizar uma biópsia pulmonar cirúrgica (BPC).\n\nPortanto, a DMD é um instrumento crucial para garantir um diagnóstico preciso e adequado da FPI, considerando a complexidade e a rara natureza da doença.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "fib_16",
+      "disease": "fibrose",
+      "dificuldade": "dificil",
+      "fonte_id": "sp_ipf",
+      "baseline": {
+        "lat": 11.81,
+        "tok": 371,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A Fibrose Pulmonar Idiopática (FPI) e a Fibrose Pulmonar de Causa Conhecida são duas condições diferentes.\n\n1. Fibrose Pulmonar Idiopática (FPI): É uma doença crônica progressiva caracterizada por inflamação e morte das células do tecido pulmonar, resultando em fibrose (acúmulo de tecido conectivo). A causa exata da FPI ainda não está totalmente compreendida, embora possa ser associada a fatores genéticos, imunológicos e ambientais.\n\n2. Fibrose Pulmonar de Causa Conhecida: Esta condição é causada por uma causa específica, como exposição a substâncias tóxicas (como o amianto), doenças infecciosas (como a tuberculose), ou condições sistêmicas (como a síndrome de Sjögren).\n\nPortanto, a principal diferença entre as duas é a causa subjacente: a FPI tem causa desconhecida, enquanto a fibrose pulmonar de causa conhecida tem uma causa específica identificável.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 20.13,
+        "tok": 2502,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A fibrose pulmonar idiopática (FPI) e a fibrose pulmonar de causa conhecida são duas formas distintas de fibrose pulmonar. A principal diferença está na causa da doença:\n\n1. FPI: É uma forma específica de pneumonia intersticial idiopática crônica, fibrosante e progressiva. A causa é desconhecida, mas geralmente ocorre em adultos idosos, principalmente na sexta e sétima décadas de vida. A FPI é restrita aos pulmões e é caracterizada por um padrão histológico de pneumonia intersticial usual (PIU), que pode ser detectado em exames de tomografia computadorizada (TCAR) com alta certeza.\n\n2. Fibrose pulmonar de causa conhecida: Esta é uma forma de fibrose pulmonar causada por fatores ambientais ou químicos conhecidos, como exposição a minérios (por exemplo, silício ou chumbo), fumo, ou agentes infecciosos. A causa é conhecida e, portanto, diferente da FPI.\n\nOutras diferenças incluem:\n\n- A FPI tem um prognóstico mais grave, com média de sobrevivência de 2,9 anos sem tratamento, enquanto a fibrose pulmonar de causa conhecida pode ter um prognóstico melhor dependendo da causa e do grau de exposição.\n\n- A FPI é mais prevalente em homens, enquanto a fibrose pulmonar de causa conhecida pode afetar ambos os sexos.\n\n- A FPI não tem uma história de tabagismo prévia, enquanto a fibrose pulmonar de causa conhecida pode estar associada a histórico de exposição a fumos ou outros agentes.\n\nÉ importante notar que, embora a FPI seja menos comum, ela é mais grave e tem um prognóstico mais reservado.",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2020"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 27.51,
+        "tok": 2408,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A fibrose pulmonar idiopática (FPI) e a fibrose pulmonar de causa conhecida são duas formas distintas de fibrose pulmonar. A principal diferença está na causa da doença:\n\n1. FPI (Fibrose Pulmonar Idiopática):\n   - De causa desconhecida\n   - Acomete principalmente homens idosos\n   - Pode estar associada a história de tabagismo\n   - Caracterizada por padrão de pneumonia intersticial usual (PIU) no exame histológico\n   - Possui um prognóstico reservado, com média de sobrevida de 2,9 anos sem tratamento\n\n2. Fibrose Pulmonar de Causa Conhecida:\n   - Tem uma causa específica identificada (por exemplo, exposição a fumaça de cigarro, doenças infecciosas, etc.)\n   - Pode afetar pessoas de qualquer idade e sexo\n   - Possui um prognóstico mais favorável em comparação com a FPI, dependendo da causa subjacente\n   - Exemplos incluem fibrose cística, fibrose pulmonar por exposição a fumaça de cigarro, fibrose pulmonar por infecção por Mycobacterium avium complex, entre outros\n\nÉ importante notar que, embora a FPI seja menos comum, ela tem um prognóstico mais grave em comparação com a fibrose pulmonar de causa conhecida.",
+        "docs": [
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "fib_17",
+      "disease": "fibrose",
+      "dificuldade": "dificil",
+      "fonte_id": "pmc_jcm_2018_ipf",
+      "baseline": {
+        "lat": 4.2,
+        "tok": 206,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A Fibrose Pulmonar Idiopática (FPI) sem tratamento tem um prognóstico geralmente muito ruim. A doença avança progressivamente, resultando em insuficiência respiratória crônica e eventual morte. Não há cura para a FPI, mas o tratamento pode ajudar a controlar os sintomas e melhorar a qualidade de vida por um período de tempo.",
+        "docs": [],
+        "nota": 2
+      },
+      "rag": {
+        "lat": 4.97,
+        "tok": 2015,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "Sem tratamento, a fibrose pulmonar idiopática (FPI) tem um prognóstico muito pior do que a FPI isolada. A mediana de sobrevida desses pacientes, sem tratamento, é de apenas 2,9 anos. [Fonte 1: Atualizacao no diagnostico e tratamento da fibrose pulmonar idiopatica (SBPT) — fibrose]",
+        "docs": [
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 13.75,
+        "tok": 2071,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "Sem tratamento, a fibrose pulmonar idiopática (FPI) tem um prognóstico muito grave. A mediana de sobrevida desses pacientes é de apenas 2,9 anos. [Fonte 1]",
+        "docs": [
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "fib_18",
+      "disease": "fibrose",
+      "dificuldade": "media",
+      "fonte_id": "sp_ipf",
+      "baseline": {
+        "lat": 3.59,
+        "tok": 198,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "Não há uma única terapia potencialmente curativa reconhecida para a Fibrose Pulmonar Idiopática (FPI) avançada na literatura médica atual. A maioria dos tratamentos foca em aliviar os sintomas e melhorar a qualidade de vida, mas não existe cura definitiva para esta condição.",
+        "docs": [],
+        "nota": 0
+      },
+      "rag": {
+        "lat": 8.44,
+        "tok": 2156,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "Até o momento, não existe uma única terapia potencialmente curativa para a Fibrose Pulmonar Idiopática (FPI) avançada. As principais terapias disponíveis são a pirfenidona e o nintedanibe, que apresentam eficácia no tratamento da doença. No entanto, essas terapias são consideradas tratamentos de longo prazo e não são curativas. Além disso, a pirfenidona é a única substância que já recebeu aprovação para o tratamento da FPI no Brasil. Portanto, embora essas drogas tenham mostrado benefícios, ainda não há evidências robustas de cura para a FPI avançada.",
+        "docs": [
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 17.83,
+        "tok": 2144,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "Não há uma única terapia potencialmente curativa para a Fibrose Pulmonar Idiopática (FPI) avançada. No entanto, as diretrizes mencionadas sugerem que nintedanibe e pirfenidona sejam considerados para o tratamento da doença, embora seja importante avaliar as peculiaridades de cada caso, incluindo a gravidade do acometimento. Essas duas drogas são as únicas opções de tratamento farmacológico capazes de induzir uma redução do declínio funcional na FPI, conforme destacado nas diretrizes.",
+        "docs": [
+          "sbpt_fpi_2020",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "pcm_01",
+      "disease": "pcm",
+      "dificuldade": "facil",
+      "fonte_id": "pcm_consensus_pt",
+      "baseline": {
+        "lat": 1.21,
+        "tok": 147,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A paracoccidioidomicose é causada pelo fungo Paracoccidioides brasiliensis.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 5.06,
+        "tok": 2091,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "A paracoccidioidomicose é causada por fungos termodimórficos de duas principais espécies: Paracoccidioides brasiliensis (P. brasiliensis) e Paracoccidioides lutzii (P. lutzii). [Fonte 1: II Consenso Brasileiro em Paracoccidioidomicose (2017) — pcm]",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 2
+      },
+      "proposta": {
+        "lat": 16.83,
+        "tok": 1781,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "O agente etiológico da paracoccidioidomicose é um fungo termodimórfico, sendo causado principalmente pelas seguintes espécies:\n\n- Paracoccidioides brasiliensis (P. brasiliensis)\n- Paracoccidioides lutzii (P. lutzii)\n\nFonte: [Fonte 1: II Consenso Brasileiro em Paracoccidioidomicose (2017) — pcm]",
+        "docs": [
+          "pcm_consensus_pt",
+          "sp_pcm",
+          "pcm_consensus_en",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 2
+      }
+    },
+    {
+      "id": "pcm_02",
+      "disease": "pcm",
+      "dificuldade": "facil",
+      "fonte_id": "pmc_plos_2026_pcm",
+      "baseline": {
+        "lat": 1.97,
+        "tok": 163,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A paracoccidioidomicose é endêmica principalmente no sudoeste da América do Sul, incluindo países como Colômbia, Venezuela, Equador, Peru e Brasil.",
+        "docs": [],
+        "nota": 2
+      },
+      "rag": {
+        "lat": 6.2,
+        "tok": 1681,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A paracoccidioidomicose é endêmica principalmente na América do Sul, com focos mais intensos na região sul do Brasil, Argentina, Colômbia e Venezuela. Os trechos mencionam que a doença é endêmica principalmente na América do Sul, com focos específicos na América Central e na Amazônia. Portanto, a endemia da paracoccidioidomicose está principalmente concentrada na América do Sul, com destaque para o Sudeste e Sul do Brasil, Argentina, Colômbia e Venezuela.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "mdpi_jfungi_pulm",
+          "pmc_jfungi_immuno",
+          "pmc_jfungi_immuno"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 23.41,
+        "tok": 2083,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A paracoccidioidomicose é endêmica em diversas regiões da América do Sul, conforme destacado nos consensos e estudos mencionados. Segundo o II Consenso Brasileiro em Paracoccidioidomicose (2017) - PCM, as regiões endêmicas incluem:\n\n- Maranhão\n- Minas Gerais\n- Pará\n- Goiás\n- São Paulo\n\nAdicionalmente, a doença também é endêmica em outras regiões do Brasil, como o Centro-Oeste e a Amazônia, conforme indicado na introdução do documento [Fonte 2: Paracoccidioidomycosis — pcm].\n\nOutros países da América do Sul, como Venezuela e Colômbia, também apresentam alta incidência da doença, conforme mencionado na introdução [Fonte 2: Paracoccidioidomycosis — pcm].",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "sp_pcm",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "pcm_03",
+      "disease": "pcm",
+      "dificuldade": "facil",
+      "fonte_id": "sp_pcm",
+      "baseline": {
+        "lat": 7.13,
+        "tok": 272,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A pneumonia comunum (PCM) pode ser causada por diversos agentes infecciosos, incluindo bactérias, vírus, fungos e parasitas. A via de transmissão mais comum é através da respiração de partículas contaminadas, geralmente quando uma pessoa infectada fala, ri, tosse ou espirra. Essas partículas podem ser levadas até os pulmões por meio do ar, resultando na infecção. Além disso, a transmissão também pode ocorrer por contato direto com secreções respiratórias de uma pessoa infectada. É importante notar que a transmissão depende do agente causal específico da pneumonia.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 10.57,
+        "tok": 2294,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A paracoccidioidomicose (PCM) é adquirida principalmente através da inalação de conídios do fungo Paracoccidioides brasiliensis. Esses conídios são liberados pelo solo, especialmente em áreas endêmicas, onde o fungo cresce em ambientes úmidos e quentes. A transmissão ocorre quando os conídios são levantados pelo vento e inalados pelo hospedeiro. \n\nA transmissão é mais frequente nas duas primeiras décadas de vida, mas também pode ocorrer em adultos, especialmente após reativação de focos endógenos latentes. Portanto, a exposição ao solo contaminado é a via principal de transmissão, embora existam relatos de casos de transmissão sexual e transfusional. No entanto, esses casos são raros e não são considerados uma via importante de transmissão na maioria das regiões endêmicas.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 2
+      },
+      "proposta": {
+        "lat": 23.02,
+        "tok": 2292,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A paracoccidioidomicose (PCM) é adquirida principalmente por meio de contato direto com a substância contaminada, geralmente através de partículas de poeira contendo conídios do fungo Paracoccidioides brasiliensis. Esta infecção é mais prevalente em áreas endêmicas, onde a população tem contato constante com o solo contaminado. A infecção ocorre principalmente nas duas primeiras décadas de vida, com um pico de incidência entre 10 e 20 anos de idade. No entanto, a doença também pode acometer adultos, especialmente aqueles com focos endógenos latentes reativados. A transmissão é menos comum em crianças, onde a infecção e a doença se distribuem uniformemente entre ambos os sexos, com ligeiro predomínio do masculino em adultos jovens.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "pcm_04",
+      "disease": "pcm",
+      "dificuldade": "facil",
+      "fonte_id": "pcm_consensus_pt",
+      "baseline": {
+        "lat": 7.46,
+        "tok": 279,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "O tratamento de primeira escolha para formas leves a moderadas de Pulmone Cirrótico Mapeado (PCM) geralmente inclui:\n\n1. Terapia respiratória intensiva (como uso de máscara de oxigênio ou ventilação mecânica, dependendo da gravidade).\n2. Redução do consumo de álcool.\n3. Dieta balanceada e controle da pressão arterial.\n4. Exercícios físicos regulares sob supervisão médica.\n\nÉ importante notar que cada caso é único e deve ser avaliado individualmente por um profissional de saúde. Além disso, a terapia pode variar conforme a resposta ao tratamento e as necessidades específicas do paciente.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 9.04,
+        "tok": 2210,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "O tratamento de primeira escolha para as formas leves a moderadas de PCM é o itraconazol, conforme recomendado pelo II Consenso Brasileiro em Paracoccidioidomicose (2017). Este medicamento é considerado eficaz tanto para P. brasiliensis quanto para P. lutzii, conforme destacado no trecho fornecido. No entanto, é importante notar que a eficácia e segurança desses tratamentos podem variar entre pacientes individuais, e a escolha do tratamento deve ser individualizada com base nas características específicas do paciente. Além disso, a recomendação é que o tratamento seja acompanhado de medidas gerais para melhorar o estado nutricional e a imunodepressão celular, conforme mencionado no documento.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 2
+      },
+      "proposta": {
+        "lat": 16.42,
+        "tok": 1822,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "O tratamento de primeira escolha para formas leves a moderadas de PCM é o itraconazol, administrado na dose de 200mg/dia. Este tratamento tem sido amplamente utilizado e demonstrou altas taxas de eficácia e segurança. O tratamento deve durar de nove a 18 meses, com avaliação dos critérios de cura clínica, imunológica e radiológica.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pmc_plos_2026_pcm",
+          "pcm_consensus_pt",
+          "pcm_consensus_en"
+        ],
+        "nota": 2
+      }
+    },
+    {
+      "id": "pcm_05",
+      "disease": "pcm",
+      "dificuldade": "facil",
+      "fonte_id": "pcm_consensus_pt",
+      "baseline": {
+        "lat": 8.41,
+        "tok": 294,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "O tratamento das formas graves ou disseminadas de Pneumocystis pneumonia (PCM) geralmente envolve:\n\n1. Emprego de agentes imunoestimulantes, como ganciclovir, para pacientes com imunodepressão severa.\n2. Emprego de agentes antifúngicos sistêmicos, como trimetoprifeno ou pentavalente, para todos os casos graves ou disseminados.\n\nÉ importante notar que a escolha do tratamento deve ser individualizada, considerando fatores como a gravidade da doença, a presença de outras condições médicas e a resposta ao tratamento previamente administrado. Além disso, o acompanhamento e a avaliação regular são fundamentais para monitorar a eficácia do tratamento e ajustar o protocolo conforme necessário.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 18.42,
+        "tok": 2331,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "As formas graves ou disseminadas de PCM são tratadas com esquemas de longa duração, geralmente envolvendo:\n\n1. Itraconazol: É o medicamento mais utilizado e tem sido amplamente estudado para o tratamento da PCM.\n\n2. Cotrimoxazol (associação sulfametoxazol/trimetoprim): Outro antifúngico comprovado para o tratamento da doença.\n\n3. Anfotericina B: Também é um antifúngico eficaz, mas geralmente usado em combinação com outros medicamentos.\n\nNo entanto, é importante notar que:\n\n- A eficácia desses medicamentos pode variar dependendo do perfil genético do fungo e do paciente.\n\n- A resposta imunológica individual pode influenciar a resposta ao tratamento.\n\n- Mesmo com alta taxa de incidência e mortalidade, ainda existem limitações na evidência científica direcionada à PCM, especialmente em termos de eficácia, segurança e duração do tratamento.\n\n- Testes de sensibilidade laboratorial são recomendados para determinar a melhor combinação de medicamentos.\n\n- O tratamento é geralmente iniciado com doses elevadas e reduzidas gradualmente, com acompanhamento regular.\n\n- Pacientes com formas disseminadas podem necessitar de tratamento ambulatorial ou hospitalar, dependendo da gravidade.\n\n- Recomenda-se a utilização de múltiplos antifúngicos, como mencionado, para aumentar a eficácia e minimizar a resistência.\n\nPortanto, o tratamento deve ser individualizado e supervisionado por um profissional de saúde especializado, considerando a gravidade da infecção e as características do paciente.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 20.58,
+        "tok": 2297,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "As formas graves e disseminadas da paracoccidioidomicose (PCM) são tratadas inicialmente com anfotericina B, ou, se possível, com doses elevadas de itraconazol (600 mg/dia, atentando para as interações com os antirretrovirais) ou sulfametoxazol+trimetoprim endovenoso (duas ampolas a cada 8 horas). Alternativamente, o fluconazol endovenoso (600 mg/dia a 800 mg/dia) pode ser uma opção terapêutica. Recomenda-se que a PCM seja tratada inicialmente com antifúngicos por três a cinco semanas, antes do início da terapêutica antirretroviral, caso o paciente esteja com AIDS.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "pcm_06",
+      "disease": "pcm",
+      "dificuldade": "facil",
+      "fonte_id": "pcm_consensus_pt",
+      "baseline": {
+        "lat": 12.45,
+        "tok": 389,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "Quando o itraconazol não pode ser usado para a Pneumocystis pneumonia (PCM), algumas alternativas terapêuticas são consideradas:\n\n1. **Mofetilazitromicina**: É uma opção comumente utilizada, especialmente em pacientes com risco de rejeição imunológica.\n\n2. **Ertapenem**: Uma alternativa antibiótica gram-negativa, mas sua eficácia específica para a PCM não é tão bem estabelecida quanto as outras.\n\n3. **Ceftriaxone**: Outra opção gram-negativa, mas também não é tão amplamente recomendada como mofetilazitromicina.\n\n4. **Clindamidas**: Em alguns casos, especialmente em pacientes com risco de rejeição imunológica, podem ser usados.\n\nÉ importante notar que a escolha da terapia deve ser individualizada, levando em conta fatores como a gravidade da infecção, resistência bacteriana local, presença de condições médicas concomitantes e risco de rejeição imunológica. A decisão deve ser tomada em colaboração com um pneumologista ou infectologista.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 12.39,
+        "tok": 2191,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "Quando o itraconazol não pode ser usado na PCM, algumas alternativas terapêuticas estão disponíveis. Segundo o consenso brasileiro sobre paracoccidioidomicose (PCM) de 2017, os principais antifúngicos utilizados incluem:\n\n- Voriconazol\n- Posaconazol (com previsão de uso de cápsulas de liberação prolongada)\n- Isavuconazol\n\nEssas drogas podem ser consideradas potenciais substitutos de itraconazol, mas devem ser avaliadas cuidadosamente devido a possíveis interações medicamentosas e efeitos adversos de uma terapia mais prolongada. Além disso, é importante notar que, embora esses derivados azólicos tenham ação inibitória in vitro contra isolados de Paracoccidioides spp, ainda não há evidências sólidas de resistência primária ou secundária a essas drogas na PCM. Portanto, eles podem ser considerados como potenciais opções, mas devem ser usados com cautela e sob orientação médica.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 23.84,
+        "tok": 2215,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "Quando o itraconazol não pode ser usado na PCM, algumas alternativas terapêuticas estão disponíveis. Segundo o II Consenso Brasileiro em Paracoccidioidomicose (2017), a segunda opção terapêutica para pacientes com formas leves a moderadas e graves de PCM é o cotrimoxazol (sulfametoxazol/trimetoprim). \n\nAlém disso, conforme mencionado no texto, novos derivados azólicos, como voriconazol, posaconazol e isavuconazol, podem ser considerados potenciais substitutos de itraconazol, à medida que seu custo seja acessível e que novas evidências sejam publicadas. No entanto, essas alternativas também devem ser avaliadas em relação às interações medicamentosas e aos efeitos adversos de uma terapia mais prolongada.\n\nPortanto, a escolha da alternativa terapêutica deve ser feita de acordo com a disponibilidade dos recursos, a acessibilidade dos medicamentos e as novas evidências científicas.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "pcm_07",
+      "disease": "pcm",
+      "dificuldade": "media",
+      "fonte_id": "pcm_consensus_pt",
+      "baseline": {
+        "lat": 6.92,
+        "tok": 263,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "As principais formas clínicas da Pneumonia de Causas Malignas (PCM) incluem:\n\n1. Pneumonia bacteriana - causada por bactérias, sendo a mais comum.\n2. Pneumonia viral - causada por vírus, como o SARS-CoV-2.\n3. Pneumonia fúngica - causada por fungos, geralmente em pacientes imunocomprometidos.\n4. Pneumonia protozoal - causada por protozoários, raramente observada.\n\nÉ importante notar que a classificação pode variar dependendo do estudo e da região geográfica.",
+        "docs": [],
+        "nota": 0
+      },
+      "rag": {
+        "lat": 18.78,
+        "tok": 2298,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "As principais formas clínicas da PCM (Paracoccidioidomicose) são:\n\n1. Forma Crônica (Adulto): Esta é a forma mais comum, caracterizada por sintomas como tosse, expectoração hialina e dispneia, especialmente em pacientes adultos com 30 a 60 anos de idade. Ela afeta principalmente os pulmões, mucosa das vias aerodigestivas superiores e pele.\n\n2. Forma Aguda/Subaguda (Tipo Juvenil): Esta forma é menos frequente e geralmente afeta jovens adultos. Ela é caracterizada por sintomas agudos, como febre alta, tosse, dor torácica e desidratação, e pode ser acompanhada de massas ganglionares em região supraclavicular, cervical e submandibular.\n\n3. Forma Mista: Esta forma é descrita como uma combinação de características da forma crônica e aguda/subaguda. Ela é caracterizada por uma doença muito generalizada, com intensa supressão imune celular, e pode ser observada em pacientes que revelam doença muito generalizada.\n\n4. Sequelas: Essas são as formas residuais da doença, caracterizadas por alterações anatômicas e funcionais decorrentes das cicatrizes que se seguem ao tratamento da PCM. Elas podem afetar diversos órgãos, incluindo pulmões, pele, laringe, traqueia, glândulas adrenais, mucosa das vias aerodigestivas superiores, sistema nervoso central e sistema linfático.\n\nFonte: [Fonte 1: II Consenso Brasileiro em Paracoccidioidomicose (2017) — pcm]",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 26.64,
+        "tok": 2203,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "As principais formas clínicas da PCM são:\n\n1. **Forma Aguda/Subaguda (Juvenil)**: Representa cerca de 5-25% dos casos e é mais comum em crianças e adolescentes, embora possa afetar adultos jovens. Esta forma é caracterizada por sintomas como febre alta, adenopatias disseminadas, hepatomegalia, lesões cutâneas limitadas ou ausentes, e eventualmente lesões ósseas. A presença de eosinofilia periférica em 30 a 50% dos casos é um destaque laboratorial.\n\n2. **Forma Crônica (Adulto)**: É a forma mais comum, representando mais de 80% dos casos. A doença se instala de forma mais lenta, com duração da sintomatologia de quatro a seis meses ou até um ano. As lesões pulmonares estão presentes em 90% dos pacientes, sendo acompanhadas por lesões cutâneas, mucocutâneas, e eventualmente lesões do sistema nervoso central e outros órgãos. A gravidade da forma crônica pode ser classificada como leve, moderada ou grave, com critérios incluindo a perda de peso corporal significativa.\n\nFonte: [Fonte 1: II Consenso Brasileiro em Paracoccidioidomicose (2017) — pcm]",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pmc_jfungi_immuno",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "pcm_08",
+      "disease": "pcm",
+      "dificuldade": "media",
+      "fonte_id": "pmc_jfungi_fibrosis",
+      "baseline": {
+        "lat": 3.45,
+        "tok": 192,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A principal sequela pulmonar da forma crônica da Pneumonia Miliaris (PCM) é a fibrose pulmonar. Esta condição resulta de danos persistentes nos alvéolos pulmonares, levando ao aumento da massa tecidual e à redução da capacidade funcional do pulmão.",
+        "docs": [],
+        "nota": 2
+      },
+      "rag": {
+        "lat": 7.71,
+        "tok": 2063,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A principal sequela pulmonar da forma crônica da PCM é a formação de cicatrizes e fibrose nas lesões de PCM. Essas sequelas podem levar a alterações anatômicas e funcionais nos pulmões, incluindo alterações na espirometria, com padrão obstrutivo na maioria dos casos. Isso se justifica pela associação das sequelas fibróticas predominantes ao antecedente de tabagismo presente na maioria dos pacientes. Além disso, a presença de sequelas respiratórias, patologias associadas ou recidiva da PCM no pulmão deve ser ativamente investigada em pacientes sintomáticos.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 21.59,
+        "tok": 2000,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "A principal sequela pulmonar da forma crônica da PCM é a fibrose, que pode levar a alterações anatômicas e funcionais nos pulmões. Essa sequela é observada em vários órgãos, mas os pulmões são os mais afetados. Além disso, a PCM crônica pode resultar em displasia pulmonar, caracterizada pela formação de cicatrizes e alterações na estrutura dos pulmões, o que pode levar a limitações funcionais e a problemas respiratórios persistentes, como tosse, expectoração hialina e dispneia, mesmo em repouso. Essas sequelas podem limitar a capacidade funcional dos pacientes durante seus anos mais produtivos e afetar significativamente a qualidade de vida.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pmc_plos_2026_pcm",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "pcm_09",
+      "disease": "pcm",
+      "dificuldade": "media",
+      "fonte_id": "pcm_consensus_pt",
+      "baseline": {
+        "lat": 7.38,
+        "tok": 277,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "O método sorológico é amplamente utilizado tanto para diagnóstico quanto para acompanhamento da Pneumonia por Coronavirus (PCM). O teste de anticorpos IgG e IgM é frequentemente usado para identificar a presença de anticorpos contra o SARS-CoV-2, indicando uma infecção recente ou antiga. No entanto, é importante notar que a validade desses testes pode variar dependendo do tempo desde a infecção e pode ser influenciado por outros fatores. Além disso, os métodos sorológicos devem ser interpretados com cautela, pois podem detectar anticorpos antigos, não necessariamente relacionados à infecção atual.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 8.94,
+        "tok": 2212,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "No diagnóstico e no acompanhamento da paracoccidioidomicose (PCM), o método sorológico mais empregado é a reação de imunodifusão dupla em gel (IDD). \n\nPara o diagnóstico inicial, espera-se que, com o tratamento, ocorra a negativação do título de anticorpos ou a sua estabilização em valores baixos (soro não diluído ou na diluição 1:2). Alternativamente, quando se usa a contraimunoeletroforese (CIE), a estabilização ocorre em soro não diluído até a diluição 1:4.\n\nPara o acompanhamento pós-terapêutico, as avaliações sorológicas devem ser realizadas a cada seis meses, quando disponíveis.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 29.15,
+        "tok": 2314,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "No diagnóstico e acompanhamento da paracoccidioidomicose (PCM), o método sorológico de maior uso é a reação de imunodifusão dupla em gel ágar (DID). Esta técnica é considerada a principal metodologia de diagnóstico sorológico da doença, devido à sua simplicidade, não necessidade de equipamentos de alto custo, alta sensibilidade (>80%) e especificidade (>90%). Além disso, a experiência acumulada nas últimas décadas confirma a eficácia desta técnica.\n\nPara o acompanhamento pós-terapêutico, recomenda-se que os soros sejam titulados, para melhor interpretação da resposta terapêutica. Com o tratamento, espera-se que ocorra a negativação do título de anticorpos ou a sua estabilização em valores baixos (soro não diluído ou na diluição 1:2). Alternativamente, quando se usa a contraimunoeletroforese (CIE), a estabilização ocorre em soro não diluído até a diluição 1:4. As avaliações sorológicas devem ser realizadas a cada seis meses, quando disponíveis.\n\nÉ importante notar que, embora a DID seja a técnica mais utilizada, outros métodos como a técnica de imunoblot, o teste de ELISA para triagem, a pesquisa de antígeno específico e técnicas de PCR também são descritos, embora não estejam disponíveis para a rotina de atendimento de PCM.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_en"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "pcm_10",
+      "disease": "pcm",
+      "dificuldade": "media",
+      "fonte_id": "pcm_consensus_pt",
+      "baseline": {
+        "lat": 9.71,
+        "tok": 320,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A cura da Pneumonia de Causas Mistas (PCM) é geralmente definida por uma série de critérios, incluindo:\n\n1. Remissão completa dos sintomas respiratórios, como tosse, dor torácica e dificuldade para respirar.\n2. Normalização da temperatura corporal.\n3. Desaparecimento da leucocitose (quantidade elevada de glóbulos brancos no sangue).\n4. Recuperação da função pulmonar, indicada por aumento da capacidade de esforço física e diminuição da dependência de oxigênio.\n5. A ausência de sinais ou sintomas de infecção bacteriana, conforme determinado por culturas de secreções pulmonares e/ou exames microbiológicos.\n\nÉ importante notar que esses critérios podem variar dependendo do estudo e do contexto clínico específico.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 18.05,
+        "tok": 2343,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "Os critérios de cura na Paracoccidioidomicose (PCM) são definidos por uma combinação de vários parâmetros, conforme destacado em [Fonte 1: II Consenso Brasileiro em Paracoccidioidomicose (2017) — pcm]:\n\n1. Ausência ou regressão dos sinais e sintomas da doença, como a cicatrização das lesões tegumentares, a involução das adenomegalias e a estabilização do peso corporal.\n\n2. Melhora subjetiva das lesões orais em duas semanas de tratamento e cicatrização dessas lesões em um mês.\n\n3. Regressão das lesões cutâneas em um mês.\n\n4. Redução das linfadenomegalias entre dois e três meses.\n\n5. Não observação de sintomas residuais ou sequelas decorrentes da cicatrização e fibrose das lesões de PCM.\n\n6. Não existência de infecções associadas, como infecções respiratórias associadas.\n\n7. Não necessidade de tratamento adicional para condições como a doença de Addison, tabagismo, etilismo, insuficiência adrenal e infecções associadas.\n\n8. Não observação de alterações radiológicas ou imunológicas indicativas de recidiva ou persistência da doença.\n\n9. Não necessidade de retorno ao tratamento após a interrupção do mesmo, com os pacientes mantendo os critérios de cura após dois anos de seguimento pós-terapêutico.\n\nEsses critérios permitem que o paciente seja considerado curado e possa receber alta, sendo orientado para retornar se necessário.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 2
+      },
+      "proposta": {
+        "lat": 32.03,
+        "tok": 2446,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "Os critérios de cura na Paracoccidioidomicose (PCM) são definidos por uma combinação de vários parâmetros, conforme destacado nos trechos fornecidos:\n\n1. **Critérios Clínicos**:\n   - Ausência ou regressão dos sinais e sintomas da doença, como cicatrização das lesões tegumentares, involução das adenomegalias e estabilização do peso corporal.\n   - Melhora subjetiva das lesões orais após duas semanas de tratamento, e cicatrização dessas lesões em um mês.\n   - Regressão das lesões cutâneas em um mês.\n   - Estabilização das linfadenomegalias entre dois e três meses.\n\n2. **Critérios Radiológicos**:\n   - As opacidades pulmonares, inicialmente nodulares, micronodulares ou reticulares, se transformam em imagens lineares, indicando cicatrização e fibrose das lesões pulmonares.\n   - A estabilização do padrão das imagens radiológicas pulmonares deve ser analisada em radiografias de tórax semestrais.\n\n3. **Critérios Imunológicos**:\n   - Negativação do título de anticorpos ou estabilização em valores baixos (soro não diluído ou até a diluição 1:4) quando utilizado o método de contraimunoeletroforese (CIE).\n   - Avaliação sorológica a cada seis meses, quando disponível.\n\nEsses critérios devem ser observados após a confirmação diagnóstica e durante o acompanhamento periódico geralmente ambulatorial. A expressão \"cura definitiva\" para a PCM é considerada improvável devido à impossibilidade de erradicar completamente o fungo P. brasiliensis do organismo. O objetivo do tratamento é reduzir a carga fúngica e permitir a recuperação da imunidade celular.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 0
+      }
+    },
+    {
+      "id": "pcm_11",
+      "disease": "pcm",
+      "dificuldade": "media",
+      "fonte_id": "pmc_plos_2026_pcm",
+      "baseline": {
+        "lat": 8.18,
+        "tok": 298,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "O Paracoccidioides lutzii é um fator importante no diagnóstico sorológico da paracoccidioidomneose, uma doença infecciosa causada por fungos do gênero Paracoccidioides. No entanto, é importante notar que o diagnóstico sorológico geralmente inclui testes de anticorpos (como ELISA ou imunofluorescência direta) e pode ser complementado por outros métodos, como cultivo de amostras de secreções respiratórias. O teste específico para P. lutzii é menos comum e depende do contexto geográfico e epidemiológico da região. Portanto, embora seja relevante, o diagnóstico sorológico geralmente não se concentra apenas neste fungo específico.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 15.93,
+        "tok": 2336,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "O Paracoccidioides lutzii é um importante agente causal de paracoccidioidomicose, mas seu diagnóstico sorológico apresenta desafios significativos. Segundo [Fonte 1: II Consenso Brasileiro em Paracoccidioidomicose (2017) — pcm], até o momento não existe uma técnica sorológica validada para o diagnóstico acurado de infecção por P. lutzii. \n\nOs critérios de cura sorológica recomendados pelo consenso são negativação ou estabilização em diluição de 1:2 ou menos, mas isso pode não ser aplicável para todos os pacientes, especialmente aqueles com titros de anticorpos baixos no início do diagnóstico.\n\nAlém disso, a disponibilidade de recursos adicionais para o diagnóstico, como a técnica de imunoblot, o teste de ELISA para triagem, a pesquisa de antígeno específico e técnicas de PCR, não está disponível para a rotina de atendimento de PCM. Esses testes são desenvolvidos em laboratórios in-house e ainda apresentam grande variabilidade entre diferentes laboratórios de referência.\n\nPortanto, embora seja importante para a saúde pública a implantação de métodos simples como o exame micológico para diagnóstico em regiões carentes, ainda há necessidade de avanços na área sorológica para melhor diagnóstico e acompanhamento do P. lutzii.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 24.32,
+        "tok": 2298,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "O Paracoccidioides lutzii é um importante foco no diagnóstico sorológico da paracoccidioidomicose (PCM), especialmente em regiões onde a incidência é baixa e a identificação por métodos moleculares é necessária. Embora seja difícil distinguir as espécies envolvidas através da micromorfologia, a avaliação sorológica é crucial para o diagnóstico e acompanhamento do tratamento. No entanto, ainda não existe uma técnica sorológica validada para o diagnóstico de infecção por P. lutzii. Os testes disponíveis, embora úteis, apresentam limitações, como baixa sensibilidade na detecção de infecções por P. lutzii e alta especificidade para P. brasiliensis. Portanto, é importante realizar múltiplos testes e considerar a história clínica e epidemiológica do paciente para uma avaliação completa.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "pcm_12",
+      "disease": "pcm",
+      "dificuldade": "media",
+      "fonte_id": "pcm_consensus_pt",
+      "baseline": {
+        "lat": 4.88,
+        "tok": 227,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "O tratamento antifúngico na Pneumonia por Micobactérias (PCM) geralmente dura entre 6 a 12 semanas, conforme recomendações do Consenso Brasileiro de Pneumologia. No entanto, a duração exata pode variar dependendo da gravidade da infecção, presença de complicações e resposta ao tratamento. É importante seguir as orientações específicas do profissional de saúde responsável pelo paciente.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 5.5,
+        "tok": 1466,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "Em geral, o tratamento antifúngico na PCM deve ser continuado até que os sintomas e sinais radiológicos de infecção estejam resolvidos, além de uma diminuição substancial dos títulos séricos. No caso de doenças graves, o período de tratamento deve ser mais longo do que o recomendado especificamente para cada fármaco. Esta informação está corroborada tanto nas fontes [Fonte 1] quanto [Fonte 3].",
+        "docs": [
+          "sp_pcm",
+          "pmc_jfungi_immuno",
+          "pmc_jfungi_fibrosis",
+          "pmc_plos_2026_pcm",
+          "pcm_consensus_en"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 17.88,
+        "tok": 1585,
+        "hit": true,
+        "rank": 3,
+        "fidelidade": 2,
+        "answer": "Em geral, o tratamento antifúngico na PCM deve ser continuado até que os sintomas e sinais radiológicos de infecção estejam resolvidos, junto com uma diminuição substancial dos títulos séricos. Para casos graves, o período de tratamento deve ser mais longo do que o recomendado especificamente para cada fármaco. Portanto, o tratamento é mantido por um período que visa a estabilidade clínica do paciente, sendo realizado pelo menor tempo possível, em média, de duas a quatro semanas. [Fonte 3]",
+        "docs": [
+          "pmc_plos_2026_pcm",
+          "sp_pcm",
+          "pcm_consensus_pt",
+          "sp_pcm",
+          "pmc_jfungi_immuno"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "pcm_13",
+      "disease": "pcm",
+      "dificuldade": "dificil",
+      "fonte_id": "pmc_jfungi_immuno",
+      "baseline": {
+        "lat": 8.23,
+        "tok": 295,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A manejo da Pneumocystis pneumonia (PCM) em pacientes imunossuprimidos, como aqueles com HIV, deve ser intensivo e orientado por evidências. A terapia padrão inclui o uso de trimetoprifeno (Trimetrexato) associado ao foliculina (Folicina), geralmente administrados por via intravenosa. Este tratamento é considerado eficaz para prevenir e tratar a PCM em pacientes imunossuprimidos. Além disso, é importante monitorar os níveis de leucócitos e a função renal durante o tratamento, pois podem ocorrer toxicidade cutânea e alterações renais. O tratamento deve ser iniciado o mais rápido possível após suspeita ou confirmação da PCM.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 24.52,
+        "tok": 2384,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "Em pacientes imunossuprimidos, como aqueles com HIV, a maneira de lidar com a paracoccidioidomicose (PCM) deve considerar vários aspectos:\n\n1. **Diagnóstico e Monitoramento**: A PCM em pacientes imunossuprimidos pode ser mais difícil de diagnosticar e pode evoluir mais rapidamente. Portanto, é importante realizar exames laboratoriais e radiológicos rigorosos, incluindo pesquisa de bacilos álcool-ácido resistentes em expectorações.\n\n2. **Antifúngicos**: A terapia deve ser intensiva e eficaz. Pacientes com HIV podem ser tratados inicialmente com anfotericina B, ou, se possível, com doses elevadas de itraconazol (600 mg/dia), atentando para as interações medicamentosas. Alternativamente, o fluconazol endovenoso (600 mg/dia a 800 mg/dia) pode ser uma opção terapêutica. Recomenda-se iniciar a terapia antifúngica por três a cinco semanas antes do início da terapêutica antirretroviral.\n\n3. **Profilaxia Secundária**: Após a cura da PCM, recomenda-se a profilaxia secundária com sulfametoxazol-trimetoprim (1.600 mg/dia + 320 mg/dia) ou itraconazol (200 mg/dia) em pacientes imunodeprimidos. A profilaxia deve continuar até que a terapia antirretroviral esteja completa.\n\n4. **Medidas de Suporte**: Além da terapia antifúngica, é essencial melhorar as condições gerais do paciente, tratar comorbidades infecciosas ou não, aplicar critérios de cura e acompanhar pós-terapêuticamente.\n\n5. **Uso de Corticosteroides**: Embora escassas, há evidências de que alguns pacientes com PCM podem se beneficiar do uso de corticosteroides concomitante à terapêutica antifúngica, especialmente em casos de inflamação intensa ou lesões graves.\n\n6. **Monitoramento Sorológico**: A presença de anticorpos anti-Paracoccidioides spp não",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 35.78,
+        "tok": 2393,
+        "hit": true,
+        "rank": 2,
+        "fidelidade": 2,
+        "answer": "Para o manejo da PCM em pacientes imunossuprimidos, como aqueles infectados pelo HIV, é fundamental considerar vários aspectos:\n\n1. **Diagnóstico**: A PCM em pacientes imunossuprimidos pode ser confundida com outras doenças, especialmente em casos de manifestações clínicas mistas. Portanto, é essencial realizar exames complementares, incluindo diagnóstico micológico (direto e cultura), sorológico e, quando necessário, diagnóstico histopatológico.\n\n2. **Antifúngicos**: A terapia antifúngica é crucial. Pacientes com PCM e AIDS respondem melhor ao tratamento com antifúngicos sistêmicos, como itraconazol, cotrimoxazol-trimetoprima, amphotericina B e fluconazol. No entanto, a resposta à terapia pode ser lenta, especialmente em pacientes com transplante renal, e pode levar até 12 a 24 meses de tratamento.\n\n3. **Monitoramento**: O monitoramento rigoroso é essencial, especialmente em pacientes imunossuprimidos. Isso inclui a avaliação regular de sinais e sintomas, bem como a monitorização sorológica e micológica.\n\n4. **Medidas de suporte**: Além da terapia antifúngica, é importante implementar medidas que melhorem as condições gerais do paciente, como controle de pressão arterial, controle de diabetes, tratamento de comorbidades infecciosas ou não, e cuidados respiratórios adequados.\n\n5. **Uso de corticosteroides**: Embora escassas, há evidências sugerindo que alguns pacientes com PCM podem se beneficiar do uso de corticosteroides concomitante à terapêutica antifúngica, especialmente em casos de inflamação intensa ou lesões graves.\n\n6. **Formulários de tratamento**: Pacientes com PCM e AIDS devem ter acesso a formulários de tratamento eficazes, como anfotericina B lipídica, e a fluconazol endovenoso, caso necessário.\n\n7. **Transição para tratamento oral**: Após a estabilização clínica, a transição para tratamento oral deve ser feita gradualmente, seguindo as diretrizes de dose e duração adequadas.\n\n8. **",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pmc_jfungi_immuno",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "pcm_14",
+      "disease": "pcm",
+      "dificuldade": "media",
+      "fonte_id": "pmc_jfungi_fibrosis",
+      "baseline": {
+        "lat": 7.05,
+        "tok": 278,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A proporção exata de pacientes com a forma crônica de doenças respiratórias como consequência da fibrose pulmonar pode variar dependendo da condição específica (por exemplo, fibrose cística, doença pulmonar obstrutiva crônica - DPOC, entre outras). No entanto, em geral, estudos sugerem que cerca de 50% a 70% dos pacientes com fibrose pulmonar crônica podem desenvolver alguma forma de fibrose pulmonar adicional ou progressão da condição inicial. Esses dados são baseados em pesquisas e estudos clínicos, mas sem uma proporção exata universalmente aceita.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 10.89,
+        "tok": 2328,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 1,
+        "answer": "De acordo com o trecho fornecido na Fonte 1 do II Consenso Brasileiro em Paracoccidioidomicose (2017), a forma crônica da paracoccidioidomicose (PCM) pode levar a sequelas anatômicas e funcionais dos órgãos acometidos durante a infecção, particularmente os pulmões. Embora não seja especificado uma proporção exata, o texto menciona que \"A PCM é uma doença sistêmica, cuja resposta do hospedeiro ao agente infectante consiste de processo inflamatório granulomatoso crônico, que se associa a um processo fibrosante sobrejacente\". Isso sugere que a fibrose pulmonar é uma consequência potencial da doença, mas não fornece uma estimativa numérica da proporção de pacientes que desenvolvem essa sequela. Portanto, não é possível determinar uma proporção específica com base apenas neste trecho.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "sbpt_fpi_2015",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 24.95,
+        "tok": 2331,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 1,
+        "answer": "De acordo com o trecho fornecido da [Fonte 1: II Consenso Brasileiro em Paracoccidioidomicose (2017) — pcm], as formas residuais (sequelas) caracterizam-se pelas manifestações clínicas decorrentes de alterações anatômicas e funcionais causadas pelas cicatrizes que se seguem ao tratamento da PCM. No entanto, o texto não fornece uma proporção específica da proporção de pacientes com a forma crônica que desenvolvem fibrose pulmonar como sequela. \n\nÉ importante notar que a forma crônica da PCM é responsável pela maioria dos casos (74 a 96%) e que a doença pode persistir com sintomas de tosse, expectoração hialina e dispneia, mesmo após o tratamento. No entanto, esses sintomas podem ser influenciados por fatores como a presença de sequelas fibróticas, que podem ocorrer em diversos órgãos, incluindo os pulmões. Portanto, embora a forma crônica seja a mais comum, não há dados específicos sobre a proporção de pacientes que desenvolvem fibrose pulmonar como sequela.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "sbpt_fpi_2020",
+          "pcm_consensus_pt",
+          "sbpt_fpi_2015"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "pcm_15",
+      "disease": "pcm",
+      "dificuldade": "dificil",
+      "fonte_id": "pmc_jfungi_fibrosis",
+      "baseline": {
+        "lat": 15.35,
+        "tok": 452,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A cura antifúngica não revertiria a fibrose pulmonar já estabelecida em Pulmone Insuficiente Crônica (PCM) por várias razões:\n\n1. A fibrose pulmonar em PCM é uma resposta inflamatória crônica e persistente ao longo do tempo, causada por fatores como infecção fungosa, mas também por outros mecanismos como hipertensão pulmonar e hipoxia.\n\n2. As terapias antifúngicas são eficazes para controlar ou eliminar a infecção fungosa, mas não têm a capacidade de desativar a resposta inflamatória e reparativa que resulta na formação da fibrose.\n\n3. A fibrose pulmonar é uma lesão orgânica avançada que envolve a substituição de tecido aeróbico por tecido fibroso, processos que não podem ser revertidos apenas através de tratamentos antifúngicos.\n\n4. A reversibilidade da fibrose pulmonar em condições como a PCM é complexa e depende de múltiplos fatores, incluindo a etiologia subjacente, a gravidade da doença e a presença de outras complicações pulmonares.\n\nPortanto, embora a cura antifúngica possa ser benéfica para controlar a infecção fungosa, ela não tem a capacidade de revertir a fibrose pulmonar já estabelecida em PCM.",
+        "docs": [],
+        "nota": 2
+      },
+      "rag": {
+        "lat": 20.18,
+        "tok": 2036,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "A cura antifúngica não reverte a fibrose pulmonar já estabelecida na PCM (Paracoccidioidomycose) devido à complexidade da doença. Embora os antifúngicos sejam eficazes na remoção do agente patogênico, eles não são capazes de desativar completamente o processo fibrotico que já foi iniciado. A fibrose pulmonar em PCM é um resultado de uma resposta inflamatória prolongada e fibrosante, que resulta em alterações anatômicas e funcionais dos pulmões, independentemente da presença do agente causador da infecção. \n\nAlém disso, estudos mostraram que pacientes com PCM crônica, mesmo após o tratamento antifúngico, apresentam radiografias pulmonares com sinais de distorção arquitetônica, espessamento reticular e septal, emefêrese centrilobular e paraseptal, além de bandas parenquimáticas, semelhantes aos encontrados em pacientes com fibrose pulmonar idiopática. No entanto, essas alterações radiológicas persistem, mas não têm impacto significativo na capacidade funcional pulmonar ou na capacidade aeróbica.\n\nPortanto, embora os antifúngicos sejam fundamentais para controlar a infecção, eles não são suficientes para reverter a fibrose pulmonar já estabelecida, necessitando de outras abordagens adicionais, como combinações de antifúngicos com outros tratamentos, como imunomoduladores, antibióticos, terapias biológicas e transplante de células-tronco mesenquimais, conforme sugerido pelos estudos mencionados na fonte [Fonte 1: The Therapy of Pulmonary Fibrosis in Paracoccidioidomycosis — pcm].",
+        "docs": [
+          "pmc_jfungi_fibrosis",
+          "pmc_jfungi_fibrosis",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pmc_jfungi_fibrosis"
+        ],
+        "nota": 2
+      },
+      "proposta": {
+        "lat": 34.44,
+        "tok": 2376,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "A cura antifúngica não reverte a fibrose pulmonar já estabelecida na paracoccidioidomicose (PCM) devido à natureza multifatorial da doença. Embora a antifunginação seja essencial para controlar a infecção por Paracoccidioides brasiliensis, a fibrose pulmonar desenvolvida pode ser resultado de vários processos inflamatórios e fibrogenéticos que ocorrem independentemente da presença do fungo. Isso inclui:\n\n1. **Processos Inflamatórios**: A fibrose pulmonar pode ser induzida por células imunes, como as neutrófilas, que são ativas durante a infecção. Mesenchymal stem cells (MSCs) têm sido usadas com sucesso para reduzir esses processos inflamatórios, sugerindo que a intervenção imunomoduladora pode ser benéfica.\n\n2. **Proteínas Fibrogenéticas**: Molecules profibroticas, como TGF-β, IL-13, e CTGF, são produzidas durante a infecção e podem contribuir para a formação de tecido fibroso. A intervenção com agentes anti-fibroticos específicos poderia ser útil.\n\n3. **Alterações Genéticas**: Algumas alterações genéticas podem estar envolvidas na progressão da fibrose pulmonar. Estudos futuros devem investigar quaisquer mutações genéticas associadas à fibrose pulmonar em PCM.\n\n4. **Complicações Associadas**: Outros problemas médicos, como a diabetes mellitus, a hipertensão arterial, e a obesidade, podem contribuir para a progressão da fibrose pulmonar, mesmo após a antifunginação.\n\nPortanto, embora a antifunginação seja fundamental para controlar a infecção, a reversão completa da fibrose pulmonar já estabelecida requer uma abordagem multifacetada que aborde não apenas a infecção, mas também os processos inflamatórios e fibrogenéticos subjacentes.",
+        "docs": [
+          "pmc_jfungi_fibrosis",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 2
+      }
+    },
+    {
+      "id": "pcm_16",
+      "disease": "pcm",
+      "dificuldade": "dificil",
+      "fonte_id": "mdpi_jfungi_pulm",
+      "baseline": {
+        "lat": 11.05,
+        "tok": 353,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "As principais condições diagnósticas diferenciais para a Pneumonia Crônica Pulmonar (PCM) incluem:\n\n1. Fibrose Cística\n2. Síndrome de Kartagener\n3. Síndrome de Churg-Strauss (Sarcoidose sistêmica)\n4. Tuberculose crônica\n5. Asma crônica\n6. Insuficiência cardíaca congestiva\n7. Síndrome de síndrome de interrupção do fluxo pulmonar (PFM)\n8. Síndrome de síndrome de interrupção do fluxo pulmonar com hipertensão pulmonar (PFM-HP)\n\nÉ importante notar que cada condição tem sinais e sintomas distintivos, além de exames complementares específicos, que podem ajudar na diferenciação. A confirmação definitiva geralmente requer uma avaliação multidisciplinar e exames adicionais, como biópsia pulmonar ou imagens de alta resolução computadorizada (HRCT).",
+        "docs": [],
+        "nota": 0
+      },
+      "rag": {
+        "lat": 7.93,
+        "tok": 2198,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "Os principais diagnósticos diferenciais para a forma crônica pulmonar de PCM incluem:\n\n1. Tuberculose\n2. Coccidioidomicose\n3. Sarcoideose\n4. Pneumocistose\n5. Pneumonite intersticial não específica fibrótica\n6. Doença de Chron\n7. Neoplasias\n\nEsses diagnósticos devem ser considerados em pacientes com sinais e sintomas persistentes de PCM, especialmente se não responderem adequadamente ao tratamento. A decisão final deve ser tomada após avaliação clínica, exames laboratoriais e, quando possível, exames de imagem e biópsia tecidual.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "sbpt_fpi_2015",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 17.81,
+        "tok": 2214,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 2,
+        "answer": "Os principais diagnósticos diferenciais para a forma crônica pulmonar de PCM incluem:\n\n1. Linfoma\n2. Leucemia\n3. Histoplasmose\n4. Tuberculose\n5. Toxoplasmose\n6. Leishmaniose visceral\n7. Mononucleose infecciosa\n\nEsses diagnósticos devem ser considerados especialmente em pacientes com febre, sudorese noturna e infiltrado e/ou cavitação nos lobos superiores dos pulmões.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 0
+      }
+    },
+    {
+      "id": "pcm_17",
+      "disease": "pcm",
+      "dificuldade": "dificil",
+      "fonte_id": "pcm_consensus_pt",
+      "baseline": {
+        "lat": 12.45,
+        "tok": 388,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A terapia de manutenção após a indução em formas graves de Pneumonia Crônica Maligna (PCM) geralmente inclui:\n\n1. Continuação da terapia antibacteriana adequada ao perfil de microrganismos detectados.\n2. Terapia antiviral, se houver evidência de infecção viral.\n3. Terapia anti-inflamatória, como corticosteroides, dependendo da gravidade e resposta ao tratamento.\n4. Tratamento de complicações pulmonares, como nebulização ou inalação de broncodilatadores.\n5. Terapia respiratória, incluindo fisioterapia respiratória e exercícios de respiração.\n6. Nutrição enteral ou parenteral, se necessário, para garantir suprimento energético adequado.\n7. Monitorização intensiva dos sinais vitais e dos parâmetros laboratoriais.\n\nÉ importante que essas medidas sejam individualizadas de acordo com o paciente, considerando fatores como idade, condições subjacentes, resposta ao tratamento e presença de complicações. A terapia deve ser ajustada conforme a evolução da condição do paciente.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 19.67,
+        "tok": 2364,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "A terapia de manutenção após a indução em formas graves de PCM deve ser planejada individualmente, considerando a gravidade do quadro clínico, a resposta ao tratamento e a presença de sequelas. De acordo com o II Consenso Brasileiro em Paracoccidioidomicose (2017), a duração da terapia deve ser fundamentada em critérios de cura embasados em parâmetros clínicos, micológicos, radiológicos e imunológicos.\n\nNo entanto, a terapia de manutenção geralmente envolve a continuação de antifúngicos, como itraconazol, por períodos prolongados, podendo variar de 1 a 5 anos ou até a cura completa. É importante notar que a escolha do antifungico depende do perfil de resistência local e da resposta inicial ao tratamento.\n\nAlém disso, conforme mencionado no documento, o suporte clínico-ambulatorial de especialidades, como a otorrinolaringologia, pode ser necessário para tratar sequelas como disfonia e lesões na traqueia.\n\nÉ fundamental que o acompanhamento periódico seja feito em regime ambulatorial, com avaliações médicas semestrais, especialmente nos primeiros dois anos após a interrupção do tratamento. Após este período, se o paciente permanecer com critérios de cura, ele poderá ser orientado para retornar se necessário.\n\nÉ importante que o paciente seja orientado sobre a importância de continuar o tratamento conforme prescrito, mesmo após a interrupção do tratamento inicial, para evitar recidivas. Além disso, medidas de prevenção, como a vacinação contra a pneumococo, podem ser recomendadas para reduzir o risco de infecções secundárias.",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 36.28,
+        "tok": 2532,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "Após a indução do tratamento, a terapia de manutenção em formas graves de PCM geralmente envolve esquemas de longa duração. A duração da terapia deve ser fundamentada em critérios de cura embasados em parâmetros clínicos, micológicos, radiológicos e imunológicos. \n\nPara formas graves de PCM, a terapia de manutenção pode incluir:\n\n1. **Antifúngicos**: A Anfotericina B desoxicolato, assim como outras formulações de anfotericina B, são frequentemente usadas. Esses medicamentos são administrados por via intravenosa.\n\n2. **Corticosteroides**: Embora escassas, há evidências de que alguns pacientes com PCM podem se beneficiar com o uso de corticosteroides concomitante à terapêutica antifúngica, especialmente em casos de inflamação intensa, lesões graves ou insuficiência respiratória.\n\n3. **Medidas Gerais**: Além dos medicamentos antifúngicos, é importante que os pacientes recebam cuidados gerais que melhorem suas condições gerais, como controle de tabagismo, etilismo, insuficiência adrenal e outras infecções associadas.\n\n4. **Acompanhamento Pós-Terapêutico**: Após a obtenção dos critérios de cura pelo paciente, é necessário um acompanhamento ambulatorial contínuo, com avaliações clínicas, sorológicas e exames complementares, como exames de imagem e testes imunológicos, por um período de até um ano.\n\n5. **Medicamentos Ambulatoriais**: O acesso aos medicamentos de uso ambulatorial é crucial, mas muitos pacientes enfrentam dificuldades financeiras para custear o tratamento. Portanto, o poder público deve considerar a disponibilização de medicamentos de fácil administração.\n\n6. **Uso de Corticosteroides Paradoxais**: Alguns pacientes podem apresentar reações paradoxais durante o tratamento, que podem incluir piora clínica, surgimento de novos gânglios, inclusive com fistulização, febre e perda de peso. Nesses casos, o uso de corticosteroides pode ser indicado.\n\nPortanto, a terapia de",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      }
+    },
+    {
+      "id": "pcm_18",
+      "disease": "pcm",
+      "dificuldade": "dificil",
+      "fonte_id": "pcm_consensus_pt",
+      "baseline": {
+        "lat": 10.5,
+        "tok": 340,
+        "hit": false,
+        "rank": 0,
+        "fidelidade": 0,
+        "answer": "A conduta na Pneumonia Crônica Maligna (PCM) com acometimento do sistema nervoso central (SNC) é complexa e depende de vários fatores, incluindo a localização e a gravidade do comprometimento SNC. Em geral, a conduta deve ser direcionada para:\n\n1. Avaliação intensiva do quadro neurológico.\n2. Controle da infecção respiratória principal.\n3. Tratamento de complicações neurológicas específicas, se houver.\n4. Monitorização constante dos sinais vitais e do estado neurológico.\n5. Consideração de terapias avançadas, como ventilação mecânica avançada ou tratamento intensivo, conforme necessário.\n\nÉ importante notar que cada caso é único e a decisão final deve ser tomada em conjunto com uma equipe multidisciplinar, considerando as especificidades do paciente e os resultados da avaliação clínica e laboratorial.",
+        "docs": [],
+        "nota": 1
+      },
+      "rag": {
+        "lat": 12.36,
+        "tok": 2020,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "No caso de PCM com acometimento do sistema nervoso central, a conduta deve seguir o seguinte plano:\n\n1. Encaminhar o paciente para avaliação e tratamento pelo otorrinolaringologista, para realização de exames especializados como a nasofibroscopia.\n\n2. Pacientes que evoluem com dispneia persistente, mesmo após tratamento adequado e resposta terapêutica satisfatória, devem ser encaminhados ao pneumologista para confirmação e tratamento de doença pulmonar cicatricial ou de moléstias respiratórias associadas.\n\n3. Os casos de neuroPCM, de comprometimento intestinal e do sistema linfático abdominal, acompanhados de síndrome de má absorção, de lesões de órgãos do aparelho reprodutor, entre outras situações clínicas, devem contar com seguimento especializado, pois o manejo destes casos requer um atendimento multidisciplinar.\n\nReferências:\n[Fonte 1: II Consenso Brasileiro em Paracoccidioidomicose (2017) — pcm]",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      },
+      "proposta": {
+        "lat": 24.56,
+        "tok": 2053,
+        "hit": true,
+        "rank": 1,
+        "fidelidade": 2,
+        "answer": "No caso de PCM com acometimento do sistema nervoso central, a conduta deve incluir:\n\n1. Encaminhamento ao neurologista ou neurocirurgião para avaliação e tratamento adequado.\n\n2. O tratamento deve ser composto não apenas por antifúngicos, mas também por medidas que melhorem as condições gerais do paciente, tratamento de comorbidades infecciosas ou não, e aplicação de critérios de cura.\n\n3. Dependendo do quadro clínico, pode ser necessário considerar a hipótese de síndrome de reconstituição imune, especialmente em pacientes com PCM e AIDS que apresentarem piora do quadro clínico após o uso de antirretrovirais.\n\n4. O acompanhamento pós-terapêutico é fundamental, pois o manejo respiratório e do sistema nervoso central requer cuidados especiais.\n\n5. Os pacientes com PCM e acometimento do sistema nervoso central devem ser acompanhados por neurologistas ou neurocirurgiões, conforme necessário.\n\nReferências:\n[Fonte 1: II Consenso Brasileiro em Paracoccidioidomicose (2017) — pcm]",
+        "docs": [
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt",
+          "pcm_consensus_pt"
+        ],
+        "nota": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,753 @@
+=== Alpha-1 Antitrypsin Deficiency ===
+Fonte: StatPearls/NCBI Bookshelf
+URL: https://www.ncbi.nlm.nih.gov/books/NBK442030/
+Licenca: CC BY-NC-ND 4.0
+Doenca: dpoc | Idioma: en
+----------------------------------------------------------------------
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026 Jan-.
+StatPearls [Internet].
+Show details
+Treasure Island (FL):
+StatPearls Publishing
+; 2026 Jan-.
+
+Alpha-1 Antitrypsin Deficiency
+Marcelle Meseeha
+;
+Abdulghani Sankari
+;
+Maximos Attia
+.
+Author Information and Affiliations
+Authors
+Marcelle Meseeha
+;
+Abdulghani Sankari
+1
+;
+Maximos Attia
+2
+.
+Affiliations
+1
+Wayne State University
+2
+Guthrie/RPH Family Residency Program
+Last Update:
+August 17, 2024
+.
+Continuing Education Activity
+Alpha-1 antitrypsin (AAT) deficiency is a genetically inherited condition characterized by the impaired production of the alpha-1 antitrypsin protein. This protein protects the body from neutrophil elastase, an enzyme released during inflammation and infection. Due to defective production, individuals with AAT deficiency experience reduced levels of functional AAT in the blood and lungs, leading to the destruction of alveoli and resulting in conditions such as emphysema and bronchiectasis. Additionally, abnormal AAT levels can cause protein accumulation in the liver, leading to liver damage. Symptoms often appear between the ages of 20 and 50, and cigarette smoking can exacerbate lung function decline in affected individuals.
+The activity provides participants with comprehensive knowledge of the evaluation and management of AAT deficiency, including its etiology, clinical manifestations, and diagnostic approaches. By understanding the disease's complexity, participants learn to identify and differentiate AAT deficiency from other conditions, screen at-risk populations, and implement effective treatment strategies. Collaboration with an interprofessional team—including pulmonologists, hepatologists, and genetic counselors—enhances patient care by ensuring a multidisciplinary approach when diagnosing and managing AAT deficiency.
+
+Objectives:
+
+Screen individuals with suspected alpha-1 antitrypsin deficiency using appropriate diagnostic modalities, such as serum alpha-1 antitrypsin levels, phenotyping, and genotyping, to confirm the diagnosis.
+Implement comprehensive management strategies for individuals with alpha-1 antitrypsin deficiency, including lifestyle modifications, smoking cessation interventions, vaccinations, and appropriate treatment options tailored to the specific manifestations of the disease.
+Select appropriate treatment options for alpha-1 antitrypsin deficiency, such as augmentation therapy, bronchodilators, glucocorticoids, or liver transplantation, based on the patient's clinical status, disease progression, and response to previous interventions.
+Collaborate with an interprofessional team, including pulmonologists, hepatologists, and genetic counselors, to provide comprehensive care for alpha-1 antitrypsin deficiency.
+
+Access free multiple choice questions on this topic.
+
+Introduction
+Alpha-1 antitrypsin (AAT) deficiency is a genetically inherited disorder often unrecognized in clinical practice. It results in the impaired production of alpha-1 antitrypsin protein, which plays a role in protecting the body from neutrophil elastase, an enzyme released by white blood cells during infection. Due to defective protein production, there is reduced activity of AAT in the blood and lungs. Additionally, abnormal AAT levels can lead to the accumulation of AAT in the liver, leading to liver disease.
+Mutations in
+SERPINA1
+are responsible for both deficiency and the presence of abnormal AAT protein. Inadequate levels of functional AAT result in the destruction of alveoli in the lungs by neutrophil elastase, leading to lung disease. Abnormal AAT can also accumulate in the liver and cause damage to this organ. Individuals with AAT deficiency usually experience the initial manifestations of lung disease, such as emphysema and bronchiectasis, between the age range of 20 to 50. Extensive research has consistently shown that cigarette smoking plays a significant role in lung function decline.
+[1]
+[2]
+[3]
+This activity reviews the etiology, epidemiology, clinical manifestations, diagnosis, and management of AAT deficiency.
+Etiology
+
+Alpha-1 Antitrypsin Genetics
+
+AAT deficiency is inherited through autosomal codominant transmission, which indicates that affected individuals have inherited an abnormal AAT gene from both parents. The gene that encodes AAT is
+SERPINA1
+, located on the long arm of chromosome 14. Over 150 alleles of
+SERPINA1
+have been identified, and each allele is assigned a letter code based on the protein's electrophoretic mobility that it produces. The most common allele of the
+SERPINA1
+gene is referred to as the "M" allele, which is considered the normal allele. Most individuals in the general population possess 2 copies of the M allele (MM) in each cell—variations of the
+SERPINA1
+gene result in decreased levels of alpha-1 antitrypsin. For example, the S allele leads to moderately low levels of this protein, while the Z allele results in significantly reduced AAT. Individuals who carry 2 copies of the Z allele (ZZ) in each cell will likely have AAT deficiency. Those with the SZ combination are more likely to develop lung diseases, such as emphysema, particularly if they smoke.
+Worldwide, it is estimated that 161 million people carry 1 copy of the S or Z allele and 1 copy of the M allele in each cell (MS or MZ). Individuals with an MS (or SS) combination typically produce sufficient amounts of alpha-1 antitrypsin to protect their lungs. However, people carrying MZ alleles have a slightly increased risk of experiencing impaired lung or liver function.
+
+Alpha-1 Antitrypsin
+Phenotypes
+
+AAT phenotypes are based on the electrophoretic mobility of the proteins produced by the various abnormal AAT alleles. Genotyping is performed by identifying specific alleles in deoxyribonucleic acid. Based on this, variants of AAT can be categorized into 4 basic groups:
+Normal
+is associated with normal levels of AAT and its proper functioning. The group of normal alleles is referred to as M, and the typical genotype with normal AAT levels is MM.
+Deficient
+is associated with a deficiency in plasma AAT levels below 35% of the average normal level. Homozygotes with AAT deficiency typically have 5 to 6 μmol/L plasma levels. The most common deficient allele associated with emphysema is the Z allele, which is present in approximately 2% to 3% of the white population in the United States.
+Null
+alleles result in the absence of detectable AAT protein in the plasma. Therefore, individuals with the null genotype are less common and are at higher risk for the most severe form of lung disease, while liver disease is not typically associated with null alleles.
+Dysfunctional
+alleles are characterized by producing a normal quantity of AAT protein, but the protein fails to function properly. This dysfunction can be attributed to either a conversion defect from an elastase inhibitor to a thrombin inhibitor or the presence of the PI*F variant.
+[4]
+[5]
+[6]
+Epidemiology
+AAT
+
+deficiency is a condition that is present worldwide, but its prevalence varies among different populations. This condition affects approximately 1 in 2000 to 6000 individuals and predisposes them to liver disease and early-onset emphysema. AAT deficiency is more prevalent among individuals of European ancestry and relatively less common among individuals of Asian descent and other ancestries.
+[6]
+[7]
+While AAT deficiency is classified as a rare condition, it is believed that approximately 80,000 to 100,000 individuals in the United States have a severe deficiency of AAT, suggesting that the disease is likely under-recognized. Globally, more than 3 million people are estimated to have allele combinations associated with severe AAT deficiency.
+[8]
+[9]
+Pathophysiology
+AAT is a protease inhibitor produced in the liver to protect the lung against damage caused by neutrophil elastase. When AAT misfolds, it forms abnormal polymers that accumulate as hepatocyte inclusions. These inclusions can be detected as positive on periodic acid–Schiff staining with diastase digestion. The presence of misfolded AAT protein can induce hepatotoxic stress, contributing to the development of liver disease. Likewise, AAT deficiency leads to excess neutrophil elastase, which promotes mucin production and enhances the expression of other proteases and inflammatory cytokines.
+[10]
+Environmental factors, such as exposure to tobacco smoke, chemicals, and dust, likely impact the severity of alpha-1 antitrypsin deficiency. The underlying causes of AAT deficiency vary depending on the affected organ. In the case of AAT emphysema, the primary etiology is an imbalance between neutrophil elastase in the lungs and the deficiency of the elastase inhibitor of the AAT protein (see
+Image.
+Alpha-1 Antitrypsin Deficiency Emphysema, Transmission Electron Microscopy).
+[10]
+This imbalance becomes more pronounced when exposed to factors such as cigarette smoke and infections, increasing the elastase burden in the lung and leading to accelerated lung tissue degradation.
+[11]
+
+Severe deficiency of AAT is a significant risk factor for early-onset emphysema, although not all individuals with severe deficiency will develop emphysema.
+[11]
+Risk factors contributing to emphysema development include cigarette smoking, dusty occupational exposure, parental history of chronic obstructive pulmonary disease (COPD), and a personal history of asthma, chronic bronchitis, or pneumonia (see
+Image.
+Alpha-1 Antitrypsin Deficiency in Chronic Obstructive Pulmonary Disease, Radiograph Image). Smoking is a significant risk factor for COPD in individuals with the PI*SZ phenotype, as it is rarely seen in nonsmokers with this phenotype.
+[12]
+Environmental dust and pollution may have a role in the development of lung disorders associated with a deficiency AAT. The results of a study that included firefighters working during the World Trade Center collapse demonstrated that those who had AAT deficiency, such as those with the PI\*MZ, PI\*SZ, and PI\*MS types, experienced a more rapid decline in their forced expiratory volume over 4 years compared to those with normal AAT levels.
+[13]
+AAT-related liver cirrhosis occurs due to the accumulation of abnormal AAT protein within the hepatocytes.
+[14]
+Only genotypes associated with the pathologic polymerization of AAT within the endoplasmic reticulum of hepatocytes produce the disease. Most patients with AAT-related liver disease are homozygous for the Z allele (PI*ZZ genotype). Liver disease is not observed in null homozygotes with severe AAT deficiency but lacks intra-hepatocytic accumulation.
+Adults with AAT deficiency may develop progressive liver disease, with risk factors including male sex, metabolic syndrome, and obesity. Alcohol consumption may exacerbate liver fibrosis in these individuals, although its exact impact on disease progression remains uncertain. On the other hand, viral hepatitis does not seem to increase the risk of liver failure in those with AAT deficiency.
+[10]
+History and Physical
+AAT deficiency primarily affects 3 different organs, leading to distinct clinical manifestations: the lungs, the liver, and, in rare cases, the skin. The clinical presentation of lung diseases associated with AAT deficiency, such as emphysema, shares many similarities with typical COPD, including a significant portion of affected individuals having a smoking history. However, 2 distinct characteristics of AAT-related emphysema are the early onset of symptoms at a young age and a basilar-predominant pattern of emphysema.
+[15]
+Individuals with AAT-related emphysema experience symptoms at a younger age and typically have a lower forced expiratory volume in 1-second values. According to data from the National Institute of Health-sponsored registry for patients with AAT, the mean forced expiratory volume in 1 second (FEV
+1
+) was 43% ± 30% of predicted, and the mean age was 46 ± 11 years.
+[16]
+Dyspnea is the most common presenting symptom among individuals with AAT deficiency. Many patients also experience a chronic cough, sputum production, and wheezing—chronically or with upper respiratory tract infections. Spontaneous secondary pneumothorax may be the initial presenting symptom of AAT deficiency or a complication of the underlying disease. Severe AAT deficiency has also been linked to the development of bronchiectasis.
+The presence of AAT deficiency can lead to a variety of clinical manifestations affecting the pulmonary system. Radiologically, individuals with AAT deficiency more commonly exhibit emphysematous parenchymal changes predominantly in the bases of the lungs, which make up two-thirds of all cases. Furthermore, spontaneous pneumothorax and bronchiectasis may occur independently or in conjunction with emphysematous lungs. Pneumothorax may arise as the initial symptom of the disease or as a consequence of the disease,
+[17]
+while bronchiectasis may serve as the initial presentation of AAT deficiency. Therefore, some clinicians recommend assessing patients presenting with unexplained cases of bronchiectasis for AAT deficiency, while results from recent studies found a low detection rate.
+[18]
+Clinical presentation of extrapulmonary disease in patients with at-risk alleles (eg, Z, S[iiyama], and M[malton]) may develop adult-onset chronic hepatitis, cirrhosis, or hepatocellular carcinoma.
+AAT deficiency can also manifest in various extrapulmonary ways. These include necrotizing panniculitis, erythematous nodules, or plaques on the thigh or buttocks, which are the primary dermatologic manifestations of the condition. Other extrapulmonary manifestations are systemic vasculitis (such as Wegner granulomatosis), intracranial and peripheral aneurysms, psoriasis, urticaria, angioedema, potential association with inflammatory bowel disease, fibromuscular dysplasia, peripheral neuropathy, and glomerulonephritis.
+[19]
+[20]
+[21]
+
+Evaluation
+Most individuals affected by AAT deficiency remain undiagnosed due to limited access to adequate healthcare and treatment.
+[15]
+Screening for AAT deficiency is essential and should be conducted using various diagnostic methods. It is crucial to maintain a low threshold for clinical suspicion. In addition to testing first-degree relatives of individuals with AAT deficiency, it is important to screen patients with 1 or more of the following disorders:
+COPD: Emphysema type in a young individual (≤45 years), nonsmoker or minimal smoker, or display a predominant basilar radiological pattern.
+Unexplained liver disease or family history of liver disease
+Poorly responsive asthma
+Cytoplasmic antineutrophil cytoplasmic antibodies vasculitis (in >90% of cases, the antibody is specific for proteinase 3)
+Panniculitis
+Bronchiectasis not related to cystic fibrosis
+[10]
+[22]
+
+Initial evaluation
+
+for clinically suspected ATT deficiency includes:
+Medical history and physical examination
+Liver-function tests
+Complete pulmonary function tests: A pulmonary function test is used to evaluate the presence and extent of lung disease. Testing includes spirometry, typically obtained before and after bronchodilator administration, and assessments of lung volumes and diffusing capacity for carbon monoxide (DLCO). A x-minute walk test should be conducted if DLCO falls below the normal range or if the patient reports exertional dyspnea. All adults with persistent airflow obstruction on spirometry, particularly those residing in regions with a high prevalence of AAT deficiency, should undergo testing for AAT deficiency.
+Chest radiography: A chest x-ray is used to determine the pattern and extent of emphysema and to exclude other causes of dyspnea. The “classic” pattern of emphysema observed in AAT deficiency typically manifests as basilar-predominant emphysematous bullae. However, patterns from basilar-predominant to apical-predominant emphysema may be seen. Some clinicians perform chest computed tomography scans for an initial assessment.
+[23]
+[24]
+Confirm AAT deficiency: Severe AAT deficiency is diagnosed by confirming a serum level below 11 μmols/L (approximately 57 mg/dL by nephelometry), along with the presence of a severely deficient genotype identified through testing for the most common defective alleles (ie, S, Z, I, F).
+If the AAT serum level exceeds 20 μmol/L, the patient is unlikely to have a clinically significant AAT deficiency. However, genotyping becomes necessary if there is a need to assess the presence of particular mutations or identify heterozygotes and mutations with incomplete penetrance. The normal plasma concentration of AAT ranges from 80 mg/dL to 220 mg/dL (20 to 48 μmol/L using nephelometry or 150 mg/dL to 350 mg/dL by radial immunodiffusion). However, given the variability in reference ranges, patients with a serum AAT level below 100 mg/dL (18.4 μmols/L) should be evaluated further with isoelectric focusing or genotyping.
+
+Qualitative testing for AAT deficiency is recommended in the following conditions:
+
+Early unexplained emphysematous lung disease (independent of smoking history)
+Relatives of known AAT deficiency
+Dyspnea and cough present in multiple family members across generations
+Unknown cause of liver disease
+Adults with bronchiectasis of unknown etiology should be tested
+Asthma Patients whose spirometry does not improve with treatment
+Unexplained panniculitis and anti-proteinase-3 vasculitis
+[25]
+
+Isoelectric focusing
+is the gold standard blood test for identifying AAT variants and is commonly used as a phenotype test.
+
+Genotyping
+of the protease inhibitor (Pi) locus is performed on a blood sample using polymerase chain reaction (PCR) technology or restriction fragment length polymorphisms. These tests detect the most commonly known variants (F, I, S, Z). In cases where these tests fail to determine the genetic variant, gene sequencing of exonic DNA can be employed as an alternative method.
+When monitoring asymptomatic patients who do not exhibit respiratory symptoms and have normal baseline spirometry (ie, FEV
+1
+80% or greater than predicted), spirometry should be repeated if symptoms change at 6 to 12-month intervals. An unexplained decrease in the post-bronchodilator FEV
+1
+to less than 80% predicted is an indication to consider initiating augmentation therapy.
+There is a lack of specific guidelines for monitoring liver disease in patients homozygous for PiZ, PiS[iiyama], or PiM[malton]. It is recommended that serum aminotransferases, alkaline phosphatase, and bilirubin be assessed annually. Additionally, some clinicians also obtain a complete blood count to check for thrombocytopenia and perform abdominal ultrasounds every 6 to 12 months to evaluate for the presence of cirrhosis.
+The
+phenotype presentation
+of AAT deficiency can vary, even in individuals with confirmed low levels of AAT. The variation is strongly linked to factors such as exposure to cigarette smoking and occupational exposures, including exposure to kerosene or dust.
+[26]
+The recommendations for asymptomatic patients with low AAT levels are to monitor them annually by clinical assessment and spirometry to detect any significant physiological decline.
+[27]
+Despite all the efforts, a significant number of individuals remain undiagnosed and do not have access to appropriate care and treatment. According to the World Health Organization, all patients diagnosed with COPD fixed airway obstruction or adult-onset asthma should be tested for AAT deficiency. Furthermore, individuals with necrotizing panniculitis, granulomatosis with polyangiitis, or unexplained bronchiectasis should also undergo testing for AAT deficiency.
+[27]
+Treatment / Management
+Quitting smoking is essential for any patient suspected of having or diagnosed with AAT deficiency. Individuals with severe AAT deficiency, such as those with PI ZZ or null genotypes, should undergo regular monitoring with pulmonary function and 6-minute walk testing, clinical assessments, and evaluations of their quality of life. These monitoring activities should be conducted periodically, typically every 6 to 12 months, to assess disease progression and the effectiveness of interventions.
+[15]
+Supportive treatments include inhaled bronchodilators and inhaled or oral glucocorticoids, as recommended by the guidelines for managing COPD.
+[28]
+Additional considerations should include evaluating the need for home oxygen supplementation if resting oxygen saturation falls below 88%. Preventive vaccination against respiratory viral infections, such as influenza and pneumococcal pneumonia, should be prioritized.
+[29]
+Pulmonary rehabilitation and nutritional support are also important components of comprehensive care for these patients.
+[30]
+Intravenous augmentation, which involves the infusion of pooled plasma-purified human alpha-1 antitrypsin (an alpha-1 proteinase inhibitor), is the only licensed disease-specific therapy for AAT deficiency associated with lung disease. The Food and Drug Administration approved this method in 1987, and it has been the most direct and efficient means of elevating AAT levels in the plasma and the lung interstitium.
+[15]
+[31]
+[32]
+[33]
+Although augmentation therapy has been shown to decrease the loss of lung density in individuals with AAT deficiency, there is no evidence that it impacts lung function (eg, FEV
+1
+), quality of life, or rates of COPD exacerbation.
+[34]
+The American Thoracic Society suggests weekly augmentation therapy with human pooled AAT for individuals with plasma levels of AAT less than 11 μmols/L and established airflow obstruction, defined as an FEV1 less than 80% predicted. On the other hand, the Canadian Thoracic Society suggests keeping AAT augmentation therapy for those who are AAT-deficient (AAT level less than 11 μmols/L) with an FEV
+1
+of 25% to 80% predicted who have quit smoking and are on optimal medical therapy. The Thoracic Society of Australia and New Zealand recommends augmentation therapy to be considered in nonsmokers with AAT deficiency (as a conditional recommendation and low-quality evidence).
+[35]
+The selection criteria for augmentation therapy include the following:
+High-risk phenotype
+Plasma AAT level below 11 μmols/L
+Airflow obstruction by spirometry (eg, FEV
+1
+<80% of predicted)
+Likely compliance with the protocol
+Age ≥18 years
+Nonsmoker or ex-smoker
+Augmentation therapy is not recommended for patients with heterozygous phenotypes, whose plasma AAT level exceeds 11 μmols/L, or current smokers. Side effects associated with intravenous AAT infusion are uncommon, and no long-term reactions have been noted. However, some side effects can occur, including:
+Low-grade fever and mild flu-like symptoms are usually self-limited.
+Anaphylaxis with immunoglobulin (Ig) E antibody formation to AAT has been reported, which is extremely rare.
+A syndrome of transient fever, chest and lower back pain, and thrombocytopenia has been reported. This is due to a high molecular weight contaminant in the stabilizer added to the AAT product.
+Pooled human plasma alpha 1-antiprotease contains small amounts of IgA, so IgA-deficient individuals with anti-IgA antibodies are at risk of anaphylaxis with current infusions. Therefore, checking for IgA deficiency (level <7 mg/dL) or anti-IgA antibodies is recommended before initiating intravenous AAT therapy.
+While lung transplantation has been shown to provide both quality of life and survival benefits for selected patients with severe AAT deficiency, other therapies, such as lung volume reduction therapy, are not recommended due to a lack of evidence supporting its use.
+[35]
+Management of extrapulmonary manifestations of AAT deficiency requires the following:
+Regular assessment of liver function is recommended at least annually.
+[4]
+In contrast to AAT-related lung disease, augmentation therapy is not recommended for isolated AAT-related liver diseases.
+Individuals with AAT deficiency and cirrhosis should undergo screening for hepatocellular carcinoma using liver ultrasound and serum alpha-fetoprotein.
+[36]
+
+Liver transplantation is the treatment of choice for AAT deficiency associated with advanced liver disease.
+Differential Diagnosis
+The differential diagnosis of AAT deficiency lung disease may include the following conditions:
+Emphysema
+Chronic bronchitis
+Bronchiectasis
+The differential diagnosis of AAT deficiency liver disease may include the following conditions:
+Chronic viral hepatitis
+Hereditary hemochromatosis
+Wilson disease
+Non-alcoholic steatohepatitis
+Primary biliary cirrhosis
+Prognosis
+During the first 3 decades of life, liver dysfunction poses a health threat in individuals with AAT deficiency, while pulmonary dysfunction is less concerning. Beyond the initial decades, the natural history of people with severe AAT deficiency becomes less clear, and survival estimates can vary among studies due to differences in study populations. Nonsmoking, asymptomatic individuals with AAT deficiency may have relatively normal survival rates, although confirmation through long-term follow-up in a population-based study is necessary. The FEV1 is a major determinant in predicting survival in AAT-deficient individuals, with mortality rising as FEV
+1
+falls below 35% of what is predicted. Other parameters used for prognostic evaluation include decreased lung density as assessed by chest computed tomography scan.
+[37]
+[38]
+The prognosis for AAT deficiency can vary depending on several factors, including the severity of the disease, the presence of associated complications, and the individual's response to treatment. AAT deficiency-related lung disease can lead to progressive and irreversible lung damage, resulting in COPD, emphysema, and respiratory symptoms. For individuals with AAT deficiency-related liver disease, the prognosis can also vary. In some cases, liver disease can progress to cirrhosis, which may result in complications such as liver failure or hepatocellular carcinoma. As a result, the prognosis can be grave.
+Complications
+Complications of alpha-1 antitrypsin deficiency include:
+Asthma
+Emphysema
+Chronic bronchitis
+Chronic liver disease
+Deterrence and Patient Education
+Patients with alpha-1 antitrypsin deficiency should be advised to quit smoking, avoid exposure to occupational dust, and have yearly influenza and pneumococcal vaccinations. These measures can help prevent the progression of lung disease and reduce the risk of respiratory infections and associated complications. To prevent secondary complications related to liver disease, it is important to advise patients to limit alcohol intake or abstain from alcohol altogether. Additionally, hepatitis A and B vaccinations should be recommended. Genetic counseling and testing are recommended for first-degree relatives of individuals with AAT deficiency due to the increased risk of carrying at-risk alleles associated with AAT deficiency.
+[15]
+[39]
+Enhancing Healthcare Team Outcomes
+Optimal management of AAT deficiency requires the collaboration of an interprofessional team of healthcare professionals, including a pediatrician, geneticist, pulmonologist, gastroenterologist, and internist. Regular monitoring of lung function, including FEV
+1
+, and periodic chest computed tomography scans are essential for assessing disease progression and guiding treatment decisions. Individualized management plans should be developed based on the patient's specific needs, risk factors, and disease progression to preserve lung function and optimize long-term outcomes
+Review Questions
+
+Access free multiple choice questions on this topic.
+
+Click here for a simplified version.
+
+Comment on this article.
+
+Figure
+Alpha-1 Antitrypsin Deficiency in Emphysema, Transmission Electron Microscopy. Chlamydial bodies are shown by arrows; also seen is the destruction of the interstitial connective tissue, with the ultrastructure less well preserved after the fixation of
+(more...)
+Figure
+X-ray, COPD, Chronic Obstructive Pulmonary Disease, Alpha-1 Antitrypsin Deficiency Contributed by chestatlas.com (H. Shulman MD)
+References
+1.
+Hersh CP, Campbell EJ, Scott LR, Raby BA. Alpha-1 Antitrypsin Deficiency as an Incidental Finding in Clinical Genetic Testing.
+Am J Respir Crit Care Med.
+2019 Jan 15;
+199
+(2):246-248.
+[
+PMC free article
+: PMC6353005
+] [
+PubMed
+: 30359090
+]
+2.
+Tasch JJ, McLaughlan AT, Nasir AA. A Novel Approach to Screening for Alpha-1 Antitrypsin Deficiency: Inpatient Testing at a Teaching Institution.
+Chronic Obstr Pulm Dis.
+2018 Apr 01;
+5
+(2):106-110.
+[
+PMC free article
+: PMC6190526
+] [
+PubMed
+: 30374448
+]
+3.
+Gramegna A, Aliberti S, Confalonieri M, Corsico A, Richeldi L, Vancheri C, Blasi F. Alpha-1 antitrypsin deficiency as a common treatable mechanism in chronic respiratory disorders and for conditions different from pulmonary emphysema? A commentary on the new European Respiratory Society statement.
+Multidiscip Respir Med.
+2018;
+13
+:39.
+[
+PMC free article
+: PMC6174569
+] [
+PubMed
+: 30338069
+]
+4.
+American Thoracic Society; European Respiratory Society. American Thoracic Society/European Respiratory Society statement: standards for the diagnosis and management of individuals with alpha-1 antitrypsin deficiency.
+Am J Respir Crit Care Med.
+2003 Oct 01;
+168
+(7):818-900.
+[
+PubMed
+: 14522813
+]
+5.
+Owen MC, Brennan SO, Lewis JH, Carrell RW. Mutation of antitrypsin to antithrombin. alpha 1-antitrypsin Pittsburgh (358 Met leads to Arg), a fatal bleeding disorder.
+N Engl J Med.
+1983 Sep 22;
+309
+(12):694-8.
+[
+PubMed
+: 6604220
+]
+6.
+Okayama H, Brantly M, Holmes M, Crystal RG. Characterization of the molecular basis of the alpha 1-antitrypsin F allele.
+Am J Hum Genet.
+1991 Jun;
+48
+(6):1154-8.
+[
+PMC free article
+: PMC1683089
+] [
+PubMed
+: 2035534
+]
+7.
+Miravitlles M, Turner AM, Torres-Duran M, Tanash H, Rodríguez-García C, López-Campos JL, Chlumsky J, Guimaraes C, Rodríguez-Hermosa JL, Corsico A, Martinez-González C, Hernández-Pérez JM, Bustamante A, Parr DG, Casas-Maldonado F, Hecimovic A, Janssens W, Lara B, Barrecheguren M, González C, Stolk J, Esquinas C, Clarenbach CF., EARCO study investigators.  Characteristics of individuals with alpha-1 antitrypsin deficiency from Northern and Southern European countries: EARCO international registry.
+Eur Respir J.
+2023 Mar;
+61
+(3)
+[
+PubMed
+: 36997232
+]
+8.
+Curjuric I, Imboden M, Bettschart R, Caviezel S, Dratva J, Pons M, Rothe T, Schmidt-Trucksäss A, Stolz D, Thun GA, von Eckardstein A, Kronenberg F, Ferrarotti I, Probst-Hensch NM. Alpha-1 antitrypsin deficiency: From the lung to the heart?
+Atherosclerosis.
+2018 Mar;
+270
+:166-172.
+[
+PubMed
+: 29432934
+]
+9.
+McCarthy C, Lara Gallego B, Trapnell BC, McCormack FX. Epidemiology of Rare Lung Diseases: The Challenges and Opportunities to Improve Research and Knowledge.
+Adv Exp Med Biol.
+2017;
+1031
+:419-442.
+[
+PubMed
+: 29214586
+]
+10.
+Strnad P, McElvaney NG, Lomas DA. Alpha
+1
+-Antitrypsin Deficiency.
+N Engl J Med.
+2020 Apr 09;
+382
+(15):1443-1455.
+[
+PubMed
+: 32268028
+]
+11.
+Stoller JK, Aboussouan LS. A review of α1-antitrypsin deficiency.
+Am J Respir Crit Care Med.
+2012 Feb 01;
+185
+(3):246-59.
+[
+PubMed
+: 21960536
+]
+12.
+Blanco I, Diego I. α
+1
+-antitrypsin PI*SZ genotype: a SERPINA1 deficiency haplotype with uncertain clinical and therapeutic implications.
+Eur Respir J.
+2020 Jun;
+55
+(6)
+[
+PubMed
+: 32554776
+]
+13.
+Banauch GI, Brantly M, Izbicki G, Hall C, Shanske A, Chavko R, Santhyadka G, Christodoulou V, Weiden MD, Prezant DJ. Accelerated spirometric decline in New York City firefighters with α₁-antitrypsin deficiency.
+Chest.
+2010 Nov;
+138
+(5):1116-24.
+[
+PMC free article
+: PMC2972627
+] [
+PubMed
+: 20634282
+]
+14.
+Mahadeva R, Chang WS, Dafforn TR, Oakley DJ, Foreman RC, Calvin J, Wight DG, Lomas DA. Heteropolymerization of S, I, and Z alpha1-antitrypsin and liver cirrhosis.
+J Clin Invest.
+1999 Apr;
+103
+(7):999-1006.
+[
+PMC free article
+: PMC408255
+] [
+PubMed
+: 10194472
+]
+15.
+Miravitlles M, Dirksen A, Ferrarotti I, Koblizek V, Lange P, Mahadeva R, McElvaney NG, Parr D, Piitulainen E, Roche N, Stolk J, Thabut G, Turner A, Vogelmeier C, Stockley RA. European Respiratory Society statement: diagnosis and treatment of pulmonary disease in α
+1
+-antitrypsin deficiency.
+Eur Respir J.
+2017 Nov;
+50
+(5)
+[
+PubMed
+: 29191952
+]
+16.
+A registry of patients with severe deficiency of alpha 1-antitrypsin. Design and methods. The Alpha 1-Antitrypsin Deficiency Registry Study Group.
+Chest.
+1994 Oct;
+106
+(4):1223-32.
+[
+PubMed
+: 7924498
+]
+17.
+Serapinas D, Obrikyte V, Vaicius D, Balciuviene R, Valavicius A, Sakalauskas R. Alpha-1 antitrypsin deficiency and spontaneous pneumothorax: possible causal relationship.
+Pneumologia.
+2014 Jan-Mar;
+63
+(1):32-5.
+[
+PubMed
+: 24800593
+]
+18.
+Carreto L, Morrison M, Donovan J, Finch S, Tan GL, Fardon T, Wilson R, Furrie E, Loebinger M, Chalmers JD. Utility of routine screening for alpha-1 antitrypsin deficiency in patients with bronchiectasis.
+Thorax.
+2020 Jul;
+75
+(7):592-593.
+[
+PMC free article
+: PMC7361016
+] [
+PubMed
+: 32303623
+]
+19.
+St Jean P, Hart B, Webster M, Steed D, Adamson J, Powell J, Ferrell R. Alpha-1-antitrypsin deficiency in aneurysmal disease.
+Hum Hered.
+1996 Mar-Apr;
+46
+(2):92-7.
+[
+PubMed
+: 8666418
+]
+20.
+Schievink WI, Puumala MR, Meyer FB, Raffel C, Katzmann JA, Parisi JE. Giant intracranial aneurysm and fibromuscular dysplasia in an adolescent with alpha 1-antitrypsin deficiency.
+J Neurosurg.
+1996 Sep;
+85
+(3):503-6.
+[
+PubMed
+: 8751640
+]
+21.
+Frederick WG, Enriquez R, Bookbinder MJ. Peripheral neuropathy associated with alpha 1-antitrypsin deficiency.
+Arch Neurol.
+1990 Feb;
+47
+(2):233-5.
+[
+PubMed
+: 2154173
+]
+22.
+Campos MA, Wanner A, Zhang G, Sandhaus RA. Trends in the diagnosis of symptomatic patients with alpha1-antitrypsin deficiency between 1968 and 2003.
+Chest.
+2005 Sep;
+128
+(3):1179-86.
+[
+PubMed
+: 16162704
+]
+23.
+Patel D, Teckman JH. Alpha-1-Antitrypsin Deficiency Liver Disease.
+Clin Liver Dis.
+2018 Nov;
+22
+(4):643-655.
+[
+PubMed
+: 30266154
+]
+24.
+Torres-Durán M, Lopez-Campos JL, Barrecheguren M, Miravitlles M, Martinez-Delgado B, Castillo S, Escribano A, Baloira A, Navarro-Garcia MM, Pellicer D, Bañuls L, Magallón M, Casas F, Dasí F. Alpha-1 antitrypsin deficiency: outstanding questions and future directions.
+Orphanet J Rare Dis.
+2018 Jul 11;
+13
+(1):114.
+[
+PMC free article
+: PMC6042212
+] [
+PubMed
+: 29996870
+]
+25.
+Stoller JK, Snider GL, Brantly ML, Fallat RJ, Stockley RA, Turino GM, Konietzko N, Dirksen A, Eden E, Fallat RJ, Luisetti M, Stolk J, Strange C., American Thoracic Society. European Respiratory Society.  [American Thoracic Society/European Respiratory Society Statement: Standards for the diagnosis and management of individuals with alpha-1 antitrypsin deficiency].
+Pneumologie.
+2005 Jan;
+59
+(1):36-68.
+[
+PubMed
+: 15685488
+]
+26.
+Mayer AS, Stoller JK, Bucher Bartelson B, James Ruttenber A, Sandhaus RA, Newman LS. Occupational exposure risks in individuals with PI*Z alpha(1)-antitrypsin deficiency.
+Am J Respir Crit Care Med.
+2000 Aug;
+162
+(2 Pt 1):553-8.
+[
+PubMed
+: 10934086
+]
+27.
+Sandhaus RA, Turino G, Brantly ML, Campos M, Cross CE, Goodman K, Hogarth DK, Knight SL, Stocks JM, Stoller JK, Strange C, Teckman J. The Diagnosis and Management of Alpha-1 Antitrypsin Deficiency in the Adult.
+Chronic Obstr Pulm Dis.
+2016 Jun 06;
+3
+(3):668-682.
+[
+PMC free article
+: PMC5556762
+] [
+PubMed
+: 28848891
+]
+28.
+Tamondong-Lachica DR, Skolnik N, Hurst JR, Marchetti N, Rabe APJ, Montes de Oca M, Celli BR. GOLD 2023 Update: Implications for Clinical Practice.
+Int J Chron Obstruct Pulmon Dis.
+2023;
+18
+:745-754.
+[
+PMC free article
+: PMC10168197
+] [
+PubMed
+: 37180752
+]
+29.
+Walters JA, Tang JN, Poole P, Wood-Baker R. Pneumococcal vaccines for preventing pneumonia in chronic obstructive pulmonary disease.
+Cochrane Database Syst Rev.
+2017 Jan 24;
+1
+(1):CD001390.
+[
+PMC free article
+: PMC6422320
+] [
+PubMed
+: 28116747
+]
+30.
+Alison JA, McKeough ZJ, Johnston K, McNamara RJ, Spencer LM, Jenkins SC, Hill CJ, McDonald VM, Frith P, Cafarella P, Brooke M, Cameron-Tucker HL, Candy S, Cecins N, Chan AS, Dale MT, Dowman LM, Granger C, Halloran S, Jung P, Lee AL, Leung R, Matulick T, Osadnik C, Roberts M, Walsh J, Wootton S, Holland AE., Lung Foundation Australia and the Thoracic Society of Australia and New Zealand.  Australian and New Zealand Pulmonary Rehabilitation Guidelines.
+Respirology.
+2017 May;
+22
+(4):800-819.
+[
+PubMed
+: 28339144
+]
+31.
+Luna Diaz LV, Iupe I, Zavala B, Balestrini KC, Guerrero A, Holt G, Calderon-Candelario R, Mirsaeidi M, Campos M. Improving adherence to alpha-1 antitrypsin deficiency screening guidelines using the pulmonary function laboratory.
+Int J Chron Obstruct Pulmon Dis.
+2017;
+12
+:2257-2259.
+[
+PMC free article
+: PMC5546190
+] [
+PubMed
+: 28814853
+]
+32.
+Campos M, Lascano J. Therapeutics: Alpha-1 Antitrypsin Augmentation Therapy.
+Methods Mol Biol.
+2017;
+1639
+:249-262.
+[
+PubMed
+: 28752465
+]
+33.
+Kueppers F, Sanders C. State-of-the-art testing for alpha-1 antitrypsin deficiency.
+Allergy Asthma Proc.
+2017 Mar 24;
+38
+(2):108-114.
+[
+PubMed
+: 28120746
+]
+34.
+McElvaney NG, Burdon J, Holmes M, Glanville A, Wark PA, Thompson PJ, Hernandez P, Chlumsky J, Teschler H, Ficker JH, Seersholm N, Altraja A, Mäkitaro R, Chorostowska-Wynimko J, Sanak M, Stoicescu PI, Piitulainen E, Vit O, Wencker M, Tortorici MA, Fries M, Edelman JM, Chapman KR., RAPID Extension Trial Group.  Long-term efficacy and safety of α1 proteinase inhibitor treatment for emphysema caused by severe α1 antitrypsin deficiency: an open-label extension trial (RAPID-OLE).
+Lancet Respir Med.
+2017 Jan;
+5
+(1):51-60.
+[
+PubMed
+: 27916480
+]
+35.
+Dummer J, Dobler CC, Holmes M, Chambers D, Yang IA, Parkin L, Smith S, Wark P, Dev A, Hodge S, Dabscheck E, Gooi J, Samuel S, Knowles S, Holland AE. Diagnosis and treatment of lung disease associated with alpha one-antitrypsin deficiency: A position statement from the Thoracic Society of Australia and New Zealand.
+Respirology.
+2020 Mar;
+25
+(3):321-335.
+[
+PMC free article
+: PMC7078913
+] [
+PubMed
+: 32030868
+]
+36.
+Nelson DR, Teckman J, Di Bisceglie AM, Brenner DA. Diagnosis and management of patients with α1-antitrypsin (A1AT) deficiency.
+Clin Gastroenterol Hepatol.
+2012 Jun;
+10
+(6):575-80.
+[
+PMC free article
+: PMC3360829
+] [
+PubMed
+: 22200689
+]
+37.
+Wilke A, Semper H, Gross C, Grohé C. [Longterm Homecare Augmentation Program in Alpha-1-Antitrypsin Deficient Patients].
+Pneumologie.
+2018 Aug;
+72
+(8):590-597.
+[
+PubMed
+: 30089330
+]
+38.
+Stockley RA, Edgar RG, Starkey S, Turner AM. Health status decline in α-1 antitrypsin deficiency: a feasible outcome for disease modifying therapies?
+Respir Res.
+2018 Jul 20;
+19
+(1):137.
+[
+PMC free article
+: PMC6053712
+] [
+PubMed
+: 30029692
+]
+39.
+Silverman EK, Sandhaus RA. Clinical practice. Alpha1-antitrypsin deficiency.
+N Engl J Med.
+2009 Jun 25;
+360
+(26):2749-57.
+[
+PubMed
+: 19553648
+]
+
+Disclosure:
+Marcelle Meseeha declares no relevant financial relationships with ineligible companies.
+
+Disclosure:
+Abdulghani Sankari declares no relevant financial relationships with ineligible companies.
+
+Disclosure:
+Maximos Attia declares no relevant financial relationships with ineligible companies.
+
+Copyright
+© 2026, StatPearls Publishing LLC.
+
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(
+
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+
+), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+
+Bookshelf ID: NBK442030
+PMID:
+28723059

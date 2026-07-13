@@ -1,0 +1,3002 @@
+=== COPD National Action Plan ===
+Fonte: NHLBI/NIH (US gov)
+URL: https://www.nhlbi.nih.gov/sites/default/files/media/docs/COPD%20National%20Action%20Plan%20508_0.pdf
+Licenca: public-domain
+Doenca: dpoc | Idioma: en
+----------------------------------------------------------------------
+
+C O P D
+NATIONAL
+ACTION PLAN
+
+May 22, 2017
+Dear Stakeholder:
+Chronic Obstructive Pulmonary Disease (COPD) is a leading cause of death in the United States, yet many
+Americans are not aware of the significance of COPD as a major national health concern.
+Now, with this COPD National Action Plan — a blueprint for a multi-faceted, unified fight against the disease — we
+believe this can change. This forward-looking Plan has the potential to help transform our approach to COPD and
+save lives. We at the National Institutes of Health and the Centers for Disease Control and Prevention, along with
+the many other federal agencies striving to fight COPD, are proud of the highly collaborative effort that went into
+crafting the Plan.
+Charged with developing a national plan to address this devastating disease, we convened a Town Hall Meeting in
+early 2016 that brought together more than 200 members of the COPD community­ — patients, caregivers, health
+care providers, nonprofit organizations, and more. The attendees developed strategic objectives, goals, and tactics
+that form the backbone of the Plan. Individuals, partners, and organizations across the country weighed in, offering
+thoughtful comments and innovative ideas, which were carefully reviewed and used to create and refine the Plan.
+The resulting document identifies a host of creative ways to educate the public about COPD and greatly improve
+the prevention, diagnosis, and treatment of the disease. It highlights the many opportunities that can help us
+advance COPD research while turning policy and program recommendations into real action. Importantly, the Plan
+strongly encourages the COPD community to coordinate efforts so that the critical goals — increasing awareness of
+COPD and minimizing its burden — are fully achieved.
+For years, our agencies have made combatting COPD a critical concern. We have supported new research to
+increase our understanding of the disease, executed a national education program to spread awareness of it, and
+culled important data that shows who is being affected and why. The COPD National Action Plan will help further
+this work in a more powerful and synergistic way, and will serve as a thoughtful guide to all of us committed to
+preventing COPD and improving the longevity and quality of life for those living with the disease.
+To implement the COPD National Action Plan successfully, we need insight, input, and ongoing collaborations.
+Together, we can make a positive and lasting impact, and the COPD National Action Plan is a major step toward
+realizing that vision.
+Francis S. Collins, M.D., Ph.D.
+Director
+National Institutes of Health
+Anne Schuchat, M.D. (RADM, USPHS)
+Acting Director
+Centers for Disease Control and Prevention
+COPD NATIONAL ACTION PLAN
+
+C O P D National Action Plan
+
+COPD NATIONAL ACTION PLAN
+
+ii
+
+CONTENTS
+Why a National Action Plan — And Why Now?
+1
+What to Know About COPD
+4
+Goal 1: Empower people with COPD, their families,
+and caregivers to recognize and reduce the burden of COPD.
+7
+Goal 2: Improve the prevention, diagnosis, treatment, and management of COPD
+by improving the quality of care delivered across the health care continuum.
+11
+Goal 3: Collect, analyze, report, and disseminate COPD-related
+public health data that drive change and track progress.
+17
+Goal 4: Increase and sustain research to better understand the prevention,
+pathogenesis, diagnosis, treatment, and management of COPD.
+23
+Goal 5: Translate national policy, educational, and program
+recommendations into research and public health care actions.
+29
+Organizations
+35
+Glossary
+47
+References
+57
+COPD NATIONAL ACTION PLAN
+
+iii
+
+iv
+COPD NATIONAL ACTION PLAN
+
+WHY A NATIONAL ACTION
+PLAN — AND WHY NOW?
+For the 16 million Americans diagnosed with chronic
+obstructive pulmonary disease (COPD),2 and the millions of
+others who do not know they have it,3 living a normal life
+can be a daily struggle. The disease not only debilitates; it
+kills. COPD is a leading cause of death in the United States,
+following heart disease, cancer, and unintentional injuries.1
+Since 1969, the death rate for COPD has doubled, even
+as the number of deaths for other chronic conditions has
+declined.4 COPD is also the fourth main cause of disability
+in the United States,5 and it imposes an enormous burden
+on the nation’s health care system. More than $32 billion
+was spent on COPD-related patient care in 2010, and those
+costs are projected to increase to $49 billion by 2020.6
+Addressing the issues around COPD has been difficult.
+Most COPD cases are preventable, as 8 in 10 COPD deaths
+are caused by smoking.7
+LEADING CAUSES OF
+DEATH IN THE U.S.:1
+HEART
+DISEASE
+CANCER
+UNINTENTIONAL
+INJURIES
+COPD
+
+1
+COPD NATIONAL ACTION PLAN
+
+Implementing proven strategies to prevent tobacco
+use (e.g., smoke-free policies, tobacco price increases,
+and aggressive media campaigns) while increasing
+smoking-cessation services can reduce smoking
+and smoking-related COPD. Some states and local
+communities have developed action plans to improve
+awareness and treatment of the disease. However,
+significant differences in the prevalence of the disease
+— from 12 percent in West Virginia to 3.8 percent in
+Utah8 — have complicated these and other broader
+efforts. The bottom line: Despite the work of many and
+the progress made by some, millions continue to suffer
+COPD’s devastating toll.
+A coordinated national approach is now needed
+to deal with the critical issues around this chronic
+disease. Along with the steady efforts of researchers
+seeking a cure and clinicians adopting new tools and
+therapies for patients, the COPD National Action Plan
+has the potential to change the trajectory of COPD.
+Developed over the course of a year with input from
+the COPD community at large, the Plan provides a
+comprehensive, unified framework for action by those
+affected by the disease and those who care about
+reducing its burden.
+16 MILLION PEOPLE HAVE BEEN DIAGNOSED WITH COPD
+AND MILLIONS OF OTHERS DO NOT REALIZE THEY MAY HAVE IT.2,3
+AGE-ADJUSTED PREVALENCE OF CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD) AMONG
+ADULTS AGED ≥18 YEARS — BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM, UNITED STATES, 20158
+For a breakdown of state-by-state data, please see page 58.
+COPD NATIONAL ACTION PLAN
+
+2
+
+MAKING IT HAPPEN
+Concerned about the growing incidence of COPD,
+Members of the Congressional COPD Caucus urged
+the National Institutes of Health (NIH) and Centers
+for Disease Control and Prevention (CDC) to craft a
+comprehensive federal plan to tackle the disease.9 In
+response, the NIH’s National Heart, Lung, and Blood
+Institute (NHLBI) collaborated with the CDC and
+other federal partners to organize several interagency
+workshops that laid the groundwork for a plan. During
+the workshops, participants discussed and developed
+several core goals the Action Plan would address.
+Those initial goals served as the foundation for the
+national COPD Town Hall Meeting that the NHLBI
+hosted in early 2016.
+During that two-day COPD Town Hall Meeting, federal
+and nonfederal partners, including patients and their
+families, participated in breakout groups that informed
+the development of draft objectives, strategies, and
+benchmarks for the goals. The comments shared during
+those breakout groups directly informed the Action
+Plan as it stands today. Indeed, the engagement of the
+community remained integral to the Action Plan as its
+five goals were further refined. Each goal addresses a
+different aspect of the problems posed by COPD and
+identifies the various entities in the community that
+have the capability to deal with those specific issues.
+In addition to engaging federal and nonfederal partners
+and members of the community directly affected by
+COPD, the NHLBI also invited feedback from the public
+at large. The latter happened in the fall of 2016, when
+the NHLBI made a first draft of the COPD National
+Action Plan available for public comment. The NHLBI
+and other federal partners carefully considered all the
+comments and used them to finalize the Action Plan,
+with the understanding that it is a “living” document —
+subject to revisions as new needs and opportunities to
+minimize the burden of COPD arise.
+GEARING UP
+With the completion of this critical first step, the
+real work can now begin. The community of COPD
+stakeholders is highly diverse, and its representatives
+are equipped with different resources because of
+where they work and the organizations and people
+they serve. Yet, all can contribute to the successful
+implementation of the COPD National Action Plan.
+From patients and health care providers to federal
+partners and advocacy groups, everyone can and
+must play a role in supporting and moving the COPD
+National Action Plan forward.
+THE FIVE GOALS OF THE
+NATIONAL ACTION PLAN
+1
+Empower people with COPD, their
+families, and caregivers to recognize
+and reduce the burden of COPD.
+2
+Improve the prevention, diagnosis,
+treatment, and management of COPD
+by improving the quality of care delivered
+across the health care continuum.
+3
+Collect, analyze, report, and disseminate
+COPD-related public health data that
+drive change and track progress.
+4
+Increase and sustain research to
+better understand the prevention,
+pathogenesis, diagnosis, treatment,
+and management of COPD.
+5
+Translate national policy, educational,
+and program recommendations into
+research and public health care actions.
+COPD NATIONAL ACTION PLAN
+
+3
+
+WHAT TO
+KNOW ABOUT
+COPD
+1.	 How does COPD affect the lungs?
+In healthy lungs, the air we breathe goes down
+bronchial tubes, or airways, that end in tiny air sacs.
+As these air sacs fill up, they first stretch, then bounce
+back to their original shape, much like the way a
+rubber band or balloon might. This elasticity is critical,
+as it helps move the air in and out of the lungs quickly.
+In people with COPD, less air flows in and out of the
+airways because of one or more of the following:
+The airways and air sacs lose
+their elastic quality.
+The walls between many of the
+air sacs are destroyed.
+The airway walls become thick, and
+airways are narrowed by inflammation.
+The airways make more mucus than usual,
+which can also clog them.
+2.	 What are the symptoms of COPD?
+In some cases, COPD may cause only mild symptoms
+or no symptoms at all. As a result, people often
+discount changes in their physical well-being or
+may adjust their lifestyles to require less breathing
+(e.g., resting while walking up steps). As the disease
+progresses, symptoms usually become more severe.
+Common signs and symptoms include:
+CONSTANT COUGHING,
+sometimes called a “smoker’s cough”
+SHORTNESS OF BREATH
+while doing everyday activities
+INABILITY TO BREATHE EASILY
+or take a deep breath
+EXCESS MUCUS PRODUCTION
+coughed up as sputum
+WHEEZING
+WHO HAS COPD?
+BY ETHNICITY8
+11%
+AMERICAN
+INDIANS/ALASKA
+NATIVES
+10%
+MULTIRACIAL
+6%
+NON-
+HISPANIC
+BLACKS
+6%
+WHITES
+3%
+HISPANICS
+COPD NATIONAL ACTION PLAN
+
+4
+
+3.	 What are the risk factors associated
+with COPD?
+COPD most often occurs in people with a history of
+smoking. Approximately 80 percent of COPD deaths
+are caused by smoking.7 However, about one-quarter
+of those affected have never smoked.2 Exposure
+to lung irritants — such as air pollution, dust, and
+chemical or other fumes — in the workplace and
+exposure to secondhand smoke or air pollutants
+may contribute to COPD. Genetics can also play a
+role in the development of COPD; people with a rare
+condition called alpha-1 antitrypsin (AAT) deficiency
+are at an increased risk for COPD. Some 20 percent of
+COPD patients report a history of asthma, which may
+also be a contributing factor.10
+The strong association with tobacco use makes COPD
+highly preventable through interventions that focus
+on discouraging youth and young adults from starting
+to smoke, encouraging adults to quit, and providing
+smoking-cessation support to current smokers.
+Other efforts include programs and policies aimed
+at reducing exposure to dust and chemicals in the
+workplace, as well as exposure to indoor and outdoor
+air pollutants.
+4.	 How is COPD diagnosed
+and treated?
+A COPD diagnosis is based on signs and symptoms,
+personal and medical history, and test results.
+Lung function tests measure how much air can be
+breathed in and out, how fast air is breathed out, and
+how well lungs deliver oxygen to the blood. The main
+lung function test for COPD is spirometry, but other
+tests, such as a lung diffusion capacity test, also can be
+used. Spirometry can detect COPD before symptoms
+become severe. It is simple and noninvasive — the
+patient breathes in deeply, then blows as hard as
+possible into a tube connected to a small machine.
+The instrument then measures how much air is blown
+out, and how fast. Other tests to detect and diagnose
+COPD may include chest X-rays, chest computerized
+tomography (CT) scans, or oxygen saturation of blood.
+While COPD diagnosis and treatment have significantly
+improved in the past 15 years, developing and
+implementing effective additional preventive and
+therapeutic approaches remain the critical focus
+for the COPD community.
+BY GENDER7
+56%
+WOMEN
+44%
+MEN
+BY SMOKING HISTORY2
+38%
+CURRENT
+37%
+FORMER
+OTHER2
+25%
+OF CASES ARE
+NOT ASSOCIATED
+WITH DIRECT
+CIGARETTE
+SMOKING
+COPD NATIONAL ACTION PLAN
+
+5
+
+HOW YOU MIGHT USE THE
+COPD NATIONAL ACTION PLAN
+To achieve the goals of the COPD National Action Plan, it is
+important that all members of the COPD community get involved.
+The chart below can help you identify the Action Plan goals most relevant to you.
+WHICH GROUP DO YOU IDENTIFY WITH MOST?
+Patient, family member, caregiver, or at-risk individual.  Goal 1 and 5.
+Patient, family member, caregiver, or at-risk individual.  Goal 1 and 5.
+Patient, family member, caregiver, or at-risk individual.  Goal 1 and 5.
+Patient, family member, caregiver, or at-risk individual.  Goal 1 and 5.
+Advocate or nonprofit.  Goal 1 and 5.
+Advocate or nonprofit.  Goal 1 and 5.
+Health
+professional
+Researcher
+Policymaker
+GOAL 1:
+Empower
+patients, their
+families, and
+caregivers to
+recognize and
+reduce burden of
+COPD
+PAGE 7
+GOAL 2:
+Equip health care
+professionals
+to provide
+comprehensive
+care to people
+with COPD
+PAGE 11
+GOAL 3:
+Collect, analyze,
+report, and
+disseminate
+COPD data
+PAGE 17
+GOAL 4:
+Increase and
+sustain COPD
+research
+PAGE 23
+GOAL 5:
+Turn COPD
+recommendations
+into research and
+public health care
+actions
+PAGE 29
+COPD NATIONAL ACTION PLAN
+
+6
+
+GOAL 1
+Empower people with COPD,
+their families, and caregivers
+to recognize and reduce the
+burden of COPD.
+7
+COPD NATIONAL ACTION PLAN
+
+For people with COPD, awareness
+about this chronic, progressive
+disease often does not come until
+well after they have been affected
+by it. Unfamiliar with the early, nonspecific
+symptoms, many lose significant lung function before
+ever seeing a health care provider. It is often not
+until a hospitalization, a severe respiratory infection,
+or a noticeable impairment in the ability to perform
+simple tasks that people living with COPD are
+diagnosed. As their symptoms worsen, these patients
+face increasingly difficult challenges carrying on the
+activities of daily living. They often face daunting
+emotional challenges, too. Uncertainty about their
+prognosis and their treatment regimens play a role,
+as do the anxiety, isolation, depression, and social
+stigmas — real or perceived — that often come with
+living with the disease. These challenges affect family
+members and caregivers alike, and they require
+attention, care, and understanding.
+The first goal of the COPD National Action Plan
+focuses on helping people with COPD, their families,
+and caregivers recognize the disease through risk and
+symptom awareness, earlier detection, and diagnosis.
+It also helps empower these groups by providing
+information about how best to manage the disease.
+1.	 Increase public awareness of the risk
+factors and symptoms of COPD so
+that earlier diagnosis of symptomatic
+individuals becomes the norm.
+a.
+Review and fully utilize available COPD information
+and tools, as different organizations may already
+have resources tailored to their own unique
+audiences. Create additional resources where
+gaps exist.
+b.	 Organize information and resources in a range
+of formats that are culturally relevant to diverse
+populations, consider health literacy, and ensure
+the widest possible access.
+c.
+Make the information easily accessible by offering
+online search capabilities and toll-free access to
+specially trained operators, peer associates, and
+experienced COPD health professionals.
+COPD NATIONAL ACTION PLAN
+8
+
+d.	 Expand access to online communities that people
+with COPD and their caregivers use to share
+information and support each other.
+e.
+Ensure that health care professionals provide
+people with COPD and their caregivers multiple
+avenues that lead to free, reliable, and up-to-date
+COPD information and resources.
+f.
+Include information to help people with COPD
+navigate available support programs that provide
+assistance when they are unable to afford
+their treatments.
+2.	 Increase the effectiveness and variety of
+outreach communication campaigns and
+activities that utilize evidence-based
+approaches to raise awareness of COPD,
+particularly among those at high risk,
+and help people diagnosed with COPD
+manage the disease.
+a.
+Include messages that focus on risk factors
+(e.g., smoking, environmental and occupational
+exposure, and genetic conditions like AAT
+deficiency), stating what actions should be taken
+by those at risk and which behavioral interventions
+(e.g., tobacco cessation, exercise, and nutrition)
+are available. Include specific messages that help
+people with COPD and their caregivers manage
+the disease.
+b.	 Use earned and paid media, online social networks,
+and other engaging methods to inform individuals
+and communities at risk for COPD. This could
+include metrics to measure the communication
+impact on health care outcomes (e.g., attendance
+at health fairs, more outlets writing about NIH/
+CDC-promoted research, and patient narratives).
+c.
+Invest in evaluation research that develops
+and measures the effectiveness of outreach
+campaigns. The research should include metrics
+that measure the scope and health impact of these
+efforts on patients themselves.
+3.	 Expand opportunities to increase COPD
+awareness across the public-private
+spectrum.
+a.
+Identify and engage diverse organizations,
+including community-based groups, minority
+health-focused groups, faith-based networks, and
+groups responsible for public health initiatives, so
+they can integrate COPD education and awareness
+activities into their programs.
+b.	 Coordinate existing federal COPD education
+efforts to ensure that all overarching messages
+about COPD awareness, prevention, detection,
+care, and treatment are aligned, comprehensive,
+and adequately addressed.
+c.
+Increase awareness of the evidence supporting
+prevention strategies and the value of policies
+that limit exposure to tobacco and increase access
+to tobacco-cessation services. These strategies
+should include but not be limited to:
+•	 Smoke-free policies
+•	 Tobacco-free campuses
+(businesses, hospitals, etc.)
+•	 Tobacco price increases
+•	 Media campaigns
+•	 Smoking-cessation promotion and outreach
+COPD NATIONAL ACTION PLAN
+Goal 1
+9
+
+GOAL 1: OPPORTUNITIES FOR
+ENGAGEMENT AND PARTICIPATION
+Share culturally and
+linguistically appropriate
+COPD risk assessment tools
+and educational materials
+with people with COPD
+and their families, friends,
+colleagues, and
+community members.
+
+10
+
+GOAL 2
+Improve the prevention,
+diagnosis, treatment, and
+management of COPD by
+improving the quality of care
+delivered across the health
+care continuum.
+COPD NATIONAL ACTION PLAN
+11
+
+Almost every health care
+professional in the United States is
+in a position to address the needs of
+the millions of people at risk for or
+living with COPD. To achieve Goal 2 of the
+COPD National Action Plan, health care professionals
+should collaborate to standardize existing training,
+clinical care tools, and practices and incorporate them
+into a new set of national standards of care guidelines.
+These tools and practices should then be used to
+help provide high-quality, patient-centered, and
+multidisciplinary, team-based approaches to COPD
+prevention, care, and treatment, and they should
+regularly be reviewed and updated. New technologies,
+tools, and model programs should also be developed
+and studied to address existing gaps in diagnosis
+and care.
+Tools, practices, and national guidelines should be
+evidence-based, validated, and culturally appropriate
+so that every individual with COPD can fully engage in
+his or her own care. The implementation of these tools
+should be coordinated across medical disciplines and
+include training designed to address the needs of
+people at risk for or living with COPD. The importance
+of smoking cessation and pulmonary rehabilitation
+as therapeutic interventions should be made central
+to evidence-based patient care. Finally, all these
+recommendations should be translated into research,
+practice, or public health care actions, as outlined
+in Goal 5.
+An initial review and assessment of care-delivery-
+focused initiatives, such as new and existing clinical
+practice guidelines, medical-professional training
+programs, and quality-improvement programs, will
+greatly help in achieving this goal, as it will inform the
+further development of specific COPD programs. The
+establishment of benchmarks and metrics to monitor
+accomplishments will help achieve this goal as well.
+COPD NATIONAL ACTION PLAN
+12
+
+1.	 Develop, disseminate, and maintain
+unified, multidisciplinary, and
+patient-centric national guidelines
+for COPD that are accessible and
+easy to follow.
+a.
+Building upon existing COPD guidelines, like those
+available from the American Thoracic Society
+(ATS, www.thoracic.org/statements/copd.php)
+and the Global Initiative for Chronic Lung Disease
+(GOLD, www.goldcopd.org), create clinical
+practice guidelines that set consistent national
+standards for identifying people at risk for COPD
+as well as diagnosing, caring for, and treating
+people with COPD across the care continuum.
+b.	 Ensure that all clinical practice guidelines
+address COPD, reflect the latest evidence-based
+practices, and meet the Institute of Medicine’s
+Standards for Developing Trustworthy Clinical
+Practice Guidelines.
+c.
+Ensure that new evidence-based COPD clinical
+practice guidelines, related summaries, and
+companion materials are widely available to
+health care professionals by posting them on
+the appropriate department websites.
+d.	 Collaborate with federal and nonfederal
+stakeholders to identify and disseminate current
+guidelines for best practices for COPD prevention,
+care, and treatment.
+e.
+Explore ways for the COPD community to
+broaden its programs to increase awareness and
+understanding of clinical practice guidelines, with
+a particular focus on implementation in primary
+health care settings. In addition, work with specialty
+medical organizations to develop a national
+certification program that will support a trained
+workforce, including primary health care providers, in
+the medical evaluation, management, and treatment
+of people at risk for or diagnosed with COPD.
+2.	 Develop a unified, multidisciplinary
+educational curriculum for health care
+professionals, including primary health
+care providers, using harmonized
+clinical practice guidelines.
+a.
+Assess, create, and distribute educational curricula
+aimed at improving COPD prevention, care,
+and treatment. These curricula should be used
+across multiple health professional disciplines,
+with a focus on underserved and hard-to-reach
+populations, and areas with high COPD prevalence.
+b.	 Ensure that the curricula are easy to access and
+updated regularly to reflect evidence-based best
+practices for the diagnosis, care, and treatment
+of COPD, as well as policies related to access to
+health care services.
+c.
+Develop and disseminate educational programs,
+materials, and tools in collaboration with
+primary care organizations, health professional
+associations, and patient- and community-based
+groups (e.g., continuing medical education
+[CME] courses, national certifications, and
+educational events).
+d.	 Provide COPD training opportunities for federal
+and state employees working in public health and
+direct-care programs, including community health
+workers, pharmacists, and nurses.
+COPD NATIONAL ACTION PLAN
+Goal 2
+13
+
+3.	 Develop, in accordance with clinical
+quality measures, a clinical decision tree
+and other tools to enable high-quality
+care for people with COPD.
+a.
+Improve ways to identify people at risk for or
+living with early COPD and promote the adoption
+of accurate diagnostic methodologies, including
+testing for AAT deficiency, as a national standard
+of care.
+b.	 Collaborate with health insurance plans to ensure
+their providers and health care professionals
+are knowledgeable about; are trained in;
+and, ultimately, adopt the COPD diagnostic
+recommendations and procedures using the
+resources available.
+c.
+Develop a standardized COPD prompt for health
+care professionals to include in a patient’s health
+assessments and management file, and, ultimately,
+in the patient’s electronic health records (EHRs)
+and his or her personal health records (PHRs).
+d.	 Create and validate COPD diagnostics with input
+from federal agencies and their partners, industry,
+and other organizations. The new diagnostics
+should distinguish the etiology and pathogenesis
+of a patient’s illness to help tailor treatment and
+management (personalized medicine) and should
+be designed for use wherever a patient seeks care.
+4.	 Develop and encourage the use
+of a written, patient-centric COPD
+management plan tool, with
+appropriate cultural and health
+literacy considerations, which can be
+customized with input from the patient’s
+health care provider(s). This plan should
+include the following:
+•	 A patient’s daily treatment, such as which
+medicines to take, when, and why to take
+them; how to control COPD long term; how
+to handle worsening COPD or exacerbations;
+when and how to use oxygen therapy and
+physical therapy; the importance of medication
+adherence; and what a patient could expect
+from optimal therapy and pulmonary-
+rehabilitation treatments
+•	 An explanation about when to call a health
+care professional or go to an emergency room;
+how to recognize the impact of the patient’s
+comorbidities, like lung cancer, cardiovascular
+disease, and depression/anxiety; and how to
+treat and manage those comorbidities
+•	 Resources for additional information or
+assistance, including referrals to patient-
+support services and customized support
+for patients who continue to consume
+tobacco products
+•	 Evidence-based resources that can guide
+provider and patient conversations, in part
+by featuring visual aids to help explain COPD,
+including the signs and symptoms and
+associated risks, such as exposure to tobacco,
+environmental and occupational factors, and
+genetic factors like AAT deficiency
+COPD NATIONAL ACTION PLAN
+Goal 2
+14
+
+•	 Information presented in simple, brief formats
+that are in accordance with health literacy
+principles, provide culturally appropriate
+knowledge and understanding for people with
+COPD, and are medically appropriate for health
+care professionals
+•	 Information about the appropriate use of
+spirometry and new diagnostics tools, such as
+molecular diagnostics and CT scanning, as they
+are developed
+5.	 Improve access to care for people with
+COPD, particularly for those in hard-to-
+reach areas.
+a.
+Create, validate, and implement best practices
+for the prompt referral of newly diagnosed
+COPD patients to appropriate services, including
+pulmonary rehabilitation, smoking-cessation
+programs, anxiety and depression management,
+affordable pharmacological treatment, and
+palliative care.
+b.	 Improve awareness of quality pulmonary-
+rehabilitation treatment available through
+Medicare, Medicaid, and private health insurance.
+Additional recommendations include the following:
+i.
+Adapt pulmonary-rehabilitation regulations to
+facilitate broader access to programs outside
+the hospital setting.
+ii.
+Consider opportunities to identify novel ways
+to help health care providers start and sustain
+pulmonary-rehabilitation programs and retain
+patients through the full course of the program
+— for example, by promoting awareness of best
+practices and evidence-based guidelines.
+c.
+Improve the affordability of pharmacological
+treatments for COPD.
+i.
+Discourage substituting, for nonmedical
+reasons, one prescription for an inhaled COPD
+treatment for another.
+ii.
+Identify novel ways to encourage medication
+adherence to prescribed treatments.
+iii.
+Expand access to prescription drug assistance
+for the uninsured and underinsured, with
+priority given to those requiring multiple
+prescriptions per month.
+iv.
+Facilitate U.S. Food and Drug Administration
+(FDA) qualification of biomarkers for COPD
+drug development in order to speed novel
+treatments to market.
+d.	 Provide coverage and adopt regulations for
+providing oxygen therapy that meet the full
+clinical needs of COPD patients and permit
+ongoing mobility.
+e.
+Encourage the development of COPD-specific
+technologies (e.g., telemedicine, wearable devices,
+and mobile technology applications) by federal
+agencies, their partners, private industry, and
+other interested organizations. These technologies
+may improve coordination and personalization
+of patient care and encourage more effective
+comprehensive management.
+COPD NATIONAL ACTION PLAN
+Goal 2
+15
+
+GOAL 2: OPPORTUNITIES FOR
+ENGAGEMENT AND PARTICIPATION
+
+16
+
+GOAL 3
+Collect, analyze, report, and
+disseminate COPD-related
+public health data that drive
+change and track progress.
+COPD NATIONAL ACTION PLAN
+17
+
+Reliable data are critical for
+informed decision-making. This is
+especially so when creating health care resources and
+when measuring the success of new risk-identification
+methods, early detection methods, health care policies,
+and care-delivery efforts. Health data that measure the
+prevalence and characteristics of COPD, patterns of
+treatment, and patient outcomes form the basis for
+the effective prevention and diagnosis of COPD as
+well as for the treatment of people at risk for or
+living with the disease.
+Goal 3 of the COPD National Action Plan addresses
+the need to close data gaps by encouraging increased
+and coordinated data collection, validation, analyses,
+sharing, and real-world application of these data as
+they are collected. The adoption of secure health
+information technology (HIT), the use of EHRs/PHRs,
+and the creation of large-scale patient registries can
+greatly enhance the ability to capture and collect
+patient-level data. The National Center for Health
+Statistics (NCHS), part of the CDC, conducts the
+National Health Interview Survey (NHIS), the National
+Health and Nutrition Examination Survey (NHANES),
+the National Ambulatory Medical Care Survey
+(NAMCS), the National Hospital Ambulatory Medical
+Care Survey (NHAMCS), and the National Hospital
+Care Survey (NHCS). NCHS also collects mortality
+records through the National Vital Statistics System.
+These data-collection systems represent the foremost
+sources of population surveillance data.11 Other
+population data, including data from U.S. Census
+Bureau surveys, the Behavioral Risk Factor Surveillance
+System (BRFSS), and NCHS provider surveys, could
+also reveal trends that spur new policies, resource
+allocations, or budget modifications.
+Data needs may be addressed if federal and
+nonfederal partners consider developing new
+infrastructures and alliances within their existing
+organizations. This kind of development could have
+a far-reaching effect, inspiring new ways to assess
+COPD prevalence and engage in predictive modeling
+more broadly. The stakeholders involved in these
+efforts also must ensure widespread and meaningful
+dissemination of data analyses.
+COPD NATIONAL ACTION PLAN
+18
+
+1.	 Enhance and optimize our capacity
+to collect and aggregate data from
+multiple sources, including at local,
+regional, and national levels, and turn
+them into actionable information.
+a.
+Develop standardized data-collection methods
+using harmonized definitions and core indicators
+to monitor the prevalence, care, and treatment
+of people with COPD, including those with
+AAT deficiency.
+i.
+Strengthen the surveillance and reporting
+capacity of state and local health departments
+by urging primary care providers to collect
+and report COPD surveillance data to
+these authorities.
+ii.
+Improve the accessibility of EHRs/PHRs,
+claims data, pharmacy-benefit data,
+patient reported-outcomes data, and other
+electronic data for use in COPD surveillance
+and measurement efforts.
+iii.
+Upgrade surveillance information technology
+as a way to improve the exchange of data
+among reporting entities, such as health
+systems; state and local health departments;
+and agencies such as the CDC, the Centers for
+Medicare & Medicaid Services (CMS), and the
+Veterans Health Administration (VHA).
+iv.
+Conduct surveys and special studies designed
+to investigate populations at risk, occupational
+and environmental factors, geographic
+variations (e.g., rural versus urban), disease
+attributes (e.g., lung function and physical
+function), demographic factors (e.g., gender,
+age, and ethnicity), access to care, and
+other disparities in health services for
+people with COPD.
+COPD NATIONAL ACTION PLAN
+Goal 3
+19
+
+b.	 Improve data compatibility for aggregation
+and analyses.
+i.
+Enlist federal and nonfederal partners to
+develop protocols for the collection, storage,
+and sharing of COPD data from various
+sources; to help ensure that the data analyses
+draw from these sources, including clinical-trial
+data, observational data, and patient-registry
+data, as well as protocols and algorithms, in the
+collection efforts.
+ii.
+Utilize aggregated data to describe how COPD
+and related prevention, care, and treatment
+programs influence health and morbidity.
+iii.
+Incorporate International Classification of
+Diseases (ICD) codes into COPD surveillance,
+and ensure that COPD diagnostic codes
+(ICD-9, ICD-10, and thereafter) are required
+for EHR certification.
+c.
+Capture and analyze surveillance data from people
+with COPD, identify trends to better predict the
+prevalence and burden of COPD, and accurately
+describe the public health impact.
+i.
+Comprehensively and regularly monitor
+the prevalence and incidence of COPD at
+the national, state, and local levels.
+ii.
+Monitor the use and impact of validated
+assessment tools to detect and diagnose
+COPD, particularly in at-risk populations.
+iii.
+Assess the national availability and use of
+pulmonary-rehabilitation services using CMS,
+VHA, and commercial-payer data; this can
+assist with interventions designed to target
+underserved areas.
+iv.
+Monitor the delivery and impact of
+COPD care and treatment, including
+pulmonary rehabilitation.
+v.
+Monitor and assess the relationship
+between comorbidities and COPD
+morbidity and mortality.
+COPD NATIONAL ACTION PLAN
+Goal 3
+20
+
+2.	 Facilitate dissemination of data
+and analyses.
+a.
+Report findings of federal COPD surveillance
+initiatives in a biannual report on the national
+burden of COPD in the United States, including
+prevalence, mortality, related health indicators,
+and care-delivery measurements.
+i.
+Regularly report COPD surveillance data
+through established federal channels
+(e.g., CDC surveillance reports and Agency
+for Healthcare Research and Quality [AHRQ]
+briefs) then make that data available to the
+public in an easily accessible format.
+ii.
+Proactively disseminate the findings of COPD
+surveillance studies to diverse stakeholders.
+iii.
+Encourage federal and nonfederal
+partners to publish outcomes of COPD
+data analyses using scientific-exchange
+(e.g., peer-review) opportunities.
+b.	 Conduct studies that assess all aspects of
+existing and new models of detection, care,
+and treatment for people living with COPD,
+including studies addressing barriers to care
+and rehabilitation services.
+COPD NATIONAL ACTION PLAN
+Goal 3
+21
+
+GOAL 3: OPPORTUNITIES FOR
+ENGAGEMENT AND PARTICIPATION
+
+22
+
+GOAL 4
+Increase and sustain
+research to better
+understand the prevention,
+pathogenesis, diagnosis,
+treatment, and management
+of COPD.
+COPD NATIONAL ACTION PLAN
+23
+
+With this goal, the COPD National
+Action Plan focuses on the need to
+characterize the many contributing
+risk factors and underlying
+mechanisms in COPD. This goal aims to
+improve understanding of the causes and progression
+of COPD; the different forms of the disease; and its
+prevention, diagnosis, and treatment. Translation
+of basic research to clinical applications can yield
+improved methods of diagnosis and symptom
+management, as well as treatments that are health-
+preserving and disease-arresting or -reversing.
+Of particular importance is research aimed at
+improving the identification of people at risk for
+COPD and those in the early stages of COPD
+development, since early detection provides the
+best opportunity for disease management.
+Despite what is known about the association between
+smoking and COPD, other, lesser-known and unknown
+causes of COPD do exist. Because COPD develops,
+progresses, and manifests in different ways, many
+factors likely influence how people with COPD respond
+to treatment. Therefore, research supported by the
+Precision Medicine Initiative, and NHLBI COPD efforts
+like the COPDGene and SPIROMICS projects, could
+help unravel the underlying biology and, coupled with
+advanced imaging, allow for a better understanding
+of the different COPD clinical phenotypes, the role
+of comorbidities, and the efficacy and safety of
+interventions and treatments at an individual level.
+Such patient-powered research holds promise for the
+acceleration of COPD discoveries and will provide
+health care professionals with new tools, knowledge,
+and targeted therapies that make it easier to choose
+the treatments best suited for each individual
+with COPD.
+COPD NATIONAL ACTION PLAN
+24
+
+1.	 Help expand, coordinate, and optimize
+COPD research efforts.
+a.
+Advance short- and long-term priorities across all
+phases of COPD research. This should leverage
+synergistic partnerships and include the following:
+i.
+Characterization of the biological basis of
+COPD, including genetic, environmental,
+and occupational risk factors; molecular and
+cellular systems involved in pathobiology;
+and the pathophysiological mechanisms of
+symptom development, disease progression,
+and comorbidities.
+ii.
+Identification of biomarkers and
+clinical measures useful for the early
+detection, prognosis, and targeting of
+precise therapeutics.
+iii.
+Development and testing of therapies,
+especially those involving novel molecular
+targets or specific groups of patients.
+iv.
+Implementation of effective approaches for
+diagnosis and treatment in ways that maximize
+the impact on public health and are accessible
+to everyone in the United States.
+b.	 Encourage more patients and underrepresented
+populations to participate in all types of research,
+including patient registry efforts and clinical trials.
+c.
+Improve access to databases and patient-centered
+registries for use in research.
+i.
+Use aggregated patient EHRs and real-
+world observational data to monitor how
+patients with COPD are diagnosed, cared
+for, and treated.
+ii.
+Share secure, anonymized clinical trial data
+(culled from shared data repositories) for use
+in secondary analyses.
+iii.
+Facilitate cross-communication among
+scientists, practicing health care professionals,
+and patients throughout the research process
+(research planning, participant recruitment,
+study execution, and dissemination and
+adoption of results).
+COPD NATIONAL ACTION PLAN
+Goal 4
+25
+
+2.	 Improve methods for earliest detection
+and diagnosis and develop effective
+strategies for preventing the onset and
+progression of COPD.
+a.
+Improve the quality of COPD detection and
+diagnostic technologies, and increase the use
+of validated technologies as alternatives to
+spirometry, in clinical and other settings. This can
+be done by developing and defining performance
+measures for COPD risk identification and earliest
+detection. These efforts would be informed by
+scientific evidence and with input from patients,
+professional and medical organizations, private
+industry, and other relevant stakeholders.
+b.	 Encourage the development of new, highly
+sensitive and rapid diagnostics tools, such as those
+that identify biomarkers, and encourage their use
+in molecular diagnostics. Additionally, enable the
+submission of biomarkers for FDA approval so they
+can be used in clinical trials and practice.
+c.
+Improve the quality of COPD prevention strategies
+for people at risk.
+i.
+Develop and test models for detecting
+COPD that can be adapted and used in
+different health care settings and with
+diverse populations; these models will help
+identify and reach people at risk for COPD,
+including nonsmokers and those with a genetic
+predisposition, such as AAT deficiency, those
+being screened for lung cancer, and those with
+concurrent asthma.
+ii.
+Develop and test COPD interventions, including
+those related to nutrition and behavior, in
+home and routine care settings; this can help
+determine how to modify risk factors for
+COPD, reduce the frequency or severity of
+exacerbations, and prevent the progression
+of the disease.
+iii.
+Use community-based research to pilot-test
+the effectiveness of detection and prevention
+programs designed to reach underserved and
+culturally diverse populations and those at risk
+for COPD.
+3.	 Define and characterize the
+pathogenesis of COPD heterogeneity.
+a.
+Facilitate and encourage basic science
+research about the underlying mechanisms
+that contribute to the development of different
+COPD clinical phenotypes.
+i.
+Develop and apply new animal models, cell
+models, and human-tissue resources to explore
+the full range of causes of COPD.
+ii.
+Collect and analyze genomic and biomarker
+data to further characterize COPD phenotypes.
+COPD NATIONAL ACTION PLAN
+Goal 4
+26
+
+4.	 Develop personalized medicine for
+COPD based on the pathogenesis and
+clinical heterogeneity.
+a.
+Facilitate and encourage the translation of basic
+science COPD etiology and pathogenesis studies
+into epidemiology and clinical research involving
+patients with different COPD phenotypes.
+i.
+Develop and validate new diagnostic tests to
+screen people by COPD phenotype who are at
+risk for or already diagnosed with the disease;
+this will help refine personalized care and
+treatment programs.
+ii.
+Develop and test new precision medicine
+treatments for people diagnosed with COPD
+based on COPD phenotypes.
+iii.
+Develop new care programs for people
+diagnosed with COPD based on COPD
+phenotypes for their use in health care and
+other settings.
+iv.
+Include the full spectrum of people with COPD,
+comprehensive of AAT-deficient patients, in
+clinical studies.
+5.	 Promote research that can lead
+to strategies that help prevent the
+onset and progression of COPD and
+improve the quality of COPD care
+and management.
+a.
+Investigate how access to care affects the
+treatment for people diagnosed with COPD.
+i.
+Study the clinical effectiveness of patient-
+centered treatments, including quality of life
+and functionality as outcome measures.
+ii.
+Conduct research on the progression of
+subclinical disease to overt disease.
+iii.
+Conduct research to identify the most effective
+structure and components of a pulmonary-
+rehabilitation program, including the most
+effective length and number of sessions, the
+effects of different educational components
+and delivery strategies, and the most effective
+way to provide rehabilitation in rural areas.
+b.	 Support clinical effectiveness and treatment-
+outcomes research to obtain findings that can be
+translated into models of care that then can be
+tested and adapted for use in different health care
+and clinical settings (T3/T4 research12).
+c.
+Conduct research on the effectiveness of COPD-
+focused policies and programs.
+i.
+Evaluate COPD-focused policies, public
+health interventions, and programs by
+using predefined, evidence-based
+performance metrics.
+ii.
+Develop value-based return-on-investment
+models using research that describes the
+effectiveness of current COPD programs
+and policies.
+COPD NATIONAL ACTION PLAN
+Goal 4
+27
+
+GOAL 4: OPPORTUNITIES FOR
+ENGAGEMENT AND PARTICIPATION
+Invest in, facilitate, and
+promote basic, clinical, and
+applied research to improve
+the diagnosis and treatment
+of people with COPD; assess
+the impact of the home
+environment on patient
+management and treatment.
+Create COPD patient
+registries that help evaluate
+and improve patient
+management, clinical care,
+and treatment.
+
+COPD NATIONAL ACTION PLAN
+28
+
+GOAL 5
+Translate national policy,
+educational, and program
+recommendations into
+research and public health
+care actions.
+COPD NATIONAL ACTION PLAN
+29
+
+This goal calls for federal and
+nonfederal partners to collaborate
+to meet the objectives of the COPD
+National Action Plan and translate
+its recommendations into actions.
+All involved need to work together to make funding
+available for a variety of activities and allow all
+interested to participate.
+1.	 Put into action prevention strategies
+that are proven effective in addressing
+the 80 percent of COPD deaths due
+to smoking.7
+a.
+Support initiatives and activities that promote a
+tobacco-free society. Evidence-based approaches
+already exist and include, but are not limited
+to, smoke-free and tobacco-free policies,
+large-scale, strategically-placed media
+campaigns, and tobacco price increases.
+2.	 Create a collaborative official entity
+that implements, prioritizes, and
+tracks activities in accordance with
+the COPD National Action Plan’s
+goals and objectives.
+a.
+Create an official entity tasked to oversee and
+support the implementation and tracking of the
+COPD National Action Plan. This entity should be
+established with the following considerations:
+i.
+Hosted and supported by the Department of
+Health and Human Services (HHS) and include
+representatives from federal and nonfederal
+partners, including patients; and permit regular
+engagement to foster the collaboration and
+coordination of efforts.
+ii.
+Charged with prioritizing and tracking the
+five goals of the COPD National Action Plan
+through biannual reporting; implementation of
+tactics will be the responsibility of federal and
+nonfederal partners, as outlined in the COPD
+National Action Plan.
+COPD NATIONAL ACTION PLAN
+30
+
+iii.
+Encumbered with an equal governance role for
+patients and caregivers affected by COPD.
+iv.
+Composed of, minimally, representatives
+from the CDC (including its National Centers
+for Chronic Disease Prevention and Health
+Promotion [NCCDPHP] and the National
+Institute for Occupational Safety and Health
+[NIOSH]), CMS, NIH (NHLBI), the Department
+of Defense (DoD), VHA, the Health Resources
+and Services Administration (HRSA),
+and AHRQ.
+3.	 Identify and publicize funding
+opportunities that advance the
+implementation of the COPD National
+Action Plan.
+a.
+Develop an easily accessible resource guide to
+COPD research-funding opportunities offered by
+federal and nonfederal partners, including patient
+registries and other channels that speed access to
+clinical trials. In particular, increase the awareness
+and visibility of investigator-initiated research
+about COPD, including AAT deficiency.
+b.	 Develop and implement a process for
+including new nonfederal funding partners,
+such as public-private advisory boards, in
+the resource guide.
+c.
+Develop a mechanism to regularly share
+resources and funding opportunities with all
+interested parties (e.g., via a dedicated website
+or newsletter).
+COPD NATIONAL ACTION PLAN
+Goal 5
+31
+
+4.	 Develop and implement COPD quality
+measures into national care delivery.
+a.
+Use existing and still-developing performance-
+quality measures that are informed by
+scientific evidence and input from various
+COPD stakeholders (e.g., payers, professional
+associations, medical organizations, private
+industry, and patient advocacy organizations).
+Then work with federal agencies to encourage
+the adoption of those measures to improve COPD
+detection, care, and treatment in health care
+settings and payer programs.
+i.
+Define, validate, and disseminate
+performance-quality measures for the
+COPD continuum of care, including
+measurements for patient services in
+private and public health plans, pulmonary
+rehabilitation, and associated reimbursements.
+ii.
+Encourage health systems to incorporate
+COPD into current health and community
+assessments, such as the Community Health
+Needs Assessment Surveys.
+iii.
+Obtain patient input when developing new
+quality measures and new alternative-payment
+models and treatment guidelines. This
+feedback will help ensure that care remains
+patient-centered and tailored to help
+patients achieve their goals.
+5.	 Strengthen the public health
+infrastructure for addressing COPD.
+a.
+Support all 50 states, the District of Columbia,
+and U.S. territories in the development of
+comprehensive, statewide COPD action plans
+that include public health interventions, patient
+education efforts, and the creation of
+public-private partnerships to implement the
+initiatives specified within the individual state
+plans and the COPD National Action Plan.
+b.	 Incorporate COPD into state and local health
+department programs that focus on chronic
+disease prevention, tobacco prevention, general
+health promotion and education, and other
+relevant health initiatives.
+c.
+Improve the delivery and coordination of
+community services to support COPD patients.
+d.	 Use the Whole School, Whole Community, and
+Whole Child Model to address tobacco use and
+other risk factors for COPD.
+e.
+Create a formal, standardized national
+certificate program for COPD peer coaches
+and health educators.
+f.
+Incorporate COPD into prevention, awareness,
+surveillance, and management programs that
+encompass the range of risk factors and common
+comorbidities of COPD.
+COPD NATIONAL ACTION PLAN
+Goal 5
+32
+
+GOAL 5: OPPORTUNITIES FOR
+ENGAGEMENT AND PARTICIPATION
+
+COPD NATIONAL ACTION PLAN
+34
+
+ORGANIZATIONS
+The organizations below represent groups and federal partners that attended the COPD Town Hall Meeting and/
+or provided comments to the draft COPD National Action Plan during the public comment period.
+NAME
+DESCRIPTION
+Agency for
+Healthcare
+Research and
+Quality
+Government
+The Agency for Healthcare Research and Quality strives to make health care safer, better, and
+more accessible. The agency works with the U.S. Department of Health and Human Services and
+partners to ensure that evidence-based research is used to improve the delivery of health care
+in the United States. In addition to funding health delivery system research, the agency offers
+resources that support people with chronic health conditions and that help empower patients and
+families through shared decision-making.
+›› www.ahrq.gov
+All About You
+Homecare Services
+Health Care Organization
+All About You Homecare Services is a nurse-owned and -operated agency offering skilled nursing,
+physical therapy, occupational therapy, respiratory therapy evaluation, and home health aides. All
+About You specializes in caring for patients with respiratory disease using a pulmonary pathway.
+It offers referrals for outpatient pulmonary rehabilitation, support groups, and 90-day follow up
+phone calls to those in treatment.
+›› www.aayct.com
+Alpha-1 Foundation
+Nonprofit
+The Alpha-1 Foundation promotes research and the development of new therapies for improving
+the quality of life for those diagnosed with alpha-1 antitrypsin (AAT) deficiency. The foundation
+is committed to finding a cure for AAT deficiency and improving the lives of people affected
+worldwide.
+›› www.alpha1.org
+American Academy
+of Family Physicians
+Health Care Professional
+Association
+The American Academy of Family Physicians advocates for high quality standards for family
+doctors. It is one of the world’s largest medical organizations, with nearly 125,000 members in 50
+states and abroad. The association was founded in 1947.
+›› www.aafp.org
+American
+Association for
+Respiratory Care
+Health Care Professional
+Association
+The American Association for Respiratory Care advances the science and practice of respiratory
+care, encourages and promotes professional excellence, and serves as an advocate for patients
+and their families, the public, and the respiratory care profession.
+›› www.aarc.org
+American
+Association of
+Cardiovascular
+and Pulmonary
+Rehabilitation
+Health Care Professional
+Association
+The American Association of Cardiovascular and Pulmonary Rehabilitation is composed of health
+professionals who work in the field of cardiac and pulmonary rehabilitation. Members include
+cardiovascular and pulmonary physicians, nurses, exercise physiologists, physical therapists,
+behavioral scientists, respiratory therapists, dieticians, and nutritionists.
+›› www.aacvpr.org
+COPD NATIONAL ACTION PLAN
+
+35
+
+NAME
+DESCRIPTION
+American College
+of Allergy, Asthma,
+and Immunology
+Health Care Professional
+Association
+The American College of Allergy, Asthma, and Immunology advocates for those suffering from
+asthma and allergies, and educates the public about symptoms and allergist care and treatment.
+›› www.acaai.org
+American College
+of Chest Physicians
+Health Care Professional
+Association
+The American College of Chest Physicians seeks to advance best patient outcomes through
+innovative chest medicine education and clinical research.
+›› www.chestnet.org
+American College
+of Preventive
+Medicine
+Health Care Professional
+Association
+The American College of Preventive Medicine focuses on the health of communities, individuals,
+and populations through the work of physicians dedicated to prevention. Its goal is to protect,
+promote, and maintain health and well-being, and to prevent disease, disability, and death.
+›› www.acpm.org
+American Lung
+Association
+Nonprofit
+The American Lung Association is committed to supporting those affected by COPD. The
+association offers a variety of resources and information about the disease. Resources include
+Better Breathers Clubs, COPD Management Plan, and a Living with COPD Online Support
+Community for those affected and their families. The association is a source for lung health
+education, lung disease research, support, programs, services, and advocacy.
+›› www.lung.org
+American Thoracic
+Society
+Health Care Professional
+Association
+The American Thoracic Society is dedicated to understanding pulmonary diseases, critical
+illnesses, and sleep-related breathing disorders. Founded in 1905, the society has grown into an
+international society with more than 15,000 members.
+›› www.thoracic.org
+Ascension
+Health Care Organization
+Ascension is the largest nonprofit health system in the United States and the world’s largest
+Catholic health system, operating 2,500 sites of care — including 141 hospitals and more than
+30 senior living facilities — in 24 states and the District of Columbia. Ascension is committed
+to delivering compassionate, personalized care to all, with special attention to persons living in
+poverty and others in vulnerable situations.
+›› www.stagnes.org
+AstraZeneca
+Industry
+AstraZeneca counts respiratory disease as one of its main therapy areas, as evidenced by its
+growing portfolio of respiratory medicines. In 2015, those treatments reached more than 17
+million patients. AstraZeneca aims to transform asthma and COPD treatment through inhaled
+combinations for those needing basic care, biologics for the unmet needs of specific patient
+populations, and scientific advancements that help with disease modification.
+›› www.astrazeneca.com
+Atlantic General
+Hospital
+Health Care Organization
+Atlantic General Hospital is a nonprofit community hospital in Berlin, Md., that offers acute care
+and specialty services. With a network of more than 30 family physicians, internists, and specialists
+with offices in 10 locations throughout the region, the hospital and its health system serve the
+health care and wellness needs of residents and visitors across the Eastern Shore.
+›› www.atlanticgeneral.org
+COPD NATIONAL ACTION PLAN
+
+36
+
+NAME
+DESCRIPTION
+Boehringer
+Ingelheim
+Industry
+Boehringer Ingelheim has been committed for nearly a century to researching the science of
+serious respiratory diseases and providing therapies to help people living with them. To treat
+COPD, Boehringer Ingelheim has developed six FDA-approved medicines and is committed to
+doing more research that could help and support the COPD community further.
+›› www.boehringer-ingelheim.com
+Breathe Easy Home
+Industry
+Breathe Easy Home educates homeowners and contractors on ways to improve homes for people
+with respiratory issues. It developed the Breathe Easy Home Indoor Air Quality System, which
+helps remove allergy and asthma triggers, along with other irritants and pollutants, from a home’s
+indoor environment.
+›› www.breatheeasyhome.org
+BREATHE LA
+Advocacy
+BREATHE LA, founded in 1903, promotes clean air and lungs through research, education, and
+technology. BREATHE LA aims to eliminate causes of lung disease and reduce the pain and
+discomfort of those affected by lung diseases in California.
+›› www.breathela.org
+Breathe New
+Hampshire
+Nonprofit
+Breathe New Hampshire focuses on issues related to lung health, such as tobacco use, COPD,
+asthma, air quality, and lung cancer. It provides educational programs and supports public health
+advocacy and scientific research focused on preventing, eliminating, and treating lung disease.
+›› www.breathenh.org
+Carolina Diagnostic
+Solutions
+Industry
+Carolina Diagnostic Solutions provides pulmonary diagnostic equipment, testing supplies, and
+asthma and COPD management tools to the health care industry. Additionally, Carolina Diagnostic
+Solutions’ respiratory therapists provide a wide range of diagnostic testing, patient education, and
+specialized disease management in multiple settings.
+›› www.carolinadiagnosticsolutions.com
+Carolinas
+HealthCare System
+Health Care Organization
+Carolinas HealthCare System serves nearly 12 million patients each year throughout the Southeast.
+It has some 900 locations, ranging from hospitals and freestanding emergency departments to
+home health agencies and outpatient centers.
+›› www.carolinashealthcare.org
+Carroll Hospital
+Health Care Organization
+Carroll Hospital is a portal of health and wellness, serving the greater Baltimore area. The hospital
+aims to improve the health of patients through care management and delivery of high-quality, low-
+cost services in the most appropriate settings. Carroll Hospital is a division of LifeBridge Health
+and is advancing in areas such as cardiovascular, cancer, surgery, and outpatient services.
+›› www.carrollhospitalcenter.org
+Case Western
+Reserve University
+School of Medicine
+Academic
+Case Western Reserve University School of Medicine, in Cleveland, Ohio, is dedicated to enhancing
+human health in the fields of medical education and biomedical research and development.
+Founded in 1843, the school trains more than 800 students each year.
+›› www.case.edu
+COPD NATIONAL ACTION PLAN
+
+37
+
+NAME
+DESCRIPTION
+Centers for Disease
+Control and
+Prevention
+Government
+The Centers for Disease Control and Prevention increases the health security of Americans and
+works to protect citizens from health threats. As the nation’s health protection agency, the CDC
+conducts surveillance of chronic diseases, including COPD, to better understand the extent of
+health risk behaviors, preventive care practices, disease prevalence, disability, and death; to
+monitor the progress of prevention efforts; and to help public health professionals and policy
+makers make more timely and effective decisions.
+›› www.cdc.gov
+Centers for
+Medicare &
+Medicaid Services,
+U.S. Department of
+Health and Human
+Services
+Government
+The Centers for Medicare & Medicaid Services administers Medicare, Medicaid, the Children’s
+Health Insurance Program, and the Health Insurance Marketplace, all of which aim for more
+affordable, better care.
+›› www.cms.gov
+Children’s National
+Medical Systems
+Health Care Organization
+The Children’s National Health System is a children’s health care system in the Washington, D.C.,
+area that focuses on clinical care, advocacy, research, and education for children. The system is
+dedicated to caring for children, their families, and the community with primary and specialty
+health professionals.
+›› www.childrensnational.org
+Clear Lungs
+Adventure
+Nonprofit
+Clear Lungs Adventure raises awareness for early screening and diagnosis of progressive lung
+diseases, while demonstrating the power of older athletes to be role models and ambassadors
+for healthy and active living. Clear Lungs Adventure sponsors a series of 12 climbs in seven
+destinations for people affected by COPD.
+›› www.clearlungsadventure.com
+Cleveland Clinic
+Respiratory
+Institute
+Health Care Organization
+The Cleveland Clinic Respiratory Institute provides patient care through clinical expertise, research,
+and education. With more than 100 pulmonologists, allergists, immunologists, and critical care
+specialists, Cleveland Clinic treats a wide range of lung, allergy and breathing-related conditions.
+››  www.clevelandclinic.org
+Colorado COPD
+Coalition
+Advocacy
+The Colorado COPD Coalition was founded in 2006 and is made up of Colorado health
+professionals, patients, research scientists, industry representatives, state officials, and
+caregivers. Its mission is to address the health crisis of COPD by increasing awareness,
+prevention, and screening.
+›› www.coloradocopdcoalition.org
+Columbia University
+Academic
+Columbia University Medical Center provides leadership in scientific research, health and medical
+education, and patient care. The center has more than 40 active research and clinical programs.
+›› www.cumc.columbia.edu
+COPD Foundation
+Nonprofit
+The COPD Foundation was established to improve the lives of those affected by COPD and is the
+only U.S. health care nonprofit solely dedicated to preventing and curing the disease. Founded
+in 2004, the foundation focuses on helping those with COPD through research, education, and
+advocacy programs. It helps speed innovations that provide more effective and affordable
+treatments to those with COPD.
+›› www.copdfoundation.org
+COPD NATIONAL ACTION PLAN
+
+38
+
+NAME
+DESCRIPTION
+Culpeper Medical
+Center
+Health Care Organization
+The Culpeper Medical Center partners with pediatric and adult pulmonologists who specialize
+in treating respiratory disorders. Culpeper Memorial Hospital is part of the University of Virginia
+Health System and provides services in all areas of health care.
+›› www.uvaculpeperhospital.com
+Department of
+Veterans Affairs
+Government
+The Department of Veterans Affairs (VA) operates the nation’s largest integrated health care
+system, with more than 1,700 hospitals, clinics, community living centers, readjustment counseling
+centers, and other facilities. The VA provides COPD resources and treatment for people with
+the disease.
+›› www.va.gov
+Dorney-Koppel
+Family Charitable
+Foundation, Inc.
+Nonprofit
+The Dorney-Koppel Family Charitable Foundation, founded in 1999, is named for Grace Dorney-
+Koppel, wife of television newsman Ted Koppel. Dorney-Koppel, who was diagnosed with COPD
+more than 16 years ago, has become a national spokesperson for those with chronic breathing
+conditions. The foundation has helped fund the creation of pulmonary and cardiac rehabilitation
+clinics in Maryland, West Virginia, Louisiana, and North Carolina.
+›› N/A
+Duke University
+Health System
+Academic
+The Duke University Health System combines educational, research, policy, and patient care
+programs. Duke Health helps manage COPD symptoms through an experienced personal care
+team and actively conducts research on COPD treatments.
+›› www.dukehealth.org
+Emphysema
+Foundation For Our
+Right To Survive
+Nonprofit
+The Emphysema Foundation For Our Right To Survive (EFFORTS) is a nonprofit
+organization that seeks to support individuals who suffer with emphysema, a chronic
+obstructive pulmonary disease.
+›› www.emphysema.net
+Erlanger Health
+Health Care Organization
+Erlanger Health’s pulmonary rehabilitation program aims to help people with restrictive lung
+impairments lead more active lives. The certified program involves exercise, education, and
+support tailored to meet each patient’s needs.
+›› www.erlanger.org
+Evidera
+Industry
+Evidera is dedicated to advancing research and consultation in the life sciences industry and has
+worked with 20 biopharmaceutical companies. Evidera scientists and consultants publish more
+than 150 peer-reviewed articles each year and have more than 1,100 studies in progress across all
+major therapeutic areas.
+›› www.evidera.com
+Fremont Health
+Health Care Organization
+Fremont Health is a health system with six clinics throughout Nebraska. More than 100 active
+members of its medical staff practice in nearly every medical specialty.
+›› www.fremonthealth.com
+FutureCare
+Health Care Organization
+FutureCare is a short-term rehabilitation and nursing care center with 14 facilities throughout
+Maryland. Its staff of 3,800 health care professionals serves both patients and families. FutureCare
+provides respiratory care to residents through its BreatheStrong pulmonary rehab program.
+›› www.futurecare.com
+COPD NATIONAL ACTION PLAN
+
+39
+
+NAME
+DESCRIPTION
+George Mason
+University
+Academic
+George Mason University is the largest public research university in Virginia. Partnering with
+the National Institutes of Health, researchers from across the university are working to develop
+advanced diagnostics and treatments for major life-threatening illnesses, including COPD.
+›› www.gmu.edu
+Georgetown
+University Hospital
+Academic
+MedStar Georgetown University Hospital is a nonprofit, acute-care teaching and research hospital
+in Washington, D.C. Its Division of Pulmonary, Critical Care and Sleep Medicine provides resources
+and treatments for people with COPD.
+›› www.medstargeorgetown.org
+Glaxo Smith Kline
+Industry
+Glaxo Smith Kline is a global health care company committed to the research and development of
+pharmaceutical medicines, vaccines, and consumer health care products. Glaxo Smith Kline seeks
+to widen access to their products regardless of where patients live.
+›› www.gsk.com
+Grifols
+Industry
+Grifols is a global health care company whose mission is to improve the health and well-being
+of people around the world. Grifols has been working in the fields of transfusion, blood banking,
+protein therapeutics, and laboratory analysis for more than 75 years.
+›› www.grifolsusa.com
+Hawaii COPD
+Coalition
+Nonprofit
+The Hawaii COPD Coalition is a nonprofit dedicated to advocacy, education, support, and
+resources for those at risk for or suffering from COPD. Formed in 2007, the coalition also offers
+practical training and resources for families, caregivers, and health care professionals.
+›› www.hawaiicopd.org
+Health Resources
+and Service
+Administration,
+U.S. Department
+of Health & Human
+Services
+Government
+The Health Resources and Services Administration is the primary federal agency tasked with
+improving health and achieving health equity through access to quality services, a skilled
+health workforce, and innovative programs. Its programs provide health care to people who are
+geographically isolated and economically or medically vulnerable.
+›› www.hrsa.gov
+Holy Cross Hospital
+Health Care Organization
+Holy Cross Hospital is a full-service, nonprofit, teaching hospital based in South Florida, with
+more than 600 physicians on staff in nearly every specialty in medicine. The hospital offers
+inpatient, outpatient, and community outreach services and clinical trials. It also offers a certified
+cardiovascular/pulmonary rehabilitation program.
+›› www.holy-cross.com
+Hospital for Special
+Care
+Health Care Organization
+The Hospital for Special Care is a long-term acute-care hospital in Connecticut that serves both
+adults and children. The hospital is recognized for advanced care and rehabilitation in highly
+specialized areas, including pulmonary care.
+›› www.hfsc.org
+HumanKind
+Nonprofit
+HumanKind, founded in 1903 in Virginia, aims to strengthen individuals and families through care,
+counseling, and education.
+›› www.humankind.org
+COPD NATIONAL ACTION PLAN
+
+40
+
+NAME
+DESCRIPTION
+Indian Health
+Service, U.S.
+Department of
+Health and Human
+Services
+Government
+The Indian Health Service is the principal federal health care provider and health advocate for
+Indian people and Alaska Natives. The Indian Health Service provides a comprehensive health
+service delivery system for approximately 2.2 million American Indians and Alaska Natives who
+belong to 567 federally recognized tribes in 36 states.
+›› www.ihs.gov
+Inova
+Health Care Organization
+Inova is a nonprofit health care system that serves more than 2 million people each year
+throughout the Washington, D.C. metro area and beyond. Based in Northern Virginia and
+governed by a volunteer board of community members, Inova has grown from one hospital in 1956
+to a nationally recognized, comprehensive network of hospitals, outpatient services and facilities,
+primary and specialty care physician practices, and health and wellness initiatives.
+›› www.inova.org
+J. Craig Venter
+Institute
+Health Care Organization
+The J. Craig Venter Institute was formed in October 2006 through the merger of several affiliated
+and legacy organizations — the Institute for Genomic Research (TIGR) and the Center for the
+Advancement of Genomics (TCAG), the J. Craig Venter Science Foundation, the Joint Technology
+Center, and the Institute for Biological Energy Alternatives (IBEA). Today, all these organizations
+have become one large multidisciplinary genomic-focused organization.
+›› www.jcvi.org
+JFK Medical Center
+Health Care Organization
+The JFK Medical Center is based in Atlantis, Fla., and was established in 1966. The medical center
+has evolved into a multi-campus medical center with four locations.
+›› www.jfkmc.com
+Johns Hopkins
+University Hospital
+Academic
+The Johns Hopkins University Hospital is the teaching hospital and biomedical research arm of the
+Johns Hopkins School of Medicine, located in Baltimore, Md.
+›› www.jhu.edu
+Kaiser Permanente
+Health Care Organization
+Kaiser Permanente provides health care to more than 9 million people with multiple plans. For
+more than 60 years Kaiser Permanente has been committed to reaching the community and
+promoting health and wellness through its plans and facilities.
+›› www.kaiserpermanente.org
+Kindred Healthcare
+Health Care Organization
+Kindred Healthcare’s Nursing and Rehabilitation Centers provide pulmonary care to help patients
+breathe easier. Kindred Healthcare treats a variety of conditions, including COPD, and offers
+patients individualized care and access to nurses trained in respiratory management and healthy
+lifestyle programs.
+›› www.kindredhealthcare.com
+Lincoln Health
+Foundation
+Nonprofit
+The Lincoln Health Foundation, located in Lincoln Parish, La., seeks to improve the quality of life
+for patients and develop initiatives and programs that facilitate health and wellness.
+›› www.lincolnhealth.com
+Living Healthy
+Health Care Organization
+Living Healthy seeks to change behavior through education. It provides nurse consulting services,
+workshops, CPR training, and health and safety inspections. Living Healthy partners with
+organizations to equip and inform them on health and safety.
+›› www.livinghealthyinc.com
+COPD NATIONAL ACTION PLAN
+
+41
+
+NAME
+DESCRIPTION
+MD/DC Society for
+Respiratory Care
+Health Care Professional
+Association
+The MD/DC Society for Respiratory Care provides support, educational opportunities, and
+legislative monitoring for respiratory care professionals in Maryland and the District of Columbia.
+›› www.mddcsoc.org
+Medical University
+of South Carolina
+Academic
+The Medical University of South Carolina (MUSC) is a hospital and academic medical center in
+South Carolina. MUSC seeks to provide quality health care through its dedication to patient care,
+academics, and research.
+›› www.musc.edu
+MedStar Family
+Choice
+Health Care Organization
+MedStar Family Choice is a provider-sponsored managed care organization servicing Medicaid
+programs in the District of Columbia and the state of Maryland. With 42,000 members, the
+MedStar network consists of 3,000 physicians and health care providers.
+›› www.medstarfamilychoice.com
+Monadnock
+Community
+Hospital
+Health Care Organization
+Monadnock Community Hospital, founded in 1923, is a 25-bed critical access hospital offering
+medical, surgical, and intensive care services, including pulmonary care.
+›› www.monadnockcommunityhospital.com
+Mount Sinai Health
+System
+Health Care Organization
+Mount Sinai Health System is a group practice offering the experience of more than 100 physicians
+with personalized and integrated treatment for patients. Mount Sinai specializes in clinical services,
+and offers a pulmonary rehabilitation program that helps patients manage and improve their COPD,
+learn more about their disease, and increase their endurance and ability to enjoy daily living.
+›› www.mountsinai.org
+Mylan
+Industry
+Mylan is a generics and specialty pharmaceutical company, with sales in approximately 165
+countries and territories. Mylan was founded in 1961 and seeks to provide new generics to
+the market.
+›› www.mylan.com
+National Cancer
+Institute, Division of
+Cancer Prevention
+Government
+The National Cancer Institute’s Division of Cancer Prevention focuses on cancer prevention
+research. Providing funding and administrative support to clinical and laboratory researchers, its
+goal is to detect changes and intervene early to prevent cancer in major organs.
+›› www.prevention.cancer.gov
+National Center
+on Addiction and
+Substance Abuse
+Nonprofit
+The National Center on Addiction and Substance Abuse is a research organization focused on
+improving the understanding, prevention, and treatment of substance use and addiction.
+›› www.centeronaddiction.org
+National
+Development and
+Research Institutes
+Nonprofit
+The National Development and Research Institutes, Inc. was founded in 1967 to advance the
+understanding of factors that affect the health of individuals, communities, and other populations.
+›› www.ndri.org
+COPD NATIONAL ACTION PLAN
+
+42
+
+NAME
+DESCRIPTION
+National
+Emphysema
+Foundation
+Nonprofit
+The National Emphysema Foundation aims to improve the quality of life in patients with
+emphysema and their caregivers by providing educational, advocacy, and research initiatives to
+the medical community and the general public. The foundation is dedicated to reducing the toll
+emphysema takes on people around the globe.
+›› www.emphysemafoundation.org
+National Heart,
+Lung, and Blood
+Institute
+Government
+The National Heart, Lung, and Blood Institute, part of the National Institutes of Health, plans,
+conducts, and supports research related to the causes, prevention, diagnosis, and treatment of
+heart, blood vessel, lung, and blood diseases; and sleep disorders. The Institute also administers
+national health education campaigns on women and heart disease, COPD, and other topics.
+›› www.nhlbi.nih.gov
+National Institute
+of Environmental
+Health Sciences
+Government
+The National Institute of Environmental Health Sciences is a research institute that is part of the
+U.S. Department of Health and Human Services. Its mission is to discover how the environment
+affects people and to educate the public on how to live healthier lives.
+›› www.niehs.nih.gov
+National Institute of
+Nursing Research
+Government
+The National Institute of Nursing Research seeks to improve the health and health care of
+Americans through the funding of nursing research and research training. Its mission is to promote
+and improve the health of all individuals.
+›› www.ninr.nih.gov
+National Institute
+on Aging, Division
+of Geriatrics
+and Clinical
+Gerontology
+Government
+The National Institute on Aging is dedicated to understanding aging, supporting the health and
+well-being of older adults, and helping people live longer, healthier, and more active lives. The
+National Institute on Aging is focused on discovering the factors that contribute to healthy aging,
+as well as to understanding and addressing some of the diseases and disabilities associated with
+growing older.
+›› www.nia.nih.gov
+National Jewish
+Health
+Health Care Organization
+National Jewish Health is a hospital in Denver, Co., where every doctor on staff is also a researcher.
+The hospital treats pulmonary diseases using a program customized for each patient.
+›› www.nationaljewish.org
+National Oceanic
+and Atmospheric
+Administration
+Government
+The National Oceanic and Atmospheric Administration seeks to understand and predict
+climate changes and conserve coastal ecosystems. It uses cutting-edge research and high-tech
+instrumentation to provide citizens, planners, and emergency managers reliable information when
+they need it.
+›› www.noaa.gov
+National Rural
+Health Association
+Nonprofit
+The National Rural Health Association is a national membership organization with more than
+20,000 members. The association’s goal is to provide leadership on rural health issues through
+advocacy, communications, education, and research.
+›› www.ruralhealthweb.org
+New York-
+Presbyterian
+Health Care Organization
+New York-Presbyterian is an academic health care delivery system that seeks to provide
+compassionate care and service to patients in the New York metropolitan area.
+›› www.nyp.org
+COPD NATIONAL ACTION PLAN
+
+43
+
+NAME
+DESCRIPTION
+North Carolina
+COPD Taskforce
+Advocacy
+The North Carolina Taskforce is composed of groups across the Carolinas. Together they provide
+resources to health professionals and individuals working on behalf of COPD patients. The
+Taskforce annually sponsors a COPD Symposium focused on implementing a state COPD strategic
+plan.
+›› www.uscopdcoalition.org/StateCoalitions/NorthCarolina.aspx
+Northwest Hospital
+Health Care Organization
+Northwest Hospital is a community hospital that serves the health care needs of northwest
+Baltimore in Maryland. Northwest Hospital’s Division of Pulmonary Medicine offers broad-based
+consultation, diagnosis, and treatment in pulmonary diseases.
+›› www.lifebridgehealth.org
+Novartis
+Industry
+Novartis is a health care company based in Switzerland that works to find health care solutions
+for patients worldwide. It uses science-based innovation to improve areas of health care and the
+practice of medicine.
+›› www.novartis.com
+Olmsted Medical
+Center
+Health Care Organization
+Olmsted Medical Center offers cardiopulmonary rehabilitation services that are certified by the
+American Association of Cardiovascular and Pulmonary Rehabilitation. The center has been
+providing care to patients for 65 years.
+›› www.olmmed.org
+Pen Bay Medical
+Center
+Health Care Organization
+Pen Bay Medical Center is the largest community hospital in Midcoast Maine. Providing patient
+care in multiple medical settings, including clinics and a retirement community, the nonprofit
+center has a staff of more than 100 physicians and 1,500 health care professionals.
+›› www.penbayhealthcare.org
+Propeller Health
+Industry
+Propeller Health aims to help people with asthma and COPD live better lives by minimizing the
+daily impact of their symptoms and connecting them to their physicians, environment, and
+community. With sensor-connected inhalers, digital interfaces, mobile spirometers, and real-time
+education, participants can receive personal guidance to improve self-management, and clinicians
+can receive data to inform selection of the optimal therapy for each individual.
+›› www.propellerhealth.com
+Pulmonary
+Horizons, Inc.
+Health Care Organization
+Pulmonary Horizons provides patient-centered education in its treatment and management of
+those diagnosed with COPD. The organization partners with the National Lung Health Education
+Program and Right2Breathe.
+›› www.pulmonaryhorizons.org
+Pulmonary Wellness
+Rehabilitation
+Center
+Health Care Organization
+The Pulmonary Wellness Rehabilitation Center was founded in 1998 to provide wellness,
+rehabilitation, and education programs for people living with pulmonary disease. The Center helps
+empower patients by teaching them how to lessen and reverse the effects of their respiratory
+disease and to effectively manage associated symptoms.
+›› www.pulmonarywellness.com
+Reading Health
+System
+Health Care Organization
+Reading Health System provides health care to the community, promotes health and education,
+and participates in clinical research.
+›› www.readinghealth.org
+COPD NATIONAL ACTION PLAN
+
+44
+
+NAME
+DESCRIPTION
+Respiratory Health
+Association
+Nonprofit
+The Respiratory Health Association specializes in asthma, COPD, and air quality through research,
+education, and advocacy activities. Founded in 1906 in Chicago, the group promotes ways to keep
+lungs healthy, fights lung disease, and hosts educational events for health care providers.
+›› www.lungchicago.org
+Right2Breathe®
+Nonprofit
+Right2Breathe® was created by two automotive enthusiasts to help improve the quality of life
+for those who live with respiratory diseases. Right2Breathe® provides awareness campaigns,
+education, and free COPD screenings at events across the country.
+›› www.right2breathe.org
+Sanford Health
+Health Care Organization
+Sanford Health is a network of 43 hospitals and nearly 250 clinics in nine states and three
+countries. Its pulmonology division specializes in diagnosing and treating respiratory tract and
+lung disease. The staff works with primary care specialists to provide advanced diagnosis and
+treatment and management of lung conditions and diseases.
+›› www.sanfordhealth.org
+Social Security
+Administration
+Government
+The Social Security Administration provides financial benefits, tools, and information to help
+support people through all stages of life.
+›› www.ssa.gov
+Society for
+Women’s Health
+Research
+Health Care Professional
+Association
+The Society for Women’s Health Research is a nonprofit based in Washington, D.C., that is
+dedicated to improving women’s health through science, advocacy, and education.
+›› www.swhr.org
+Temple Lung Center
+Academic
+Temple Lung Center’s team of pulmonary specialists offers advanced treatment options for
+respiratory conditions, including COPD. Temple Lung Center is located in Philadelphia.
+›› www.pulmonary.templehealth.org
+Teva
+Industry
+Teva is a pharmaceutical company that seeks to increase access to high-quality health care
+for people across the globe by developing, producing, and marketing generic drugs. Based in
+Israel, Teva was established in 1901 and produces more than 64 million prescription tablets at 66
+manufacturing facilities in 60 countries.
+›› www.tevapharm.com
+The UNC Medical
+Center
+Academic
+The UNC Medical Center is an academic medical center and part of the University of North
+Carolina, Chapel Hill. The center’s pulmonary care program addresses a wide range of conditions
+and treatments, including COPD. UNC has an Obstructive Lung Diseases Clinical and Translational
+Research Center, where specialists care for COPD patients and conduct clinical research on COPD.
+UNC also provides pulmonary rehabilitation and smoking cessation support to patients suffering
+from pulmonary diseases.
+›› www.med.unc.edu
+The University of
+Chicago Asthma
+and COPD Center
+Academic
+The University of Chicago Asthma and COPD Center is dedicated to the care of asthma and COPD
+patients. Its respiratory disease specialists provide a range of services to help manage asthma and
+COPD.
+›› asthma.bsd.uchicago.edu
+COPD NATIONAL ACTION PLAN
+
+45
+
+NAME
+DESCRIPTION
+The University of
+Illinois Hospital &
+Health Sciences
+System
+Academic
+The University of Illinois Hospital & Health Sciences System is an academic facility that is part of
+the University of Illinois at Chicago. It has a pulmonary outpatient clinic for the treatment and care
+of patients with respiratory diseases.
+›› www.hospital.uillinois.edu
+The University of
+Kentucky Medical
+Center
+Academic
+The University of Kentucky Medical Center is an academic health care center established in 1957
+on the Lexington campus of Kentucky’s flagship university. The faculty, students, and staff strive
+for excellence in education, patient care, research, and community service.
+›› www.mc.uky.edu
+The University of
+Michigan Health
+System
+Academic
+The University of Michigan Health System is a health care system and academic medical center
+made up of hospitals, health care centers, and clinics throughout Michigan. Its vision is to achieve
+excellence in medical education and research and provide quality patient care.
+›› www.med.umich.edu
+Theravance
+Biopharma
+Industry
+Theravance Biopharma is a biopharmaceutical company with the mission to create medicines that
+make a difference in the lives of patients suffering from serious illness like COPD. Theravance has a
+history of commitment to the respiratory and COPD community and has active research programs
+in the respiratory arena.
+›› www.theravance.com
+U.S. COPD Coalition
+Advocacy
+The U.S. COPD Coalition is a nonprofit organization made up of patient organizations, health
+professional organizations, individuals, and government agencies that work together to improve
+the care of individuals affected by COPD.
+›› www.uscopdcoalition.org
+University of Texas
+Medical Branch
+Academic
+The University of Texas Medical Branch, opened in 1891, is an academic health and sciences center
+with schools for medical, nursing, and health professionals; a research facility; and a network of
+clinics. The University of Texas Medical Branch is part of the Texas Medical Center and provides a
+range of primary and specialized care.
+›› www.utmb.edu
+Washington
+Hospital Center
+Health Care Organization
+The Washington Hospital Center is a nonprofit, 926-bed academic medical center in Washington,
+D.C. Its team of pulmonary experts treats patients with a range of pulmonary conditions, from
+acute illnesses to chronic respiratory diseases like COPD.
+›› www.medstarwashington.org
+Weill Cornell
+Medicine
+Academic
+Weill Cornell Medicine is a clinical and medical research center affiliated with New York-
+Presbyterian Hospital. Founded in 1898, the center is known for its breakthrough discoveries
+in biomedical research and patient care. It is a major hub for state-of-the-art technologies and
+the pursuit of scientific discovery and life-saving therapies. It offers access to internationally
+recognized physicians from all fields of medicine.
+›› www.weill.cornell.edu
+Western Michigan
+University Homer
+Stryker M.D. School
+of Medicine
+Academic
+Western Michigan University Homer Stryker M.D. School of Medicine is a collaboration between
+Western Michigan University and Kalamazoo’s two teaching hospitals, Borgess Health and Bronson
+Healthcare.
+›› www.wmich.edu
+COPD NATIONAL ACTION PLAN
+
+46
+
+GLOSSARY
+TERM
+DEFINITION
+Access to care
+Access to care means having the timely use of personal health services to achieve the best health
+outcomes.
+Adherence
+Adherence, or taking medications correctly, is generally defined as the extent to which patients take
+medication as prescribed by their doctors. This involves factors such as getting prescriptions filled,
+remembering to take medication on time, and understanding the directions.
+Agency for
+Healthcare
+Research and
+Quality (AHRQ)
+The Agency for Healthcare Research and Quality’s (AHRQ) mission is to produce evidence to make
+health care safer, higher quality, more accessible, equitable, and affordable, and to work within
+the U.S. Department of Health and Human Services and with other partners to make sure that the
+evidence is understood and used.
+Agency for
+Healthcare
+Research and
+Quality’s National
+Guideline
+Clearinghouse
+(AHRQ NGC)
+The National Guideline Clearinghouse (NGC) supports AHRQ’s mission to produce evidence to
+make health care safer, higher quality, more accessible, equitable, and affordable by providing
+objective, detailed information on clinical practice guidelines, and to further their dissemination,
+implementation, and use in order to inform health care decisions.
+Air sacs
+Air sacs, also called alveoli, are a part of the lung that form at the end of the bronchioles. When air
+reaches the air sacs, oxygen passes through the air sac walls into the blood in the capillaries. The
+airways and air sacs are elastic (stretchy). When you breathe in, each air sac fills up with air like a
+small balloon. When you breathe out, the air sacs deflate and the air goes out. There are about 300
+million alveoli in a normal lung.
+Alpha-1
+antitrypsin (AAT)
+deficiency
+Alpha-1 antitrypsin (AAT) deficiency is an inherited condition that raises the risk for lung and liver
+disease. AAT is a protein produced by the liver that protects the lungs. If the AAT proteins are not
+the correct shape, they get stuck in the liver cells and cannot reach the lungs.
+Arterial blood gas
+test
+Arterial blood gas tests measure how much oxygen and carbon dioxide are in the blood. They also
+determine the pH, or how acidic or basic, the blood is.
+Behavioral
+Risk Factor
+Surveillance
+System (BRFSS)
+The Behavioral Risk Factor Surveillance System (BRFSS) is the nation’s premier system of telephone
+surveys that collect state data about U.S. residents regarding their health-related risk behaviors,
+chronic health conditions, and use of preventive services. Established in 1984 with 15 states, the
+BRFSS now collects data in all 50 states, as well as the District of Columbia and three U.S. territories.
+The BRFSS completes more than 400,000 adult interviews each year, making it the largest
+continuously conducted health survey system in the world.
+Biomarker
+A biomarker refers to a broad subcategory of medical signs — that is, objective indications of
+medical states observed from outside the patient — which can be measured accurately and
+reproducibly. Medical signs stand in contrast to medical symptoms, which are limited to those
+indications of health or illness perceived by patients themselves.
+COPD NATIONAL ACTION PLAN
+
+47
+
+TERM
+DEFINITION
+Bronchial tubes
+The bronchial tubes, or bronchi, are two tubes that branch off the trachea, or windpipe. Bronchial
+tubes carry air to the lungs. The most common problem with the bronchi is bronchitis, an
+inflammation of the tubes.
+Bronchitis
+Bronchitis is an inflammation of the bronchial tubes. It causes a cough that often brings up mucus
+and can also cause shortness of breath, wheezing, a low fever, and chest tightness. There are two
+main types of bronchitis: acute and chronic.
+Care continuum
+Care continuum is a concept involving an integrated system of care that guides and tracks a patient
+over time through a comprehensive array of health services.
+Centers for
+Disease Control
+and Prevention
+(CDC)
+The Centers for Disease Control and Prevention (CDC) is the nation’s health protection agency.
+The CDC conducts critical science and provides health information that protects the U.S. against
+expensive and dangerous health threats, and responds when these arise.
+Centers for
+Medicare &
+Medicaid Services
+(CMS)
+The Centers for Medicare & Medicaid Services (CMS) is part of the Department of Health and Human
+Services (HHS). Its programs include Medicare, Medicaid, the Children’s Health Insurance Program,
+and the Health Insurance Marketplace.
+Chest CT scan
+A chest CT scan is a more detailed type of chest X-ray. This painless imaging test takes many
+detailed pictures, called slices, of the lungs and the inside of the chest. Computers can combine
+these pictures to create three-dimensional (3D) models to help show the size, shape, and position
+of the lungs and structures in the chest. A chest CT scan can also help determine the cause of
+lung symptoms such as shortness of breath or chest pain, or check to see if a patient has certain
+lung problems such as a tumor, excess fluid around the lungs (called pleural effusion), pulmonary
+embolism, emphysema, tuberculosis, and pneumonia.
+Chest X-ray
+A chest X-ray is a fast and painless imaging test that uses certain electromagnetic waves to
+create pictures of the structures in and around the chest. This test can help diagnose and monitor
+conditions such as pneumonia, heart failure, lung cancer, tuberculosis, sarcoidosis, and lung tissue
+scarring, called fibrosis. Doctors may use chest X-rays to see how well certain treatments are
+working and to check for complications after certain procedures or surgeries.
+Chronic
+condition
+A chronic condition is a condition, disease, sign, or symptom that lasts persistently, recurs frequently,
+or worsens progressively over a long time.
+Chronic lower
+respiratory
+disease
+Chronic lower respiratory disease is a disease that affects the lungs, including COPD.
+Clinical quality
+measures (CQMs)
+Clinical quality measures (CQMs) are tools that help measure and track the quality of health care
+services provided by eligible professionals, eligible hospitals, and critical access hospitals within
+our health care system. These measures use data associated with providers’ ability to deliver high-
+quality care or relate to long-term goals for quality health care.
+Community health
+needs assessment
+(CHNA) survey
+Community health needs assessment (CHNA), or a community health assessment (CHA), refers to a
+state, tribal, local, or territorial health assessment that identifies key health needs and issues through
+systematic, comprehensive data collection and analysis.
+COPD NATIONAL ACTION PLAN
+
+48
+
+TERM
+DEFINITION
+Comorbidity
+Comorbidity describes two or more disorders or illnesses occurring in the same person. They can
+occur at the same time or one after the other. Comorbidity also implies interactions between the
+illnesses that can worsen the course of both.
+Continuing
+medical education
+(CME)
+Continuing medical education (CME) is the process by which family physicians and other health
+professionals engage in activities designed to support their continuing professional development.
+Activities are derived from multiple instructional domains, are learner centered, and support the
+ability of those professionals to provide high-quality, comprehensive, and continuous patient care
+and service to the public and their profession.
+COPDGene
+COPDGene is a multicenter observational study designed to identify genetic factors associated with
+COPD.
+Culturally
+appropriate
+services
+Culturally appropriate services are broadly defined as care and services that are respectful of and
+responsive to the cultural and linguistic needs of all individuals.
+Department of
+Defense (DoD)
+The mission of the Department of Defense (DoD) is to provide the military forces needed to deter
+war and to protect the security of the United States.
+Disability
+A disability is any condition of the body or mind (impairment) that makes it more difficult for the
+person with the condition to do certain activities (activity limitation) and interact with the world
+around them (participation restrictions).
+Disparities
+Disparities refer to great differences in health outcomes between populations. Race or ethnicity, sex,
+sexual identity, age, disability, socioeconomic status, and geographic location all contribute to an
+individual’s ability to achieve good health.
+Dyspnea
+Dyspnea is shortness of breath, breathlessness, or difficulty breathing.
+Elasticity
+Elasticity refers to the “stretchy” quality of the airways and air sacs that allows them to retain
+their shape.
+Electronic health
+record (EHR)
+An electronic health record (EHR) is a digital version of a patient’s paper chart. EHRs are real-time,
+patient-centered records that make information available instantly and securely to authorized users.
+Emphysema
+Emphysema is a type of COPD involving damage to the air sacs (alveoli) in the lungs. As a result, the
+body does not get the oxygen it needs. Emphysema makes it hard for an individual to catch his or
+her breath. It may also cause chronic coughing and trouble breathing during exercise.
+Epidemiology
+Epidemiology is the study of the distribution (frequency, pattern) and causes and risk factors
+of health-related states and events (not just diseases) in specified populations, including
+neighborhoods, schools, cities, states, countries, and global.
+Etiology
+Etiology is the cause or origin of disease.
+Evidence-based
+practices
+Evidence-based practices are the conscientious, explicit, and judicious use of current best evidence
+when making decisions about the care of the individual patient. This involves integrating individual
+clinical expertise with the best available external clinical evidence from systematic research.
+COPD NATIONAL ACTION PLAN
+
+49
+
+TERM
+DEFINITION
+Exacerbations
+Exacerbations refer to a worsening of COPD. About half of COPD exacerbations are caused or
+triggered by bacterial and viral infections (colds, especially from rhinovirus), but air pollution can
+also contribute to the beginning of an exacerbation.
+Genomics
+Genomics is the study of genes and their functions, and related techniques.
+Guidelines-based
+care
+Guidelines-based care is care based on systematically developed statements to assist practitioner
+and patient decisions about appropriate health care for specific clinical circumstances.
+Health care cost:
+direct vs. indirect
+Direct costs are those costs borne by the health care system, community, and patients’ families in
+addressing an illness.
+Indirect costs are mainly productivity losses to society caused by the health problem or disease.
+Health care
+providers
+Any organization (including an HMO, preferred provider organization, or group medical practice)
+that provides health care services and follows a formal peer-review process for the purpose of
+furthering quality health care.
+Health indicators
+Health indicators are measures of the health of people in a community, including rates of disease
+such as COPD.
+Health
+information
+technology (HIT)
+Health information technology (HIT) is a broad concept that encompasses an array of technologies
+to store, share, and analyze health information.
+Health literacy
+Health literacy is the degree to which individuals have the capacity to obtain, process, and
+understand basic health information and services needed to make appropriate health decisions.
+Health Resources
+and Services
+Administration
+(HRSA)
+The Health Resources and Services Administration (HRSA) is an agency of the U.S. Department
+of Health and Human Services (HHS) and is the primary federal agency for improving health and
+achieving health equity through access to quality services, a skilled health workforce and innovative
+programs. HRSA’s programs provide health care to people who are geographically isolated and
+economically or medically vulnerable.
+Heterogeneity
+Heterogeneity refers to something made up of elements or ingredients that are not alike.
+Inhaled
+treatments
+Inhaled treatments for COPD patients refers to the two main methods of using inhaled medications,
+including the use of an inhaler or the use of a nebulizer.
+COPD NATIONAL ACTION PLAN
+
+50
+
+TERM
+DEFINITION
+International
+Classification of
+Diseases (ICD)
+The International Classification of Diseases (ICD) is designed to promote international comparability
+in the collection, processing, classification, and presentation of mortality statistics. This includes
+providing a format for reporting causes of death on the death certificate. The reported conditions
+are then translated into medical codes through use of the classification structure and the selection
+and modification rules contained in the applicable revision of the ICD, published by the World Health
+Organization (WHO). These coding rules improve the usefulness of mortality statistics by giving
+preference to certain categories by consolidating conditions and by systematically selecting a single
+cause of death from a reported sequence of conditions. The single selected cause for tabulation is
+called the underlying cause of death, and the other reported causes are the non-underlying causes
+of death. The combination of underlying and non-underlying causes is the multiple causes of death.
+The ICD is currently in the Tenth Revision (ICD-10).
+The International Classification of Diseases codes for COPD include: chronic bronchitis (ICD-9 codes
+490-491), emphysema (ICD-9 code 492), bronchiectasis (ICD-9 code 494), and chronic airway
+obstruction (ICD-9 code 496).
+Linguistically
+appropriate
+services
+Linguistically appropriate services are broadly defined as care and services that are respectful
+of and responsive to the cultural and linguistic needs of all individuals.
+Lower pulmonary
+function
+Lower pulmonary function is a measure of how much air an individual exhales, and how quickly
+they exhale.
+Lung function
+tests
+Lung function tests, or pulmonary function tests (PFTs), measure how well the lungs work. They
+include tests that measure lung size and air flow, such as spirometry and lung volume tests. Other
+tests measure how well gases, such as oxygen, get in and out of the blood. These tests include pulse
+oximetry and arterial blood gas tests. Another pulmonary function test, called fractional exhaled
+nitric oxide (FeNO), measures nitric oxide, which is a marker for inflammation in the lungs. One
+or more of these tests may be used to diagnose lung and airway diseases, compare lung function
+to expected levels of function, monitor if a patient’s disease is stable or worsening, and see if a
+treatment is working.
+Medicaid
+Medicaid provides health coverage to millions of Americans, including eligible low-income adults,
+children, pregnant women, elderly adults, and people with disabilities. Medicaid is administered by
+states, according to federal requirements. The program is funded jointly by states and the federal
+government.
+Medicare
+Medicare is the federal health insurance program for people who are 65 or older, certain younger
+people with disabilities, and people with end-stage renal disease (ESRD), permanent kidney failure
+requiring dialysis or a transplant.
+Medicare
+doughnut hole
+The “doughnut hole” refers to a gap in prescription drug coverage under Medicare Part D.
+COPD NATIONAL ACTION PLAN
+
+51
+
+TERM
+DEFINITION
+Mortality rate
+A mortality rate is a measure of the frequency of occurrence of death in a defined population during
+a specified interval.
+Multidisciplinary
+team-based
+approach
+Multidisciplinary team-based approach broadens delivery of care by expanding the health care team
+to include several types of health care professionals. Collaborative teams vary according to patients’
+needs, patient load, organizational constraints, resources, clinical setting, geographic location, and
+professional skills.
+National
+Ambulatory
+Medical Care
+Survey (NAMCS)
+The National Ambulatory Medical Care Survey (NAMCS) is a national survey designed to meet the
+need for objective, reliable information about the provision and use of ambulatory medical care
+services in the United States. Findings are based on a sample of visits to nonfederal employed,
+office-based physicians who are primarily engaged in direct patient care.
+National Center
+for Health
+Statistics (NCHS)
+The National Center for Health Statistics (NCHS) compiles statistical information to guide actions
+and policies to improve health.
+National Health
+and Nutrition
+Examination
+Survey (NHANES)
+The National Health and Nutrition Examination Survey (NHANES) is a program of studies designed
+to assess the health and nutritional status of adults and children in the United States. The survey is
+unique in that it combines interviews and physical examinations.
+National Health
+Interview Survey
+(NHIS)
+The National Health Interview Survey (NHIS) has monitored the health of the nation since 1957.
+NHIS data includes a broad range of health topics that are collected through personal household
+interviews.
+National Heart,
+Lung, and Blood
+Institute (NHLBI)
+The National Heart, Lung, and Blood Institute, part of the National Institutes of Health, plans,
+conducts, and supports research related to the causes, prevention, diagnosis, and treatment of
+heart, blood vessel, lung, and blood diseases; and sleep disorders. The Institute also administers
+national health education campaigns on women and heart disease, COPD, and other topics.
+National Institute
+for Occupational
+Safety and Health
+(NIOSH)
+The National Institute for Occupational Safety and Health (NIOSH) is part of the U.S. Centers for
+Disease Control and Prevention (CDC), in the U.S. Department of Health and Human Services
+(HHS). It has the mandate to assure “every man and woman in the Nation safe and healthful working
+conditions and to preserve our human resources.”
+Online
+communities
+Online communities are Internet-based platforms that unite either a group of patients, a group of
+professionals, or a mixture of both. Members interact using modern communication technologies
+such as blogs, chats, forums, and wikis.
+Palliative care
+The goal of palliative care is to help people with serious illnesses feel better. It prevents or treats
+symptoms and side effects of the disease and treatment. Palliative care also treats emotional, social,
+practical, and spiritual problems that illnesses can bring up. When the person feels better in these
+areas, they have an improved quality of life.
+Palliative care can be given at the same time as treatments meant to cure or treat the disease.
+Palliative care may be given when the illness is diagnosed, throughout treatment, during follow-up,
+and at the end of life.
+COPD NATIONAL ACTION PLAN
+
+52
+
+TERM
+DEFINITION
+Pathogenesis
+The pathogenesis of a disease describes the mechanisms by which it develops, progresses, and
+either persists or is resolved.
+Patient registries
+A patient registry is an organized system that uses observational study methods to collect uniform
+data (clinical and other) to evaluate specified outcomes for a population defined by a particular
+disease, condition, or exposure and that serves predetermined scientific, clinical, or policy
+purpose(s).
+Patient-centered
+care
+Patient-centered care is defined as health care that establishes a partnership among practitioners,
+patients, and their families (when appropriate) to ensure that decisions respect patients’ wants,
+needs, and preferences, and that patients have the education and support they need to make
+decisions and participate in their own care.
+Patient-centric
+Patient-centric health care is health care that is relationship-based with an orientation toward the
+whole person. Partnering with patients and their families requires understanding and respecting
+each patient’s unique needs, culture, values, and preferences.
+Pharmacological
+Pharmacological refers to the science of drugs, including their composition, uses, and effect, or the
+characteristics or properties of a drug, especially those that make it medically effective.
+Phenotype
+A phenotype is an individual’s observable trait, such as height, eye color, and blood type. The
+genetic contribution to the phenotype is called the genotype. Some traits are largely determined by
+the genotype, while other traits are largely determined by environmental factors.
+Polypharmacy
+Polypharmacy is an increase in the number of medications or the use of more medications than are
+medically necessary. Polypharmacy is common in older ambulatory care, hospital, and nursing home
+patients. Polypharmacy increases the risk of numerous negative health consequences in the elderly.
+Population
+surveillance
+Population surveillance is the ongoing scrutiny of a population (general population, study
+population, target population, etc.), generally using methods distinguished by their practicability,
+uniformity, and frequently their rapidity, rather than by complete accuracy.
+Precision
+Medicine
+Initiative®
+Precision medicine is an emerging approach for disease prevention and treatment that takes into
+account people’s individual variations in genes, environment, and lifestyle. The Precision Medicine
+Initiative® will generate the scientific evidence needed to move the concept of precision medicine
+into clinical practice.
+Near term goals are focused on innovative clinical trials of targeted drugs for adult and pediatric
+cancers, the use of combination therapies, and the expansion of knowledge to overcome drug
+resistance. Longer term goals are the focus of the AllofUs effort to create a research cohort of more
+than 1 million American volunteers. Participants will provide genetic data, biological samples, and
+other information about their health. These data will be used by researchers to study a large range
+of diseases, with the goals of better predicting disease risk, understanding how diseases occur, and
+finding improved diagnosis and treatment strategies.
+Prevalence
+Prevalence is the proportion of a population which has (or had) a specific characteristic in a given time
+period — in medicine, typically an illness, a condition, or a risk factor, such as depression or smoking.
+COPD NATIONAL ACTION PLAN
+
+53
+
+TERM
+DEFINITION
+Prognosis
+The prognosis of a genetic condition includes its likely course, duration, and outcome. When health
+professionals refer to the prognosis of a disease, they may also mean the chance of recovery;
+however, most genetic conditions are lifelong and are managed rather than cured. COPD is
+measured in stages with Stage 1 being very mild and Stage 4 being very severe.
+Public health
+nurse
+A public health nurse works to assess the health and health care needs of a population in order to
+identify subpopulations, families, and individuals who would benefit from health promotion or who
+are at risk of illness, injury, disability, or premature death.
+Pulmonary
+rehabilitation
+Pulmonary rehabilitation, also called pulmonary rehab or PR, is a broad program that helps improve
+the well-being of people who have chronic (ongoing) breathing problems. For example, PR may
+benefit people who have COPD, sarcoidosis, idiopathic pulmonary fibrosis, or cystic fibrosis.
+Smoker’s cough
+Smoker’s cough is a type of coughing that may produce large amounts of mucus.
+Smoking
+cessation
+Smoking cessation is the process of quitting smoking tobacco products.
+Spirometry
+Spirometry measures the rate of air flow and estimates lung size. For this test, a person breathes
+multiple times, with regular and maximal effort, through a tube that is connected to a computer.
+Some people feel lightheaded or tired from the required breathing effort.
+Sputum
+Sputum is mucus and other matter brought up from the lungs by coughing.
+Subphenotype
+A subphenotype identifies a subset of phenotype.
+Subpopulations
+and Intermediate
+Outcome
+Measures in
+COPD Study
+(SPIROMICS)
+Subpopulations and Intermediate Outcome Measures in COPD Study (SPIROMICS) is a multi-
+center observational study of COPD designed to guide future development of therapies for the
+disease. This is done by providing robust criteria for sub-classifying COPD participants into groups
+most likely to benefit from a given therapy during a clinical trial, thereby improving the chances of
+successful outcome; and by identifying biomarkers/phenotypes that can be used as intermediate
+outcomes to reliably predict clinical benefit during therapeutic trials, thus reducing costs.
+T3/T4 research
+T3/T4 research refers to a type of translational research. With T3 translational research, investigators
+explore ways of applying recommendations or guidelines in general practice. T3 research yields
+knowledge about how interventions work in real-world settings.
+In T4 translational research, investigators study factors and interventions that influence the health of
+populations. T4 research ultimately results in improved public and global health.
+Telemedicine
+Telemedicine allows health care providers to examine, diagnose, and treat patients using technology
+like a phone, computer, or other device.
+The Global
+Initiative
+for Chronic
+Obstructive Lung
+Disease (GOLD)
+The Global Initiative for Chronic Obstructive Lung Disease (GOLD) is an initiative that works with
+health care professionals and public health officials around the world to raise awareness of COPD
+and to improve prevention and treatment of the disease.
+COPD NATIONAL ACTION PLAN
+
+54
+
+TERM
+DEFINITION
+The Health and
+Medicine Division
+(HMD) (Formerly
+Institute of
+Medicine)
+The Health and Medicine Division (HMD) is a division of the National Academies of Sciences,
+Engineering, and Medicine (the National Academies). HMD aims to help those in government and the
+private sector make informed health decisions by providing evidence upon which they can rely.
+Tobacco products
+Tobacco products are defined as cigars, cigarettes, smokeless tobacco, pipe tobacco, and roll-your-
+own tobacco. Smokeless tobacco refers to any snuff or chewing tobacco.
+Trans-
+governmental
+Trans-governmental refers to cooperation based on loosely-structured, peer-to-peer ties developed
+through frequent interaction rather than formal negotiation involving specialized domestic officials
+directly interacting with each other.
+COPD NATIONAL ACTION PLAN
+
+55
+
+56
+COPD NATIONAL ACTION PLAN
+
+REFERENCES
+1.
+Kochanek KD, Murphy SL, Xu JQ, Arias E. Mortality in the
+United States, 2016. NCHS Data Brief, no 293. Hyattsville,
+MD: National Center for Health Statistics. 2017
+2.
+Anne G. Wheaton, Timothy J. Cunningham, Earl S. Ford,
+MD, and Janet B. Croft., “Employment and activity
+limitations among adults with chronic obstructive
+pulmonary disease  —  United States, 2013,” Morbidity
+and Mortality Weekly Report (MMWR), 64 (11), pp. 289-
+295 (March 7, 2015), Centers for Disease Control and
+Prevention (CDC)
+3.
+David M. Mannino, Robert C. Gagnon, Thomas L. Petty,
+and Eva Lydick., “Obstructive lung disease and low lung
+function in adults in the United States: data from the
+National Health and Nutrition Examination Survey 1988-
+1994.” Archives of Internal Medicine, 160 (11), pp. 1683-
+1689 (June 12, 2000)
+4.
+Jiemin Ma, Elizabeth M. Ward, Rebecca L. Siegel, and
+Ahmedin Jemal., “Temporal trends in mortality in the
+United States, 1969-2013.” JAMA, 314 (16), pp.1731-1739
+(October 27, 2015)
+5.
+MW Brault, J Hootman, CG Helmick, KA Theis, and
+BS Armour., “Prevalence and most common causes
+of disability among adults — United States, 2005,”
+Morbidity and Mortality Weekly Report (MMWR), 58 (16),
+pp. 421-426 (May 1, 2009), Centers for Disease Control
+and Prevention (CDC)
+6.
+Earl S. Ford, Louise B. Murphy, Olga Khavjou, Wayne H.
+Giles, James B. Holt, and Janet B. Croft., “Total and state-
+specific medical and absenteeism costs of COPD among
+adults aged ≥ 18 years in the United States for 2010 and
+projections through 2020,” Chest, 147 (1), pp. 31-45
+(January 2015)
+7.
+Earl S. Ford, Janet B. Croft, David M. Mannino, Anne G.
+Wheaton, Xingyou Zhang, and Wayne H. Giles, “COPD
+surveillance  —  United States, 1999-2011,” Chest, 144 (1),
+pp. 284-305 (July 2013)
+8.
+Centers for Disease Control and Prevention. Behavioral
+Risk Factor Surveillance System (BRFSS), 2015.
+9.
+John Lewis, David P. Joyce, and Carol Shea-Porter
+(U.S. House of Representatives)., Letter to: Dr. Thomas
+R. Frieden (Director, Centers for Disease Control and
+Prevention, Atlanta, GA) and Dr. Francis S. Collins
+(Director, National Institutes of Health, Bethesda, MD).
+2014 Nov 24. 1 leaf
+10.	 Nicole M. Kosacz, Antonello Punturieri, Thomas L.
+Croxton, Monique N. Ndenecho, James P. Kiley, Gail G.
+Weinmann, Anne G. Wheaton, Earl S. Ford, Letitia R.
+Presley-Cantrell, Janet B. Croft, and Wayne H. Giles.,
+“Chronic obstructive pulmonary disease surveillance
+among adults-United States, 2011,” Morbidity and
+Mortality Weekly Report (MMWR), 61 (46), pp. 938-943
+(November 23, 2012), Centers for Disease Control and
+Prevention (CDC)
+11.	 The NAMCS, NHAMCS, and NHCS are beginning the
+process of collecting EHRs, which will greatly increase
+the number and content of available records.
+12.	 Harvard Catalyst, The Harvard Clinical and Translational
+Science Center; [reviewed and cited 2017 May] Available
+at:  http://catalyst.harvard.edu/pathfinder/t3detail.html.
+
+COPD NATIONAL ACTION PLAN
+57
+
+AGE-ADJUSTED PREVALENCE OF CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD) AMONG ADULTS AGED ≥18 YEARS —
+BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM, UNITED STATES, 2015
+State
+COPD Prevalence
+Alabama
+9.9%
+Alaska
+4.1%
+Arizona
+5.8%
+Arkansas
+9.1%
+California
+4%
+Colorado
+4.2%
+Connecticut
+4.6%
+Delaware
+6.3%
+District of Columbia
+5.9%
+Florida
+6%
+Georgia
+6.7%
+Hawaii
+4.1%
+Idaho
+4.5%
+Illinois
+5.4%
+Indiana
+7.4%
+Iowa
+5.2%
+Kansas
+5.8%
+Kentucky
+11.2%
+Louisiana
+7.1%
+Maine
+7%
+Maryland
+5.8%
+Massachusetts
+5.3%
+Michigan
+6.9%
+Minnesota
+4.2%
+Mississippi
+7.2%
+Missouri
+7.9%
+State
+COPD Prevalence
+Montana
+5%
+Nebraska
+5%
+Nevada
+6.2%
+New Hampshire
+6.1%
+New Jersey
+4.6%
+New Mexico
+5.5%
+New York
+5.3%
+North Carolina
+7%
+North Dakota
+4.8%
+Ohio
+7.1%
+Oklahoma
+8.2%
+Oregon
+5.1%
+Pennsylvania
+6.2%
+Rhode Island
+5.7%
+South Carolina
+6.7%
+South Dakota
+5.2%
+Tennessee
+8.9%
+Texas
+5.1%
+Utah
+3.8%
+Vermont
+5.6%
+Virginia
+5.5%
+Washington
+5.8%
+West Virginia
+12%
+Wisconsin
+4.2%
+Wyoming
+6.8%
+COPD NATIONAL ACTION PLAN
+58
+
+COPD NATIONAL ACTION PLAN
+
+59
+
+THANK YOU
+WE WOULD LIKE TO ACKNOWLEDGE THE
+CONTRIBUTIONS OF THE ENTIRE COPD
+COMMUNITY IN DEVELOPING THIS COPD
+NATIONAL ACTION PLAN. COLLABORATION
+ACROSS THIS COMMUNITY IS ESSENTIAL
+TO THE SUCCESSFUL IMPLEMENTATION
+OF THE PLAN.
+60
+COPD NATIONAL ACTION PLAN
+
+TO LEARN MORE ABOUT THE COPD NATIONAL ACTION PLAN, VISIT
+C O P D.N I H.gov
+PUBLICATION NO. 17-HL-8031
+AUGUST 2017
+UPDATED FEBRUARY 2018
+#COPDActionPlan

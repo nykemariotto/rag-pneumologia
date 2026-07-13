@@ -1,0 +1,8 @@
+{
+  "emb_model": "intfloat/multilingual-e5-base",
+  "n_docs": 33,
+  "n_chunks": 2374,
+  "dim": 768,
+  "chunk_size": 1100,
+  "overlap": 150
+}

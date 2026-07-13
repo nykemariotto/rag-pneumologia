@@ -1,0 +1,2820 @@
+=== Brazilian guidelines for the clinical management of paracoccidioidomycosis ===
+Fonte: Rev Soc Bras Med Trop 2017;50(4):1-26
+URL: https://www.scielo.br/j/rsbmt/a/Ynd6SxcPqLjtqkFyVp678zj/?format=pdf&lang=en
+Licenca: CC BY 4.0
+Doenca: pcm | Idioma: en
+----------------------------------------------------------------------
+
+715
+Rev Soc Bras Med Trop 50(5):715-740, September-October, 2017
+doi: 10.1590/0037-8682-0230-2017
+Consensus
+Brazilian guidelines for the clinical management of
+paracoccidioidomycosis
+Maria Aparecida Shikanai-Yasuda[1], Rinaldo Pôncio Mendes[2], Arnaldo Lopes Colombo[3],
+Flávio de Queiroz-Telles[4], Adriana Satie Gonçalves Kono[5], Anamaria M. M. Paniago[6],
+André Nathan[7], Antonio Carlos Francisconi do Valle[8], Eduardo Bagagli[9],
+Gil Benard[10], Marcelo Simão Ferreira[11], Marcus de Melo Teixeira[12],
+Mario León Silva-Vergara[13], Ricardo Mendes Pereira[14], Ricardo de Souza Cavalcante[2],
+Rosane Hahn[15], Rui Rafael Durlacher[16], Zarifa Khoury[17], Zoilo Pires de Camargo[18],
+Maria Luiza Moretti[19], and Roberto Martinez[20]
+Corresponding author: Profa. Maria Aparecida Shikanai-Yasuda.
+email: masyasuda@yahoo.com.br
+Received 01 June 2017
+Accepted 30 June 2017
+Abstract
+Paracoccidioidomycosis is a systemic fungal disease occurring in Latin America that is associated with rural environments and
+agricultural activities. However, the incidence and prevalence of paracoccidiodomycosis is underestimated because of the lack
+of compulsory notification. If paracoccidiodomycosis is not diagnosed and treated early and adequately, the endemic fungal
+infection could result in serious sequelae. While the Paracoccidioides brasiliensis (P. brasiliensis) complex has been known to
+be the causal agent of paracoccidiodomycosis, a new species, Paracoccidioides lutzii (P. lutzii), has been reported in Rondônia,
+where the disease has reached epidemic levels, and in the Central West and Pará. Accurate diagnoses and availability of antigens
+that are reactive with the patients’ sera remain significant challenges. Therefore, the present guidelines aims to update the first
+Brazilian consensus on paracoccidioidomycosis by providing evidence-based recommendations for bedside patient management.
+This consensus summarizes etiological, ecoepidemiological, molecular epidemiological, and immunopathological data, with
+emphasis on clinical, microbiological, and serological diagnosis and management of clinical forms and sequelae, as well as in
+patients with comorbidities and immunosuppression. The consensus also includes discussion of outpatient treatments, severe
+disease forms, disease prevalence among special populations and resource-poor settings, a brief review of prevention and control
+measures, current challenges and recommendations.
+Keywords: Paracoccidioidomycosis. Guidelines. Clinical management. Diagnosis. Treatment follow-up.
+[1]. Departamento de Moléstias Infecciosas e Parasitárias, Faculdade de Medicina, Universidade de São Paulo, São Paulo, SP, Brasil.
+[2]. Departamento de Doenças Tropicais e Diagnóstico por Imagem, Faculdade de Medicina Botucatu, Universidade Estadual Paulista, Botucatu, SP, Brasil. [3].
+Departamento de Medicina, Escola Paulista de Medicina, Universidade Federal de São Paulo, São Paulo, SP, Brasil. [4]. Departamento de Saúde Comunitária,
+Universidade Federal do Paraná, Curitiba, PR, Brasil. [5]. Divisão de Moléstias Infecciosas, Hospital das Clínicas, Faculdade de Medicina, Universidade de
+São Paulo, São Paulo, SP, Brasil. [6]. Faculdade de Medicina, Universidade Federal de Mato Grosso do Sul, Campo Grande, MS, Brasil. [7]. Divisão de
+Pneumologia, Hospital das Clínicas, Faculdade de Medicina, Universidade de São Paulo, São Paulo, SP, Brasil.
+[8]. Instituto de Pesquisa Clínica Evandro Chagas, Fundação Oswaldo Cruz, Rio de Janeiro, RJ, Brasil. [9]. Departamento de Microbiologia e Imunologia,
+Instituto de Biociências, Universidade Estadual Paulista, Botucatu, SP, Brasil. [10]. Departamento de Dermatologia, Faculdade de Medicina, Universidade
+de São Paulo, São Paulo, SP, Brasil. [11]. Serviço de Infectologia, Faculdade de Medicina, Universidade Federal de Uberlândia, Uberlândia, MG, Brasil.
+[12]. Translational Genomics Research Institute, Northern Arizona University, AZ, USA. [13]. Departamento de Clínica Médica, Faculdade de Medicina,
+Universidade Federal do Triângulo Mineiro, Uberaba, MG. Brasil. [14]. Departamento de Pediatria, Faculdade de Ciências Médicas, Universidade Estadual
+de Campinas, Campinas, SP, Brasil. [15]. Núcleo de Doenças Infecciosas e Tropicais, Faculdade de Ciências Médicas, Universidade Federal de Mato Grosso,
+Cuiabá, MT, Brasil. [16]. Centro de Medicina Tropical de Rondônia, Porto Velho, RO, Brasil. [17]. Instituto de Infectologia Emílio Ribas, Secretaria de Estado
+da Saúde de São Paulo, São Paulo, SP, Brasil. [18]. Departamento de Microbiologia e Imunologia, Universidade Federal de São Paulo, São Paulo, SP, Brasil.
+[19]. Departamento de Clínica Médica, Faculdade Ciências Médicas, Universidade Estadual de Campinas, Campinas, SP, Brasil.
+[20]. Departamento de Clínica Médica, Faculdade de Medicina de Ribeirão Preto, Universidade de São Paulo, Ribeirão Preto, SP, Brasil.
+
+716
+Shikanai-Yasuda MA, et al. - Paracoccidioidomycosis Brazilian Guidelines
+PS2
+PS3
+Pl
+S1a
+S1b
+PS4
+FIGURE 1 - Geographic distribution of Paracoccidioides lutzii and
+Paracoccidioides brasiliensis cryptic species. Modified (update on P. lutzii
+distribution) from: Muñoz JF, Farrer RA, Desjardins CA, Gallo JE, Sykes S,
+Sakthikumar S, et al. Genome diversity, recombination, and virulence across
+the major lineages of Paracoccidioides. mSphere 2016; 1(5): e00213-163. PS2;
+PS3; PS4; S1a; S1b: phylogenetic species of Paracoccidioides brasiliensis; Pl:
+Paracoccidioides lutzii.
+ETIOLOGY
+Paracoccidioidomycosis (PCM) is caused by thermo-
+dimorphic fungi that currently encompasses two species:
+Paracoccidoides brasiliensis (P. brasiliensis) and
+Paracoccidioides lutzii (P. lutzii)1. P. brasiliensis contains a
+complex of at least five phylogenetic clusters ranked as the
+following phylogenetic species: S1a, S1b, PS2, PS3, and PS42,3,4.
+The phylogenetic species S1a and S1b are predominantly found
+in lower South America, especially in southeastern and southern
+Brazil, Argentina, and Paraguay. The PS2 species has a sporadic
+distribution and is less frequently reported, with human cases
+only being reported thus far in Venezuela and southeast Brazil
+(Figure 1). The PS3 and PS4 species are exclusively endemic
+to Colombia and Venezuela, respectively. P. lutzii encompasses
+a single species and is predominantly distributed in the Central
+West and Amazon regions of Brazil and Ecuador1,5,6,7,8. However,
+the real incidence of each phylogenetic species and its implication
+on clinical practice is difficult to establish because of the lack
+of guided studies comparing PCM forms and manifestations
+with their genetic background9. Radial immunodiffusion
+against the commonly used exoantigens containing a 43-kDa
+glycoprotein (gp43) suggests that Paracoccidiodes spp. exhibit
+major antigenic variability. According to phylogenetic studies,
+different Paracoccidioides spp. isolates are distributed in
+different genotypes across multiple PCM endemic areas of
+Latin America. In particular, Paracoccidioides spp. in central
+Brazil (i.e. Mato Grosso and Rondônia) exhibit a lower rate of
+genetic similarity. Yet, P. lutzii isolates exhibit high species-
+specific antigen variability9, which has already been assessed
+in proteomic studies.
+ECOEPIDEMIOLOGY
+In nature, P. brasiliensis and P. lutzii develop as filamentous
+structures and produce infective propagules called conidia10,11
+(Figure 2). If inhaled, the propagules give rise to yeast forms of
+the fungus that become parasitic to the host. Paracoccidioides
+spp. can cause infection and disease in humans and domestic
+and wild animals, although only a few active disease cases have
+been observed in animals, such as dogs10,12. The armadillo is
+known to be a reservoir of P. brasiliensis, and the fungus can
+be easily cultured from the animal’s internal organs (spleen,
+liver, and lymph nodes), indicating a systemic process. P. lutzii
+has not yet been isolated from armadillos.
+Epidemic outbreaks of PCM have never been observed.
+Further, fungal recovery (culture) directly from the fungi’s
+environmental saprophytic form has been shown to be
+particularly difficult to obtain with reproducibility. Thus, the
+region where the disease is acquired is referred to as reservaria.
+Yet, sensitive molecular screening techniques have detected the
+fungus in soils and aerosols, especially among samples taken
+from animal burrows or sites with medium to high moisture
+content protected by vegetation cover13.
+In recent decades, changes in the demographic characteristics
+and geographical distribution of PCM incidence have been
+observed. These shifts could be attributed to the rise of
+urbanization, application of diagnostic methods, and the
+presence of comorbidities and immunosuppression. In addition,
+environmental factors, such as the expansion of settlements,
+clearing of forests, and increased coffee production, could
+contribute to the current high levels of PCM incidence in some
+regions of Rondônia14.
+In addition, between 1982 and 1983, a region of Southeast
+Brazil experienced climatic changes related to El Niño, resulting
+in elevated soil moisture levels and temperatures between
+18-28ºC, which are favorable for fungal sporulation and aerial
+dispersion. During this same time period, the region experienced
+an outbreak of acute cases of PCM15.
+How is Paracoccidioides infection acquired?
+The major risk factor for acquiring infection is a profession
+or activity related to the management of soil contaminated with
+the fungus, such as agriculture, earthworks, soil preparation,
+gardening, and transportation of vegetable products (Figure 2).
+In a majority of all PCM infection cases the patients had been
+exposed to agricultural activities during the first two decades of
+their life, at which point they likely acquired the infection even
+
+717
+Rev Soc Bras Med Trop 50(5):715-740, September-October, 2017
+Environment
+Hosts
+Coffee and sugar cane plantation /  rural workers
+Inhalation of arthroconidia
+Armadillo (Pb) (Pl?)
+immunotolerant / signalling
+Agriculture activities / Climate conditions (soil humidity)
+Human beings
+predominance of infection
+predisposing factors for disease
+genetic
+gender (male)
+great inoculum
+Yeast phase
+(body temperature)
+Animals – infection; rare
+cases of disease
+P. lutzii
+P. brasiliensis
+Mendes & Bagagli
+FIGURE 2 - Spread of Paracoccidioides brasiliensis and Paracoccidioides lutzii. Pb: Paracoccidioides brasiliensis; Pl: Paracoccidioides lutzii.
+if clinical manifestations appeared many years later11. Most of
+these patients seeked medical attention many years after they
+left the endemic area and resided in urban centers where were
+engaged in other activities unrelated to soil management. For
+example, smoking (> 20 cigarettes/day for > 20 years) and
+alcoholism (> 50g/day)16 are frequently associated with mycosis.
+Unlike other mycoses, such as cryptococcosis, disseminated
+histoplasmosis, and candidiasis, PCM is not usually related
+to immunosuppressive diseases. However, cases of PCM
+associated with HIV infection, neoplasia and, more rarely,
+organ transplants and use of immunobiologicals have been
+reported17-20.
+Incidence, prevalence and mortality
+Since PCM is not a compulsory notification disease,
+we do not have precise data on its incidence in Brazil.
+Mycosis prevalence, incidence, and morbidity estimates are
+based on reports from epidemiological surveys, case series,
+hospitalization records, and mortality data21. Based on the
+experiences of reference services caring for patients with PCM,
+the disease’s incidence in endemic areas ranges from three to
+four new cases per one million inhabitants and one to three new
+cases per 100,000 inhabitants per year. About 80% of PCM cases
+are registered in Brazil, particularly in the States of São Paulo,
+Paraná, Rio Grande do Sul, Goiás, and Rondônia (Figure 3)21. In
+Latin America, cases are most frequently reported in Argentina,
+Colombia, Venezuela, Ecuador, and Paraguay. Estimates of
+annual incidence in Brazil range from 0.71 to 3.7 cases per
+100,000 inhabitants21. However, recent records of incidence in
+Rondônia report 9.4 cases per 100,000 inhabitants, with two
+municipalities reporting incidences close to 40 cases per 100,000
+inhabitants14. Between 1980 and 1995, the Ministry of Health
+documented 3,181 cases of PCM-related deaths, resulting in a
+PCM mortality rate of 1.45 cases per one million inhabitants
+(2.59 for the South, 2.35 for the Midwest, 1.81 for the Southeast,
+1.08 for the North, and 0.2 for the northeast regions)22. In this
+study, among all chronic infectious and parasitic disease, PCM
+was listed as the eighth highest cause of mortality and had the
+highest mortality rate among the systemic mycoses, even having
+a higher mortality rate than leishmaniasis. Recent data collected
+from 13,683 patients who were hospitalized with systemic
+mycoses between January 1998 and December 2006 showed
+that PCM accounts for the largest number of hospitalizations
+(49%) among all mycoses23, with emphasis on hospitalization
+rates in the north and Midwest regions, without major difference
+in the mortality of hospitalized patients (Figure 3).
+Age group and distribution between genders
+PCM infection is primarily acquired in the first two decades
+of life, with a peak incidence between 10 and 20 years of age.
+However, the presentation of clinical manifestations or evolution
+to disease is uncommon in this age group. Instead, PCM
+occurs more frequently in adults between the ages of 30- and
+50-years-old as a result of endogenous latent foci reactivation10.
+Although the frequency of PCM cases ranges between regions,
+an estimated 10% of PCM cases occur in individuals under the
+
+718
+CW
+SE
+S
+N
+NE
+Acre
+Rondônia
+Mato
+Grosso
+Goiás
+Para
+Maranhão
+Tocantins
+Rio de Janeiro
+São Paulo
+Paraná
+Rio Grande
+do Sul
+BRAZIL (states)
+FIGURE 3 - Geographical areas of paracoccidioidomycosis endemicity in Latin America. Reproduction from: Martinez R. New trends in Epidemiology. J Fungi.
+2017;3(1):121.
+(■) first recognized areas of high endemicity
+(■) high endemicity observed since the last decades of the 20th century
+(■) areas with some recent evidence of increasing endemicity
+(■) areas of moderate endemicity
+(■) low endemicity
+(  ) no cases or rare cases of paracoccidioidomycosis report in these
+countries or regions
+age of 20-years-old, while the remaining 90% occurring later in
+life. Further, in childhood, the frequency of PCM cases is evenly
+distributed between both genders, with a slight predominance in
+young male adults; however, in adulthood, the frequency ranges
+from ten to 15 men for one woman.
+IMMUNOPATHOGENESIS
+Control of Paracoccidioides spp infection depends on the
+host´s cellular immune response, with T cells playing a prominent
+role. PCM has a range of clinical presentations along a spectrum,
+with each one being potentially associated with a specific T cell
+immunity pattern24. Most infected individuals living in endemic
+areas will not develop any illness. These individuals exhibit a
+T-helper [Th-1] immune response pattern characterized by the
+release of cytokines that activate macrophages, TCD4+, and
+TCD8+ cells, resulting in the formation of compact granulomas
+and control of fungal replication25,26; however, dormant forms
+of the fungus may still exist inside these granulomas. The few
+individuals who do develop the disease most likely had deficient
+Th-1 responses, with the extent of the failure correlating with
+Shikanai-Yasuda MA, et al. - Paracoccidioidomycosis Brazilian Guidelines
+
+719
+disease severity25,26. In fact, patients with infections that evolve
+to the more severe forms, such as the acute/subacute form
+disease (A) or eventually the severe disseminated chronic
+form (CF), develop Th-2 and Th-9 immune response patterns
+that do not form compact granulomas, but instead activate
+B lymphocytes, high levels of specific antibodies, including the
+the IgE subclass, hypergammaglobulinemia, and eosinophilia27.
+Patients with the severe/disseminated unifocal or multifocal
+CF who bear lower fungal burdens, also exhibit deficient Th-1
+responses, often at a lesser degree that that of patients with
+the AF or severe disseminated CF. In addition, these patients
+can still experience the formation of compact granulomas
+that can suppress, at least partially, fungal replication25,26. In
+these patients, the loss of Th-1 function would be partially
+compensated by the development of Th-17 and Th-22 responses,
+both of which drive intense mucosal inflammatory responses
+rich in neutrophils27. In fact, a characteristic feature of the CF
+is the involvement of the mucosa, especially in the respiratory
+tract. In addition, it has been demonstrated that regulatory
+T cells (Tregs) suppress T cell immunity and contribute to the
+T cell anergy observed in the more severe forms of the disease28,29.
+The factors that determine the different outcomes of the
+PCM host-parasite interaction remain unknown. Preliminary
+data suggest that the host’s immunogenetic background may
+play a role30. Regardless, clinical experiences have indicated
+that treatment of PCM should persist for long periods until
+effective cellular immune responses are elicited. However, for
+unknown reasons, yeast cells may remain in quiescent foci that
+can reactivate the disease and cause relapses. Usually, immune
+alterations subside with treatment and the protective Th-1
+responses appear/reappear. This observation is corroborated
+by in vitro experiments that have demonstrated deficient Th-1
+responses can be reverted31, although this response reconstitution
+has not been shown to reach the magnitude of that observed in
+healthy individuals without disease32. The role of the observed
+high serum levels of specific antibodies in any mechanism of
+protection could not yet be determined.
+CLASSIFICATION OF CLINICAL FORMS
+AND ASSESSMENT OF SEVERITY
+PCM can compromise any organ, apparatus or system, as
+revealed in Table 133,34, which presents clinical and autopsy
+findings. Further, PCM’s diversification tends to hinder its
+classification.
+Several classifications of PCM clinical forms have been published
+based on different criteria, such as lesion topography, disease natural
+history, severity of clinical presentation, and serological reaction
+results. This consensus adopted the classification presented in the
+International Colloquium on Paracoccidioidomycosis held in
+February 1986 in Medellin, Colombia35.
+I.Paracoccidioidomycosis infection
+II.Paracoccidioidomycosis (disease)
+A. Acute/subacute form (juvenile)
+•	- Moderate
+•	- Severe
+B. Chronic form (adult)
+•	- Mild
+•	- Moderate
+•	- Severe
+III. Residual form or sequelae
+Paracoccidioidomycosis infection
+Paracoccidioidomycosis infection is contracted when a
+healthy individual comes into contact with a Paracoccidioides
+spp. The infection is diagnosed by a positive intradermal reaction
+to specific antigens and necropsy findings of latent fungi36.
+Clinical forms of Paracoccidioidomycosis
+Acute/subacute form (juvenile)
+The acute/subacute form of PCM is responsible for 5-25%
+of cases and may be more frequent in certain endemic regions
+while almost never observed in others. In Brazil, this form is
+more commonly observed in the following States: Maranhão,
+Minas Gerais, Pará, Goiás, and São Paulo.
+The incidence of PCM appears to be declining in some
+endemic areas37. Acute/subacute PCM predominantly affects
+children, adolescents, and young adults, but can occur in adults
+between the ages of 30- and 40-years-old. The incidence of
+PCM tends to be evenly distributed between genders, especially
+among the adolescent population33,37-39.
+This clinical form of PCM rapidly evolves and disseminates
+the infection to multiple organs and systems. In general,
+patients are diagnosed within a few weeks of symptoms
+onset. Most symptoms involve the phagocytic-mononuclear
+system, including the presence of localized or generalized
+lymphadenomegaly, which may present suppuration, fistulization,
+and hepatosplenomegaly. Symptoms may also include digestive
+manifestations, cutaneous (or mucosal) lesions, osteoarticular
+involvement, and rarely, pulmonary involvement. Fever, weight
+loss, and anorexia often accompany the clinical presentation.
+Intra-abdominal lymphadenomegaly may coalesce, producing
+tumor masses that exert compression on various organs, such
+as the bile duct and intestinal loops38 (Figure 4 and Figure 5).
+A prominent finding of laboratory alterations in this form is
+peripheral eosinophilia, which occurs in 30% to 50% of cases38-40.
+Under certain conditions, eosinophilia may be significant (up to
+70% of peripheral blood leukocytes).
+Chronic form (adult)
+The majority (74% to 96%) of PCM cases are in chronic
+form, which typically manifests in adults between the ages of
+30- and 60-years-old (male to female ratio: 22:1). Chronic PCM
+initiates slowly and the symptoms often persist beyond 4 to 6
+months, possibly even a year. In some cases, PCM develops
+without any physical indication, and the infection is only caught
+when the individual goes for a routine check-up or labor-related
+physical examinations. In 90% of patients with PCM, pulmonary
+impairment is observed41,42. After the lungs, the organs most
+affected by PCM are the mucosa of the upper aerodigestive
+pathway and skin (Figure 6 and Figure 7).
+Rev Soc Bras Med Trop 50(5):715-740, September-October, 2017
+
+720
+Organs
+Clinical manifestation
+Necropsies
+Belissimo-Rodrigues
+et al [33]*
+Franco et al [34]**
+Franco et al [34]**
+n
+%
+n
+%
+n
+%
+Lungs
+778
+63.8
+128
+74.0
+24
+96.0
+Bronchus/trachea
+5
+0.4
+.
+.
+.
+Lymphadenomegaly
+generalized
+localized
+618
+342
+276
+28.1
+22.6
+63
+36.4
+18
+72.0
+Mouth, pharynx, larynx
+oral mucosa
+larynx
+610
+196
+50.0
+16.1
+83
+48.0
+15
+60.0
+nasal mucosa
+19
+1.6
+Adrenals
+26
+2.1
+6
+3.5
+11
+44.0
+Central Nervous System (CNS)
+42
+3.4
+1
+0.6
+9
+36.0
+Liver
+0
+0.0
+8
+32.0
+Spleen
+57
+4.7
+0
+0.0
+7
+28.0
+Skin
+361
+29.6
+22
+12.7
+6
+24.0
+Kidney
+0
+0.0
+4
+16.0
+Bone marrow
+0
+0.0
+3
+12.0
+Heart
+0
+0.0
+3
+12.0
+Digestive tract
+92
+7.5
+6
+6.5
+2
+8.0
+Testicles
+9
+0.7
+1
+0.6
+2
+8.0
+Prostate
+1
+0.6
+2
+8.0
+Eyes
+2
+1.2
+0
+0.0
+Breast
+1
+0.6
+0
+0.0
+Osteoarticular
+27
+2.2
+TABLE 1
+Organs affected in paracoccidioidomycosis.
+A
+B
+C
+D
+FIGURE 4 - Acute form of PCM in children. A. Abscesses in frontal and clavicular regions resulting from osteo-articular involvement. B. Female child presenting
+with abscessed lymphatic involvement. C. Inguinal lymphoadenomegaly. D. Lymphatic-abdominal involvement with ascites and hepatosplenomegaly. PCM:
+paracoccidioidomycosis. Reproduction with modification: Shikanai-Yasuda MA, Telles Filho F de Q, Mendes RP, Colombo AL, Moretti ML, Grupo de Consultores
+do Consenso em Paracoccidioidomicose. Consenso Brasileiro em Paracoccidioidomicose. Rev Soc Bras Med Trop. 2006;39(3):297-31039.
+Shikanai-Yasuda MA, et al. - Paracoccidioidomycosis Brazilian Guidelines
+*1,219 patients of the Faculdade de Medicina de Ribeirão Preto, Universidade de São Paulo (USP). ** 173 patients and 25 necropsies at the Faculdade de
+Medicina de Botucatu, Universidade Estadual Paulista (UNESP).
+
+721
+A
+B
+C
+D
+FIGURE 5 - Patients with the acute/subacute (juvenile) form of PCM. A. Ganglionic mass in supraclavicular, cervical, and submandibular region. B.
+Lymphadenomegaly of PCM, which must be differentiated from hematological diseases, such as lymphoma. C. Verrucous ulcerative lesions on the face and
+pavilion caused by hematogenous dissemination. D. Papulonodular ulcerative lesions caused by hematogenous dissemination. PCM: paracoccidioidomycosis.
+Reproduction with modification: Shikanai-Yasuda MA, Telles Filho F de Q, Mendes RP, Colombo AL, Moretti ML, Grupo de Consultores do Consenso em
+Paracoccidioidomicose. Consenso Brasileiro em Paracoccidioidomicose. Rev Soc Bras Med Trop. 2006;39(3):297-31039.
+A
+B
+FIGURE 6 - Oral involvement in chronic PCM 47,48. A. Gingivostomatitis.
+B. Moriform stomatitis of Aguiar-Pupo. The lesions may present as extensive,
+ulcers, or ulcer-vegetative, with characteristic hemorrhagic dots (moriform
+lesion). Although infrequent, the lesions may extend into the nasal vestibule,
+causing perforation of the palate and nasal septum, with inaesthetic and
+functional sequelae. In acute PCM, the oral mucosa is not frequently involved.
+PCM: paracoccidioidomycosis. Reproduction with modification: Shikanai-
+Yasuda MA, Telles Filho F de Q, Mendes RP, Colombo AL, Moretti ML, Grupo
+de Consultores do Consenso em Paracoccidioidomicose. Consenso Brasileiro
+em Paracoccidioidomicose. Rev Soc Bras Med Trop. 2006;39(3):297-31039.
+Chronic PCM can be classified as either mild, moderate, or
+severe35. Severe cases are defined by meeting three or more of the
+following criteria: a) weight loss greater than 10% of the normal
+body weight; b) intense pulmonary involvement; c) involvement of
+other organs, such as adrenal glands, central nervous system, and
+bones; d) the presence of lymph nodes affected in multiple chains
+in superficial or deep, pseudotumoral form (>2.0cm in diameter,
+without suppuration) or suppurative form; e) high antibody titers.
+In fact, severe cases are represented by patients presenting
+clinical instability due to respiratory insufficiency, adrenal
+dysfunction, neurological syndrome or acute abdomen.
+Mild cases, which constitute a small portion of patients, are those
+with weight loss below 5% of normal body weight and involvement
+of unique or a few organs or tissues without disfunction.
+In some cases, patients present with clinical manifestations
+of both acute/subacute and chronic forms, making it difficult
+to properly classify the disease. Most of these patients present
+with intense suppression of cellular immunity and are labelled
+as having mixed form PCM43.
+Residual forms (sequelae)
+Residual forms, also referred to as sequelae, are clinical
+manifestations of anatomical and functional changes observed
+FIGURE 7 - Clinical aspects of chronic PCM. A. Papulonodular ulcerative lesions on the face. B. Perioral and mentonian involvement. C. Fistulated cervical
+and submandibular lymph nodes. D. Vegetative lesion with irregular borders in the perianal region. Through hematogenous dissemination, especially traumatic
+fungal implantation, the cutaneous lesions contiguously develop from compromised mucosa, fistulated lymph nodes, or bone involvement47. The lesions are
+characterized by ulcero-crusted polymorphisms, molluscoids, papules, or acneiforms, and are located primarily in the cephalic pole and periorificial regions48.
+Of note, patients with Addison's syndrome typically present with cutaneous and mucosal hyperpigmentation. PCM: paracoccidioidomycosis. Reproduction with
+modification: Shikanai-Yasuda MA, Telles Filho FQ, Mendes RP, Colombo AL, Moretti ML, Grupo de Consultores do Consenso em Paracoccidioidomicose.
+Consenso Brasileiro em Paracoccidioidomicose. Rev Soc Bras Med Trop. 2006;39(3):297-31039.
+after PCM treatment. Sequelae are observed in multiple organs,
+but have a higher rate of incidence in the lungs, skin, larynx,
+trachea, adrenals, mucosa of the upper aerodigestive tract,
+central nervous system, and lymphatic system, thus explaining
+the diversity of clinical presentation44-46.
+Rev Soc Bras Med Trop 50(5):715-740, September-October, 2017
+A
+B
+C
+D
+
+722
+INITIAL TREATMENT, DIAGNOSTIC
+APPROACH, AND OUTPATIENT
+FOLLOW-UP ROUTINE OF PATIENTS
+WITH PCM
+Since PCM is systemic, any organ can be affected. The
+attention of the observer should initially be directed to the
+general condition of the patient and then the organs and systems
+that are most frequently committed according to the forms of
+the disease presentation: acute/subacute PCM and chronic
+PCM. According to routine medical care, all patients should
+have a detailed physical examination, reporting weight and
+height evaluation, to allow the characterization of nutritional
+status.
+General evaluation of a patient with
+acute/subacute form
+In
+acute/subacute
+PCM,
+anamnesis
+and
+physical
+examination play an important role in the determination of
+disease severity and systemic involvement. For example, the
+presence of lymphadenomegaly in various lymphatic chains,
+hepatosplenomegaly, cutaneous lesions, or abdominal masses
+can be confirmed during a patient’s physical examination. In
+addition, clinical examination can also detect the presence
+of jaundice, ascites, and peripheral edema, which prompt
+investigation of hypoalbuminemia. In acute/subacute PCM,
+signs of adrenal and neurological involvement are rare. Fever,
+weight loss, and digestive complaints, such as abdominal pain,
+chronic malabsorptive diarrhea, and vomiting, are also quite
+frequent40. The presence of tumefaction or pain in the bone
+region requires the identification of bone lesions.
+Laboratory tests and imaging:
+Chest X-ray (posterior, anterior, profile)
+Complete blood count and erythrocyte sedimentation rate (ESR)
+Liver biochemical tests (alanine aminotransferase (ALT),
+alkaline phosphatase)
+Total proteins and fractions
+Evaluation of renal and metabolic function (serum creatinine, Na, K)
+Imaging tests, such as ultrasound, CT, magnetic resonance
+imaging (MRI), and scintigraphic mapping should only be
+performed when there is clinical suspicion or laboratory results
+suggestive of organ involvement that cannot be solely assessed
+by physical examination.
+General evaluation of a patient with chronic form
+In chronic PCM, anamnesis and physical examination
+must include the evaluation of signs and symptoms related
+to pulmonary, tegumentary, and laryngeal involvement41,46
+(cough, dyspnea, mucus/purulent expectoration, ulcerated
+lesions of the skin and naso-oropharyngeal mucosa47,48,
+odynophagia, dysphagia, and dysphonia). Both diagnostic
+methods must also evaluate signs and symptoms of lymphatic
+adenomegaly, adrenal involvement49,50 (asthenia, weight
+loss, hypotension, skin darkening, abdominal pain), central
+nervous system involvement51,52 (headache, motor deficit,
+convulsive syndrome, and alteration of behavior and/or level
+of consciousness), and digestive impairment (diarrhea and
+malabsorption syndrome)53,54 (Figure 8).
+A
+B
+C
+D
+E
+F
+FIGURE 8 - Images of PCM. A. Conventional butterfly wing radiological
+image showing bilateral, parahilar, and symmetrical pulmonary involvement
+with a predominance of alveolar lesions, sparing apices and lower thirds. These
+manifestations are very suggestive of PCM but occur infrequently. B. Diffuse and
+symmetric nodular and micronodular opacities. C. Computed tomography (CT) of
+lungs with multiple sub-pleural cavities. Pulmonary lesions may be interstitial of the
+thin or coarse reticular-nodular type, or, less frequently of the tumor type. D. Bilateral
+adrenal increase. E and F. CNS: hypodense and ring-shaped contrast enhancement
+images with small mass effect. PCM: paracoccidioidomycosis. Reproduction with
+modification: Shikanai-Yasuda MA, Telles Filho F de Q, Mendes RP, Colombo AL,
+Moretti ML, Grupo de Consultores do Consenso em Paracoccidioidomicose. Consenso
+Brasileiro em Paracoccidioidomicose. Rev Soc Bras Med Trop. 2006; 39(3): 297-31039.
+Laboratory tests and imaging
+Chest X-rays (posterior, anterior, profile)
+Complete blood count and erythrocyte sedimentation rate (ESR)
+Liver biochemical tests (ALT, alkaline phosphatase)
+Evaluation of renal and metabolic function (serum creatinine, Na, K)
+More complex examinations should be conducted if there
+is a clinical suspicion or laboratory result suggesting central
+nervous system involvement, gastrointestinal involvement,
+abdominal forms, chronic respiratory insufficiencies, or
+osteo-articular lesions. In patients presenting with these signs,
+Shikanai-Yasuda MA, et al. - Paracoccidioidomycosis Brazilian Guidelines
+
+723
+imagining and functional tests should be performed under
+the guidance of medical experts. Given the high frequency of
+adrenal involvement and its clinical impact, patients suspected
+of having chronic PCM should undergo an assessment of the
+functional reserve when available.
+Differential diagnosis
+Other conditions to consider in the differential diagnosis
+for PCM include the following: acute lymphoma, leukemia,
+histoplasmosis,
+tuberculosis,
+toxoplasmosis,
+visceral
+leishmaniasis, and infectious mononucleosis. For chronic
+cutaneous-mucosal PCM, the conditions to consider in the
+differential diagnosis are cutaneous or mucosal leishmaniasis,
+tuberculosis, chromoblastomycosis, leprosy, sarcoidosis, lues,
+neoplasia and in the chronic pulmonary form, tuberculosis
+(Table 2)55, coccidioidomycosis, histoplasmosis, sarcoidosis,
+pneumoconiosis, and interstitial pneumonitis. For digestive
+Epidemiology
+Tuberculosis
+Paracoccidioidomycosis
+Age
+Wide range
+Restricted (30- to 60-years-old)
+Gender
+Indistinct
+Prevalent in males (15:1)**
+Incidence
+45/100,000
+1-3/100,000
+Mortality
+2.3/100,000
+1.65/1,000,000
+Geographic distribution
+Worldwide, more urban
+Latin America, more rural
+Microbiology
+etiologic agent
+Mycobacterium tuberculosis
+Paracoccidioides spp.
+source of infections
+Man/animal
+Soil
+infection
+Contagious
+Non-contagious
+cultivation
+Fastidious
+Fastidious
+Clinical aspects
+signs and symptoms
+Well defined
+Non-specific
+weight loss
+++/++++
+++/++++
+fever
+++++
++/-***
+cough
+++++
++/-
+hemoptoic sputum
++++/++++
++/-
+pleural involvement
+Yes
+No
+association
+PCM (10-15%)
+TB (10-15%)
+Radiology
+image localization
+Predominance in upper zone
+Predominance in medium thirds, bilateral, and
+diffuse zones
+cavities
++++/++++
+++/++++
+pleural images
+Yes
+No
+dissemination
+Uni/multifocal
+Uni/multifocal
+Laboratorial changes
+red cells
+Normocytic normochromic anemia
+Normocytic normochromic anemia
+white cells
+Leukocytosis/leukopenia
+Leukocytosis/leukopenia
+ESR
++++/++++
++/++
+serum proteins
+Normal/low
+Normal/low
+Natural evolution
++++
++++
+consumption
+Yes
+Yes
+anergy
+Yes
+Yes
+death
+Yes
+Yes
+* Modified from: Queiroz-Telles F and Escuissato D. Pulmonary paracoccidioidomycosis. Semin Respir Crit Care Med. 2011;32:764-7455. **Pneumonia may occur
+rarely in acute/subacute PCM. In these cases, both sexes can be affected; ***Fever may occur in patients with associated infections. PCM: paracoccidioidomycosis;
+TB: tuberculosis; ESR: erythrocyte sedimentation rate.
+TABLE 2
+Pulmonary involvement: differences between tuberculosis and paracoccidioidomycosis*.
+PCM, conditions to consider in the differential diagnosis are
+tuberculosis and Chron’s disease, while for forms of PCM
+that affect the central nervous system, the conditions are
+tuberculosis, cryptococcosis, cysticercosis, and neoplasias.
+Laboratory examinations for specific diagnosis
+The identification of Paracoccidioides spp. through the
+examination of fresh sputum or other clinical specimens, such
+as lesion sample, lymph node aspiration, or biopsy fragment,
+is the gold standard for PCM diagnosis.
+Aspects of PCM laboratory diagnosis are presented in
+Figure 9.
+In an attempt to standardized PCM diagnosis, the following
+definitions are offered:
+Suspected case: patient presents with one or more of the
+following manifestations, excluding tuberculosis and other
+Rev Soc Bras Med Trop 50(5):715-740, September-October, 2017
+
+724
+diseases that occur with a similar condition, for at least four
+weeks:
+•	 Cough with or without sputum and dyspnea
+•	 Sialorrhea, odynophagia, or hoarseness
+•	 Lesion (ulcerated) in the nasal or oral mucosa
+•	 Skin lesions (ulcers, vegetation, nodules, plaques, etc.)
+•	 Cervical or generalized adenomegaly, with or without
+suppuration and fistulization.
+•	 Child or young adult with hepatosplenomegaly and/or
+abdominal tumefaction
+Probable case: a patient with clinical manifestations
+compatible with PCM and anti-P. brasiliensis/P. lutzii serum
+antibody titers detected preferably  by quantitative double
+immunodiffusion test or counterimmunoelectrophoresis.
+Confirmed case: Patient with clinical manifestations
+compatible with PCM with secretions, bodily fluids, or
+lesion material presenting with fungal elements suggestive
+of P. brasiliensis/P. lutzii infection (Figure 9). Note, the
+micromorphology of P. brasiliensis/P. lutzii parasitic forms in
+the biological material of infected patients cannot distinguish
+between the two species. Therefore, the identification of the
+involved species requires culture isolation and application of
+molecular techniques56,57.
+A
+B
+C
+D
+E
+F
+FIGURE 9 - Laboratory diagnosis of paracoccidioidomycosis. A and B.
+Cultivation of P. brasiliensis. A. mycelial phase. B. yeast phase. C. Fresh
+examination in KOH. D. Lactophenol staining showing yeast cells with multiple
+buds. E. Histological section stained by the Grocott method. F. Histological
+section stained by PAS. KOH: Potassium hydroxide; PAS: Periodic acid - Schiff
+stain. Reproduction with modification: Shikanai-Yasuda, MA, Telles Filho F de
+Q, Mendes RP, Colombo AL, Moretti ML, Grupo de Consultores do Consenso
+em Paracoccidioidomicose. Consenso Brasileiro em Paracoccidioidomicose.
+Rev Soc Bras Med Trop. 2006;39(3):297-31039.
+Critical evaluation of serological tests:
+serologic diagnosis and follow-up
+Specific serological tests are important in not only the
+diagnosis of PCM, but also in the assessment of host response to
+specific treatments. Currently, double immunodiffusion (DID),
+counterimmunoelectrophoresis
+(CIE),
+immunoenzymatic
+assays (ELISA), and immunoblots (IB) are the serological
+tests available in different reference services58-60.
+These tests use standardized techniques and adequate
+antigens61, and display a sensitivity between 80% and 95%.
+The titer of specific anti-P. brasiliensis antibodies58,59,60
+correlates with the severity of the clinical forms, with higher
+levels detected in the acute/subacute and disseminated forms.
+In cases of PCM caused by P. lutzii, such information remains
+unknown, which has motivated multicenter studies in endemic
+areas. PCM cases with false negative results from any of the
+previously mentioned tests are most often associated with very
+localized lesions and hosts with AIDS or immunodepressive
+conditions. Antigens prepared from P. brasiliensis that are
+rich in gp43KDA62 have excellent accuracy in the diagnosis
+of P. brasiliensis infections58-60 , but have a low sensitivity
+in the diagnosis of P. lutzii infections63,64. These serological
+tests display a specificity between 85% and 100%, with
+immunodiffusion having the highest rate of specificity.
+False-positive reactions may occur in sera from patients with
+histoplasmosis, and eventually aspergillosis and leishmaniasis;
+however, gel immunodiffusion provides the highest rate of
+specificity for these conditions.
+Currently, the main method of PCM serological diagnosis
+is double agar gel immunodiffusion (DID) because of its
+simplicity, cost-effectiveness, sensitivity (>80%), specificity
+(>90%), and extensive application over the last decades. For
+DID, or any other test used in the diagnosis of PCM, serums
+should be titrated to increase the accuracy of therapeutic
+response interpretation because antibody titers progressively
+decrease with successful clinical control. To meet serological
+cure criteria, negative or stabilization results at a dilution of
+1:2 or less should be achieved. In certain cases, patients may
+already have titers below 1:4 upon diagnosis; therefore, the
+serological criteria will have limited value during treatment
+follow-up. Additional resources and techniques for PCM
+diagnosis have been developed, but they are not available
+for PCM routine assessment. These examinations include the
+immunoblot technique, the triage ELISA test, the detection of
+specific antigens and PCR65,66.
+To date, there are no validated serological techniques for
+the accurate diagnosis of infection by P. lutzii. Unfortunately,
+there is no commercial system available for PCM diagnosis,
+and all available tests are based on systems developed in
+house58-60,63,64. A recent study revealed a large variability in
+the mycosis diagnostic results generated by serological tests
+performed at different reference laboratories67. Thus, to ensure
+precise assessment, follow-up serological response curves
+to antifungal treatments should be performed by the same
+technique and laboratory.
+Shikanai-Yasuda MA, et al. - Paracoccidioidomycosis Brazilian Guidelines
+
+725
+Frequency of outpatient visits and completion of
+examinations
+During the first 3 months of infection, monthly
+consultations are recommended to optimize patient adherence
+to the established regimen, to assess drug tolerability, and
+to ensure good clinical response (Table 3). If a satisfactory
+clinical response is observed, the consultations should become
+quarterly until the end of the first year. After 90 days of follow-
+up if a satisfactory clinical response is observed, patients
+should undergo complete blood count and biochemical
+tests every 3 months during the first year. Radiological and
+serological examinations should be requested every 6 months,
+or at shorter intervals if a satisfactory clinical response is
+not observed or if laboratory results indicate no change in
+activity. The reduction of specific antibody titers should occur
+approximately 6 months after treatment and should be either
+negative or stabilized at low titers for approximately 10 to
+24 months after treatment. These estimations depend on the
+Examinations
+1st medical
+appointment
+1st, 2nd,
+3rd month
+6th, 9th,
+12th monh
+18th,
+24th
+month
+≥ 2 years
+6/6 months
+>1 year after
+treatment
+interruption: 6/6
+months*
+Medical
+appointment
+X
+X
+X
+X
+X
+X
+Hemogram,
+ALT, Alkaline
+phosphatase
+Na, K creatinine
+X
+3rd month
+X
+X
+X
+X
+Erythrocyte
+sedimentation rate
+X
+X
+Serology
+X
+6th,
+12th
+18th,
+24th
+X
+X
+Thorax X-ray
+X
+X
+6th,
+12th
+X*
+X*
+If necessary**
+TABLE 3
+Guidance for clinical-laboratory follow-up of patients with paracoccidioidomycosis undergoing therapy.
+ALT: alanine aminotransferase; Na: sodium; K: potassium. * After 1 year of treatment discontinuation, the patient should be
+released from follow-up if cure criteria has been met. **Thorax X-ray: according to the presence of changes.
+clinical form, severity, and antifungal treatment administered, as
+itraconazole promotes a faster response than cotrimoxazole in
+the acute form rather than the chronic form. In the second year of
+follow-up, the consultations should become semi-annual. Once
+the cure criteria have been met, treatment should be discontinued
+and patients should be followed-up on an outpatient basis for up
+to two years. After this period, if the patient continues to meet
+cure criteria, the patient can be released from outpatient follow-
+up and instructed to return if necessary.
+According to the clinical presentation of PCM, specific follow-
+up examinations, such as ultrasound (e.g. to evaluate the evolution
+of nodal masses or nodular images in abdominal organs), and
+CT, or MRI to evaluate cephalic lesions should be requested.
+Clinical specialty outpatient support
+Patients with PCM that involves the larynx (dysphonia)
+and trachea should be referred to an otorhinolaryngologist
+Rev Soc Bras Med Trop 50(5):715-740, September-October, 2017
+
+726
+for evaluation and specialized examinations, such as
+nasofibroscopy, for early diagnosis and treatment of
+complications.
+Despite adequate treatment and satisfactory therapeutic
+response, patients who develop persistent dyspnea associated
+with cutaneous and mucosal lesion scarring and body weight
+recovery should be referred to a pulmonologist to treat
+cicatricial lung disease or associated respiratory pathologies.
+Similarly, patients with Addison’s syndrome caused by
+adrenal impairment as a result of active or residual PCM
+should be followed up by an endocrinologist, especially those
+patients who were unresponsive to usual treatments. Patients
+with PCM with neurological, intestinal, or abdominal lymphatic
+involvement, accompanied by malabsorption syndromes,
+reproductive organ lesions, or other clinical situations, should
+be followed-up by a specialized physician because management
+of disease in these patients often presents additional difficulties.
+INDICATIONS FOR HOSPITALIZATION
+The following types of patients must be hospitalized:
+1.	 Patients with disseminated forms presenting one of
+the following complications: neurological alterations,
+respiratory insufficiency, nutritional status deficiency,
+gastrointestinal
+involvement,
+jaundice,
+ascites,
+or
+hemodynamic changes.
+•	 Patients presenting comorbidities, such as AIDS,
+tuberculosis, and/or neoplasia, and if there is a need
+for better diagnostic investigation or observed clinical
+deterioration.
+•	 Patients with sequelae and clinical instability, such as
+decompensated COPD, cor pulmonale, Addison’s disease,
+laryngeal, or tracheal stenosis (Figure 10).
+ASSESSMENT OF COMORBIDITIES AND
+IMMUNOSUPPRESSION
+Many patients with chronic PCM are smokers and present
+with chronic obstructive pulmonary disease (COPD) prior
+to the diagnosis of mycosis. Other diseases are relatively
+common in patients with PCM, particularly chronic infectious
+parasitic diseases and neoplasias. Predisposing factors of PCM
+are believed to promote the occurrence of certain diseases,
+including tuberculosis, leishmaniasis, Chagas disease, leprosy,
+and strongyloidiasis33. Further, Paracoccidioides spp. may be
+opportunistic in patients with reduced cellular immunity as a
+result of underlying disease or immunosuppressive treatments.
+Tuberculosis
+Tuberculosis has been reported in approximately 2% to
+20% of PCM cases, and the disease can be diagnosed before,
+after, or concurrently with PCM. When the two infections occur
+simultaneously, difficulties may arise in the diagnosis, selection
+of antifungal therapy, and recognition of therapeutic response68.
+In patients with lung injuries related to Paracoccidioides spp.
+A
+B
+C
+D
+E
+F
+FIGURE 10 - Sequelae of PCM in the respiratory system. A and B. Microstomia
+resulting from perioral lesions. C. Tracheostomy as a result of tracheal
+stenosis. D. Chest X-ray showing residual bilateral reticular infiltrate. E and
+F. CT showing post-treatment septal thickening, peripheral reticulation, and
+peribroncovascular thickening. PCM: paracoccidioidomycosis. Reproduction
+with modification: Shikanai-Yasuda, MA, Telles Filho F de Q, Mendes
+RP, Colombo AL, Moretti ML, Grupo de Consultores do Consenso em
+Paracoccidioidomicose. Consenso Brasileiro em Paracoccidioidomicose. Rev
+Soc Bras Med Trop. 2006;39(3):297-31039.
+infection, sputum smear microscopy is recommended to
+evaluate the occurrence of tuberculosis, especially when there
+is pulmonary infiltrate affecting the upper lobes.
+Cancer
+Several studies have reported that between 0.16% and
+14.1% of patients with PCM also present with a neoplasm at
+some point in their lives19. Carcinomas were observed more
+frequently in the lungs, oropharynx, and larynx. Patients with
+Paracoccidioides spp.-related airway lesions may develop
+carcinomas at or near the fungal lesion several years later19.
+Whether PCM represents a risk factor for cancer or if both
+diseases have similar predisposing factors remains controversial.
+In patients with PCM, the frequency of cancer is higher
+in smokers than in nonsmokers69. Diagnostic suspicion is
+fundamental for early diagnosis and treatment because clinical
+manifestations of cancer in patients with PCM can be masked
+by symptoms resulting from sequelae of fungal lesions in the
+lungs, larynx, or pharynx, especially in smokers and alcoholics.
+Less frequently, PCM manifests simultaneously or reoccurs
+with neoplasias, such as lymphoma, leukemia, and pulmonary
+carcinoma19,70. This PCM is probably opportunistic and presents
+with localized lesions, particularly in the lung or disseminated.
+Shikanai-Yasuda MA, et al. - Paracoccidioidomycosis Brazilian Guidelines
+
+727
+These patients are generally treated with antifungal therapy and
+any deaths are attributed to neoplasia. In areas endemic to PCM,
+this mycosis should be considered in cases of cancer patients
+experiencing clinical worsening.
+Organ transplantation and
+immunosuppressive therapy
+Opportunistic PCM has been observed in patients with reduced
+cellular immunity as a result of renal or hepatic transplantation,
+use of immunosuppressants, such as corticosteroids and cytotoxic
+and immunobiological drugs for the treatment of several diseases,
+or, in rare cases, primary immunodeficiency. This is exemplified
+by a case report of rheumatoid arthritis and bone sarcoma in which
+the patient was medicated with adalimumab, methotrexate, and
+leflunomide, and presented with lung and bone disease related to
+Paracoccidioides spp. infection20. In a small number of cases, PCM
+manifested a few days to 14 years after kidney transplantation,
+which enabled the evaluation of PCM’s clinical and laboratory
+characteristics under these conditions. Chest X-rays revealed that
+these patients had bilateral nodules18, pulmonary cavitation71,72,
+or bronchopneumonic infiltrate73. Lymphatic impairment was
+uncommon74. In these cases, microbiological diagnosis should
+be preferential because serological tests generally show low
+titers of anti-Paracoccidioides spp. antibodies73,75. As in other
+immunosuppressed patients, unusual clinical and serological
+expressions may confuse and delay the diagnosis of PCM. In
+addition, the response to therapy in renal transplant patients may
+be slow, especially with the administration of oral antifungal
+agents72-74. In half of these cases, death was reported. The use of
+effective and intravenous antifungal agents is thus recommended,
+as well as rigorous monitoring of immunosuppressed patients who
+have been exposed to areas endemic to PCM.
+HIV infection and AIDS
+Opportunistic PCM has been observed in HIV-infected
+patients, with up to 1.5% of Brazilian AIDS cases reporting
+simultaneously PCM infection17,76. In these co-infected patients,
+PCM progresses more rapidly and lesions are more widespread,
+involving lymphadenomegaly, umbilicated cutaneous lesions,
+hepatosplenomegaly, pulmonary infiltrates, and lesions of the
+central nervous system and other tissues. Most cases present
+mixed clinical manifestations with lesions predominantly of
+acute/subacute PCM, but with frequent pulmonary lesions,
+which may be atypical43. Many patients have a low CD4 +
+lymphocyte count and may present PCM as the first manifestation
+of AIDS. Although about 30% of the cases do not present anti-
+Paracoccidioides spp. antibodies, the fungus is easily recognized
+or isolated in mycological or histopathological examinations.
+HIV/Paracoccidioides spp. co-infection can lead to death, but
+most patients can be cured with intensive antifungal treatment
+combined with antiretrovirals and secondary prophylaxis17.
+Recommendations for patients suspected of
+comorbidities and immunosuppression
+1.
+Request an acid-fast bacilli smear and culture in three
+samples of sputum from patients with pulmonary PCM,
+particularly those patients who present with fever, night
+sweats, and infiltrate and/or cavitation in the upper lobes
+of the lungs.
+2.
+Perform an otorhinolaryngological follow-up in patients
+with laryngeal lesions that persist with dysphonia to perform
+a differential diagnosis with tuberculosis or neoplasia.
+3.
+In patients with pulmonary involvement and declining re-
+spiratory function despite appropriate treatment, the fol-
+lowing conditions should be considered: bacterial infec-
+tion, smoking-related lung disease (COPD), or associated
+neoplasia or sequelae with functional consequences.
+4.
+Investigate a possible HIV infection in patients with
+suggestive epidemiology and in patients with acute/
+subacute or mixed form PCM.
+5.
+In immunocompromised patients, the absence of
+antibodies, even in disseminated disease, does not rule
+out the diagnosis of PCM, which should be investigated
+with microbiological testing, and, if possible, with tissue
+biopsy and histopathological examination.
+SEQUELAE
+PCM is a systemic disease whose host response to the
+infecting agent consists of chronic granulomatous inflammation
+associated with an overlying fibrosing process. Thus, in addition
+to granuloma formation, there is an increased production of
+cytokines, including TNF-α and TGF-β, which can induce collagen
+and reticulin accumulation in the infected tissue. This fibrosing
+response may then lead to anatomical and functional changes
+in the organs affected during infection, especially the lungs.
+Pulmonary
+Despite treatment, chronic PCM may continue to present
+symptoms, such as varying degrees of cough, hyaline expectoration,
+and dyspnea41,42. In addition, changes in spirometry, including an
+obstructive pattern, may also be observed in most cases, which
+is justified by the association of peribronchial fibrotic sequelae
+with the history of smoking in most patients42. A complete lung
+function test may also show air trapping and diffusion reduction,
+which in more severe cases can lead to chronic hypoxemia42. Most
+patients, even after completing treatment, show scarring alterations
+upon imaging tests, especially CT scans44 (Figure 10), which can
+reveal architectural distortion (90%), septal and reticulated
+thickening (88%), centrolobular or parasseptal emphysema
+(82%), bronchial thickening (82%), parenchymal bands (74%),
+scarring in emphysema areas (66%), nodules <3 cm (62%), and
+pulmonary cysts (10%)42. In gasometry, an increased alveolar-
+arterial O2 gradient, hypoxemia, and hypercapnia may be present,
+with the latter signaling greater severity. Pulmonary hypertension
+is rare, and secondary to parenchymal changes.
+Adrenal glands
+On average, adrenal impairment is observed in 56% of
+autopsied cases, ranging from 48.2% to 80.0%34,36. However,
+15% to 50% of patients undergoing adrenal evaluation
+present with a hampered reserve, despite the absence of
+Rev Soc Bras Med Trop 50(5):715-740, September-October, 2017
+
+728
+clinical manifestations, and 3.5% of these patients present
+with Addison’s disease, which requires frequent hormonal
+replacement therapy throughout one’s life49,50.
+Larynx
+Laryngeal sequelae are characterized by dysphonia, as
+hoarseness and alterations in airflow and indicate poor closure
+of the fibrotic vocal cords. These complications are associated
+with an increased risk of pulmonary infections by aspiration and
+even difficulty of socializing because the voice is so altered77.
+Sequelae of the trachea can lead to obstruction of the airway
+and subsequent respiratory insufficiencies that can require
+tracheostomy or even surgical correction of tracheal stenosis.
+Central nervous system
+Patients frequently develop motor deficits, convulsive
+syndromes (epilepsy), and/or hydrocephalus. Cerebellar
+impairment occurs in about 20% to 30% of PCM cases with
+neurological involvement, and these cases often rapidly evolve to
+intracranial hypertension, which requires ventricular shunting51,52.
+Neurological forms of PCM have substantial risks for sequelae.
+Skin
+Cutaneous sequelae can lead to esthetic and oral mucosa
+alterations and even microstomia, which require special care for
+patient feeding and surgical correction after antifungal treatment.
+Main differential diagnoses
+Sputum microbiology
+Sputum cytology
+Chest X-ray and tomography
+Serum (antibody/antigen)
+PCM –
+relapse
++ or –Paracoccidoides
+-
+Recurrence of previous lesions,
+radiological findings of
+activity*
++ For PCM*
++ para PCM
+Infectious diseases
+Fungi
++ or -
+-
+Variable: Chronic
+histoplasmosis, pulmonary
+cryptococcosis, and chronic
+cavitary aspergillosis
++ histoplasmosis,/Aspergillosis
+antibodies,Antigenemia
++:criptococcosis
+Bacteria
+Gram +/-
++ or - Culture
+-
+Alveolar consolidation, air
+bronchogram, sometimes
+interstitial infiltrate
+-
+Tuberculosis
+AFB +
++ culture
+-
+Centerlobular nodules,  distr.
+segmentar or confluent
+micronodules, budding tree
+pattern, cavities: thick walls,
+upper thirds; pleural effusion
+-
+Neoplasia
+-
++ neoplastic cells
+Variable, neoplastic cells, with
+higher frequency of nodule or
+solitary mass excavated or not;
+localized atelectasis
+-
+PCM - sequela
+-
+-
+Scarring emphysema,
+bronchial thickening, signs
+of interstitial fibrosis, and
+peribroncovascular.
+Low titers possible in PCM
+sequelae
+TABLE 4
+Diagnostic approach to respiratory complaints in treated patients.
+PCM: paracoccidioidomycosis;: AFB: acid-fast bacilli; +: positive ; -: negative ; ±: positive or negative. *Consolidation, frosted glass lesions, thick-walled cavities,
+thickening of alveolar septa, nodules, and confluent masses.
+Lymphatic
+The sequelae of the abdominal lymphatic system can lead to
+obstructive jaundice, as a result of lymph node involvement in
+the hepatic hilum78 and malabsorption syndrome of proteins and
+fats54,79. The social and economical cost of these complications
+has not been adequately evaluated by the scientific community
+or health authorities.
+Evaluation and follow-up of pulmonary sequelae
+Patients with PCM that involves the lungs may present with
+persistent respiratory symptoms despite undergoing adequate
+treatment. Thus, the presence of respiratory sequelae in the
+lung that are associated with the pathologies or recurrence of
+PCM should be actively investigated in symptomatic patients80.
+Spirometry should be performed and, in the presence of
+an obstructive disorder, the introduction of bronchodilator
+medication is suggested, following guidelines for the treatment
+of COPD81. Chest X-rays and CTs not only aid in the investigation
+of associated pathologies, such as lung neoplasia, but also aid in
+the diagnosis of disease recurrence (onset or recrudescence of
+lesions with radiological signs of activity, such as nodules and
+masses with cavities and ground glass density nodules). Co-
+infections, especially tuberculosis (Table 2 and Table 4), should
+be investigated through microbiological examinations of sputum
+and, if necessary, bronchoalveolar lavage. Arterial blood gas
+Shikanai-Yasuda MA, et al. - Paracoccidioidomycosis Brazilian Guidelines
+
+729
+analysis may indicate the need for supplemental oxygen in cases
+of severe hypoxemia (PaO2 <55mmHg), and should be requested
+in patients with hypoxemia measured via pulse oximetry81. In
+more advanced cases from a clinical, spirometric, or laboratory
+point of view, a pulmonologist should perform an evaluation to
+characterize the severity and orientation of the therapy.
+TREATMENT
+Unlike other pathogenic fungi, P. brasiliensis and P. lutzii
+are susceptible to most systemic antifungal agents – even
+sulfonamide derivatives can inhibit their growth. There is no
+solid evidence to support primary or secondary resistance to
+the drugs used in PCM treatment. Therefore, several antifungal
+drugs have been shown to be effective in treating different
+clinical forms of the disease, including azole derivatives
+(ketoconazole, fluconazole, itraconazole, voriconazole,
+posaconazole, and isavuconazole82-87), sulfonamide derivatives
+(cotrimoxazole, sulfadiazine, etc.)88, amphotericin B
+(formulations in deoxycholate, lipid and liposomal complex)
+for severe forms89-91, and even terbinafine92.
+Despite the vast therapeutic arsenal available for disease
+management, itraconazole, cotrimoxazole (sulfamethoxazole/
+trimethoprim combination), and amphotericin B are more
+commonly used in clinical practice. There is currently no in
+vitro or in vivo evidence showing that PCM by P. brasiliensis
+and P. lutzii respond differently to the antifungal agents used
+in the treatment of the disease. Therefore, the therapeutic
+recommendations are valid for all patients with PCM.
+Although Latin America has high PCM incidence, morbidity,
+and mortality rates, only two randomized clinical trials involving
+patients with PCM have been published. However, neither
+study had statistical power capable of identifying crucial
+definitions, such as efficacy, safety, and treatment duration83,86.
+Thus, the suggested guidelines for PCM treatment are based on
+only two prospective, open randomized studies, and multiple
+Drugs
+Dose
+Average duration
+Itraconazole*
+200mg daily
+**Children < 30kg e > 5 years, 5 to 10mg/kg/day, adjust dose without
+opening the capsule
+9-18 months
+Cotrimoxazole*
+Trimethoprim, 160mg + Sulfamethoxazole, 800mg (VO 8/8h or 12/12h)
+Children –Trimetoprim, 8 to 10mg/kg + Sulfamethoxazole, 40 to
+50mg/kg, VO 12/12h
+18-24 months***
+Amphotericin B
+Deoxycholate 0.5-0.7mg/kg/day (IV)
+Lipid formulation 3-5mg/kg/day (IV)
+2-4 weeks**** (until improvement)
+TABLE 5
+Most commonly used drugs in patients with paracoccidioidomycosis.
+CNS: central nervous system. *Do not use concomitantly with astemizole, antacids and H2 blockers, barbiturates, cisapride, cyclosporine, didanosine, digoxin,
+fentanyl, phenytoin, rifampicin, cisapride, and terfenadine. **Increased experience in children with sulfamethoxazole/trimethoprim treatment. ***Extend the
+duration of treatment when there is CNS involvement. ****Requires maintenance treatment with itraconazole or cotrimoxazole.
+retrospective or prospective, comparative or non-comparative
+studies82,86,90,93,94. Although tested in a small number of patients,
+voriconazole, posaconazole, and isavuconazole have been shown
+to have inhibitory action in vitro against Paracoccidioides spp.
+isolates, and therefore, these agents are potentially useful in
+the treatment of PCM. However, drug interactions and adverse
+events of prolonged therapy should be taken into account.
+Treatment of patients with mild
+and moderate forms
+Itraconazole at a dose of 200mg daily has been widely used
+in the treatment of mild and moderate forms of PCM with high
+rates of efficacy and safety. Therefore, at present, this triazole is
+the treatment of choice for patients with mild to moderate forms
+of PCM. The duration of treatment may vary from 9 to 18 months,
+with an average duraction of 12 months, and the patient should
+always be evaluated by clinical, immunological, and radiological
+criteria. (Table 5). In general, the tegumentary lesions heal 30
+days after the start of treatment and the lymphadenopathies regress
+between 45 and 90 days. Stabilization of radiological images is
+usually observed after 6 months of itraconazole use.
+As with many triazole fungicides, the absorption of
+itraconazole may be impaired by a number of factors, such
+as drug interactions, achlorhydria, previous gastrectomy,
+alkaline food intake, or fasted state (Table 5, Table 6,
+Table 7, and Table 8). For increased serum levels in adult
+patients, itraconazole capsules should be ingested in a single
+intake after lunch or dinner. Acidic beverages, such as citrus
+juices, can increase the absorption of itraconazole, while
+alkaline foods decrease absorption. Fractionated dosing of
+itraconazole is not recommended because its absorption from
+the gastrointestinal tract occurs only when the drug is packed
+in intact capsules. In terms of clinical efficacy (predominantly
+with chronic PCM), treatment duration and adherence, and
+pharmacoeconomics, several retrospective, comparative studies
+have shown that the treatment of PCM with itraconazole is
+more advantageous than treatment with sulfamethoxazole/
+trimethoprim (cotrimoxazole)93,94.
+Rev Soc Bras Med Trop 50(5):715-740, September-October, 2017
+
+730
+Drugs
+Sulfamethoxazole + Trimethoprim (SXT)
+Amphotericin B
+Azathioprine
+Risk of leukopenia by medullary suppression Monitor
+No interactions found
+Aminoglycosides
+(amikacin, gentamicin, tobramycin,
+netilmicin, and streptomycin)
+No interactions found
+↑ nephrotoxicity
+Combination contraindicated
+Cyclosporine
+↓ cyclosporine
+↑ risk of nephrotoxicity
+Avoid combination
+↑ nephrotoxicity
+↑ ototoxicity
+Combination contraindicated
+Digoxin
+↑ digoxin
+Use with caution
+↑ risk of toxicity of digoxin if ↓K
+Monitor carefully
+Phenytoin
+↑ Phenytoin
+Use with caution and monitor
+No interactions found
+Isoniazid
+No interactions found
+No interactions found
+Loperamide
+No interactions found
+No interactions found
+Methotrexate
+↑ toxicity methotrexate
+Avoid combination
+No interactions found
+Metformin
+↑Metformin
+Minor interaction
+No interactions found
+Rifampicin
+↓SXT – Monitor
+No interactions found
+Pyrimethamine
+↑ risk of megaloblastic anemia Monitor
+Warfarin
+↑ Warfarin effect
+Avoid combination
+No interactions found
+Thiazides
+↑ risk of thrombocytopenic purpura Monitor
+No interactions found
+TABLE 6
+Drug interactions of sulfamethoxazole + trimethoprim and amphotericin B.
+K: potassium; SXT: sulfametoxazole-thrimethoprim; References: http://reference.medscape.com/drug-interactioncheck95; https://online.epocrates.com/interaction-
+check96.
+New azole derivatives
+Although only a small number of patients have been treated
+with other drugs on the expanded triazole spectrum triazoles,
+including voriconazole, posaconazole (with expected future
+use with extended release capsules), and isavuconazol, these
+drugs can be considered as potential substitutes for itraconazole
+as their costs become more affordable and new evidence is
+published86,87; however, drug interactions should be taken into
+account95,96 (Table 6, Table 7 and Table 8).
+Cotrimoxazole (sulfamethoxazole/trimethoprim)
+Although cotrimoxazole is fungistatic and requires a longer
+treatment duration than that of itraconazole, cotrimoxazole is the
+second treatment option for patients with mild to moderate forms
+of PCM. Cotrimoxazole’s advantages include large availability
+within Brazil’s public health system, tablet form, oral and
+venous formulations, and good absorption with predictable
+serum levels. The oral suspension can be used in children
+who do not tolerate tablets and in adults who do not swallow
+tablets because of stenotic laryngeal or esophagus lesions. The
+cotrimoxazole venous solution can be used in patients with
+digestive disorders and/or who do not absorb oral medication
+well. Cotrimoxazole can also be used in contraindications
+of itraconazole, or in cases of suspected therapeutic failure
+or concomitant tuberculosis treatment. According to a few
+published cases, cotrimoxazole is the treatment of choice for
+patients with neuroparacoccidioidomycosis52,97.
+Shikanai-Yasuda MA, et al. - Paracoccidioidomycosis Brazilian Guidelines
+
+731
+Drugs
+Fluconazole
+Itraconazole
+Ketoconazole
+Voriconazole
+Posaconazole
+Amitriptyline
+↑ QT *Avoid
+combination
+↑ QT* Avoid
+combination
+↑ QT*Avoid
+combination
+↑ QT*Avoid
+combination
+↑ QT*Avoid
+combination
+Warfarin
+↑ Warfarin
+Avoid
+combination
+↑ Warfarin
+Avoid combination
+↑ Warfarin
+Avoid combination
+↑ Warfarin
+Avoid combination
+↑ Warfarin
+Avoid combination
+Calcium channel
+blockers
+↑blocker effect
+Combination not
+contraindicated
+↑ blocker effect
+Combination not
+contraindicated
+↑ blocker effect
+Combination not
+contraindicated
+↑ blocker effect
+Combination not
+contraindicated
+↑ blocker effect
+Combination not
+contraindicated
+H2 blockers, antacids,
+sucralfate
+No interactions found
+↓ Itraconazole
+Avoid combination
+↓ Ketoconazole
+Avoid combination
+No interactions found
+↓ Posaconazole
+Avoid combination
+Carbamazepine
+↑Carbamazepine
+Monitor serum
+carbamazepine level
+Use with caution
+↑Carbamazepine
+↓Itraconazole
+Monitor serum
+carbamazepine level
+Use with caution
+↑Carbamazepine
+↓Ketoconazole
+Monitor serum
+carbamazepine level
+Use with caution
+↑Carbamazepine
+↓Voriconazole
+Combination
+contraindicated
+↑Carbamazepine
+↓Posaconazole
+Monitor serum
+carbamazepine level
+Use with caution
+Cyclosporine
+↑Cyclosporine
+Use with caution
+↑Posaconazole
+↑Cyclosporine
+Monitor clinical
+treatment
+↑Cyclosporine Monitor
+serum level
+↑Cyclosporine
+Monitor serum level
+↑Posaconazole
+↑Cyclosporine
+Monitor clinical
+treatment
+Phenytoin
+↑Phenytoin
+Use with caution
+↓Itraconazole
+Avoid
+combination
+↑Phenytoin
+↓Ketoconazole
+Avoid combination
+↑Phenytoin
+↓Voriconazole
+Avoid combination
+or monitor
+↑Phenytoin
+↓Posaconazole
+Avoid combination
+Isoniazid
+No interactions found
+↓Itraconazol e Monitor
+serum level
+↓Ketoconazole
+Combination
+contraindicated
+↑Voriconazole
+Monitor serum level
+No interactions
+found
+Proton pump
+inhibitors
+(omeprazole)
+↑effect of proton
+pump inhibitors
+Use with caution
+↓Itraconazole
+Avoid combination
+↓Ketoconazole
+Combination
+contraindicated
+↑ effect of proton
+pump inhibitors
+Use with caution
+↓Posaconazole
+Avoid
+combination
+Lovastatin /
+Simvastatin
+↑ Lovastatin /
+Simvastatin
+Combination
+contraindicated
+↑ Lovastatin /
+Simvastatin
+Combination
+contraindicated
+Risk of myopathy
+and rhabdomyolysis
+↑ Lovastatin /
+Simvastatin
+Combination
+contraindicated
+Risk of myopathy and
+rhabdomyolysis
+↑ Lovastatin /
+Simvastatin
+Combination
+contraindicated
+Risk of myopathy
+and rhabdomyolysis
+↑ Lovastatin /
+Simvastatin
+Combination
+contraindicated
+Risk of
+myopathy and
+rhabdomyolysis
+Midazolam/
+triazolam
+oral
+↑ Midazolam
+Risk of respiratory
+depression Avoid
+combination
+↑ Midazolam
+Risk of respiratory
+depression
+Combination
+contraindicated
+↑ Midazolam
+Risk of respiratory
+depression
+Combination
+contraindicated
+↑ Midazolam
+Risk of respiratory
+depression
+Avoid combination
+↑ Midazolam
+Risk of respiratory
+depression
+Avoid
+combination
+Rifampicin/
+rifabutin
+↓Fluconazole
+↓Rifampicin
+Consider increasing
+the dose of
+fluconazole
+↓Itraconazole
+↓Rifampicin Monitor
+treatment efficacy
+↓Ketoconazole
+↓Rifampicin
+Monitor treatment
+efficacy
+↓Voriconazole
+↓Rifampicin
+Combination
+contraindicated
+↓Posaconazole
+↓Rifampicin
+Monitor treatment
+efficacy
+Sirolimus
+↑Sirolimus
+Combination
+contraindicated
+↑Sirolimus
+Use with caution
+↑Sirolimus
+Combination
+contraindicated
+↑Sirolimus
+Combination
+contraindicated
+↑Sirolimus
+Combination
+contraindicated
+Tacrolimus
+↑ QT
+↑ Tacrolimus
+Avoid combination
+↑ Tacrolimus
+Avoid combination
+↑ Tacrolimus
+Avoid combination
+↑ Tacrolimus
+Use with caution
+↑ Tacrolimus
+Use with caution
+TABLE 7
+Main drug interactions for azole antifungals.
+References: http://reference.medscape.com/drug-interactioncheck95; https://online.epocrates.com/interaction-check95;*QT interval in electrocardiogram.
+Rev Soc Bras Med Trop 50(5):715-740, September-October, 2017
+
+732
+Antiretroviral
+Fluconazole
+Itraconazole
+Voriconazole
+Posaconazole
+Zidovudine
+↓Zidovudine
+Minor interaction
+No interactions found
+No interactions found
+No interactions found
+Tenofovir
+No interactions found
+No interactions found
+No interactions found
+No interactions found
+Lamivudine
+No interactions found
+No interactions found
+No interactions found
+No interactions found
+Efavirenz
+(avoid combination with
+azoles)
+Minor interaction
+↑Efavirenz
+↓Itraconazole
+↑Efavirenz
+↓Voriconazole
+↑Efavirenz
+↓Posaconazole
+Dolutegravir
+No interactions found
+No interactions found
+No interactions found
+No interactions found
+Darunavir
+↑Darunavir
+↑Darunavir
+Avoid combination
+↑Darunavir
+↑Darunavir
+Ritonavir
+↑Ritonavir
+Use with caution
+↑Ritonavir; ↑Itraconazol
+Avoid combination
+↑Ritonavir; ↓Voriconazole
+Combination contraindicated
+↑Ritonavir; ↑Posaconazole
+Lopinavir/
+ritonavir
+↑Lopinavir
+↑Ritonavir
+Avoid combination
+↑Lopinavir
+↑Ritonavir
+↑Itraconazol
+Avoid combination
+↑Ritonavir
+↓Voriconazole
+Combination contraindicated
+↑Lopinavir
+↑Ritonavir
+↓Posaconazole
+Use with caution
+Atazanavir
+↑Atazanavir
+Minor interaction
+↑Atazanavir
+↑Itraconazol
+Use with caution
+↑Atazanavir
+Combination contraindicated
+↑Atazanavir
+Minor interaction
+Abacavir
+No interactions found
+No interactions found
+No interactions found
+No interactions found
+TABLE 8
+Drug interaction between antiretrovirals and azole antifungals.
+References: http://reference.medscape.com/drug-interactioncheck95; https://online.epocrates.com/interaction-check96.
+Treatment of patients with severe and
+disseminated forms
+For severe and disseminated forms of PCM, amphotericin
+B in deoxycholate or in lipid formulation (liposomal or lipid
+complex) is indicated for use. The recommended induction dose
+of conventional amphotericin B is 0.5-0.7mg/kg/day, with a
+maximum of 50mg/day. Lipid formulations should be prescribed
+at doses of 3 to 5mg/kg/day. The duration of treatment depends
+on the clinical stability of the patient and amphotericin B should
+be administered for the shortest possible time (on average 2 to
+4 weeks). Transition to oral medication during the consolidation
+phase should occur after clinical stabilization once the drug’s
+oral absorption has been confirmed.
+If the lipid formulations of amphotericin B cannot be used,
+intravenous cotrimoxazole formulation is recommended at
+a dose of 800mg/160mg every 8 hours. Despite having little
+clinical experience, intravenous fluconazole (600 to 800mg/
+day) can also be a therapeutic option.
+The main therapeutic challenges of PCM management are
+the continuous use of systemic antifungal agents for extended
+periods, the possibility of relapse, and the appearance of
+sequelae, mainly in the respiratory tract. In addition to the use of
+antifungal drugs, PCM therapeutic management should include
+measures that improve the patient’s general condition, treatment
+of infectious or non-infectious comorbidities, application of cure
+criteria, and post-therapeutic follow-up.
+Corticosteroids
+Although scarce, there is evidence in the literature that some
+patients with PCM may benefit from the use of corticosteroids
+concomitantly with antifungal treatment98. Patients that have
+been shown to benefit from this approach often have intense
+inflammation, either in the ganglia or central nervous system,
+serious lesions of the larynx or trachea, and lung lesions resulting
+in respiratory insufficiency. The use of prednisone for 1 to 2
+weeks can reduce inflammation during therapy with antifungal
+Shikanai-Yasuda MA, et al. - Paracoccidioidomycosis Brazilian Guidelines
+
+733
+agents. In patients with PCM and AIDS who are administered
+antifungal and antiretroviral drugs but still present with worsening
+clinical symptoms, the possibility of immune reconstitution
+inflammatory syndrome (IRIS) may be taken into account, based
+on other infections associated with  HIV/AIDS.
+General measures
+All patients should be treated long enough to reduce
+signs and symptoms, stabilize body weight, have clear chest
+X-rays, and appropriate serum antibody titers. In addition to
+specific antifungal therapy, patients with severe forms of PCM
+need general measures to improve their nutritional status and
+immunosuppression. Regulating smoking, alcohol consumption,
+adrenal insufficiency, and other associated conditions also
+contribute to a better patient outcome. Therefore, the following
+factors are important in achieving PCM cured criteria: rest, a
+hyperproteic and hypercaloric diet supplemented with vitamins,
+alcohol and tobacco restriction, and treatment of Addison’s
+disease and associated infections, such as enteroparasitoses
+and respiratory bacterial co-infections. However, these
+recommended measures are useless if the patient cannot access
+antifungal medication, which the majority of the individuals
+with PCM cannot do because of their socioeconomic status
+and inability to afford treatment. Therefore, in the future,
+outpatient medications (itraconazole and cotrimoxazole) should
+be provided free of charge.
+Therapy in special populations
+Pregnancy
+PCM can occur in pregnant women either as an initial
+manifestation or as a reactivation of a previously controlled
+fungal disease. PCM is believed to occur in pregnant women
+because of the reduction of immune responses in pregnancy,
+which also predisposes these women to other systemic mycoses.
+In one study, Paracoccidioides spp. disseminated to the
+placenta, but there were no reports of fetal involvement99. PCM
+in pregnant women is controllable with the usual antifungal
+agents, primarily amphotericin B (category B). However, with
+the possibility of a teratogenic effect, the use of azole drugs
+(category C) and sulfamethoxazole/trimethoprim (category
+D) should be avoided100. Amphotericin B (category B) and
+sulfadiazine (category C) are alternatives for use during all
+gestational periods, but sulfadiazine should be discontinued
+15 days before the expected delivery date to avoid neonatal
+complications. Sulfamethoxazole/trimethoprim may be
+used during breastfeeding100. Antifungal therapy should be
+maintained throughout all gestational periods to prevent relapse
+and postpartum discontinuation should be assessed by the usual
+cure criteria. After birth, conventional antifungal therapy should
+be administered until the patient reaches the cure criteria.
+AIDS
+Patients with AIDS generally have severe and widespread
+forms of PCM; therefore, these patients should be initially
+treated with amphotericin B or, if appropriate, with high doses
+of itraconazole, 600mg/day (with attention towards interactions
+with antiretroviral drugs) or intravenous sulfamethoxazole/
+trimethoprim (2 ampoules every 8 hours). Despite having limited
+clinical experience, intravenous fluconazole (600-800mg/day)
+may be a therapeutic option. To avoid possible drug interactions,
+PCM should be treated initially with antifungals for 3 to 5
+weeks prior to initiation of antiretroviral therapy. Following the
+cure of PCM, secondary prophylaxis with sulfamethoxazole
+(1,600mg/day), trimethoprim (320mg/day), or itraconazole
+(200mg/day) is recommended based on the treatment of other
+mycoses in immunocompromised patients. Prophylaxis should
+continue until the administered antiretroviral therapy elevates the
+CD4 lymphocyte count to a minimum of 100 cells/μL (concomitantly
+with undetectable viral load) to 200 cells/μL, regardless of viral load
+for at least 3 months. The use of sulfamethoxazole/trimethoprim
+(800/160mg every 12 hours) is also effective as a primary and
+secondary prophylaxis for pneumocystosis and as primary
+prophylaxis for neurotoxoplasmosis. In immunosuppressed
+patients, the absence of antibodies, even in disseminated disease,
+does not rule out the diagnosis of PCM, which should be
+investigated with microbiological tests and, if possible, with tissue
+biopsy and histopathological examination.
+Hepatic or renal insufficiency
+The doses of the drugs used in PCM treatment should be
+adjusted in patients with hepatic or renal impairment.
+Renal insufficiency101-103
+Amphotericin B
+This drug should be avoided because of its high potential
+for nephrotoxicity, which is compounded with the use of
+consecutive series. Serum amphotericin B levels are not
+significantly affected by hemodialysis and do not require
+adjustment in these cases. One should opt for other drugs or a
+lipid formulation of amphotericin B.
+Azoles
+Since several azoles present renal excretion, their dose
+should be adjusted as follows101-103.
+Fluconazole: this azole has 80% renal clearance, and when
+renal clearance is less than 50ml/min, the dose should be reduced
+to 50% and administered at intervals of 48 hours. If renal
+clearance is less than 20 ml/min, the dose should be reduced
+to one-third of the normal dose and administered at intervals
+of 72 hours. In the case of hemodialysis, the full dose should
+be used after the dialysis process and 50% of the normal dose
+should be used during peritoneal dialysis.
+Itraconazole: when renal clearance is less than 10ml/min,
+the dose should be reduced to 50%. In the case of hemodialysis
+or peritoneal dialysis, 100mg of an oral solution should be
+administered every 12 to 24 hours.
+Voriconazole: when creatinine clearance is more than 50ml/
+min, use a 6mg/kg loading dose every 12 hours twice, followed
+by a 4mg/kg/day every 12 hours. Do not use an IV solution when
+clearance is less than 50ml/min. In cases of renal replacement
+therapy, hemodialysis, or peritoneal dialysis use 4mg/kg/day
+every 12 hours.
+Rev Soc Bras Med Trop 50(5):715-740, September-October, 2017
+
+734
+Terbinafine: when clearance is greater than 50ml/min,
+administer a dose only every 24 hours, and avoid use when
+clearance is less than 50ml/min.
+Sulphamidic derivatives
+Sulphamidic derivatives present renal excretion and their
+metabolites may cause toxicity because they are poorly soluble
+at an acidic pH (urine), resulting in the formation of crystals that
+are deposited in the renal tubules that can lead to obstruction
+and subsequent kidney damage. Cases of interstitial nephritis
+have also been reported. These derivatives can be removed by
+dialysis. As a result, these products should be avoided in patients
+with renal insufficiency.
+Functional liver changes101-104
+PCM can cause functional liver changes via hepatocytic
+injury or extrinsic cholestatic compression104. In these cases,
+PCM treatment follows the proposed standards and the
+patient typically exhibits satisfactory responses. However,
+hepatotoxicity induced by antifungal agents may occur.
+Amphotericin B
+This drug has been known to accumulate in organs, often
+remaining in the liver, but rarely leading to an increase in
+transaminases. Amphotericin B deoxycholate is slightly
+hepatotoxic, unlike its lipid derivatives, which have the
+disadvantage of displaying a higher hepatic toxicity. Liver
+failure does not cause significant retention of the drug, which
+maintains a stable serum level.
+Azoles
+The biochemical changes observed with itraconazole persist
+with continued treatment. In treatment with cotrimoxazole and
+itraconazole, the commonly reported biochemical changes do
+not exceed 5x the upper limit of normality, which allows the
+maintenance of the treatment. However, there are case reports
+in which itraconazole had to be discontinued. Of the azoles,
+fluconazole is the least hepatotoxic.
+Metabolized in the liver with contraindications
+relating to serious liver diseases
+Ketoconazole, voriconazole and Sulphonamides
+Voriconazole and ketoconazole are the most hepatotoxic
+agents, followed by itraconazole105. Therefore, these agents
+should be avoided in cases of severe hepatic impairment.
+Fluconazole can be used with great caution if the patient cannot
+be treated with amphotericin.
+Metabolized in the liver with adjusted doses
+relating to liver diseases
+Voriconazole should be administered at 6mg/kg every 12 hours
+for two doses, followed by a dose of 2mg/kg/day every 12 hours.
+Sulphamidic derivatives
+These agents rarely cause severe hepatotoxic injury, and may
+be used. Despite treatment maintenance, liver toxicity induced
+by cotrimoxazole evolves with the normalization of serum
+liver enzymes. In patients with hepatic impairment caused by
+other conditions, such as cirrhosis or alcoholic liver disease,
+amphotericin B deoxycholate should be used because it is less
+toxic to the liver than other preparations. An alternative agent
+is fluconazole.
+Paracoccidioidomycosis in children39,40,106,107
+In children infected with PCM, the most commonly used
+treatment is the combination of sulfamethoxazole/trimethoprim
+because it has known efficacy, good tolerability, syrup-like
+presentation for dose administration and adequacy, and is
+provided by the public health network39,40,106. The recommended
+dose ranges between 8 to 10mg/kg/day of trimethoprim in two
+daily doses, and no fasting is required. Intravenous formulation
+is an alternative when the oral route is contraindicated, as in
+cases of intestinal subocclusion. The intravenous formulation
+should be administered at the same dosage twice a day. Among
+the side effects reported, leukopenia is frequent; however,
+this condition can be controlled without other associated
+complications with the concomitant use of folinic acid106.
+Itraconazole may be used as a second option at a dose of 5
+to 10mg/kg/day once daily. Amphotericin B deoxycholate, as
+well as other formulations of amphotericin B, is reserved for
+severe cases108. During treatment, some patients may present
+with a paradoxical reaction characterized by clinical worsening,
+such as new lymph node enlargements, fistulization, fever, and
+weight loss. In this case, steroids should be administered108.
+Paracoccidioidomycosis in situations
+of limited resources
+In Rondônia, a systematic registry of PCM cases has been
+maintained since 1997, with periods of more than 15 cases per
+100,000 inhabitants occurring over the years. In the stratified
+analysis by municipality, periods of almost 40 cases per 100,000
+inhabitants were documented in the southern region of the
+state14.
+Individuals with PCM who are rural workers with low levels
+of education, precarious socioeconomic statuses, and difficulty
+assessing health care services are susceptible to delayed
+diagnoses, which may contribute to the disease’s aggravation
+with evolution to sequelae. In Rondônia, about one-third of
+the patients with PCM had a diagnosis based on clinical-
+epidemiological criteria14, as serological examination was not
+an available method during this period. In the last 4 years, data
+on more than 100 PCM cases treated at the Tropical Medicine
+Center of Rondônia showed a predominance of the chronic form
+with frequent mucosal involvement. Further, treatment usually
+began approximately 7 months after infection and persisted until
+a therapeutic response from both cotrimoxazole and itraconazole
+was observed. The expansion of the diagnostic network; the
+standardization and availability of antigens of the different
+species described to perform serological tests; the training of
+health professionals, often from other states and still not aware
+of the regional importance of PCM; and the availability of easy-
+to-administer medicines by the public authorities, can contribute
+to a better approach to the disease.
+Shikanai-Yasuda MA, et al. - Paracoccidioidomycosis Brazilian Guidelines
+
+735
+Criteria for cure
+After the diagnosis of PCM has been confirmed, treatment
+involves long-term regimens with periodic follow-up, usually on
+an outpatient basis. The duration of therapy should be evaluated
+according to the cure criteria based on clinical, mycological,
+radiological, and immunological parameters.
+Clinical criteria
+Cure clinical criteria for PCM include the absence or regression
+of disease signs and symptoms of the disease, such as the healing of
+tegumentary lesions, involution of adenomegaly, and stabilization
+of body weight. The patient’s oral lesions subjectively improve
+after 2 weeks of initial treatment, and after 1 month, there is lesion
+scarring. In addition, skin lesions also regress after 1 month and
+lymphadenomegaly occurs between 2 and 3 months. It is common
+to observe the persistence of residual symptoms or sequelae
+as a result of lesion scarring and fibrosis. The most commonly
+observed sequelae occur in the lungs, lymphatic system, adrenals,
+and CNS. Signs and symptoms resulting from sequelae should
+be differentiated from the clinical presentation of active disease.
+Mycological criteria
+Negative direct mycological examination in clinical
+specimens occurs early if treatment is effective. This parameter
+is more easily verified when examining respiratory secretions.
+In other materials, such as biopsies or lymph node secretions,
+fungal assessment is unnecessary because the lesions regress
+or disappear with treatment.
+Radiological criteria
+Pulmonary opacities, initially of nodular, micronodular, or
+reticular pattern, and cavitary lesions tend to become linear
+images, indicating pulmonary lesion scarring and fibrosis. The
+stabilization of pulmonary radiological image patterns should
+be analyzed in semiannual chest X-rays (Table 3).
+Immunological criteria
+The most commonly used serological method for detecting
+antibodies is the DID reaction. An antibody titer is expected
+to be negative or stabilized at low levels with treatment
+(undiluted serum or 1:2 dilution). Alternatively, when using
+counterimmunoelectrophoresis (CIE), stabilization occurs in
+undiluted serum until a 1:4 dilution. Serological evaluations
+should be conducted every 6 months, when available.
+Post-treatment follow-up
+The term definitive cure can never be applied to patients
+with PCM because P. brasiliensis cannot be eradicated
+from the organism. Therefore, the aim PCM treatment is to
+reduce the fungal load in the patient’s body, allowing cellular
+immunity and the balance between parasite and host to recover.
+After treatment and the observation of cure criteria, patients
+should undergo outpatient follow-up with routine clinical and
+serological evaluation. Clinical relapse can be indicated by a
+positive titer or increase in the DID titer value. Periodic clinical
+examination with weight control and verification of oral lesion or
+lymphadenopathy occurrence should be performed for a period
+of up to 1 year after achieving the cure criteria.
+CONTROL, PREVENTION,
+CHALLENGES, AND RECOMMENDATIONS
+Control and prevention
+Currently, a vaccine to prevent Paracoccidioides spp. infection
+in humans is not available, although promising results have been
+observed in laboratory animals109. Recommendations for the
+prevention of PCM derive from knowledge of the most obvious
+infection situations, which occur as a result of aerial exposure to
+conidia in endemic areas and predisposing risk factors.
+In both rural and periurban environments, inhabitants should
+avoid exposure to dust from soil excavation, earthworks, and
+plant manipulation. For rural workers and tractor drivers who
+are constantly exposed to the dense dust, such as those who
+perform hand-picking, cleaning (sweeping), and coffee sweeping,
+exposure should be avoided by using well-sealed cabin machines
+or N95 respirators (not always available). In practice, the
+replacement of manual coffee sweeping with an oven may have
+contributed to an observed decrease in PCM incidence among the
+former coffee regions. Further, children and immunosuppressed
+individuals are advised to avoid to situations of risk in rural
+areas. In laboratories, the manipulation of fungal isolates should
+be performed in a safety hood, especially if the cultures are
+in the mycelium form. For laboratories that routinely handle
+Paracoccidioides spp., pre-exposure and annual serological
+examination of researchers is recommended to monitor possible
+fungal infection. Accidents in a research laboratory involving
+transdermal inoculation of Paracoccidioides spp. should be
+managed by monitoring the presence of antifungal antibodies
+in the affected person at the time of suspected infection, after
+3 months, and after 6 months. Prophylaxis with itraconazole
+should be administered orally at 200mg/day for 30 days.
+Since chronic PCM has been shown to be associated
+with both smoking and average alcohol consumption16,
+smoking and excessive alcohol consumption (and subsequent
+malnutrition) should be avoided before and after exposure.
+Patients immunosuppressed by drugs and/or transplants20,110
+have an increased risk of developing PCM. Since a case
+report has described the transmission of supra-renal PCM
+through kidney donation111, prior evaluation of organs from
+donors suspected of having epidemiological antecedents is
+recommended. Respective donor recipients suspected of having
+epidemiological antecedents should also be evaluated before
+and during immunosuppression via a chest radiograph and
+Paracoccidioides spp. antibody test.
+Challenges
+In addition to improving the prevalence and incidence
+rates of PCM, there are a number of new challenges in the
+management of the disease, such as the registration of cases
+by compulsory notification and notification through drug
+access in outpatient and inpatient cases, standardization of
+serological methods, critical evaluation of antifungal therapies
+and corticosteroid use, search for new therapeutic approaches
+for sequelae, the P. brasiliensis complex, and the description
+of a new species of Paracoccidioides, P. lutzii.
+Rev Soc Bras Med Trop 50(5):715-740, September-October, 2017
+
+736
+For the clinician, it is important to evaluate the current
+epidemiological, clinical, diagnostic, and therapeutic impact
+of the different species on the human disease. For instance,
+the north and midwest regions have been associated with PCM
+infections caused by P. lutzii because of molecular identification
+of isolates in these areas1,5,9 and higher sera reactivity of patients
+with proven disease in these areas to P. lutzii antigen63,64.
+Although clinical data and therapeutic response are similar
+for both species (data from Mato Grosso do Sul), little is
+known about the isolation and molecular identification of the
+species in patients8 because mycological and histopathological
+examinations cannot distinguish these species and molecular
+tests are not available in routine laboratories66.
+The following issues remain unanswered: knowledge of the
+epidemiological-molecular profile of Paracoccidioides isolates
+in Brazil to enhance the clinical-epidemiological diagnosis;
+characterization of the antigenic profile of the isolates and their
+correlation with clinical-laboratory data of disease caused by
+both species1,7, including sequelae and response to different
+drugs, as well as analysis of drug susceptibility112,113.
+Of great importance to public health is the introduction of
+simple methods, such as mycological examination, that can serve
+as the first choice in diagnosis in poor regions. These methods
+would be especially useful in cases where tuberculosis diagnosis
+is excluded. However, this requires the joint effort of public
+agencies and the academic community to develop a serological
+diagnosis that is universally available for both P. lutzii and P.
+brasiliensis infections, with stable antigenic fractions and easily
+reproducible tests. The international academic community has
+united the endemic Latin American countries to create the
+Latin American Network of Paracoccidioidomycosis through
+the Working Group on Paracoccidioidomycosis114 to overcome
+these challenges. The dissemination of knowledge collected
+from clinical-epidemiological, mycological, and serological
+data in all endemic regions is also a fundamental step for the
+early diagnosis, treatment, and establishment of comprehensive
+patient care.
+Recommendations
+The following are general recommendations for improving
+the care of patients with PCM:
+1.	 Institute a compulsory notification of cases with probable
+and proven PCM;
+2.	 Create a national registry of cases through notification via
+access to medicine or hospitalization;
+3.	 Enable universal access to itraconazole and cotrimoxazole
+for treatment of mild to moderate forms;
+4.	 Enable access to lipid formulations of amphotericin in
+special situations, such as immunosuppression, and to
+amphotericin B deoxycholate, which has been released
+for marketing after receiving approval of minimum
+pharmacological requirements;
+5.	 Structure a basic care network based on clinical-
+epidemiological, mycological (direct and cultural), and
+serological diagnosis;
+6.	 Facilitate access to histopathological diagnosis in the
+absence of mycological diagnosis;
+7.	 Provide stable and reproducible antigens of P. brasiliensis
+and P. lutzii in the public health network;
+8.	 Standardize a serological technique for diagnosis and
+follow-up at the national level;
+9.	 Stimulate the evaluation of the role of corticosteroids in
+the treatment of patients with intense and/or extensive
+inflammatory lesions;
+10.	 Enhance the evaluation of antifungal maintenance therapy
+in immunosuppressed patients according to the degree of
+immunodepression;
+11.	 Determine the appropriate moment to introduce antiretroviral
+therapy to AIDS patients, considering the presence of drug
+interactions and possibility of IRIS, and establishing the
+parameters for such evaluations;
+12.	 Create a data bank on the distribution of the different
+species of Paracoccidoides in the country to be used in
+epidemiological diagnoses and to launch multicentric
+projects with serological tests and typing of isolates with
+the support of consolidated groups and network projects.
+AUTHORS’ CONTRIBUTION
+General coordination of the consensus: Shikanai-Yasuda MA.
+Final critical review: Shikanai-Yasuda MA, Martinez R, Moretti
+ML, Colombo A, Queiroz-Telles F, and Mendes RP. Thematic
+coordination, design, writing, critical review, and final approval
+of the version to be published: Shikanai-Yasuda MA, Martinez
+R, Moretti ML, Colombo A, Queiroz-Telles F, and Mendes RP.
+Experts who participated in the composition of the
+Brazilian Guidelines for the Clinical Management of
+Paracoccidioidomycosis, 2017 - writing and responsibility for
+the document in terms of accuracy and integrity: Shikanai-
+Yasuda MA, Martinez R, Moretti ML, Colombo A, Queiroz-
+Telles F, Mendes RP, Kono ASG, Paniago AM, Nathan A, Valle
+ACF, Bagagli E, Benard G, Ferreira MS, Teixeira MM, Silva-
+Vergara ML, Pereira RM, Cavalcante RS, Hahn RC, Durlacher,
+RR, Khoury Z, and Camargo ZP.
+ACKNOWLEDGEMENTS
+We thank the Brazilian Society of Tropical Medicine and
+Hygiene for supporting this consensus and the translation of  this
+manuscript, the Brazilian Society of Infectology and Sociedade
+Paulista de Infectologia for supporting this consensus and
+the Departamento de Moléstias Infecciosas e Parasitárias da
+FMUSP, for partial support to the coordinators´ meeting. We
+thank the Departamento de Saúde Comunitária, Universidade
+Federal do Paraná, PR, BR, Disciplina de Infectologia da
+Universidade Federal de São Paulo, Departamento de Cardio-
+Pneumologia da FMUSP, Prof. Silvio de Alencar Marques,
+Faculdade de Medicina de Botucatu, UNESP and Prof. Dr.
+Carlos P. Taborda, Instituto de Ciências Biomédicas da USP
+for the photographs. We thank the Editorial Board of the
+Shikanai-Yasuda MA, et al. - Paracoccidioidomycosis Brazilian Guidelines
+
+737
+Revista da Sociedade Brasileira de Medicina Tropical and
+the authors and consultants of the “Consenso Brasileiro em
+Paracoccidioidomicose”, 2006, for authorizing the reproduction
+and modification of the Figures/Tables, the Editorial Board of
+the Journal of Fungi, for authorizing the reproduction of Figure
+3, the Editorial Board of mEsphere, of Figure 1 (modified) and
+the Editorial Board of Seminary Respiratory Critical Care
+Medicine, of Table 2 (modified); Alex Adriano da Silva and Vera
+Lúcia T. Freitas for the technical support in the preparation of
+the Figures.3 and 1A, respectively.
+DECLARATION OF POTENTIAL
+CONFLICT OF INTEREST
+This statement was taken to consider only the drugs
+mentioned in this consensus and whose patents have not been
+lost in the last five years:
+Arnaldo Lopes Colombo, Continuing Medical Education:
+Gilead, MSD, Pfizer, United Medical and Research Grants from
+Astellas and Pfizer; Flávio Queiroz Telles, Continuing Medical
+Education: Gilead, MSD, Pfizer, TEVA, United Medical; Maria
+Aparecida Shikanai Yasuda, Continuing Medical Education:
+United Medical.
+Other co-authors declare no conflicts of interest.
+REFERENCES
+1.	 Teixeira MM, Theodoro RC, Oliveira FF, Machado GC, Hahn RC,
+Bagagli E, et al. Paracoccidioides lutzii sp. nov.: biological and
+clinical implications. Med Mycol. 2014;52(1):19-28.
+2.	 Matute DR, McEwen JG, Puccia R, Montes BA, San-Blas G,
+Bagagli E, et al. Cryptic speciation and recombination in the fungus
+Paracoccidioides brasiliensis as revealed by gene genealogies.
+Mol Biol Evol. 2006;23(1):65-73.
+3.	 Muñoz JF, Farrer RA, Desjardins CA, Gallo JE, Sykes S,
+Sakthikumar S, et al. Genome diversity, recombination, and
+virulence across the major lineages of Paracoccidioides. mSphere.
+2016;1(5):e00213-16.
+4.	 de Macedo PM, Almeida-Paes R, de Medeiros Muniz M, Oliveira
+MM, Zancope-Oliveira RM, Costa RL, et al. Paracoccidioides
+brasiliensis PS2: first autochthonous paracoccidioidomycosis
+case report in Rio de Janeiro, Brazil, and literature review.
+Mycopathologia. 2016;181(9-10):701-8.
+5.	 Marques-da-Silva SH, Rodrigues AM, de Hoog GS, Silveira-
+Gomes F, Camargo ZP. Occurrence of Paracoccidioides lutzii in
+the Amazon region: description of two cases. Am J Trop Med Hyg.
+2012;87(4):710-4.
+6.	 Teixeira MM, Theodoro RC, Nino-Vega G, Bagagli E, Felipe MS.
+Paracoccidioides species complex: ecology, phylogeny, sexual
+reproduction, and virulence. PLoS Pathog. 2014;10(10):e1004397.
+7.	 Theodoro RC, Teixeira MM, Felipe MSS, Paduan KS, Ribolla PM,
+San-Blas G, et al. Genus Paracoccidioides: species recognition and
+biogeographic aspects. PLoS One. 2012;7(5):e37694.
+8.	 Hahn RC, Rodrigues AM, Fontes CJF, Nery AF, Tadano T, Queiroz-
+Júnior LP, et al. Fatal fungemia due to Paracoccidioides lutzii. Am J
+Trop Med Hyg. 2014;91(2):394-8.
+9.	 Queiroz-Júnior LP, Camargo ZP, Tadano T, Rodrigues AM,
+Takarara DT, Gegembauer G, et al. Serological and antigenic
+profiles of clinical isolates of Paracoccidioides spp. from Central
+Western Brazil. Mycoses. 2014;57(8):466-72.
+10.	 Wanke B, Londero AT. Epidemiology and paracoccidioidomycosis
+infection. In: Franco MF, Lacaz CS, Restrepo-Moreno A, Del Negro
+G, editors. Paracoccidioidomycosis. Boca Raton: CRC Press; 1994.
+p. 109-20.
+11.	 Lacaz CS, Porto E, Martins JEC, Heins-Vaccari EM, Melo NT.
+Paracoccidioidomicose. In: Lacaz CS, Porto E, Martins JEC,
+Heins-Vaccari EM, Melo NT, editors. Tratado de Micologia Médica
+Lacaz. São Paulo: Sarvier Editora de Livros Médicos Ltda; 2002.
+p. 639-729.
+12.	 Restrepo-Moreno A. Ecology of Paracoccidioides brasiliensis.
+In: Franco MF, Lacaz CS, Restrepo-Moreno A, Del Negro G (ed)
+Paracoccidioidomycosis. 1st ed. Boca Raton: CRC Press; 1994.
+p. 121-30.
+13.	 Arantes TD, Theodoro RC, Teixeira MM, Bosco SM, Bagagli E.
+Environmental mapping of Paracoccidioides spp. in Brazil reveals
+new clues into genetic diversity, biogeography and wild host
+association. PLoS Negl Trop Dis. 2016;10(4):e0004606.
+14.	 Vieira GD, Alves TC, Lima SMD, Camargo LMA, Sousa CM.
+Paracoccidioidomycosis in a western Brazilian Amazon State:
+Clinical-epidemiologic profile and spatial distribution of the
+disease. Rev Soc Bras Med Trop. 2014;47(1):63-8.
+15.	 Barrozo LV, Benard G, Silva ME, Bagagli E, Marques SA,
+Mendes RP. First description of a cluster of acute/subacute
+paracoccidioidomycosis cases and its association with a climatic
+anomaly. PLoS Negl Trop Dis. 2010;4(3):e643.
+16.	 dos Santos WA, da Silva BM, Passos ED, Zandonade E, Falqueto
+A. Associação entre tabagismo e paracoccidioidomicose: um estudo
+de caso-controle no Estado do Espírito Santo, Brasil. Cad Saúde
+Pública. 2003;19(1):245-53.
+17.	 Morejón KM, Machado AA, Martinez R. Paracoccidioidomycosis
+in patients infected with and not infected with human
+immunodeficiency vírus: a case control study. Am J Trop Med Hyg.
+2009;80(1):359-66.
+18.	 Radisic MV, Linares L, Afeltra J, Pujato N, Vitale RG, Bravo M,
+et al. Acute pulmonary involvement by paracoccidioidomycosis
+disease immediately after kidney transplantation: case report and
+literature review. Transpl Infect Dis. 2017; 19(2):e12655.
+19.	 Shikanai-Yasuda MA, Conceição YM, Kono A, Rivitti E,
+Campos AF, Campos SV. Neoplasia and paracoccidioidomycosis.
+Mycopathologia. 2008;165(4-5):303-12.
+20.	 Woyciechowsky TG, Dalcin DC, dos Santos JW, Michel GT.
+Paracoccidioidomycosis induced by immunosuppressive drugs in a
+patient with rheumatoid arthritis and bone sarcoma: case report and
+review of literature. Mycopathologia. 2011;172(1):77-81.
+21.	 Martinez R. New tends in paracoccidioidomycosis epidemiology.
+J. Fungi. 2017;3(1):1.
+22.	 Coutinho ZF, Silva D, Lazéra M, Petri V, Oliveira RM, Sabroza
+PC, et al. Paracoccidioidomycosis mortality in Brazil (1980-1995).
+Cad Saúde Pública. 2002;18(5):1441-54.
+23.	 Coutinho ZF, Wanke B, Travassos C, Oliveira RM, Xavier DR,
+Coimbra Jr CE. Hospital morbidity due to paracoccidioidomycosis
+in Brazil (1998-2006). Trop Med Int Health. 2015;20(5):673-80.
+24.	 Benard G. An overview of the immunopathology of human
+paracoccidioidomycosis. Mycopathologia. 2008;165(4-5):209-21.
+25.	 Benard G, Romano CC, Cacere CR, Juvenale M, Mendes-
+Giannini MJ, Duarte AJ. Imbalance of IL-2, IFN-gamma and
+Rev Soc Bras Med Trop 50(5):715-740, September-October, 2017
+
+738
+IL-10 secretion in the immunosuppression associated with human
+paracoccidioidomycosis. Cytokine. 2001;13(4):248-52.
+26.	 Oliveira SJ, Mamoni RL, Musatti CC, Papaiordanou PM, Blotta
+MH. Cytokines and lymphocyte proliferation in juvenile and adult
+forms of paracoccidioidomycosis: comparison with infected and
+non-infected controls. Microbes Infect. 2002;4(2):139-44.
+27.	 de Castro LF, Ferreira MC, da Silva RM, Blotta MH, Longhi LN,
+Mamoni RL. Characterization of the immune response in human
+paracoccidioidomycosis. J Infect. 2013;67(5):470-85.
+28.	 Cavassani KA, Campanelli AP, Moreira AP, Vancim JO, Vitali
+LH, Mamede RC, et al. Systemic and local characterization
+of regulatory T cells in a chronic fungal infection in humans.
+J Immunol. 2006;177(9):5811-8.
+29.	 Ferreira MC, de Oliveira RT, da Silva RM, Blotta MH, Mamoni
+RL. Involvement of regulatory T cells in the immunosuppression
+characteristic of patients with paracoccidioidomycosis. Infect
+Immun. 2010;78(10):4392-401.
+30.	 Carvalho FMC, Busser FD, Freitas VLT, Furucho CR, Sadahiro A,
+Kono ASG, et al. Polymorphisms on IFNG, IL12B and IL12RB1
+genes and paracoccidioidomycosis in the Brazilian population.
+Infect Genet Evol. 2016;43:245-51.
+31.	 Romano CC, Mendes-Giannini MJ, Duarte AJ, Benard G. IL-12
+and neutralization of endogenous IL-10 revert the in vitro antigen-
+specific cellular immunosuppression of paracoccidioidomycosis
+patients. Cytokine. 2002;18(3):149-57.
+32.	 Romano CC, Mendes-Giannini MJS, Duarte AJ, Benard G. The
+role of interleukin-10 in the differential expression of interleukin-
+12p70 and its beta2 receptor on patients with active or treated
+paracoccidioidomycosis and healthy infected subjects. Clin
+Immunol. 2005;114(1):86-94.
+33.	 Bellissimo-Rodrigues F, Bollela VR, Da Fonseca BA, Martinez R.
+Endemic paracoccidioidomycosis: relationship between clinical
+presentation and patients' demographic features. Med Mycol.
+2013;51(3):313-8.
+34.	 Franco M, Mendes RP, Moscardi-Bacchi M, Rezkallah-Iwasso M,
+Montenegro MR. Paracoccidioidomycosis. Baillière’s Clin Trop
+Med Communic Dis. 1989;4:185-220.
+35.	 Franco M, Montenegro MR, Mendes RP, Marques SA, Dillon
+NL, Mota NGS. Paracoccidioidomycosis: a recently proposed
+classification of its clinical forms. Rev Soc Bras Med Trop.
+1987;20(2):129-32.
+36.	 Montenegro MR, Franco M. Pathology. In: Franco M, Lacaz CS,
+Restrepo-Moreno A, Del Negro G, editors. Paracoccidioidomycosis.
+Boca Raton: CRC Press; 1994. p. 131-50.
+37.	 Fabris LR, Andrade UV, Dos Santos AF, Marques APC, de Oliveira
+SMVL, Mendes RP, et al. Decreasing prevalence of the acute/
+subacute clinical form of paracoccidioidomycosis in Mato Grosso
+do Sul State, Brazil. Rev Inst Med Trop Sao Paulo. 2014;56(2):121-5.
+38.	 Barbosa W, Daher R, Oliveira AR. Forma linfático-abdominal
+da blastomicose sul-americana. Rev Inst Med Trop São Paulo.
+1968;10(1):16-27.
+39.	 Shikanai-Yasuda MA, Telles Filho FQ, Mendes RP, Colombo
+AL, Moretti ML e Grupo de Consultores do Consenso em
+Paracoccidioidomicose. Consenso em paracoccidioidomicose.
+Rev Soc Bras Med Trop. 2006;39(3):297-310.
+40.	 Ferreira MS. Paracoccidioidomycosis. Pediatr Respir Rev.
+2009;10(4):161-5.
+41.	 Mendes RP. The gamut of clinical manifestations. In: Franco
+M, Lacaz CS, Restrepo-Moreno A, Del Negro G, editors.
+Paracoccidioidomycosis. Boca Raton: CRC Press; 1994. p. 233-58.
+42.	 Costa AN, Benard G, Albuquerque ALP, Fujita CL, Magri ASK,
+Salge JM, et al. The lung in paracoccidioidomycosis: new insights
+into old problems. Clinics. 2013;68(4):441-8.
+43.	 Benard G, Duarte AJ. Paracoccidioidomycosis: a model for
+evaluation of the effects of human immunodeficiency vírus infection
+on the natural history of endemic tropical diseases. Clin Infect Dis.
+2000;31(4):1032-9.
+44.	Tobón AM, Agudelo CA, Osorio ML, Alvarez DL, Arango M,
+Cano LE, et al. Residual pulmonary abnormalities in adult patients
+with chronic paracoccidioidomycosis: prolonged follow-up after
+itraconazole therapy. Clin Infect Dis. 2003;37(7):898-904.
+45.	 Machado Filho J, Miranda JL, Teixeira GA. Das seqüelas da
+blastomicose sul-americana. Hospital. 1965; 68(6):1347-53.
+46.	 Valle ACF, Aprigliano FF, Moreira JS, Wanke B. Clinical
+and endoscopic findings in the mucosae of the upper
+respiratory and digestive tracts in post-treatment follow-up of
+paracoccidioidomycosis patients. Rev Inst Med Trop São Paulo.
+1995;37(5):407-13.
+47.	 Marques SA. Paracoccidioidomycosis: epidemiological, clinical,
+diagnostic
+and
+treatment
+up-dating.
+An
+Bras
+Dermatol.
+2013;88(5):700-11.
+48.	 Wanke
+B,
+Valle
+ACF,
+Oliveira
+RMZ,
+Costa
+RLB.
+Paracoccidioidomicose. In: Coura, JR, org. Dinâmica das doenças
+infecciosas e parasitárias. 2nd ed. Rio de Janeiro: Editora Guanabara
+Koogan, Grupo Editorial Nacional-GEN; 2013. v. 2. p. 1225-37.
+49.	 Del Negro G, Melo EHL, Rodbard D, Melo MR, Layton
+J,
+Wachslicht-Rodbard
+H.
+Limited
+adrenal
+reserve
+in
+paracoccidiodomycosis: cortisol and aldosterone responses to 1-24
+ACTH. Clin Endocrinol.1980;13(6):553-9.
+50.	 Colombo AL, Faiçal S, Kater CE. Systematic evaluation of the
+adrenocortical function in patients with paracoccidioidomycosis.
+Mycopathol. 1994;127(2):89-93.
+51.	 Pereira WC, Raphael A, Sallum J. Lesões neurológicas da
+blastomicose sul-americana. Arq Neuro-Psiquiatr. 1965;23(2):
+95-112.
+52.	 Almeida SM, Queiroz-Telles F, Teive HA, Ribeiro CE, Werneck LC.
+Central nervous system paracoccidioidomycosis: clinical features
+and laboratory findings. J. Infect. 2004;48(2):193-8.
+53.	 Martinez R, Meneguelli UG, Dantas RO, Fiorillo AM. O
+comprometimento gastrintestinal na blastomicose Sul-Americana
+(paracoccidiodomicose).
+I
+Estudo
+clínico,
+radiológico
+e
+histopatológico. Rev Ass Méd Brasil. 1979;25(1):31-44.
+54.	 Laudanna AA, Betarello A,van Bellen B. South American
+blastomycosis as a cause of malabsorption and protein-losing
+enteropathy. Arq Gastroenterol. 1975;12:195-8.
+55.	 Queiroz-Telles F, Escuissato D. Pulmonary paracoccidioidomycosis.
+Semin Respir Crit Care Med. 2011;32(6):764-74.
+56.	 Arantes TD, Theodoro RC, Teixeira MM, Bagagli E. Use of
+fluorescent oligonucleotide probes for differentiation between
+Paracoccidioides brasiliensis and Paracoccidioides lutzii in yeast
+and mycelial phase. Mem Inst Oswaldo Cruz. 2017;112(2):140-5.
+57.	 Nobrega de Almeida Jr J, Del Negro GM, Grenfell RC, Vidal MS,
+Thomaz DY, de Figueiredo DS, et al. Matrix-assisted laser desorption
+ionization-time of flight mass spectrometry for differentiation of
+the dimorphic fungal species Paracoccidioides brasiliensis and
+Paracoccidioides lutzii. J Clin Microbiol. 2015;53(4):1383-6.
+58.	 Del Negro GM, Pereira CN, Andrade HF, Palacios SA, Vidal
+MMS, Charbel CE, et al. Evaluation of tests for antibody response
+in the follow-up of patients with acute and chronic forms of
+paracoccidioidomycosis. J Med Microbiol. 2000;49(1):37-46.
+Shikanai-Yasuda MA, et al. - Paracoccidioidomycosis Brazilian Guidelines
+
+739
+59.	 Do Valle AC, Costa RL, Fialho Monteiro PC, Von Helder J, Muniz
+MM, Zancopé-Oliveira RM. Interpretation and clinical correlation
+of serological tests in paracoccidioidomycosis. Med Mycol.
+2001;39(4):373-7.
+60.	 Moreto TC, Marques MEA, de Oliveira MLSC, Moris DV, de
+Carvalho LR, Mendes RP. Accuracy of routine diagnostic tests used
+in paracoccidioidomycosis patients at a university hospital. Trans R
+Soc Trop Med Hyg. 2011;105(8):473-8.
+61.	 Camargo ZP, Berzaghi R, Amaral CC, Silva SHM. Simplified
+method for producing Paracoccidioides brasiliensis exoantigens
+for use in immunodiffusion tests. Med Mycol. 2003;41(6):539-42.
+62.	 Mendes-Giannini MJS, Bueno JP, Shikanai-Yasuda MA, Stoff
+AMS, Masuda A, Amato Neto V, et al. Antibody response to the
+43 kDa glycoprotein of Paracoccidioides brasiliensis as a marker
+for the evaluation of patients under treatment. Am J Trop Med Hyg.
+1990;43(2):200-6.
+63.	 Batista Jr J, de Camargo ZP, Fernandes GF, Vicentini AP, Fontes
+CJF, Hahn RC. Is the geographical origin of a Paracoccidioides
+brasiliensis isolate important for antigen production for regional
+diagnosis of paracoccidioidomycosis? Mycoses. 2010;53(2):176-80.
+64.	 Gegembauer G, Araujo LM, Pereira EF, Rodrigues AM, Paniago
+AMM, Hahn RC, et al. Serology of paracoccidioidomycosis due to
+Paracoccidioides lutzii. PLoS Negl Trop Dis. 2014;8(7):e2986.
+65.	 Marques da Silva SH, Colombo AL, Blotta MHSL, Lopes JD,
+Queiroz-Telles F, Pires de Camargo Z. Detection of circulating gp43
+antigen in serum, cerebrospinal fluid and bronchoalveolar lavage
+fluid of patients with paracoccidioidomycosis. J Clin Microbiol.
+2003;41(8):3675-80.
+66.	 Gaviria M, Rivera V, Muñoz-Cadavid C, Cano LE, Naranjo
+TW. Validation and clinical application of a nested PCR for
+paracoccidioidomycosis diagnosis in clinical samples from
+Colombian patients. Braz J Infect Dis. 2015;19(4):376-83.
+67.	 Vidal MS, Del Negro GM, Vicentini AP, Svidzinski TI, Mendes-
+Giannini MJ, Almeida AM, et al. Serological diagnosis of
+paracoccidioidomycosis: high rate of inter-laboratorial variability
+among medical mycology reference centers. PLoS Negl Trop Dis.
+2014;8(9):e3174.
+68.	 Quagliato Júnior R, Grangeia TAG, Massucio RAC, De
+Capitani EM, Rezende SM, Balthazar AB. Association between
+paracoccidioidomycosis and tuberculosis: reality and misdiagnosis.
+J Bras Pneumol. 2007;33(3):295-300.
+69.	 Rodrigues GS, Severo CB, Oliveira FM, Moreira JS, Prolla JC,
+Severo LC. Association between paracoccidioimycois and cancer.
+J Bras Pneumol. 2010;36(3):356-62.
+70.	 Ruiz e Rezende LS, Yasuda AG, Mendes RP, Marques AS, Niéro-
+Melo L, Defaveri J, et al. Paracoccidioidomycosis in patientes with
+lymphoma and review of published literature. Mycopathologia.
+2015;179(3-4):285-91.
+71.	 Zavascki AP, Bienardt JC, Severo LC. Paracoccidioidomycosis in
+organ transplant recipient: case report. Rev Inst Trop Sao Paulo.
+2004;46(5):279-81.
+72.	 Goes HFO, Durães SMB, Lima CS, Souza MB, Vilar EAG, Dalston
+MO. Case Report. Paracoccidioidomycosis in a renal transplant
+recipient. Rev Inst Med Trop São Paulo. 2016;58:12.
+73.	 Shikanai-Yasuda MA, Duarte MI, Nunes DF, Lacaz CS, Sabbaga
+E, Abdala E, et al. Paracoccidioidomycosis in a renal transplant
+recipient. J Med Vet Mycol. 1995;33(6):411-4.
+74.	 Pontes AM, Borborema J, Correia CR, de Almeida WL, Maciel
+RF. A rare paracoccidioidomycosis diagnosis in a kidney transplant
+receptor: case report. Transpl Proc. 2015;47(4):1048-50.
+75.	 Radisic MV, Linares L, Afeltra J, Pujato N, Vitale RG, Bravo M,
+et al. Acute pulmonary involvement by paracoccidioidomycosis
+disease immediately after kidney transplantation: case report and
+literature review. Transpl Infect Dis. 2017;19(2):e-12655.
+76.	 Almeida FA, Neves FF, Mora DJ, Reis TA, Sotini DM, Ribeiro BM,
+et al. Paracoccidioidomycosis in Brazilian patients with and without
+human immunodeficiency vírus infection. Am J Trop Med Hyg.
+2016;96(2):368-72.
+77.	 Weber SAT, Brasolotto A, Rodrigues L, Marcondes-Machado J,
+Padovani CR, Carvalho LR, et al. Dysphonia and laryngeal sequelae
+in paracoccidioidomycosis patients: a morphological and phoniatric
+study. Med Mycol. 2006;44(3):219-25.
+78.	 Boccalandro I, Albuquerque FJM. Icterícia e comprometimento
+hepático na blastomicose sul-americana. A propósito de 10 casos.
+Revisão da literatura. Rev Paul Med. 1960;56:350-66.
+79.	 Troncon LEA, Martinez R, Meneghelli UG, Oliveira RB, Iazigi N.
+Perda intestinal de proteínas na paracoccidioidomicose. Rev Hosp
+Clín Fac Med São Paulo. 1981;36(4):172-8.
+80.	 Costa AN, Marchiori E, Benard G, Araújo MS, Baldi BG, Kairalla
+RA, et al. Lung cysts in chronic paracoccidioidomycosis. J Bras
+Pneumol. 2013;39(3):368-72.
+81.	 Vogelmeier CF, Criner GJ, Martinez FJ, Anzueto A, Barnes PJ,
+Bourbeau J, et al. Global Strategy for the Diagnosis, Management,
+and Prevention of Chronic Obstructive Lung Disease 2017
+Report. GOLD Executive Summary. Am J Respir Crit Care Med.
+2017;195(5):557-82.
+82.	 Restrepo A, Stevens DA, Gómez I, Leiderman E, Angel R,
+Fuentes J, et al. Ketoconazole: a new drug for the treatment of
+paracoccidioidomycosis. Rev Infect Dis. 1980;2(4):633-42.
+83.	 Shikanai-Yasuda MA, Benard G, Higaki Y, Del Negro GM,
+Hoo S, Vaccari EH, et al. Randomized trial with itraconazole,
+ketoconazole and sulfadiazine in paracoccidioidomycosis. Med
+Mycol. 2002;40(4):411-7.
+84.	 Diaz M, Negroni R, Montero-Gei F, Castro LG, Sampaio AS, Borelli
+D, et al. A Pan-American 5-year study of fluconazole therapy for
+deep mycoses in the immunocompetent host. Pan-American Study
+Group. Clin Infect Dis. 1992;14(suppl 1):S68-76.
+85.	 Naranjo MS, Trujillo M, Munera MI, Restrepo P, Gomez I, Restrepo
+A. Treatment of paracoccidioidomycosis with itraconazole. J Med
+Vet Mycol. 1990;28(1):67-76.
+86.	 Queiroz-Telles F, Goldani LZ, Schlamm HT, Goodrich JM, Espinel-
+Ingroff A. Shikanai-Yassuda MA. An open-label comparative pilot
+study of oral voriconazole and itraconazole for long-term treatment
+of paracoccidioidomycosis. Clin Infect Dis. 2007;45(11):1462-9.
+87.	 Thompson 3rd GR, Rendon A, Ribeiro Dos Santos R, Queiroz-
+Telles F, Ostrosky-Zeichner L, Azie N, et al. Isavuconazole
+treatment of cryptococcosis and dimorphic mycoses. Clin Infect
+Dis. 2016;63(3):356-62.
+88.	 Barbosa W, Vasconcelos WMP. Ação da sulfametoxazol associada
+a trimetoprim na terapêutica da blastomicose sul-americana.
+Rev Pat Trop. 1973;2:329-39.
+89.	 Lacaz CS, Sampaio SAP. Tratamento da blastomicose sul-
+americana com anfotericina B. Resultados preliminares. Rev Paul
+Med 1958;52:443-50.
+90.	 Campos EP, Sartori JC, Hetch ML, De Franco MF. Clinical and
+serologic features of 47 patients with paracoccidioidomycosis treated
+by amphotericin B. Rev Inst Med Trop Sao Paulo. 1984;26(4):212-5.
+91.	 Peçanha PM, de Souza S, Falqueto A, Grão-Veloso TR, Lírio
+LV, Ferreira Jr CUG, et al. Amphotericin B lipid complex in the
+treatment of severe paracoccidioidomycosis: a case series. Int J
+Antmicrobiol Agents. 2016;48(4):428-30.
+Rev Soc Bras Med Trop 50(5):715-740, September-October, 2017
+
+740
+92.	Ollague JM, de Zuritta AM, Calero G. Paracoccidioidomycosis
+(South American blastomycosis) successfully treated with
+terbinafine: first case report. Br J Dermatol. 2000;143(1):188-91.
+93.	 Borges SR, Silva GM, Chambela MC, Oliveira RV, Costa
+RL,
+Wanke
+B,
+et
+al.
+Itraconazole
+vs.
+trimethoprim–
+sulfamethoxazole: a comparative cohort study of 200 patients with
+paracoccidioidomycosis. Med Mycol. 2014;52(3):303-10.
+94.	 Cavalcante RS, Sylvestre TF, Levorato AD, de Carvalho LR,
+Mendes RP. Comparison between Itraconazole and cotrimoxazole
+in the treatment of paracoccidiodomycosis. Plos Negl Trop Dis.
+2014;8(4):e2793.
+95.	 Medscape English. Drugs & Diseases. Drug Interaction Checker.
+Available in April 5, 2017 from: http://reference.medscape.com/
+drug-interactionchecker.
+96.	 Epocrates.Athenahealth Inc USA. Interaction check. Available in
+April 5, 2017 from:: https://online.epocrates.com/interaction-check.
+97.	 Francesconi F, da Silva MTT, Costa RLB, Francesconi
+VA, Carregal E, Talhari S, et al. Long-term outcome of
+neuroparacoccidioidomycosis treatment. Rev Soc Bras Med Trop.
+2011;44(1):22-5.
+98.	 Benard G, Campos AF, Netto LC, Gonçalves LG, Machado
+LR, Mimicos EV, et al. Treatment of severe forms of
+paracoccidioidomycosis: is there a role for corticosteroids? Med
+Mycol. 2012;50(6):641-8.
+99.	 Blotta MHSL, Altemani AM, Amaral E, Silva LJ, Camargo ZP.
+Placental involvement in paracoccidioidomycosis. J Med Vet Mycol.
+1993;31(3):249-57.
+100.	Kulay Jr L, Lapa AJ. Drogas na gravidez: manual de orientação. São
+Paulo: Ponto; 2003. 180p.
+101.	Levin ASS, Dias MBGS, Oliveira, MS, Lobo RD, Garcia CP e
+Grupo de colaboradores. Guia de utilização de anti-infecciosos e
+recomendações para a prevenção de infecções hospitalares. 5ª ed.
+São Paulo: Hospital das Clínicas; 2014. 192p.
+102.	Tavares W. Antibióticos e quimioterápicos para o clínico. 3ª ed.
+São Paulo: Editora Atheneu, 2014. p. 658. ISBN-13 9788538805205
+103.	Barraviera B, Pereira PCM, Mendes RP, Machado JM, Lima CRG,
+Meira DA. Evaluation of acetylator phenotype, renal function and
+serum sulfadiazine levels in patients with paracoccidioidomycosis
+treated with cotrimazine (a combination of sulfadiazine and
+trimethoprim). Mycopathologia. 1989;108(2):107-12.
+104.	Braga GM, Hessel G, Pereira RM, Escanhoela CAF. Hepatic
+involvement in pediatric patients with paracoccidioidomycosis: a
+histological study. Histopathology. 2014;64(2):256-62.
+105.	Talwalkar JA, Soetikno RE, Carr-Locke DL, Berg CL. Severe
+cholestasis related to itraconazole for the treatment of onychomycosis.
+Am J Gastroenterol. 1999;94(12):3632-3.
+106.	Pereira RM, Bucaretchi F, Barison EM, Hessel G, Tresoldi AT.
+Paracoccidioidomycosis in children: clinical presentation, follow-up
+and outcome. Rev Inst Med Trop São Paulo. 2004;46(3):127-31.
+107.	Shikanai-Yasuda
+MA.
+Pharmacological
+management
+of
+paracoccidioidomycosis. Exp Opin Pharmacother. 2005;6(3):385-
+97.
+108.	Gryschek RCB, Pereira RM, Kono A, Patzina RA, Tresoldi AT,
+Shikanai-Yasuda MA, et al. Paradoxical reaction to treatment in
+2 patients with severe acute paracoccidioidomycosis: a previously
+unreported complication and its management with corticosteroids.
+Clin Infect Dis. 2010;50(10):e56-8.
+109.	Taborda
+CP,
+Urán
+ME,
+Nosanchuk
+JD,
+Travassos
+LR.
+Paracoccidioidomycosis: challenges in the development of a vaccine
+against an endemic mycosis in the Americas. Rev Inst Med Trop São
+Paulo. 2015;57(suppl 19):21-4.
+110.	Severo LC, Londero AT, Geyer GR, Porto NS. Acute pulmonary
+paracoccidioidomycosis
+in
+an
+immunosuppressed
+patient.
+Mycopathologia. 1979;68(3):171-4.
+111.	Batista MV, Sato PK, Pierrotti LC, de Paula FJ, Ferreira GF,
+Ribeiro-David DS, et al. Recipient of kidney from donor with
+asymptomatic infection by Paracoccidioides brasiliensis. Med
+Mycol. 2012;50(2):187-92.
+112.	Hahn RC, Morato Conceicão YT, Santos NL, Ferreira JF, Hamdan
+JS. Disseminated paracoccidioidomycosis: correlation between
+clinical and in vitro resistance to ketoconazole and trimethoprim
+sulphamethoxazole. Mycoses. 2003;46(8):342-7.
+113.	Zambuzzi-Carvalho PF, Fernandes AG, Valadares MC, Tavares
+PM, Nosanchuk JD, Soares CM, et al. Transcriptional profile of the
+human pathogenic fungus Paracoccidioides lutzii in response to
+sulfamethoxazole. Med Mycol. 2015;53(5):477-92.
+114.	Shikanai Yasuda MA, Felipe MS, Bagagli E, Puccia R.
+Working Group on Paracoccidioidomycosis [internet] updated
+2017. Available from: http://www.isham.org/WorkingGroups/
+Paracoccidioidomycosis/
+Shikanai-Yasuda MA, et al. - Paracoccidioidomycosis Brazilian Guidelines
+Erratum
+Revista da Sociedade Brasileira de Medicina Tropical/Journal of the Brazilian Society of Tropical Medicine
+Ahead of Print, 2017 - doi: 10.1590/0037-8682-0230-2017
+Ana Maria Paniago
+Should read:
+Anamaria M. M Paniago
+[6]. Departamento de Clínica Médica, Centro de Ciências Biológicas e da Saúde, Universidade Federal de Mato Grosso, Cuiabá, MT, Brasil.
+Should read:
+[6]. Faculdade de Medicina, Universidade Federal de Mato Grosso do Sul, Campo Grande, MS, Brasil.

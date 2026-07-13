@@ -1,0 +1,246 @@
+=== COPD and COPD-like phenotypes ===
+Fonte: Frontiers in Medicine 2024
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11037247/
+Licenca: CC BY 4.0
+Doenca: dpoc | Idioma: en
+----------------------------------------------------------------------
+
+Chronic obstructive pulmonary disease (COPD) and COPD-like phenotypes
+
+Chronic obstructive pulmonary disease (COPD) is a heterogeneous disease. Historically, two COPD phenotypes have been described: chronic bronchitis and emphysema. Although these phenotypes may provide additional characterization of the pathophysiology of the disease, they are not extensive enough to reflect the heterogeneity of COPD and do not provide granular categorization that indicates specific treatment, perhaps with the exception of adding inhaled glucocorticoids (ICS) in patients with chronic bronchitis. In this review, we describe COPD phenotypes that provide prognostication and/or indicate specific treatment. We also describe COPD-like phenotypes that do not necessarily meet the current diagnostic criteria for COPD but provide additional prognostication and may be the targets for future clinical trials.
+
+Introduction
+
+Chronic obstructive pulmonary disease (COPD) is defined as persistent respiratory symptoms and airflow limitation due to airway and/or alveolar abnormalities usually caused by noxious particles or gases and influenced by host factors. COPD diagnosis requires not only a consistent history but also the presence of airflow limitation via spirometry. Historically, two phenotypes have been described to further characterize the disease: chronic bronchitis, which is associated with airway inflammation with the main characteristic being chronic productive cough, and emphysema, which is associated with alveolar destruction and presents with dyspnea. Although these phenotypes provide some additional characterization of the pathophysiology of the disease, they are not extensive enough to reflect the heterogeneity of COPD and do not provide granular categorization that indicates specific treatment, perhaps with the exception of adding inhaled glucocorticoids (ICS) in patients with chronic bronchitis. Moreover, the current definition of COPD does not include individuals with high respiratory burden, e.g., high mortality and frequent respiratory hospitalizations, that do not have airflow limitation. The first objective of this review is to describe clinically relevant COPD phenotypes that provide prognostication and/or indicate specific treatment (Figure 1). The second objective is to describe COPD-like phenotypes that do not necessary meet the current diagnostic criteria for COPD but provide additional prognostication and may indicate response to certain treatments that can be tested in future clinical trials. Table 1 provides a summary of all phenotypes.
+
+Clinically relevant COPD phenotypes and corresponding treatments.
+
+Summary of chronic obstructive pulmonary disease (COPD) and COPD-like phenotypes.
+
+Phenotypes		 	Asthma-COPD overlap and COPD with eosinophilia	High eosinophils in patients with COPD indicate obstructive lung disease that responds to ICS, and high eosinophils and BDR may indicate disease that responds to biological therapy.	 	COPD with static hyperinflation	Lung volume reduction in selected patients with severe lung function impairment and static hyperinflation is associated with improvement in lung function, exercise capacity, and quality of life.	 	COPD with chronic hypoxemic respiratory failure	Oxygen supplementation in patients with COPD and resting chronic hypoxemic respiratory failure improves survival but is not beneficial in those with isolated exertional or nocturnal hypoxemia.	 	COPD with chronic hypercapnic respiratory failure	Home nocturnal non-invasive ventilation in patients with COPD and chronic hypercapnic respiratory failure improves survival and reduces hospitalizations.	 	COPD with frequent respiratory exacerbations	Frequent respiratory exacerbations may indicate escalation of treatment (ICS, azithromycin, roflumilast, home NIV) and further investigation is required to identify other conditions, e.g., antibody deficiency syndrome, that may benefit from additional treatment.	 	Preserved spirometry at risk for COPD	Individuals with normal spirometry and history of smoking who have chronic bronchitis or respiratory exacerbations have increased respiratory-related hospitalizations and mortality. Further research is needed to assess preventive treatment for individuals with normal spirometry but who are at risk of progressing to COPD.	 	Preserved ratio impaired spirometry (PRISm)	PRISm is a volatile spirometric pattern associated with respiratory symptoms and mortality. Further research is needed to confirm whether individuals with PRISm benefit from existing treatment for COPD.
+
+Asthma-COPD overlap and COPD with eosinophilia
+
+Asthma-COPD overlap is a relatively new term that describes the coexistence of asthma and COPD. Definitions have been proposed by scientific groups including the Global Initiative for Chronic Obstructive Lung Disease (GOLD) and the Global Initiative for Asthma (GINA) but none offer prognostication and do not indicate specific treatment. Because bronchodilator responsiveness (BDR) is one of several criteria to confirm lung function variability, BDR presence is often and erroneously considered equivalent to asthma diagnosis. Although BDR is more common and greater in patients with asthma than those with COPD, BDR cannot distinguish asthma and COPD. Further, the association of BDR with clinical outcomes in patients with COPD has been extensively studied with conflicting findings. Early studies showed that BDR cannot predict response to treatment. The only outcome which is consistently associated with BDR is FEV1 decline over time. The inconsistent findings regarding the association of BDR and clinical outcomes may be related to various BDR definitions and protocols. In COPD, an increase in both FEV1 and FVC by 12% and 200 ml after bronchodilator administration was associated with a phenotype that is characterized by less emphysema but reduced mortality. BDR in FVC is typically associated with greater degree of emphysema and functional small airway disease. A drawback of BDR is its instability over time. Nevertheless, the hallmark of asthma is lung variability, and it is not surprising that BDR is not stable over time. A recent study showed that consistent BDR in individuals with former or current smoking exposure is associated with prior asthma diagnosis, lung function decline, and functional small airway disease.
+
+Eosinophils are strongly tied with Th2-mediated inflammation, historically considered the type of inflammation that occurs in asthma, as opposed to Th1-mediated inflammation, typically present in COPD. Increased sputum and blood eosinophil counts indicate response to ICS and patients with COPD who have blood eosinophil counts ≥ 300 cells/μL should consider adding ICS combined with bronchodilator treatment (Figure 1). Biologic agents that target interleukin-5, interleukin-5 receptor and interleukin-4/interleukin-13 receptor in patients with COPD and elevated blood eosinophil counts reduce exacerbations (Figure 1). A post-hoc analysis of two randomized placebo controlled trials in COPD determined that the anti-IL5 agent benralizumab had greater response in patients with BDR in FEV1. This is the first study showing that BDR can indicate response to a specific pharmacological agent.
+
+Summary: High eosinophils in patients with COPD indicate obstructive lung disease that responds to ICS and biologics, and BDR may indicate disease with greater response to biological therapy.
+
+COPD with static hyperinflation
+
+Hyperinflation often occurs in COPD as the disease progresses and is well known to be associated with poor prognosis. The landmark study by Casanova et al. showed that hyperinflation, defined as decreased inspiratory capacity to total lung capacity (TLC) ratio, is associated with increased mortality. More recently, studies confirm those findings using other definitions of hyperinflation. Several definitions exist which refer to whether measurements of hyperinflation occur during rest (static) or exercise (dynamic) and the measurement themselves, e.g., functional residual capacity, residual volume (RV).
+
+Lung volume reduction surgery can alleviate static and dynamic hyperinflation and improve outcomes, including mortality (Figure 1). In one study, patients with upper-predominant emphysema, low post-rehabilitation exercise capacity who underwent lung volume reduction surgery had a long-term survival benefit. Nevertheless, lung volume reduction surgery is associated with high perioperative mortality, limiting the enthusiasm for the procedure. Recently, endobronchial valves placed bronchoscopically, a significantly less invasive procedure than lung resection, have been used as an alternative method to reduce hyperinflation. Endobronchial valves decrease the size of hyperinflated areas of the lung by allowing air to exit the hyperinflated areas but not to re-enter it. By reducing hyperinflation, endobronchial valves have been shown to improve lung function, exercise capacity, quality of life, and may reduce mortality. Patients with COPD should not only have severe lung function impairment (FEV1% predicted < 45%) and static hyperinflation (TLC > 100% and RV > 175%) but also need to have significantly reduced exercise capacity (6-min walk distance < 450 m or 1,476 feet) to benefit from endobronchial valves. Moreover, these patients should not have severe alveolar gas exchange impairment (PaO2 < 45 mmHg, and PaCO2 > 50 mmHg) and significantly impaired exercised capacity which can increase the periprocedural risk. Chronic bronchitis is one of the exclusion criteria as it can be associated with difficultly clearing airways of the treated areas and risk of respiratory infections. Insertion of endobronchial valves are associated with 25–30% risk for pneumothorax and for that reason requires inpatient observation for 3 days.
+
+Summary: Lung volume reduction in selected patients with severe lung function impairment and static hyperinflation is associated with improvement in lung function, exercise capacity, and quality of life.
+
+COPD with chronic hypoxemic respiratory failure
+
+In the advanced stages of COPD, hypoxemia, defined as oxygen saturation below 89%, may develop. Oxygen supplementation in patients with COPD and chronic hypoxemic respiratory failure at rest has shown remarkable long-term mortality benefit with more than 50% increase in survival (Figure 1). However, the benefit of oxygen supplementation in isolated hypoxemia on exertion (absence of hypoxemia at rest) is either minimal or absent. Emtner et al. showed that oxygen supplementation increased exercise capacity in patients undergoing exercise training. Patients who received oxygen supplementation while exercising were able to train 4 min longer than those who did not receive oxygen. Nonoyama et al. showed that oxygen supplementation improved a 5-min walk test by just 15 steps relative to air supplementation (control). A large meta-analysis showed that oxygen supplementation in patients with COPD and isolated exertional hypoxemia does not improve any clinical outcome. Supplemental oxygen in those with moderate hypoxemia is also not beneficial. Oxygen supplementation in those with isolated nocturnal hypoxemia has no benefit despite that these patients may be hypoxemic more than half of the duration of their sleep.
+
+Summary: Oxygen supplementation in patients with COPD and resting chronic hypoxemic respiratory failure improves survival but it is not beneficial in those with isolated exertional or nocturnal hypoxemia.
+
+COPD with chronic hypercapnic respiratory failure
+
+Chronic hypercapnic respiratory failure is another consequence of COPD that occurs in advanced stages of the disease and is associated with increased mortality. The pathophysiological mechanism of chronic hypercapnic respiratory failure is complex and not entirely understood but hypoventilation seems to play the primary role. During sleep, hypoventilation is more pronounced and nocturnal home non-invasive ventilation (NIV) has been used in these patients. Early studies of home nocturnal NIV in those patients showed no benefit but recent randomized controlled trials (RCTs) showed improvement in clinical outcomes, including reduction in hospitalizations and mortality benefit (Figure 1). Recent meta-analyses found an improvement in mortality, hospitalizations, dyspnea, exercise capacity, and health-related quality of life relative to standard treatment. It seems that the benefit is related to a particular ventilator strategy, known as high intensity, that includes large inspiratory to expiratory airway pressure difference, high minute ventilation, and reducing baseline CO2 levels by 25%, as well as with selection of patients with severe disease, those with FEV1% predicted < 50% and PaCO2 > 52 mmHg. RCTs with favorable outcomes recruited patients with severe lung function impairment and hypercapnia who had a recent COPD-related hospitalization or chronic hypoxemic respiratory failure. A recent metanalysis showed that both higher baseline arterial CO2 levels and greater magnitude of the CO2 reduction from NIV are associated with greater improvement in clinical outcomes. Nevertheless, this may merely reflect that these patients are sicker and benefit more from treatment. Despite the significant benefits from home nocturnal NIV, it is underutilized among those with COPD-related hospitalizations, with less than 3% of those patients using bilevel positive airway pressure/home NIV.
+
+Summary: Home nocturnal non-invasive ventilation in patients with COPD and chronic hypercapnic respiratory failure improves survival and reduces hospitalizations.
+
+COPD with frequent respiratory exacerbations
+
+This phenotype of COPD has attracted a lot of attention despite the small proportion of patients with this phenotype, due to fact that this group of patients consume the largest proportion of healthcare resources and have poor prognosis. Beeh et al., in a sample of patients with moderate or severe COPD, showed that 14% of the patients accounted for 57% of the total COPD-related hospitalizations. In our previous work, among patients with COPD and mild-to-moderate lung function impairment, the top 5% in exacerbation frequency accounted for 34% of the total exacerbations in the cohort. Those with frequent exacerbations have increased mortality relative to those with no exacerbations. Although a formal definition for this phenotype does not exist, at least two moderate exacerbations or one hospitalization has been used as a cutoff to identify patients with COPD who require escalation of treatment according to GOLD guidelines. Patients with frequent exacerbations may benefit from addition of ICS on bronchodilator therapy, azithromycin, and roflumilast.
+
+This phenotype is heterogenous and likely includes patients with chronic bronchitis, asthma-COPD overlap, and chronic hypercapnic respiratory failure (Figure 1). Thus, patients with frequent exacerbations and asthma-COPD overlap may benefit from the addition of ICS and/or biological therapy. Patients with frequent exacerbations and chronic hypercapnic respiratory failure may see a reduction in hospitalizations with home NIV use. Another comorbidity should be considered with this phenotype, e.g., antibody deficiency syndrome, which may increase respiratory exacerbations. A retrospective study of patients with COPD and antibody deficiency syndrome with frequent exacerbations showed that appropriate treatment including cycling antibiotics or IgG supplementations reduced respiratory exacerbations from median of four to one exacerbation every year.
+
+Summary: Frequent respiratory exacerbations may indicate escalation of treatment (ICS, biologics, azithromycin, roflumilast, home NIV) and further investigation is required to identify other conditions, e.g., antibody deficiency syndrome, that may benefit from additional treatment.
+
+Preserved spirometry at risk for COPD
+
+Recently, this phenotype has been the focus of several investigations because it may reflect a state or condition that precedes COPD and may benefit from early treatment. Woodruff et al. showed that among individuals with at least 20-pack year of current or former smoking exposure, CAT score > 10 (highly symptomatic) was associated with increased respiratory exacerbations and hospitalizations. Pooling individual data of 5 prospective cohorts, Balte et al. showed that non-obstructive chronic bronchitis (chronic bronchitis with normal spirometry) was associated with respiratory-related hospitalizations and mortality. A metanalysis confirmed that non-obstructive chronic bronchitis was associated with increased all-cause mortality in individuals with current or former smoking exposure but not in people without history of smoking exposure. Air trapping in individuals with current or former smoking exposure is associated with increased medication use, respiratory hospitalizations, progression to COPD, and mortality. Regan et al. showed that among people with at least 10 pack-years of current or former smoking exposure, 42% have features consistent with obstructive lung disease in the chest CT. Respiratory exacerbations in individuals with normal lung function and current or former smoking exposure are associated with lung function decline and increased all-cause mortality. It is possible that progression to COPD is mediated by lung function decline that results from respiratory exacerbations in individuals with normal lung function. COPDGene investigators have led an effort to expand the definition of COPD to include individuals without spirometric obstruction who are at risk for lung function decline or death.
+
+A recent RCT showed that dual bronchodilator treatment in individuals with smoking history and respiratory symptoms but relative normal spirometry defined as post-bronchodilator FEV1/FVC ≥ 0.7 and FVC % predicted ≥ 70% did not improve respiratory symptoms. However, the lack of efficacy could be due to the fact that bronchodilators have minimal effect on individuals with near normal lung function. It is possible that other types of pharmacotherapy in a different group of individuals should be tested, e.g., inhaled corticosteroids in individuals with non-obstructive chronic bronchitis or respiratory exacerbations. Identifying individuals with normal lung function at risk for COPD and lung function decline may be the focus of future therapeutic trials that will test pharmacological agents which can prevent progression to COPD.
+
+Summary: Individuals with normal spirometry and history of smoking who have chronic bronchitis or respiratory exacerbations have increased respiratory-related hospitalizations and mortality. Further research is needed to assess preventive treatment of individuals with normal spirometry but who are at risk of progressing to COPD.
+
+Preserved ratio impaired spirometry (PRISm)
+
+Preserved ratio impaired spirometry (PRISm), also known as restrictive or unclassified spirometry, is a common spirometric pattern which occurs in 10–20% of spirometries. PRISm is usually defined as reduced FEV1 with a normal FEV1/FVC but other definitions applied also refer to a non-obstructive abnormal spirometry. General population studies have reported that it is associated with increased all-cause mortality. Studies in individuals with current or former smoking exposure have shown that PRISm is a heterogenous group with significant symptoms and reduced exercise capacity that includes patients with an FEV1% predicted that can range from 44 to 79%, a body mass index (BMI) between 17.2 and 53.8 kg/m2, and radiographic emphysema on chest CT that can range from < 1% to up to 11%. Individuals with PRISm have higher BMI relative to patients with normal spirometry or obstruction and it has been postulated that PRISm merely is the result of high BMI. However, a landmark study by Jones and Nzekwu showed that although BMI is inversely associated with FVC and total lung capacity (TLC), obesity in individuals with no respiratory disease is unlikely to reduce FVC below the lower limit of normal (LLN). One study demonstrated that among patients undergoing preoperative evaluation for bariatric surgery with a BMI of ≥ 35 Kg/m2, only 3% had an FVC < LLN. Although a proportion of PRISm could be related only to obesity, it is unlikely that obesity is the sole cause of PRISm in the majority of the cases. Other diseases such as interstitial lung diseases (ILD) can cause PRISm but the prevalence of ILD is extremely low and thus it is unlikely that ILD accounts for the majority of PRISm cases. Cohorts such as COPDGene, with a PRISm prevalence of 12–15%, exclude ILDs.
+
+Most individuals with PRISm likely have obstructive lung disease. Approximately half of individuals with PRISm have TLC on chest CT and < 80% predicted or LLN, which likely results from obesity. Obesity is associated with increased FEV1/FVC in patients with COPD. Lower TLC secondary to obesity may result in pseudo-normalization of FEV1/FVC ratio and underdiagnosis of obstructive lung disease. Our previous work has shown that air trapping in PRISm is associated with increased respiratory exacerbations, progression to COPD, and increased mortality. Unfortunately, no clinical trials have assessed the effect of existing pharmacotherapies on PRISm. Conducting clinical trials in PRISm is a difficult task as PRISm is an unstable phenotype. It has been reported that 25% of individuals with PRISm have COPD on future spirometries, and 16% of those with PRISm had COPD in prior spirometries.
+
+Summary: PRISm is a unstable spirometric pattern associated with respiratory symptoms and mortality. Further research is needed to confirm whether individuals with PRISm benefit from existing treatment for COPD.
+
+Conclusion
+
+More granular phenotyping of COPD (asthma-COPD overlap, hyperinflation, chronic hypercapnic respiratory failure, frequent respiratory exacerbations) can help to identify patients that respond well to existing treatments, e.g., ICS, home nocturnal NIV. Further research is needed in those individuals at risk for COPD who do not yet have obstructive spirometry (normal spirometry or PRISm) to assess whether treatment can improve outcomes including preventing progression to COPD.
+
+Author contributions
+
+SF: Conceptualization, Writing – original draft, Writing – review & editing. DG: Supervision, Writing – review & editing. NT: Supervision, Writing – review & editing. FS: Writing – review & editing. JZ: Supervision, Writing – review & editing. AC: Supervision, Writing – review & editing.
+
+Conflict of interest
+
+SF has received grants from American Thoracic Society and Fisher & Paykel and has served as a consultant for Society of Hospital Medicine (SHM). AC has consulted GSK, AstraZeneca, and VIDA Diagnostics. The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Publisher’s note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+Author disclaimer
+
+The views expressed in this article are those of the authors and do not necessarily reflect the position or policy of the Department of Veterans Affairs or the United States Government.
+
+References
+
+Treatment of COPD by clinical phenotypes: Putting old evidence into clinical practice.
+
+COPDGene((R)) 2019: Redefining the diagnosis of chronic obstructive pulmonary disease.
+
+Clinical significance of symptoms in smokers with preserved pulmonary function.
+
+Radiographic lung volumes predict progression to COPD in smokers with preserved spirometry in SPIROMICS.
+
+The asthma-COPD overlap syndrome.
+
+Acute bronchodilator response has limited value in differentiating bronchial asthma from COPD.
+
+Diagnostic value of post-bronchodilator pulmonary function testing to distinguish between stable, moderate to severe COPD and asthma.
+
+Diagnostic value of reversibility of chronic airway obstruction to separate asthma from chronic bronchitis: A statistical approach.
+
+Acute bronchodilator responsiveness and health outcomes in COPD patients in the UPLIFT trial.
+
+Bronchodilator responsiveness as a phenotypic characteristic of established chronic obstructive pulmonary disease.
+
+Bronchodilator reversibility testing in chronic obstructive pulmonary disease.
+
+Combined FEV1 and FVC bronchodilator response, exacerbations, and mortality in COPD.
+
+Changes in forced expiratory volume in 1 second over time in COPD.
+
+Bronchodilator reversibility in chronic obstructive pulmonary disease: Use and limitations.
+
+A new bronchodilator response grading strategy identifies distinct patient populations.
+
+Clinical significance of bronchodilator responsiveness evaluated by forced vital capacity in COPD: SPIROMICS cohort analysis.
+
+Bronchodilator responsiveness in tobacco-exposed people with or without COPD.
+
+Dupilumab for COPD with type 2 inflammation indicated by eosinophil counts.
+
+Benralizumab for the prevention of COPD exacerbations.
+
+Predicting response to benralizumab in chronic obstructive pulmonary disease: Analyses of GALATHEA and TERRANOVA studies.
+
+More options for treating severe hyperinflation in advanced emphysema.
+
+Inspiratory-to-total lung capacity ratio predicts mortality in patients with chronic obstructive pulmonary disease.
+
+Resting hyperinflation and emphysema on the clinical course of COPD.
+
+Co-morbidities and hyperinflation are independent risk factors of all-cause mortality in very severe COPD.
+
+No room to breathe: The importance of lung hyperinflation in COPD.
+
+A randomized trial comparing lung-volume-reduction surgery with medical therapy for severe emphysema.
+
+Change in dynamic hyperinflation after bronchoscopic lung volume reduction in patients with emphysema.
+
+Patients at high risk of death after lung-volume-reduction surgery.
+
+Endobronchial valves for emphysema without interlobar collateral ventilation.
+
+Survival in COPD patients treated with bronchoscopic lung volume reduction.
+
+Bronchoscopic lung volume reduction.
+
+Long term domiciliary oxygen therapy in chronic hypoxic cor pulmonale complicating chronic bronchitis and emphysema. Report of the medical research council working party.
+
+Continuous or nocturnal oxygen therapy in hypoxemic chronic obstructive lung disease: A clinical trial.
+
+Effect of oxygen on health quality of life in patients with chronic obstructive pulmonary disease with transient exertional hypoxemia.
+
+Benefits of supplemental oxygen in exercise training in nonhypoxemic chronic obstructive pulmonary disease patients.
+
+A randomized trial of long-term oxygen for COPD with moderate desaturation.
+
+Home oxygen for moderate hypoxaemia in chronic obstructive pulmonary disease: A systematic review and meta-analysis.
+
+A randomized trial of nocturnal oxygen therapy in chronic obstructive pulmonary disease patients.
+
+Randomized trial of nocturnal oxygen in chronic obstructive pulmonary disease.
+
+Acidosis, non-invasive ventilation and mortality in hospitalised COPD exacerbations.
+
+Is hypercapnia associated with poor prognosis in chronic obstructive pulmonary disease? A long-term follow-up cohort study.
+
+Reversible hypercapnia in chronic obstructive pulmonary disease: A distinct pattern of respiratory failure with a favorable prognosis.
+
+Hypercapnia in COPD: Causes, consequences, and therapy.
+
+Hypercapnia in advanced chronic obstructive pulmonary disease: A secondary analysis of the national emphysema treatment trial.
+
+Ventilatory neural drive in chronically hypercapnic patients with COPD: Effects of sleep and nocturnal noninvasive ventilation.
+
+Nocturnal positive-pressure ventilation via nasal mask in patients with severe chronic obstructive pulmonary disease.
+
+Long-term controlled trial of nocturnal nasal positive pressure ventilation in patients with severe COPD.
+
+Non-invasive positive pressure ventilation for the treatment of severe stable chronic obstructive pulmonary disease: A prospective, multicentre, randomised, controlled clinical trial.
+
+Effect of home noninvasive ventilation with oxygen therapy vs oxygen therapy alone on hospital readmission or death after an acute COPD exacerbation: A randomized clinical trial.
+
+Baseline level and reduction in PaCO2 are associated with the treatment effect of long-term home noninvasive positive pressure ventilation in stable hypercapnic patients with COPD: A systematic review and meta-analysis of randomized controlled trials.
+
+Association of home noninvasive positive pressure ventilation with clinical outcomes in chronic obstructive pulmonary disease: A systematic review and meta-analysis.
+
+Noninvasive ventilation in stable hypercapnic COPD: What is the evidence?
+
+Nocturnal non-invasive nasal ventilation in stable hypercapnic COPD: A randomised controlled trial.
+
+Positive airway pressure therapies and hospitalization in chronic obstructive pulmonary disease.
+
+Home noninvasive ventilation use in patients hospitalized with COPD.
+
+Characterisation of exacerbation risk and exacerbator phenotypes in the POET-COPD trial.
+
+Increased mortality associated with frequent exacerbations in COPD patients with mild-to-moderate lung function impairment, and smokers with normal spirometry.
+
+Long-term noninvasive ventilation in chronic stable hypercapnic chronic obstructive pulmonary disease. An official American thoracic society clinical practice guideline.
+
+Lower serum IgA is associated with COPD exacerbation risk in SPIROMICS.
+
+Serum IgG subclass levels and risk of exacerbations and hospitalizations in patients with COPD.
+
+Antibody deficiency in patients with frequent exacerbations of chronic obstructive pulmonary disease (COPD).
+
+Association of nonobstructive chronic bronchitis with respiratory health outcomes in adults.
+
+Lung volume indices predict morbidity in smokers with preserved spirometry.
+
+Clinical and radiologic disease in smokers with normal spirometry.
+
+Bronchodilators in tobacco-exposed persons with symptoms and preserved lung function.
+
+Clinical and radiographic predictors of GOLD-unclassified smokers in the COPDGene study.
+
+Morbidity and mortality associated with the restrictive spirometric pattern: A longitudinal study.
+
+Lung function and mortality in the United States: Data from the first national health and nutrition examination survey follow up study.
+
+Preserved ratio impaired spirometry in a spirometry database.
+
+Global initiative on obstructive lung disease (GOLD) classification of lung disease and mortality: Findings from the atherosclerosis risk in communities (ARIC) study.
+
+The effects of body mass index on lung volumes.
+
+Evaluation of spirometric testing as a routine preoperative assessment in patients undergoing bariatric surgery.
+
+Longitudinal phenotypes and mortality in preserved ratio impaired spirometry in the COPDGene study.
+
+Effects of BMI on static lung volumes in patients with airway obstruction.
+
+Low FVC/TLC in preserved ratio impaired spirometry (PRISm) is associated with features of and progression to obstructive lung disease.
+
+Significant spirometric transitions and preserved ratio impaired spirometry among ever smokers.

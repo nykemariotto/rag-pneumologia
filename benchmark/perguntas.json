@@ -1,0 +1,491 @@
+{
+  "descricao": "Benchmark de 54 perguntas clinicas (PT-BR) sobre DPOC, fibrose pulmonar e paracoccidioidomicose. Cada item tem resposta-referencia (gabarito) e a fonte rastreavel da knowledge base. Niveis: facil (fato unico), media (criterios/valores), dificil (sintese/conduta). Para revisao/validacao medica.",
+  "perguntas": [
+    {
+      "id": "dpoc_01",
+      "disease": "dpoc",
+      "dificuldade": "facil",
+      "pergunta": "O que e a doenca pulmonar obstrutiva cronica (DPOC)?",
+      "resposta_referencia": "Doenca respiratoria cronica caracterizada por limitacao persistente e nao totalmente reversivel ao fluxo aereo, associada a resposta inflamatoria das vias aereas e do parenquima pulmonar, geralmente por exposicao a particulas/gases nocivos (principalmente fumaca de cigarro). Engloba enfisema e bronquite cronica.",
+      "fonte_id": "sp_copd",
+      "fonte": "StatPearls - DPOC"
+    },
+    {
+      "id": "dpoc_02",
+      "disease": "dpoc",
+      "dificuldade": "facil",
+      "pergunta": "Qual relacao VEF1/CVF pos-broncodilatador confirma a presenca de limitacao ao fluxo aereo no diagnostico de DPOC?",
+      "resposta_referencia": "VEF1/CVF pos-broncodilatador menor que 0,70 (70%).",
+      "fonte_id": "sp_copd",
+      "fonte": "StatPearls - DPOC"
+    },
+    {
+      "id": "dpoc_03",
+      "disease": "dpoc",
+      "dificuldade": "facil",
+      "pergunta": "Qual o principal fator de risco para DPOC?",
+      "resposta_referencia": "O tabagismo (exposicao a fumaca de cigarro) e o principal fator de risco. Outros incluem exposicao ocupacional, poluicao do ar e biomassa.",
+      "fonte_id": "sp_copd",
+      "fonte": "CDC - Sobre a DPOC"
+    },
+    {
+      "id": "dpoc_04",
+      "disease": "dpoc",
+      "dificuldade": "facil",
+      "pergunta": "Qual exame e essencial e confirma o diagnostico de DPOC?",
+      "resposta_referencia": "A espirometria, demonstrando obstrucao persistente (VEF1/CVF < 0,70 apos broncodilatador).",
+      "fonte_id": "sp_copd",
+      "fonte": "StatPearls - Espirometria"
+    },
+    {
+      "id": "dpoc_05",
+      "disease": "dpoc",
+      "dificuldade": "facil",
+      "pergunta": "Qual a diferenca entre enfisema e bronquite cronica?",
+      "resposta_referencia": "Enfisema e a destruicao das paredes alveolares com aumento dos espacos aereos distais aos bronquiolos terminais; bronquite cronica e definida clinicamente por tosse produtiva na maioria dos dias por pelo menos 3 meses em 2 anos consecutivos.",
+      "fonte_id": "sp_copd",
+      "fonte": "StatPearls - Bronquite Cronica"
+    },
+    {
+      "id": "dpoc_06",
+      "disease": "dpoc",
+      "dificuldade": "facil",
+      "pergunta": "Que deficiencia genetica pode causar enfisema, sobretudo em jovens nao fumantes?",
+      "resposta_referencia": "A deficiencia de alfa-1 antitripsina.",
+      "fonte_id": "sp_a1at",
+      "fonte": "StatPearls - Deficiencia de Alfa-1 Antitripsina"
+    },
+    {
+      "id": "dpoc_07",
+      "disease": "dpoc",
+      "dificuldade": "media",
+      "pergunta": "Como e feita a classificacao espirometrica de gravidade da DPOC (GOLD 1 a 4) pelo VEF1 % do previsto?",
+      "resposta_referencia": "Em pacientes com VEF1/CVF < 0,70: GOLD 1 (leve) VEF1 >= 80%; GOLD 2 (moderada) 50-79%; GOLD 3 (grave) 30-49%; GOLD 4 (muito grave) < 30% do previsto.",
+      "fonte_id": "sp_copd",
+      "fonte": "Revisao - Medicina de precisao na DPOC"
+    },
+    {
+      "id": "dpoc_08",
+      "disease": "dpoc",
+      "dificuldade": "media",
+      "pergunta": "O que define o grupo E na avaliacao ABE do GOLD?",
+      "resposta_referencia": "Historia de exacerbacoes frequentes: >= 2 exacerbacoes moderadas no ultimo ano OU >= 1 exacerbacao que levou a hospitalizacao, independentemente da carga de sintomas.",
+      "fonte_id": "sp_copd",
+      "fonte": "Revisao - Fenotipos da DPOC"
+    },
+    {
+      "id": "dpoc_09",
+      "disease": "dpoc",
+      "dificuldade": "media",
+      "pergunta": "Quais escalas avaliam sintomas na DPOC e quais os pontos de corte para alta carga de sintomas?",
+      "resposta_referencia": "mMRC (dispneia) com corte >= 2 e o CAT (COPD Assessment Test) com corte >= 10 indicam maior carga sintomatica.",
+      "fonte_id": "sbpt_dpoc_2017",
+      "fonte": "SBPT - Tratamento farmacologico da DPOC (2017)"
+    },
+    {
+      "id": "dpoc_10",
+      "disease": "dpoc",
+      "dificuldade": "media",
+      "pergunta": "Qual o valor de eosinofilos no sangue que favorece a adicao de corticoide inalatorio na DPOC?",
+      "resposta_referencia": "Eosinofilos >= 300 celulas/uL favorecem beneficio do CI; valores >= 100 podem indicar algum beneficio, enquanto < 100 celulas/uL argumentam contra o uso de CI.",
+      "fonte_id": "pmc_resp_res_2025",
+      "fonte": "Revisao - Medicina de precisao na DPOC"
+    },
+    {
+      "id": "dpoc_11",
+      "disease": "dpoc",
+      "dificuldade": "media",
+      "pergunta": "Qual a base do tratamento broncodilatador de manutencao na DPOC?",
+      "resposta_referencia": "Broncodilatadores de longa acao: beta-2-agonistas (LABA) e/ou antimuscarinicos (LAMA); a combinacao LABA+LAMA e usada quando ha sintomas persistentes ou exacerbacoes.",
+      "fonte_id": "sbpt_dpoc_2017",
+      "fonte": "SBPT - Tratamento farmacologico da DPOC (2017)"
+    },
+    {
+      "id": "dpoc_12",
+      "disease": "dpoc",
+      "dificuldade": "media",
+      "pergunta": "O que e cor pulmonale e qual sua relacao com a DPOC?",
+      "resposta_referencia": "E o aumento/disfuncao do ventriculo direito secundario a hipertensao pulmonar de causa respiratoria; na DPOC decorre da hipoxemia cronica, com vasoconstricao hipoxica e remodelamento vascular que elevam a resistencia vascular pulmonar.",
+      "fonte_id": "sp_cor_pulmonale",
+      "fonte": "StatPearls - Cor Pulmonale"
+    },
+    {
+      "id": "dpoc_13",
+      "disease": "dpoc",
+      "dificuldade": "dificil",
+      "pergunta": "Em que situacao se recomenda associar corticoide inalatorio (CI) a broncodilatadores de longa acao na DPOC?",
+      "resposta_referencia": "Em pacientes com exacerbacoes apesar de LABA+LAMA, especialmente com eosinofilia (>= 300 celulas/uL) e/ou historia de asma; sempre associado a broncodilatador, nunca isolado.",
+      "fonte_id": "sbpt_dpoc_2017",
+      "fonte": "SBPT - Tratamento farmacologico da DPOC (2017)"
+    },
+    {
+      "id": "dpoc_14",
+      "disease": "dpoc",
+      "dificuldade": "dificil",
+      "pergunta": "Quais os pilares do tratamento da exacerbacao aguda de DPOC?",
+      "resposta_referencia": "Broncodilatadores de curta acao, corticosteroide sistemico por curto periodo e antibiotico quando ha sinais de infeccao bacteriana (aumento da purulencia/volume do escarro); suporte de oxigenio e ventilacao se necessario.",
+      "fonte_id": "sp_copd",
+      "fonte": "StatPearls - DPOC"
+    },
+    {
+      "id": "dpoc_15",
+      "disease": "dpoc",
+      "dificuldade": "dificil",
+      "pergunta": "Qual a principal indicacao de oxigenoterapia domiciliar prolongada na DPOC?",
+      "resposta_referencia": "Hipoxemia cronica grave em repouso (PaO2 <= 55 mmHg, ou <= 59 mmHg com cor pulmonale/policitemia); melhora a sobrevida quando usada >= 15 h/dia.",
+      "fonte_id": "sp_copd",
+      "fonte": "StatPearls - DPOC"
+    },
+    {
+      "id": "dpoc_16",
+      "disease": "dpoc",
+      "dificuldade": "dificil",
+      "pergunta": "Como diferenciar DPOC de asma na avaliacao funcional?",
+      "resposta_referencia": "A asma costuma ter obstrucao reversivel (melhora significativa do VEF1 pos-broncodilatador) e variabilidade; a DPOC apresenta obstrucao persistente (VEF1/CVF < 0,70) pouco reversivel. Pode haver sobreposicao (ACO).",
+      "fonte_id": "sp_copd",
+      "fonte": "StatPearls - DPOC"
+    },
+    {
+      "id": "dpoc_17",
+      "disease": "dpoc",
+      "dificuldade": "media",
+      "pergunta": "Quais vacinas sao recomendadas para pacientes com DPOC?",
+      "resposta_referencia": "Vacinacao anual contra influenza, vacinacao antipneumococica e COVID-19.",
+      "fonte_id": "cdc_about_copd",
+      "fonte": "CDC - Sobre a DPOC"
+    },
+    {
+      "id": "dpoc_18",
+      "disease": "dpoc",
+      "dificuldade": "dificil",
+      "pergunta": "O que sao fenotipos da DPOC e por que sao relevantes?",
+      "resposta_referencia": "Sao subgrupos com caracteristicas clinicas/biologicas distintas (ex.: exacerbador frequente, enfisematoso, sobreposicao asma-DPOC, eosinofilico) que orientam tratamento personalizado (treatable traits).",
+      "fonte_id": "pmc_front_med_2024",
+      "fonte": "Revisao - Fenotipos da DPOC"
+    },
+    {
+      "id": "fib_01",
+      "disease": "fibrose",
+      "dificuldade": "facil",
+      "pergunta": "O que e fibrose pulmonar idiopatica (FPI)?",
+      "resposta_referencia": "Forma cronica, progressiva e fibrosante de pneumonia intersticial de causa desconhecida, limitada aos pulmoes, associada ao padrao histologico/radiologico de pneumonia intersticial usual (UIP/PIU), tipica de adultos mais velhos.",
+      "fonte_id": "sp_ipf",
+      "fonte": "StatPearls - Fibrose Pulmonar Idiopatica"
+    },
+    {
+      "id": "fib_02",
+      "disease": "fibrose",
+      "dificuldade": "facil",
+      "pergunta": "Qual o padrao radiologico/histologico caracteristico da FPI?",
+      "resposta_referencia": "O padrao de pneumonia intersticial usual (UIP/PIU).",
+      "fonte_id": "ipf_guideline_2022",
+      "fonte": "Diretriz ATS/ERS/JRS/ALAT FPI 2022"
+    },
+    {
+      "id": "fib_03",
+      "disease": "fibrose",
+      "dificuldade": "facil",
+      "pergunta": "Quais os sintomas tipicos da FPI?",
+      "resposta_referencia": "Dispneia progressiva aos esforcos e tosse seca cronica, geralmente em adultos acima de 60 anos.",
+      "fonte_id": "sp_ipf",
+      "fonte": "StatPearls - Fibrose Pulmonar Idiopatica"
+    },
+    {
+      "id": "fib_04",
+      "disease": "fibrose",
+      "dificuldade": "facil",
+      "pergunta": "Qual achado de ausculta pulmonar e caracteristico da FPI?",
+      "resposta_referencia": "Estertores crepitantes finos bibasais teleinspiratorios (em velcro).",
+      "fonte_id": "sp_ipf",
+      "fonte": "StatPearls - Fibrose Pulmonar Idiopatica"
+    },
+    {
+      "id": "fib_05",
+      "disease": "fibrose",
+      "dificuldade": "facil",
+      "pergunta": "Qual exame de imagem e central no diagnostico da FPI?",
+      "resposta_referencia": "A tomografia computadorizada de torax de alta resolucao (TCAR).",
+      "fonte_id": "ipf_guideline_2022",
+      "fonte": "Diretriz ATS/ERS/JRS/ALAT FPI 2022"
+    },
+    {
+      "id": "fib_06",
+      "disease": "fibrose",
+      "dificuldade": "facil",
+      "pergunta": "Quais sao os dois medicamentos antifibroticos disponiveis para a FPI?",
+      "resposta_referencia": "Pirfenidona e nintedanibe.",
+      "fonte_id": "sp_nintedanib",
+      "fonte": "StatPearls - Nintedanibe"
+    },
+    {
+      "id": "fib_07",
+      "disease": "fibrose",
+      "dificuldade": "media",
+      "pergunta": "Quais achados na TCAR caracterizam o padrao UIP definido?",
+      "resposta_referencia": "Predominio subpleural e basal, reticulado, faveolamento (honeycombing) com ou sem bronquiectasias/bronquiolectasias de tracao; distribuicao heterogenea, sem caracteristicas que sugiram diagnostico alternativo.",
+      "fonte_id": "ipf_guideline_2022",
+      "fonte": "Diretriz ATS/ERS/JRS/ALAT FPI 2022"
+    },
+    {
+      "id": "fib_08",
+      "disease": "fibrose",
+      "dificuldade": "media",
+      "pergunta": "Quais as quatro categorias de padrao tomografico na avaliacao de FPI segundo a diretriz de 2018/2022?",
+      "resposta_referencia": "UIP, UIP provavel, indeterminado para UIP e diagnostico alternativo.",
+      "fonte_id": "ipf_guideline_2022",
+      "fonte": "Diretriz ATS/ERS/JRS/ALAT FPI 2022"
+    },
+    {
+      "id": "fib_09",
+      "disease": "fibrose",
+      "dificuldade": "media",
+      "pergunta": "Qual a dose habitual do nintedanibe na FPI?",
+      "resposta_referencia": "150 mg por via oral duas vezes ao dia (a cada 12 horas).",
+      "fonte_id": "sp_nintedanib",
+      "fonte": "StatPearls - Nintedanibe"
+    },
+    {
+      "id": "fib_10",
+      "disease": "fibrose",
+      "dificuldade": "media",
+      "pergunta": "Qual a dose-alvo da pirfenidona na FPI?",
+      "resposta_referencia": "2403 mg/dia, divididos em 3 tomadas de 801 mg (apos titulacao).",
+      "fonte_id": "pmc_pharm_2024_antifibrotic",
+      "fonte": "Revisao - Antifibroticos (pirfenidona/nintedanibe)"
+    },
+    {
+      "id": "fib_11",
+      "disease": "fibrose",
+      "dificuldade": "media",
+      "pergunta": "O que e fibrose pulmonar progressiva (PPF) introduzida na diretriz de 2022?",
+      "resposta_referencia": "Criterio de progressao de doenca fibrosante intersticial nao-FPI: presenca de pelo menos 2 de 3 (piora de sintomas respiratorios, declinio fisiologico do VEF/CVF, progressao radiologica) no ultimo ano, sem outra explicacao.",
+      "fonte_id": "ipf_guideline_2022",
+      "fonte": "Diretriz ATS/ERS/JRS/ALAT FPI 2022"
+    },
+    {
+      "id": "fib_12",
+      "disease": "fibrose",
+      "dificuldade": "media",
+      "pergunta": "O que e o indice GAP na FPI?",
+      "resposta_referencia": "Sistema de estadiamento prognostico baseado em Genero (Gender), Idade (Age) e variaveis Fisiologicas (Physiology: CVF e DLCO) que estima o risco de mortalidade na FPI.",
+      "fonte_id": "sp_ipf",
+      "fonte": "Revisao - Visao geral da FPI"
+    },
+    {
+      "id": "fib_13",
+      "disease": "fibrose",
+      "dificuldade": "dificil",
+      "pergunta": "Segundo a diretriz brasileira (SBPT), quando indicar tratamento farmacologico antifibrotico na FPI?",
+      "resposta_referencia": "Recomenda-se tratamento antifibrotico (nintedanibe ou pirfenidona) para pacientes com diagnostico de FPI, visando reduzir o declinio da funcao pulmonar (CVF) e a progressao; a decisao considera funcao pulmonar e individualizacao.",
+      "fonte_id": "sbpt_fpi_2020",
+      "fonte": "SBPT - Diretrizes FPI (GRADE) 2020"
+    },
+    {
+      "id": "fib_14",
+      "disease": "fibrose",
+      "dificuldade": "dificil",
+      "pergunta": "Quando a biopsia pulmonar cirurgica e necessaria na investigacao de FPI?",
+      "resposta_referencia": "Quando a TCAR mostra padrao indeterminado ou sugestivo de diagnostico alternativo; os padroes UIP e UIP provavel, em contexto clinico apropriado, podem dispensar a biopsia. A decisao deve sempre passar pela discussao multidisciplinar (DMD).",
+      "fonte_id": "ipf_guideline_2022",
+      "fonte": "Diretriz ATS/ERS/JRS/ALAT FPI 2022"
+    },
+    {
+      "id": "fib_15",
+      "disease": "fibrose",
+      "dificuldade": "dificil",
+      "pergunta": "Qual o papel da discussao multidisciplinar (DMD) no diagnostico da FPI?",
+      "resposta_referencia": "Integra dados clinicos, radiologicos e (quando disponivel) histopatologicos para aumentar a acuracia e a confianca diagnostica, sendo considerada padrao-ouro para o diagnostico de FPI/DPI.",
+      "fonte_id": "ipf_guideline_2022",
+      "fonte": "Diretriz ATS/ERS/JRS/ALAT FPI 2022"
+    },
+    {
+      "id": "fib_16",
+      "disease": "fibrose",
+      "dificuldade": "dificil",
+      "pergunta": "Qual a diferenca entre FPI e fibrose pulmonar de causa conhecida?",
+      "resposta_referencia": "Na FPI a fibrose com padrao UIP e idiopatica (sem causa identificavel); na fibrose de causa conhecida ha agente/condicao identificada (ex.: exposicao, doenca do tecido conjuntivo, farmacos, pneumonite de hipersensibilidade).",
+      "fonte_id": "sp_ipf",
+      "fonte": "StatPearls - Fibrose pulmonar de causas conhecidas"
+    },
+    {
+      "id": "fib_17",
+      "disease": "fibrose",
+      "dificuldade": "dificil",
+      "pergunta": "Qual o prognostico geral da FPI sem tratamento?",
+      "resposta_referencia": "Prognostico reservado, com sobrevida mediana historica de cerca de 2 a 3 anos apos o diagnostico (algumas series citam ate ~5 anos); os antifibroticos retardam o declinio funcional, mas nao revertem a fibrose.",
+      "fonte_id": "pmc_jcm_2018_ipf",
+      "fonte": "Revisao - Visao geral da FPI"
+    },
+    {
+      "id": "fib_18",
+      "disease": "fibrose",
+      "dificuldade": "media",
+      "pergunta": "Qual a unica terapia potencialmente curativa na FPI avancada?",
+      "resposta_referencia": "O transplante pulmonar, indicado em pacientes selecionados com doenca avancada.",
+      "fonte_id": "sp_ipf",
+      "fonte": "StatPearls - Fibrose Pulmonar Idiopatica"
+    },
+    {
+      "id": "pcm_01",
+      "disease": "pcm",
+      "dificuldade": "facil",
+      "pergunta": "Qual o agente etiologico da paracoccidioidomicose?",
+      "resposta_referencia": "Fungos termodimorficos do genero Paracoccidioides (complexo P. brasiliensis e P. lutzii).",
+      "fonte_id": "pcm_consensus_pt",
+      "fonte": "II Consenso Brasileiro de Paracoccidioidomicose"
+    },
+    {
+      "id": "pcm_02",
+      "disease": "pcm",
+      "dificuldade": "facil",
+      "pergunta": "Em qual regiao a paracoccidioidomicose e endemica?",
+      "resposta_referencia": "America Latina, com a maioria dos casos no Brasil (cerca de 80%); e a micose sistemica endemica mais importante da regiao.",
+      "fonte_id": "pmc_plos_2026_pcm",
+      "fonte": "Revisao PLOS - PCM no seculo 21"
+    },
+    {
+      "id": "pcm_03",
+      "disease": "pcm",
+      "dificuldade": "facil",
+      "pergunta": "Como ocorre a infeccao (via de transmissao) na PCM?",
+      "resposta_referencia": "Pela inalacao de conidios/propagulos do fungo presentes no solo; nao ha transmissao inter-humana. Atividades ligadas ao manejo do solo sao fator de risco.",
+      "fonte_id": "sp_pcm",
+      "fonte": "StatPearls - Paracoccidioidomicose"
+    },
+    {
+      "id": "pcm_04",
+      "disease": "pcm",
+      "dificuldade": "facil",
+      "pergunta": "Qual o tratamento de primeira escolha das formas leves a moderadas de PCM?",
+      "resposta_referencia": "Itraconazol oral 200 mg/dia, que apresenta altas taxas de eficacia e seguranca.",
+      "fonte_id": "pcm_consensus_pt",
+      "fonte": "II Consenso Brasileiro de Paracoccidioidomicose"
+    },
+    {
+      "id": "pcm_05",
+      "disease": "pcm",
+      "dificuldade": "facil",
+      "pergunta": "Qual o tratamento das formas graves/disseminadas de PCM?",
+      "resposta_referencia": "Anfotericina B (preferencialmente formulacoes lipidicas) como terapia de inducao, seguida de manutencao com itraconazol ou sulfametoxazol-trimetoprim.",
+      "fonte_id": "pcm_consensus_pt",
+      "fonte": "II Consenso Brasileiro de Paracoccidioidomicose"
+    },
+    {
+      "id": "pcm_06",
+      "disease": "pcm",
+      "dificuldade": "facil",
+      "pergunta": "Qual alternativa terapeutica esta disponivel quando o itraconazol nao pode ser usado na PCM?",
+      "resposta_referencia": "A associacao sulfametoxazol-trimetoprim, embora geralmente exija tratamento mais prolongado.",
+      "fonte_id": "pcm_consensus_pt",
+      "fonte": "II Consenso Brasileiro de Paracoccidioidomicose"
+    },
+    {
+      "id": "pcm_07",
+      "disease": "pcm",
+      "dificuldade": "media",
+      "pergunta": "Quais sao as principais formas clinicas da PCM?",
+      "resposta_referencia": "Forma aguda/subaguda (tipo juvenil), de evolucao mais rapida com acometimento do sistema fagocitario-mononuclear; e forma cronica (tipo adulto), mais frequente, com acometimento pulmonar e mucocutaneo.",
+      "fonte_id": "pcm_consensus_pt",
+      "fonte": "II Consenso Brasileiro de Paracoccidioidomicose"
+    },
+    {
+      "id": "pcm_08",
+      "disease": "pcm",
+      "dificuldade": "media",
+      "pergunta": "Qual a principal sequela pulmonar da forma cronica da PCM?",
+      "resposta_referencia": "A fibrose pulmonar (com alteracoes tipo enfisema), que pode levar a perda de funcao respiratoria e insuficiencia respiratoria.",
+      "fonte_id": "pmc_jfungi_fibrosis",
+      "fonte": "Revisao - Fibrose pulmonar na PCM"
+    },
+    {
+      "id": "pcm_09",
+      "disease": "pcm",
+      "dificuldade": "media",
+      "pergunta": "Qual metodo sorologico e usado no diagnostico e no acompanhamento da PCM?",
+      "resposta_referencia": "A imunodifusao dupla (deteccao de anticorpos), util no diagnostico e no monitoramento da resposta ao tratamento pela queda dos titulos.",
+      "fonte_id": "pcm_consensus_pt",
+      "fonte": "II Consenso Brasileiro de Paracoccidioidomicose"
+    },
+    {
+      "id": "pcm_10",
+      "disease": "pcm",
+      "dificuldade": "media",
+      "pergunta": "Quais criterios definem a cura na PCM?",
+      "resposta_referencia": "Combinacao de criterios clinicos, radiologicos e sorologicos (estabilizacao/negativacao dos titulos de anticorpos), e nao um unico parametro isolado.",
+      "fonte_id": "pcm_consensus_pt",
+      "fonte": "II Consenso Brasileiro de Paracoccidioidomicose"
+    },
+    {
+      "id": "pcm_11",
+      "disease": "pcm",
+      "dificuldade": "media",
+      "pergunta": "Qual a importancia do Paracoccidioides lutzii no diagnostico sorologico?",
+      "resposta_referencia": "Antigenos padrao (de P. brasiliensis) podem ter reatividade cruzada baixa com soros de pacientes infectados por P. lutzii, causando resultados sorologicos falso-negativos.",
+      "fonte_id": "pmc_plos_2026_pcm",
+      "fonte": "Revisao PLOS - PCM no seculo 21"
+    },
+    {
+      "id": "pcm_12",
+      "disease": "pcm",
+      "dificuldade": "media",
+      "pergunta": "Por quanto tempo, em geral, se mantem o tratamento antifungico na PCM?",
+      "resposta_referencia": "Tratamento prolongado, de varios meses; com itraconazol costuma durar 9-18 meses, e com sulfametoxazol-trimetoprim cerca de 18-24 meses (ou mais), ate criterios de cura.",
+      "fonte_id": "pcm_consensus_pt",
+      "fonte": "II Consenso Brasileiro de Paracoccidioidomicose"
+    },
+    {
+      "id": "pcm_13",
+      "disease": "pcm",
+      "dificuldade": "dificil",
+      "pergunta": "Como manejar a PCM em paciente imunossuprimido (ex.: HIV)?",
+      "resposta_referencia": "Tende a apresentar formas mais graves/disseminadas; frequentemente requer inducao com anfotericina B e manutencao prolongada, alem do tratamento da imunossupressao de base; maior risco de recidiva.",
+      "fonte_id": "pmc_jfungi_immuno",
+      "fonte": "Revisao - PCM em imunossuprimidos"
+    },
+    {
+      "id": "pcm_14",
+      "disease": "pcm",
+      "dificuldade": "media",
+      "pergunta": "Aproximadamente que proporcao de pacientes com a forma cronica desenvolve fibrose pulmonar como sequela?",
+      "resposta_referencia": "Cerca de 60% dos pacientes com a forma cronica desenvolvem fibrose pulmonar, e parte significativa evolui com perda de funcao respiratoria.",
+      "fonte_id": "pmc_jfungi_fibrosis",
+      "fonte": "Revisao - Fibrose pulmonar na PCM"
+    },
+    {
+      "id": "pcm_15",
+      "disease": "pcm",
+      "dificuldade": "dificil",
+      "pergunta": "Por que a cura antifungica nao reverte a fibrose pulmonar ja estabelecida na PCM?",
+      "resposta_referencia": "Porque a fibrose representa dano estrutural cicatricial (deposicao de colageno) ja consolidado; o antifungico elimina o fungo mas nao desfaz a fibrose, motivando pesquisa de terapias antifibroticas.",
+      "fonte_id": "pmc_jfungi_fibrosis",
+      "fonte": "Revisao - Fibrose pulmonar na PCM"
+    },
+    {
+      "id": "pcm_16",
+      "disease": "pcm",
+      "dificuldade": "dificil",
+      "pergunta": "Quais sao os principais diagnosticos diferenciais da PCM pulmonar cronica?",
+      "resposta_referencia": "Tuberculose (com frequente coexistencia), outras micoses e DPOC/fibrose; a PCM deve ser investigada em quadros pulmonares cronicos em areas endemicas.",
+      "fonte_id": "mdpi_jfungi_pulm",
+      "fonte": "Revisao - PCM pulmonar (diagnostico/tratamento)"
+    },
+    {
+      "id": "pcm_17",
+      "disease": "pcm",
+      "dificuldade": "dificil",
+      "pergunta": "Como e feita a terapia de manutencao apos a inducao em formas graves de PCM?",
+      "resposta_referencia": "Apos controle inicial (ex.: anfotericina B), mantem-se itraconazol (ou sulfametoxazol-trimetoprim) por periodo prolongado ate atingir criterios clinicos, radiologicos e sorologicos de cura.",
+      "fonte_id": "pcm_consensus_pt",
+      "fonte": "II Consenso Brasileiro de Paracoccidioidomicose"
+    },
+    {
+      "id": "pcm_18",
+      "disease": "pcm",
+      "dificuldade": "dificil",
+      "pergunta": "Qual a conduta na PCM com acometimento do sistema nervoso central?",
+      "resposta_referencia": "O sulfametoxazol-trimetoprim (cotrimoxazol) e a escolha na neuroparacoccidioidomicose, com anfotericina B nas formas graves, por periodo prolongado ate criterios de cura.",
+      "fonte_id": "pcm_consensus_pt",
+      "fonte": "II Consenso Brasileiro de Paracoccidioidomicose"
+    }
+  ]
+}

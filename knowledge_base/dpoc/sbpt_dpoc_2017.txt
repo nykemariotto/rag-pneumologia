@@ -1,0 +1,1587 @@
+=== Recomendacoes para o tratamento farmacologico da DPOC: perguntas e respostas (SBPT) ===
+Fonte: J Bras Pneumol 2017;43(4):290-301
+URL: https://www.scielo.br/j/jbpneu/a/CZ8X59VpDtMjKCb8tHHgxNf/?format=pdf&lang=pt
+Licenca: CC BY-NC 4.0
+Doenca: dpoc | Idioma: pt
+----------------------------------------------------------------------
+
+ISSN 1806-3713
+© 2017 Sociedade Brasileira de Pneumologia e Tisiologia
+http://dx.doi.org/10.1590/S1806-37562017000000153
+RESUMO
+O tratamento da DPOC vem se tornando cada vez mais eficaz. Medidas que envolvem
+desde mudanças comportamentais, redução de exposições a fatores de risco, educação
+sobre a doença e seu curso, reabilitação, oxigenoterapia, manejo de comorbidades,
+tratamentos cirúrgicos e farmacológicos até os cuidados de fim de vida permitem
+ao profissional oferecer uma terapêutica personalizada e efetiva. O tratamento
+farmacológico da DPOC constitui um dos principais pilares desse manejo, e muitos
+avanços têm sido atingidos na área nos últimos anos. Com a maior disponibilidade
+de medicações e combinações terapêuticas fica cada vez mais desafiador conhecer
+as indicações, limitações, potenciais riscos e benefícios de cada tratamento. Com o
+intuito de avaliar criticamente a evidência recente e sistematizar as principais dúvidas
+referentes ao tratamento farmacológico da DPOC, foram reunidos 24 especialistas
+de todo o Brasil para elaborar a presente recomendação. Foi elaborado um guia visual
+para a classificação e tratamento adaptados à nossa realidade. Dez perguntas foram
+selecionadas pela relevância na prática clínica. Abordam a classificação, definições,
+tratamento e evidências disponíveis para cada medicação ou combinação. Cada
+pergunta foi respondida por dois especialistas e depois consolidadas em duas fases:
+revisão e consenso entre todos os participantes. As questões respondidas são dúvidas
+práticas e ajudam a selecionar qual o melhor tratamento, entre as muitas opções, para
+cada paciente com suas particularidades.
+Descritores: Doença pulmonar obstrutiva crônica/tratamento farmacológico; Doença
+pulmonar obstrutiva crônica/prevenção & controle; Doença pulmonar obstrutiva crônica/
+terapia.
+Recomendações para o tratamento
+farmacológico da DPOC:
+perguntas e respostas
+Frederico Leon Arrabal Fernandes1, Alberto Cukier1, Aquiles Assunção Camelier2,3,
+Carlos Cezar Fritscher4, Cláudia Henrique da Costa5,
+Eanes Delgado Barros Pereira6, Irma Godoy7, José Eduardo Delfini Cançado8,
+José Gustavo Romaldini8, Jose Miguel Chatkin4, José Roberto Jardim9,
+Marcelo Fouad Rabahi10, Maria Cecília Nieves Maiorano de Nucci11,
+Maria da Penha Uchoa Sales12, Maria Vera Cruz de Oliveira Castellano13,
+Miguel Abidon Aidé14, Paulo José Zimermann Teixeira15,16, Renato Maciel17,
+Ricardo de Amorim Corrêa18, Roberto Stirbulov8, Rodrigo Abensur Athanazio1,
+Rodrigo Russo19, Suzana Tanni Minamoto7, Fernando Luiz Cavalcanti Lundgren20
+Endereço para correspondência: Frederico Leon Arrabal Fernandes. Avenida Dr. Enéas de Carvalho Aguiar, 44, Secretaria da Pneumologia, CEP 05403-
+900, São Paulo, SP, Brasil.
+Tel./Fax: 55 11 2661-5034. E-mail: fredlaf@gmail.com
+Apoio financeiro: Nenhum.
+INTRODUÇÃO
+O tratamento da DPOC vem se tornando cada vez mais eficaz. Medidas que
+envolvem desde mudanças comportamentais, redução de exposições a fatores de
+risco, educação sobre a doença e seu curso, reabilitação, oxigenoterapia, manejo de
+comorbidades, tratamentos cirúrgicos e farmacológicos até os cuidados de fim de
+vida permitem ao profissional oferecer uma terapêutica personalizada e efetiva. No
+entanto, conhecer com precisão as indicações, as limitações e os potenciais riscos
+e benefícios de cada tratamento se torna um desafio. Esse desafio é ainda mais
+intenso quando temos que adaptar as evidências da literatura às particularidades de
+nosso país com os frequentes desafios encontrados na prática clínica tanto pública
+quanto privada.
+O tratamento farmacológico da DPOC constitui um dos principais pilares desse
+manejo, e muitos avanços têm sido atingidos na área nos últimos anos.(1) Em 2011,
+foi publicada no JBP uma revisão sistemática sobre os avanços no tratamento
+farmacológico da DPOC. É impressionante o quanto evoluíram o conhecimento e
+1.	Divisão de Pneumologia, Instituto do
+Coração – InCor − Hospital das Clínicas,
+Faculdade de Medicina, Universidade
+de São Paulo, São Paulo (SP) Brasil.
+2.	Universidade do Estado da Bahia –
+UNEB – Salvador (BA) Brasil.
+3.	Escola Bahiana de Medicina e Saúde
+Pública, Salvador (BA) Brasil.
+4.	Faculdade de Medicina, Pontifícia
+Universidade Católica do Rio Grande do
+Sul − PUCRS− Porto Alegre (RS)Brasil.
+5.	Universidade Estadual do Rio de
+Janeiro, Rio de Janeiro (RJ) Brasil.
+6.	Universidade Federal do Ceará,
+Fortaleza (CE) Brasil.
+7.	Departamento de Medicina Interna,
+Área de Pneumologia, Faculdade de
+Medicina de Botucatu, Universidade
+Estadual Paulista – UNESP –
+Botucatu (SP) Brasil.
+8.	Faculdade de Ciências Médicas, Santa
+Casa de Misericórdia de São Paulo,
+São Paulo (SP) Brasil.
+9.	Faculdade de Medicina, Escola Paulista
+de Medicina, Universidade Federal de
+São Paulo, São Paulo (SP) Brasil.
+10. Faculdade de Medicina, Universidade
+Federal de Goiás, Goiânia (GO) Brasil.
+11. AC Camargo Cancer Center,
+São Paulo (SP) Brasil.
+12. Hospital de Messejana Dr Carlos Alberto
+Studart Gomes, Fortaleza (CE) Brasil.
+13. Serviço de Pneumologia, Hospital do
+Servidor Público Estadual de São Paulo,
+São Paulo (SP) Brasil.
+14. Faculdade de Medicina, Universidade
+Federal Fluminense, Niterói (RJ) Brasil.
+15. Departamento de Clínica Médica,
+Universidade Federal de Ciências da
+Saúde de Porto Alegre,
+Porto Alegre (RS) Brasil.
+16. Universidade FEEVALE, Campus II,
+Novo Hamburgo (RS) Brasil.
+17. Disciplina de Pneumologia, Faculdade
+de Ciências Médicas de Minas Gerais,
+Belo Horizonte (MG) Brasil.
+18. Faculdade de Medicina, Hospital das
+Clínicas, Universidade Federal de Minas
+Gerais, Belo Horizonte (MG) Brasil.
+19. Departamento de Medicina,
+Universidade Federal de São João Del Rei
+– UFSJ − São João Del Rei (MG) Brasil.
+20. Hospital Otavio de Freitas,
+Recife (PE), Brasil.
+Recebido: 8 maio 2017.
+Aprovado: 4 Julho 2017.
+Trabalho realizado na Divisão de Pneumologia,
+Instituto do Coração – InCor − Hospital das
+Clínicas, Faculdade de Medicina, Universidade
+de São Paulo, São Paulo (SP) Brasil.
+J Bras Pneumol. 2017;43(4):290-301
+290
+ARTIGO ESPECIAL
+
+Fernandes FLA, Cukier A, Camelier AA, Fritscher CC, Costa CH, Pereira EDB, Godoy I, Cançado JED, Romaldini JG, Chatkin JM,
+Jardim JR, Rabahi MF, Nucci MCNM, Sales MPU, Castellano MVCO, Aidé MA, Teixeira PJZ, Maciel R, Corrêa RA, Stirbulov R,
+Athanazio RA, Russo R, Minamoto ST, Lundgren FLC
+os recursos disponíveis para tratar a DPOC nesse
+intervalo de tempo.(2)
+A individualização do tratamento é fundamental,
+devendo ser baseada na disponibilidade das medicações
+existentes, gravidade da doença, preferências do
+paciente, interações medicamentosas e comorbidades.
+A meta deve ser, sempre, atingir de maneira eficiente
+os objetivos do controle da doença. Com o intuito
+de avaliar criticamente as evidências recentes e
+sistematizar as principais dúvidas referentes ao
+tratamento farmacológico da DPOC, foram reunidos
+especialistas de todo o Brasil para elaborar a presente
+recomendação.
+É sempre importante ressaltar que o tratamento
+farmacológico da DPOC deve ser complementado por
+medidas como a cessação do tabagismo, incentivo à
+atividade física, reabilitação pulmonar e vacinação
+para prevenção de infecções virais e pneumonia,
+assim como medidas para a doença avançada, como
+oxigenoterapia, tratamento cirúrgico, endoscópico e
+transplante pulmonar.(3) Essas medidas de tratamento
+devem sempre ser consideradas e, quando indicadas,
+postas em prática em conjunto com a medicação
+apropriada.(4)
+O Quadro 1 mostra as principais medicações
+disponíveis para o tratamento da DPOC, e o Quadro 2
+Quadro 1. Principais medicamentos para o tratamento da DPOC.a
+Medicação
+Dose, µg (exceto onde indicado)
+Duração da ação, h
+β2-agonista de curta duração
+Fenoterol
+MDI 100 e 200
+4 a 6
+Salbutamol
+MDI 100,120,200
+4 a 6, 12
+β2-agonista de longa duração
+Formoterol
+DPI 12
+12
+Salmeterol
+MDI 25 e DPI 50
+12
+Indacaterol
+DPI 150 e 300
+24
+Olodaterol
+SMI 2,5
+24
+Anticolinérgico de curta duração
+Ipratrópio (brometo)
+MDI 20 e 40
+6 a 8
+Anticolinérgico de longa duração
+Glicopirrónio (brometo)
+DPI 50
+12 a 24
+Tiotrópio
+SMI 2,5
+24
+Umeclidinio (brometo)
+DPI 62,5
+24
+β2-agonista com anticolinérgico de curta duração
+Fenoterol/ipratrópio
+MDI 50/20
+6 a 8
+Salbutamol/ipratrópio
+MDI 120/20
+6 a 8
+β2-agonista com anticolinérgico de longa duração
+Formoterol/aclidínio
+DPI 12/400
+12
+Formoterol/glicopirrônio
+MDI 9,6/14,4
+12
+Indacaterol/glicopirrônio
+DPI 110/50
+12 a 24
+Vilanterol/umeclidínio
+DPI 25/62,5
+24
+Olodaterol/tiotrópio
+SMI 2,5/2,5
+24
+β2-agonista de longa duração com corticoide inalatório
+Formoterol/beclometasona
+MDI e DPI 6/100
+12
+Formoterol/budesonida
+DPI 6/200, 12/400 e 12/200
+MDI 6/200
+12
+Formoterol/mometasona
+MDI 5/50, 5/100 e 5/200
+12
+Salmeterol/fluticasona
+DPI 5/100, 50/250 e 50/500
+MDI 25/50, 25/125 e 25/250
+12
+Vilanterol/fluticasona
+DPI 25/100
+24
+Inibidor da fosfodiesterase 4
+Roflumilaste
+Comprimido, 500 mg
+24
+Macrolídeo
+Azitromicina
+Comprimido ou cápsula,250 e 500 mg
+24
+Mucolítico
+N-acetilcisteína
+Pó, 200 e 600 mg; xarope,
+30 mg/ml; e comprimido, 600 mg
+8 a 12
+MDI: metered dose inhaler (inalador pressurizado); DPI: dry powder inhaler (inalador de pó);e SMI: soft mist
+inhaler (inalador formador de névoa). aEm negrito, formulações disponíveis atualmente no Brasil. As outras se
+encontram, no momento da publicação, em aprovação pela Agência Nacional de Vigilância Sanitária Brasileira ou
+em fase de lançamento pela indústria.
+291
+J Bras Pneumol. 2017;43(4):290-301
+
+Recomendações para o tratamento farmacológico da DPOC: perguntas e respostas
+Quadro 2. Classificação e tratamento farmacológico da DPOC.
+Não exacerbador
+Terapia dupla broncodilatadora
+(LABA + LAMA)
+Monoterapia broncodilatadora
+(LABA ou LAMA)
+Gravidade
+Leve
+Moderada
+Grave
+Muito grave
+Dispneia (Escala mMRC)
+0- 1
+2
+3
+4
+Sintomas (CAT)
+<10
+≥10
+Obstrução (VEF1% Pós-BD)
+≥ 80
+< 80 ≥ 50
+< 50 ≥ 30
+< 30
+Exacerbações Frequentes
+(último ano)
+Terapia dupla (LABA + LAMA)#
+Terapia Combinada (LABA + CI)
+Monoterapia (LAMA)
+≥ 2 exacerbações ou
+≥ 1 hospitalização
+Terapia tripla*
+Associar Roflumilaste¶*
+Considerar macrolídeo* ou NAC*
+# Primeira linha de tratamento
+* Caso persistir exacerbando após o tratamento de primeira linha
+¶ Indicado em pacientes com DPOC e bronquite crônica
+LABA: β2-agonista de longa duração; LAMA: anticolinérgico de longa duração; mMRC: escala de dispneia do
+Medical Research Council modificada; CAT: Teste de Avaliação da DPOC; VEF1%: VEF1 em % do predito; BD:
+broncodilatador; CI: corticoide inalatório; e NAC: N-acetilcisteína.
+serve como um guia para a classificação e tratamento
+adaptados à nossa realidade. As 10 questões
+respondidas na presente recomendação são dúvidas
+práticas e ajudam a selecionar qual o melhor tratamento,
+entre as muitas opções, para cada paciente com DPOC.
+1. COMO DEVE SER CLASSIFICADA A
+GRAVIDADE DA DPOC?
+Os primeiros consensos internacionais sobre a DPOC
+utilizavam o grau de comprometimento do VEF1 para
+determinar a gravidade da doença. As diretrizes atuais,
+no entanto, incorporaram a avaliação de sintomas e
+exacerbações da DPOC (E-DPOC) à espirometria para
+a classificação de gravidade, reconhecendo que apenas
+medidas espirométricas são insuficientes. De fato, a
+intensidade da dispneia e o comprometimento do estado
+de saúde têm uma baixa correlação com o VEF1.(5)
+A classificação da gravidade da DPOC tem por
+objetivo estabelecer o grau da obstrução do fluxo
+aéreo, determinar a intensidade dos sintomas
+(especificamente o grau da dispneia) e avaliar o
+risco de E-DPOC.
+Dispneia
+A dispneia é a principal responsável pela incapacidade
+na DPOC. Pacientes com o mesmo grau de obstrução ao
+fluxo aéreo podem ter diferentes graus de dispneia. (6)
+Embora seja bastante simples, a escala de dispneia
+modificada do Medical Research Council (mMRC) é
+de fácil aplicação, reproduz a magnitude do impacto
+do sintoma e é preditora da sobrevida em 5 anos.(7)
+O Quadro 3 mostra a escala adaptada para a lingua
+portuguesa. É importante questionar o paciente com
+DPOC qual o período do dia que ele mais frequentemente
+apresenta dispneia para que se possa adaptar sua
+vida diária a seu grau de dispneia. Eventualmente
+uma medicação de ação mais rápida poderá trazer
+mais benefícios ao paciente que sente dispneia pela
+manhã mais frequentemente.(8)
+Questionário de estado de saúde na DPOC
+A dispneia não é o único sintoma da DPOC. A doença
+impacta o estado de saúde por diversos motivos
+não quantificados na análise isolada da dispneia.
+Questionários de qualidade de vida são bastante
+importantes para a avaliação da eficácia de tratamentos,
+mas pouco práticos para seu uso no dia a dia.
+Para preencher a necessidade de um instrumento de
+fácil aplicação que avaliasse o estado de saúde de forma
+multidimensional e que tivesse impacto na avaliação
+e seguimento da DPOC, diversos questionários foram
+elaborados, sendo o COPD Assessment Test (CAT) o
+mais utilizado. O Quadro 4 mostra as perguntas e
+pontuação do escore CAT traduzido e validado para
+lingua portuguesa.(9) Existe uma boa correlação do
+CAT com questionários de qualidade de vida, VEF1
+e percepção de dispneia medida pela escala mMRC.
+Além da boa correlação, o CAT mostra informações
+complementares, como tosse, expectoração, sono,
+disposição, entre outras não contempladas na avaliação
+tradicional.(10-12)
+Para a classificação proposta (Quadro 2), o escore
+de 10 pontos do CAT (Quadro 4) separa os pacientes
+com DPOC entre pouco e muito sintomáticos e deve ser
+usado em conjunto com a escala mMRC (Quadro 3) e
+a função pulmonar para definir a gravidade da doença.
+VEF1
+O VEF1 é a medida mais simples do grau de obstrução
+das vias aéreas na DPOC. A redução do VEF1 associa-se
+com o aumento da mortalidade em DPOC, além do
+seu papel na identificação da doença e classificação
+da gravidade. Também se associa à qualidade de vida
+nesses pacientes.(13-15) Embora o VEF1 não reflita todos
+os domínios da gravidade da doença, a sua utilização,
+292
+J Bras Pneumol. 2017;43(4):290-301
+
+Fernandes FLA, Cukier A, Camelier AA, Fritscher CC, Costa CH, Pereira EDB, Godoy I, Cançado JED, Romaldini JG, Chatkin JM,
+Jardim JR, Rabahi MF, Nucci MCNM, Sales MPU, Castellano MVCO, Aidé MA, Teixeira PJZ, Maciel R, Corrêa RA, Stirbulov R,
+Athanazio RA, Russo R, Minamoto ST, Lundgren FLC
+associada à avaliação da intensidade da dispneia pela
+mMRC, é simples e aplicável na atenção prestada por
+médicos generalistas e especialistas.(16-19)
+A proposta da SBPT de classificação da gravidade da
+DPOC utiliza os valores de VEF1 pós-broncodilatador
+expressos em porcentagem do predito e a escala de
+dispneia do mMRC (Quadro 3) ou o escore CAT (Quadro
+4). Deve ser utilizado o critério de pior resultado. A
+DPOC deve ser classificada em leve, moderada, grave
+ou muito grave, e o tratamento deve ser recomendado
+para cada classe de gravidade (Quadro 2).
+2. O QUE É UM DPOC EXACERBADOR?
+EXISTEM DIFERENÇAS NO PROGNÓSTICO
+E NO TRATAMENTO?
+Existem, na literatura, várias definições de E-DPOC.
+Há cerca de 30 anos, Anthonisen et al.(20) definiram
+como E-DPOC a presença de pelo menos duas das
+seguintes alterações: aumento da dispneia, aumento
+da expectoração e aumento da purulência do escarro.
+Esses critérios ainda são utilizados. A E-DPOC é um
+evento no curso natural da doença, caracterizada por
+sustentada piora dos sintomas respiratórios habituais
+do paciente além das variações normais do dia a dia
+e que resulta na necessidade de alterar a medicação
+regular do paciente.(21)
+As E-DPOC podem ser causadas por vários fatores,
+mas a maioria está associada a infecções virais ou
+bacterianas. Mais de 40% das exacerbações estão
+relacionadas aos vírus respiratórios, embora agentes
+não infecciosos irritantes das vias aéreas, como a
+poluição do ar, também possam ser desencadeantes.(22)
+As E-DPOC aumentam o processo inflamatório,
+aceleram a progressão da doença, pioram a qualidade
+de vida e aumentam o risco de E-DPOC recorrentes
+e de hospitalizações que podem ocasionar a morte
+dos pacientes. As E-DPOC também são associadas ao
+maior risco de eventos cardiovasculares, principalmente
+infarto agudo do miocárdio.(22,23)
+A mortalidade intra-hospitalar durante a E-DPOC
+varia entre 3,6% e 11%; o risco de hospitalização
+pode aumentar de 23% a 43% durante o ano seguinte
+à hospitalização; em pacientes internados em UTI, a
+mortalidade hospitalar é de 24%, podendo chegar a
+42% no decorrer de 1 ano; e a fatalidade calculada
+(excesso de mortalidade em comparação com DPOC
+estável) é de 15,6%, o que realça a importância das
+medidas de prevenção e tratamento das E-DPOC.(17,24)
+São fatores de risco para E-DPOC frequentes idade
+avançada, função pulmonar muito comprometida, tosse
+com expectoração, comorbidades, doença do refluxo
+gastroesofágico e, principalmente, antecedentes de
+E-DPOC.(25)
+Em um estudo(26) que acompanhou por 3 anos 2.138
+pacientes com DPOC em uso de medicação, mostrou-se
+que o principal preditor de uma nova E-DPOC foi o
+relato de E-DPOC no ano anterior (OR = 4,30; IC95%:
+3,58-5,17) e que o fenótipo exacerbador geralmente
+se mantinha nos anos seguintes de observação. Os
+exacerbadores formam um grupo distinto de pacientes
+que independe da gravidade da doença. Naquele mesmo
+estudo, entre pacientes com DPOC moderada pela
+classificação espirométrica (VEF1 entre 50% e 80%),
+havia 22% de exacerbadores.(26)
+Baseado em estudos de morbidade e prognóstico,
+foi definido como exacerbador frequente o portador
+de DPOC que apresenta duas ou mais E-DPOC no
+período de 1 ano, cada uma separada por pelo menos 4
+semanas após o fim do tratamento da E-DPOC anterior
+ou por 6 semanas, a partir do início do evento, em
+casos que não tenham sido tratados.(4) O paciente
+que apresentou uma E-DPOC com necessidade de
+internação nos últimos 12 meses também deve ser
+tratado como exacerbador.
+A relação das E-DPOC com a piora do prognóstico
+observada em diversos estudos faz com que o
+exacerbador seja merecedor de atenção especial
+quanto ao tratamento farmacológico de manutenção
+da doença.(24,27-30) Um dos objetivos da presente
+recomendação foi separar o tratamento farmacológico
+dos exacerbadores daqueles não exacerbadores. Ambos
+dependem da avaliação da função pulmonar para
+definir as medicações mais apropriadas (Quadro 2).
+3. QUAIS SÃO OS OBJETIVOS DO
+TRATAMENTO FARMACOLÓGICO DA DPOC?
+Os objetivos do tratamento da DPOC são redução de
+sintomas, que inclui alivio da dispneia e tosse; melhora
+do estado de saúde e da tolerância ao exercício;
+redução de riscos, que engloba mitigar a progressão
+da doença; prevenção e tratamento das E-DPOC; e
+redução da mortalidade.
+A escolha do tratamento mais apropriado deve levar
+em consideração a intensidade dos sintomas, a presença
+de E-DPOC, os efeitos adversos, as comorbidades, as
+alterações cognitivas, a adaptação com o dispositivo,
+Quadro 3. Escala de dispneia do Medical Research Council modificada, adaptada para a língua portuguesa.
+Escore
+Sintomas
+0
+Tenho falta de ar ao realizar exercício intenso.
+1
+Tenho falta de ar quando apresso o meu passo, ou subo escadas ou ladeira.
+2
+Preciso parar algumas vezes quando ando no meu passo, ou ando mais devagar que outras pessoas de
+minha idade.
+3
+Preciso parar muitas vezes devido à falta de ar quando ando perto de 100 metros, ou poucos minutos de
+caminhada no plano.
+4
+Sinto tanta falta de ar que não saio de casa, ou preciso de ajuda para me vestir ou tomar banho sozinho.
+293
+J Bras Pneumol. 2017;43(4):290-301
+
+Recomendações para o tratamento farmacológico da DPOC: perguntas e respostas
+a disponibilidade das medicações e seu custo. Assim,
+o tratamento farmacológico deve ser individualizado,
+existindo opções de medicações que se ajustam a cada
+perfil de paciente. No entanto, algumas considerações
+gerais devem ser feitas para se evitar o uso inadequado
+ou excessivo de medicações.(4)
+Em pacientes com baixo risco de E-DPOC e pouco
+sintomáticos, a primeira consideração a ser feita
+é a necessidade de tratamento de manutenção. A
+evidência em relação a esse perfil específico será
+discutida posteriormente. Caso decidido introduzir um
+tratamento sintomático, pode-se iniciar apenas o uso
+de um broncodilatador inalatório de longa duração,
+não havendo preferência de classe na escolha. Tanto
+os long-acting β2 agonists (LABA, β2-agonistas de
+longa duração) quanto os long-acting antimuscarinic
+agents (LAMA, antimuscarínicos de longa ação) são
+opções. Os broncodilatadores de longa duração são
+mais eficazes do que os de curta duração e devem ser
+priorizados no tratamento dos pacientes com sintomas
+persistentes..Se os sintomas permanecerem apesar
+do tratamento inicial, deve ser prescrita a associação
+de LABA + LAMA.(31,32)
+Em pacientes com dispneia mais intensa, mas baixo
+risco de E-DPOC, a dupla broncodilatação com LABA
++ LAMA é indicada, sempre levando em consideração
+a disponibilidade, os efeitos colaterais e a resposta
+individual. Corticosteroides inalatórios (CI) são
+Quadro 4. Versão em português do Teste de Avaliação da DPOC.
+CAT
+TM
+COPD Assessment Test
+Data de hoje:
+O seu nome:
+Como está a sua DPOC  (Doença Pulmonar Obstrutiva Crônica)?
+Faça o Teste de Avaliação da DPOC (COPD Assessment Test™–CAT)
+Esse questionário irá ajudá-o e ao seu proﬁssional da saúde a medir o impacto que a DPOC (Doença Pulmonar
+Obstrutiva Crônica) causa no seu bem estar e o no seu dia a dia.As suas respostas e a pontuação do teste podem
+ser utilizadas por você e pelo seu proﬁssional da saúde para ajudar a melhorar o controle da sua DPOC e a obter
+o máximo benefício do tratamento.
+Para cada um dos itens a seguir, assinale com um (X) o quadrado que melhor o descrever presentemente.
+Certiﬁque-se de selecionar apenas uma resposta para cada pergunta.
+Por exemplo: Estou muito feliz
+Estou muito triste
+PONTUAÇÃO
+O teste de Avaliação da DPOC (COPD Assessment Test) e o logotipo CAT é uma marca comercial de
+grupo de empresas GlaxoSmithKline.
+©2009 GlaxoSmithKline. Todos os direitos reservados.
+PONTUAÇÃO
+TOTAL
+0
+1
+2
+3
+4
+5
+0
+1
+2
+3
+4
+5
+0
+1
+2
+3
+4
+5
+0
+1
+2
+3
+4
+5
+0
+1
+2
+3
+4
+5
+0
+1
+2
+3
+4
+5
+0
+1
+2
+3
+4
+5
+0
+1
+2
+3
+4
+5
+Nunca tenho tosse
+Tenho tosse o tempo todo
+Não tenho nenhum catarro
+(secreção) no peito
+O meu peito está cheio de
+catarro (secreção)
+Não sinto nenhuma
+pressão no peito
+Sinto uma grande pressão
+no peito
+Não sinto falta de ar
+quando subo uma ladeira
+ou um andar de escada
+Sinto bastante falta de ar
+quando subo uma ladeira ou
+um andar de escada
+Não sinto nenhuma
+limitação nas minhas
+atividades em casa
+Sinto-me muito limitado nas
+minhas atividades em casa
+Sinto-me conﬁante para
+sair de casa, apesar da
+minha doença pulmonar
+Não me sinto nada conﬁante
+para sair de casa, por causa
+da minha doença pulmonar
+Durmo profundamente
+Não durmo profundamente
+devido à minha doença
+pulmonar
+Tenho muita energia
+(disposição)
+Não tenho nenhuma energia
+(disposição)
+294
+J Bras Pneumol. 2017;43(4):290-301
+
+Fernandes FLA, Cukier A, Camelier AA, Fritscher CC, Costa CH, Pereira EDB, Godoy I, Cançado JED, Romaldini JG, Chatkin JM,
+Jardim JR, Rabahi MF, Nucci MCNM, Sales MPU, Castellano MVCO, Aidé MA, Teixeira PJZ, Maciel R, Corrêa RA, Stirbulov R,
+Athanazio RA, Russo R, Minamoto ST, Lundgren FLC
+raramente indicados para pacientes com baixo risco
+de E-DPOC, devendo ser associados ao tratamento
+quando existe a associação de DPOC e asma.(33)
+Exacerbadores pouco sintomáticos e sem limitação
+funcional grave (VEF1 > 50%) podem ser tratados,
+inicialmente, com apenas um broncodilatador de
+longa duração. Nesse caso, os LAMA são superiores
+aos LABA na prevenção de E-DPOC.(34)
+Para os exacerbadores mais sintomáticos ou com
+limitação funcional mais grave, há a possibilidade de
+se iniciar o tratamento com a associação LABA + LAMA
+ou, caso o paciente já esteja em uso dessa combinação,
+acrescentar um CI, determinando a terapia tripla.
+Um CI deve ser indicado para pacientes selecionados
+e sempre em associação com LABA. A associação LABA
++ CI é indicada em pacientes com fenótipos específicos,
+como aqueles com asma associada à DPOC ou com
+eosinofilia sérica ou no escarro. As indicações de LABA
++ CI serão discutidas posteriormente.
+Ainda não existem estudos para determinar se a
+terapia tripla é superior à terapia LABA + LAMA na
+prevenção das E-DPOC. Como mencionado, pacientes
+com asma associada à DPOC devem ser sempre
+tratados com CI, independentemente do número de
+E-DPOC.(33) Para pacientes que persistem exacerbando
+apesar da terapia tripla, existem opções de segunda e
+terceira linha para a prevenção de E-DPOC que serão
+discutidas posteriormente.
+4. QUAL DEVE SER O TRATAMENTO
+FARMACOLÓGICO PARA A DPOC LEVE
+(VEF1 > 80% DO PREDITO E ESCORE DA
+ESCALA MMRC DE 0-1)?
+Pacientes com DPOC leve apresentam alterações
+estruturais das vias aéreas e do parênquima pulmonar,
+assim como alterações fisiológicas diversas. Entretanto,
+não há evidências da importância clínica dessas
+alterações nos pacientes assintomáticos. Em um
+estudo,(35) no qual foram acompanhados 519 indivíduos
+com relação VEF1/CVF < 0,70 e VEF1 > 80% dos valores
+previstos, 56,8% desses pacientes não apresentavam
+sintomas respiratórios. A análise multivariada ajustada
+mostrou que não havia diferenças entre os pacientes
+assintomáticos em relação à categoria de referência
+(assintomáticos com prova de função pulmonar normal)
+no que se refere ao uso de recursos de saúde e à
+qualidade de vida.(35) A presença de sintomas foi um
+dos melhores preditores da utilização de recursos de
+saúde naqueles com obstrução leve.(35-38) Nesse grupo,
+a utilização de budesonida durante 3 anos não teve
+influência na taxa de declínio do VEF1 ou na repercussão
+sobre os sintomas respiratórios, incluindo E-DPOC.(35-38)
+Foi demonstrado que a hiperinsuflação dinâmica ocorre
+mesmo em pacientes com doença leve a moderada. O
+uso do tiotrópio melhorou a hiperinsuflação dinâmica
+em pacientes com doença moderada, mas não na
+doença leve. Também demonstraram que o uso do
+tiotrópio por 6 semanas melhorou modestamente
+a capacidade inspiratória nesses pacientes mas não
+teve efeito sobre a tolerância ao exercício.(39) Em outro
+estudo, houve melhora da limitação ao fluxo aéreo.(40)
+A Global Initiative for Chronic Obstructive Lung
+Disease recomenda o uso de broncodilatador de curta
+ou longa duração para aliviar a dispneia,(4) o que não
+se aplica aos pacientes com DPOC leve e escore da
+escala mMRC de 0-1 (Quadro 3).(9) Não há evidências de
+benefício da farmacoterapia para outros desfechos. (5,10)
+Em resumo, embora a terapia farmacológica tenha
+efeitos em algumas alterações fisiológicas, até o
+momento não há estudos que permitam recomendar
+essa forma de terapia em pacientes com DPOC leve e
+assintomáticos. Caso os sintomas sejam considerados
+relevantes, broncodilatadores de curta ou longa duração
+podem ser utilizados na dependência da preferência
+do paciente e poderão ser mantidos dependendo da
+melhora dos sintomas. Conforme os sintomas se
+tornem mais proeminentes e frequentes ou ocorram
+E-DPOC, a opção deve ser por um broncodilatador de
+longa duração.(4)
+5. A ASSOCIAÇÃO LABA + LAMA
+PROPORCIONA MAIORES BENEFÍCIOS DO
+QUE A MONOTERAPIA COM LABA OU LAMA
+EM PACIENTES COM DPOC?
+Os broncodilatadores são a pedra angular no
+tratamento da DPOC. A adição de um segundo
+broncodilatador de longa duração com um mecanismo
+de ação diferente aumenta os benefícios sobre diferentes
+desfechos, notadamente a dispneia e a frequência e
+gravidade das E-DPOC. A associação LABA + LAMA
+está indicada para pacientes com DPOC de moderada
+a muito grave, sintomáticos e nos exacerbadores.(4)
+Um estudo nacional envolvendo pacientes que
+permaneciam sintomáticos com o uso de salmeterol
+mostrou que a adição de tiotrópio conseguiu, em 2
+semanas, melhorar a função pulmonar, a dispneia
+durante a atividade física e a avaliação de atividade
+de vida diária.(41)
+Exacerbações
+Somente um estudo objetivou primariamente as
+E-DPOC em relação ao uso da associação LABA +
+LAMA contra a monoterapia, demonstrando que o
+uso de glicopirrônio + indacaterol diminuía a taxa
+anual de E-DPOC moderadas ou graves e a taxa de
+todas as E-DPOC, incluindo as leves, e aumentava o
+VEF1 matinal pré-dose em relação aos uso de LAMA
+isoladamente.(42)
+A associação umeclidínio + vilanterol por 24 semanas
+não mostrou diferença no tempo para a primeira E-DPOC
+vs. seu uso individual ou de tiotrópio isoladamente.
+Esses estudos, no entanto, não foram delineados
+para avaliar as E-DPOC como desfecho primário.(43,44)
+Tampouco a associação aclidínio + formoterol mostrou
+diferenças significativas na taxa de E-DPOC sobre os
+monocomponentes em estudos de 24 semanas de
+duração, os quais tampouco foram delineados para
+avaliar E-DPOC.(45,46)
+295
+J Bras Pneumol. 2017;43(4):290-301
+
+Recomendações para o tratamento farmacológico da DPOC: perguntas e respostas
+A associação tiotrópio e olodaterol ainda esta sendo
+estudada quanto à frequência de E-DPOC. Em um
+estudo recente, essa associação foi superior a de seus
+monocomponentes na melhora do VEF1, dispneia,
+hiperinsuflação e uso de medicação de resgate. A
+melhora, apesar de estatisticamente significativa,
+não foi superior a diferença mínima clinicamente
+importante (DMCI).(47)
+Dispneia
+A dispneia é a queixa mais frequente dos pacientes
+com DPOC. A avaliação mais habitual é com o Transition
+Dyspnea Index (TDI, Índice Transicional de Dispneia),
+que considera a DMCI como 1 ponto no escore. A
+maioria dos estudos avalia a dispneia como um desfecho
+secundário. Um estudo de 6 semanas avaliou a evolução
+da dispneia como desfecho primário, comparando a
+associação glicopirrônio e indacaterol vs. placebo e
+tiotrópio isolado.(48) Um estudo de 26 semanas mostrou,
+como desfecho secundário, uma melhora significativa
+da dispneia com o uso de glicopirrônio + indacaterol vs.
+tiotrópio, mas não contra seus monocomponentes. (49)
+A associação umeclidínio + vilanterol, em estudo
+de 24 semanas e grau de dispneia como desfecho
+secundário, mostrou uma maior chance de se obter
+uma resposta na diminuição da dispneia pelo TDI do
+que o uso de vilanterol isolado, mas não contra o uso de
+umeclidínio isolado.(43) Em dois estudos randomizados
+e paralelos com mais de 3.000 pacientes no total, a
+maior proporção de pacientes alcançou a DMCI no TDI
+com o uso de aclidínio + formoterol do que com seus
+monocomponentes.(45)
+Dados de uma meta-análise sobre a eficácia e a
+segurança da combinação LABA + LAMA vs. o uso
+isolado de LABA e de LAMA no tratamento de pacientes
+com DPOC de moderada a grave, utilizando dados de
+23 ensaios clínicos randomizados com pelo menos 12
+semanas de duração, mostraram que os pacientes que
+fizeram uso da combinação LABA + LAMA alcançaram
+um melhor escore do TDI, comparados com aqueles
+que fizeram uso da monoterapia e que a associação
+LABA + LAMA foi mais efetiva na estratégia em
+reduzir o número de E-DPOC (moderada-grave)
+quando comparada com o uso de LABA, porém não
+em relação ao uso de LAMA.(50) As evidências indicam
+que, em termos de eficácia, a associação LABA + LAMA
+proporciona maiores benefícios do que a monoterapia
+LABA ou LAMA em pacientes com DPOC de moderada
+a muito grave que permanecem sintomáticos, devido à
+melhora dos escores do TDI. Seu efeito na prevenção
+de E-DPOC parece ser maior do que o de LABA isolado
+mas ainda não foi demonstrado, de forma contundente,
+ser maior que o de LAMA isolado.
+6. QUAIS SÃO OS PACIENTES COM
+DPOC QUE TÊM MAIOR BENEFÍCIO DA
+ASSOCIAÇÃO LABA + CI?
+Os CI alteram a transcrição gênica no núcleo celular,
+aumentando a produção de proteínas anti-inflamatórias
+e a quantidade de receptores β2 na superfície celular, o
+que explica sua ação sinérgica quando associados aos
+LABA. Por outro lado, já foram descritas em pacientes
+com DPOC resistência aos corticosteroides e limitada
+resposta aos mesmos.(51)
+Os CI podem causar vários efeitos colaterais:
+candidíase, disfonia, hematomas superficiais secundários
+a traumas leves, osteopenia, catarata, glaucoma,
+diabetes mellitus, supressão adrenal, infecções por
+micobactérias (incluindo tuberculose) e pneumonias.
+As pneumonias têm sido tema de várias publicações
+e estão relacionadas ao uso prolongado de CI, doses
+elevadas, e corticosteroides mais potentes, assim
+como aos fumantes, presença de episódios anteriores
+de E-DPOC ou pneumonia, idade > 55 anos, índice
+de massa corpórea < 25 kg/m2 e obstrução grave das
+vias aéreas.(52)
+O uso dos CI associados a LABA tem sido citado
+como opção terapêutica com o objetivo de reduzir
+o número de E-DPOC e de melhorar a qualidade de
+vida e a função pulmonar. Meta-análises confirmam
+que a associação LABA + CI, avaliada contra o uso
+isolado de LABA ou CI, é superior no que diz respeito
+à melhora da função pulmonar, embora possa ser
+questionada se a diferença média não tenha alcançado
+a DMCI atualmente admitida para esses desfechos.
+No que diz respeito à melhora da qualidade de vida,
+a associação LABA + CI parece ser superior ao uso
+isolado de seus componentes em pacientes com DPOC
+e VEF1 < 50% do predito.(53)
+A dosagem de eosinófilos no sangue é apontada
+como um preditor de resposta aos CI em indivíduos
+com DPOC. Um estudo mostrou que os pacientes
+com DPOC e eosinófilos no sangue ≥ 2% antes do
+tratamento apresentaram redução da frequência de
+E-DPOC maior que aqueles com eosinófilos < 2%
+quando ambos usavam a combinação LABA + CI.(54) A
+associação LABA + CI também está indicada quando
+há associação de asma com a DPOC.(55)
+Pacientes em uso de LABA + CI devem ser avaliados
+cuidadosamente caso se planeje a retirada do CI.
+O CI pode ser retirado em todos os pacientes não
+exacerbadores nos quais seu uso foi iniciado sem
+indicação. Existe uma possível associação de sua
+retirada com o aumento da taxa de E-DPOC ao ano,
+piora dos sintomas e piora da função pulmonar. Esse
+efeito é mais intenso em pacientes com eosinofilia
+periférica.(56-58)
+Embora a DPOC seja uma doença inflamatória, o
+acúmulo de evidências sobre os efeitos colaterais
+causados pelos CI e dúvidas sobre sua ação nesse
+grupo de pacientes fazem com que a opção LABA + CI
+para pacientes com DPOC seja indicada quando essa
+está associada à asma, para pacientes exacerbadores
+sem resposta satisfatória com o uso de LABA + LAMA
+e para o fenótipo de DPOC exacerbador com eosinofilia
+periférica. Os valores de corte de eosinófilos para
+indicar o benefício do uso de CI ainda são controversos
+e precisam de confirmação em estudos futuros.
+296
+J Bras Pneumol. 2017;43(4):290-301
+
+Fernandes FLA, Cukier A, Camelier AA, Fritscher CC, Costa CH, Pereira EDB, Godoy I, Cançado JED, Romaldini JG, Chatkin JM,
+Jardim JR, Rabahi MF, Nucci MCNM, Sales MPU, Castellano MVCO, Aidé MA, Teixeira PJZ, Maciel R, Corrêa RA, Stirbulov R,
+Athanazio RA, Russo R, Minamoto ST, Lundgren FLC
+7. EM QUE CONDIÇÃO CLÍNICA DEVE SER
+UTILIZADA A COMBINAÇÃO LABA + CI
+ASSOCIADA A UM LAMA (TERAPIA TRIPLA)?
+A associação de um LAMA com LABA + CI para o
+tratamento de doenças obstrutivas é chamada de
+terapia tripla. O tratamento da DPOC exige, de forma
+sistemática, julgamento clínico individualizado na busca
+terapêutica adequada. Apesar do uso rotineiro na prática
+clínica, importantes questões devem ser esclarecidas
+em relação a essa modalidade de tratamento (LABA
++ CI + LAMA).
+Estudos em pacientes com DPOC grave ou muito
+grave que apresentavam mais de uma E-DPOC por
+ano mostram redução do número de hospitalizações
+e de E-DPOC com o uso desse regime terapêutico. A
+terapia tripla produziu melhora dos sintomas, da função
+pulmonar e dos escores de qualidade de vida quando
+comparada ao uso de LABA + CI ou de LAMA.(6,59-63)
+Uma revisão sistemática comparou a terapia tripla em
+relação à combinação LABA + CI e tiotrópio isolado e
+mostrou melhora da função pulmonar e da qualidade
+de vida relacionada à saúde para o grupo tratado
+com a terapia tripla. Todavia, não foram observadas
+diferenças em relação ao número de E-DPOC, ocorrência
+de pneumonia, dispneia e eventos adversos graves. O
+perfil de segurança da terapia tripla foi semelhante a
+outras opções de tratamento disponíveis.(64,65) Estudos
+observacionais têm demonstrado que existe preferência
+para a prescrição de terapia tripla em várias regiões
+do mundo, mesmo sem critérios claros para seu uso,
+como referido em diretrizes.(66)
+A heterogeneidade da DPOC permite identificar
+subgrupos de pacientes com características clínicas
+distintas nos quais a terapia tripla pode ser indicada.
+Baseado nos dados acima citados, recomendamos o
+uso da terapia tripla (LABA + CI + LAMA) em pacientes
+portadores de DPOC que persistam sintomáticos
+apesar da terapia com a associação LABA + LAMA,
+naqueles que apresentam E-DPOC (2 ou mais ao ano)
+apesar do tratamento broncodilatador máximo com
+LABA + LAMA e em pacientes com DPOC associada à
+asma que permaneçam sintomáticos apesar do uso
+de LABA + CI.(67)
+Análises post hoc de ensaios clínicos sugerem
+que o aumento do eosinófilo sérico pode ser um
+biomarcador para o risco futuro de E-DPOC em pacientes
+exacerbadores e preveem os benefícios da terapia com
+CI na prevenção de E-DPOC.(54,58,68,69) A presença de
+eosinófilos acima de 300 células/µl em pacientes com
+DPOC moderada a grave, com história de E-DPOC e
+em uso de LABA + LAMA pode auxiliar na tomada de
+decisão para o início da terapia tripla.(54,70) Entretanto,
+futuros ensaios clínicos prospectivos são necessários
+para validar o uso da contagem de eosinófilos séricos
+e determinar um ponto de corte para que essa possa
+ser útil na prática diária.(71,72)
+8. QUAL A INDICAÇÃO DE ASSOCIAR
+ROFLUMILASTE PARA A PREVENÇÃO DE
+E-DPOC?
+O roflumilaste é um inibidor seletivo da fosfodiesterase-4
+(PDE4) e age bloqueando a atividade dessa enzima,
+aumentando os níveis intracelulares de AMPc, com
+consequente redução na atividade inflamatória celular.
+Receptores da PDE4 são também expressos nas células
+da musculatura lisa das vias aéreas; porém, esse efeito
+direto de broncodilatação é pequeno.(73,74)
+O roflumilaste está indicado para o tratamento de
+pacientes com DPOC grave e muito grave (VEF1 < 50%
+do previsto) e que persistem com E-DPOC, tosse e
+catarro mesmo em uso do tratamento inalatório máximo.
+A dose recomendada é 500 µg/dia via oral, e a meia-
+vida longa do metabólito terminal N-óxido-roflumilaste
+permite que o medicamento seja administrado em
+uma dose única diária.(75)
+Uma avaliação post hoc dos estudos iniciais do
+roflumilaste envolvendo um conjunto de 2.686 pacientes
+evidenciou redução significativa das E-DPOC de 14,3%
+em pacientes com DPOC recebendo a dose de 500 µg/
+dia quando comparado ao uso de placebo durante 52
+semanas de avaliação. Os fatores associados com essa
+redução foram presença de bronquite crônica (26,2%
+de redução), tosse (20,9% de redução), expectoração
+(redução de 17,8%) e uso concomitante de CI (redução
+de 18,8%).(76)
+Em um estudo recente realizado em 380 centros
+em 17 países com 2.354 pacientes randomizados
+(1.178 usando roflumilaste e 1.176 usando placebo),
+mostrou-se que a taxa de E-DPOC moderada ou grave
+foi reduzida com o uso do roflumilaste em comparação
+com o do placebo (28,5%), mas essa diferença não
+atingiu significância. Em comparação com o grupo
+placebo, uma maior proporção de participantes no
+grupo do roflumilaste não apresentou E-DPOC graves
+durante as 52 semanas de tratamento (54,2% do
+roflumilaste vs. 48,5% do placebo). O tempo para o
+surgimento de E-DPOC grave foi de 319 e 286 dias
+nos grupos de roflumilaste e placebo, respectivamente,
+sem diferença significativa.(77)
+Uma meta-análise incluindo 14 estudos e envolvendo
+12.654 pacientes com DPOC grave ou muito grave
+e com bronquite crônica mostrou que o uso do
+roflumilaste associado a CI, a LABA e a LAMA melhora
+significativamente o VEF1 (média de 45,60 ml) e
+reduz a frequência de E-DPOC moderadas e graves
+quando comparado com o de placebo (OR = 0.77).(78)
+Em análise post hoc do mesmo estudo em pacientes
+com mais de três E-DPOC ao ano, a taxa de E-DPOC
+moderada ou grave foi reduzida em 39% no grupo
+que usou roflumilaste, com diferença significativa em
+relação ao grupo que recebeu placebo.(79)
+O roflumilaste é geralmente bem tolerado, com
+eventos adversos esperados para os inibidores de
+PDE4. Apresenta, no entanto, mais efeitos adversos
+que as medicações inalatórias usadas no tratamento
+da DPOC. Os efeitos adversos mais comuns, relatados
+297
+J Bras Pneumol. 2017;43(4):290-301
+
+Recomendações para o tratamento farmacológico da DPOC: perguntas e respostas
+em dados de ensaios clínicos com 8.630 pacientes,
+são gastrointestinais (diarreia e náuseas), redução
+do apetite, insônia, depressão, cefaleia e perda de
+peso. Esses efeitos adversos são maiores no início
+do tratamento, são reversíveis e melhoram com o
+tempo (geralmente em 4 semanas).(79) Em outra
+análise de segurança combinada, que incluiu dados
+de 14 ensaios clínicos sobre o uso de roflumilaste com
+12.054 pacientes, as taxas de eventos adversos nos
+grupos roflumilaste e placebo, respectivamente, foram
+de 67,2% e 62,8%, enquanto as de eventos adversos
+graves foram 13,5% vs. 14,2%.(77)
+As evidências desses estudos fornecem informações
+adicionais sobre o subgrupo de pacientes que
+provavelmente se beneficiará com a utilização adicional
+do roflumilaste. Esse está indicado para pacientes com
+DPOC grave e muito grave (VEF1 < 50% do predito),
+com bronquite crônica (tosse e expectoração) e que
+persistem com E-DPOC frequentes apesar de já
+medicados com terapia inalatória adequada.
+9. O USO PROFILÁTICO DE
+ANTIBIÓTICOS EM PACIENTES COM DPOC
+ESTÁVEL PREVINE AS E-DPOC?
+As E-DPOC são deflagradas por infecções virais
+ou pelo surgimento de uma nova cepa bacteriana
+nas vias aéreas inferiores. Estudos sugerem que
+a presença de bactérias nas vias aéreas inferiores
+contribui para a inflamação crônica, resultando em
+progressão da doença. Assim, é possível que, em
+pacientes cronicamente infectados, a redução da carga
+bacteriana pelo uso prolongado de antibióticos reduza a
+frequência e a gravidade das E-DPOC. Os macrolídeos
+têm sido indicados pelos seus efeitos anti-inflamatórios
+e imunomoduladores. Além disso, alteram a síntese
+do biofilme e aumentam a fagocitose e a depuração
+bacteriana por macrófagos alveolares.(80-82)
+Um estudo sobre o uso de eritromicina durante 12
+meses levou a redução das E-DPOC e do risco de
+hospitalização.(83) Em um estudo subsequente, foi
+demonstrado que as E-DPOC tinham menor duração
+durante o uso contínuo de eritromicina.(84) Em 2011,
+ao serem avaliados 1.142 pacientes em oxigenoterapia
+domiciliar prolongada ou com antecedente de E-DPOC,
+o uso diário de azitromicina por 1 ano associada ao
+tratamento habitual reduziu a frequência das E-DPOC
+e melhorou a qualidade de vida.(85)
+Uma meta-análise de seis estudos mostrou redução
+de risco de E-DPOC de 37% com a antibioticoterapia
+quando comparada ao uso de placebo.(86) Uma revisão
+sistemática de sete estudos envolvendo mais de
+3.000 pacientes identificou efeito significativo da
+antibioticoterapia contínua na redução do número
+de E-DPOC.(87)
+O uso de cursos intermitentes de fluoroquinolona
+oral reduziu em cerca de 25% a chance de E-DPOC,
+como demonstrado em um estudo com moxifloxacino
+diário por 5 dias a cada 8 semanas em um total de 6
+ciclos.(88) Pacientes com escarro mucopurulento antes
+do tratamento apresentaram uma redução de até 45%
+das E-DPOC. Entretanto, a falta de estudos, o risco de
+indução de resistência bacteriana e os efeitos colaterais
+decorrentes do uso crônico de antibióticos limitam o
+uso rotineiro dessa estratégia.(88)
+O uso de antibioticoterapia inalatória nos pacientes
+com DPOC ainda não pode ser recomendado devido à
+falta de ensaios clínicos randomizados que comprovem
+sua eficácia. Apesar da redução da inflamação
+brônquica em pacientes colonizados cronicamente por
+Pseudomonas aeruginosa após 2 semanas de uso de
+tobramicina inalatória, os escassos estudos realizados
+não foram capazes de demonstrar benefícios clínicos
+na prevenção de E-DPOC.(89,90)
+A indicação de antibióticos profiláticos em DPOC
+deve ser determinada individualmente. É um recurso
+de terceira linha no tratamento do exacerbador. As
+evidências disponíveis permitem o uso de azitromicina
+250 mg diariamente ou 500 mg três vezes por semana,
+ou o uso de eritromicina 500 mg duas vezes por dia por
+1 ano para pacientes com DPOC grave ou muito grave e
+exacerbadores a despeito do tratamento farmacológico
+habitual. Seu uso prolongado associa-se a aumento
+do risco de eventos adversos e desenvolvimento de
+resistência bacteriana. Deve-se tomar cuidado especial
+em pacientes com cardiopatia associada, taquicardia
+em repouso ou história de arritmias. Também devem
+ser monitorizados a ototoxicidade e os efeitos
+colaterais gastrointestinais. É recomendado, antes
+de sua introdução, a coleta de amostra de escarro
+para cultura de bactérias e micobactérias, visto que o
+uso de um macrolídeo continuamente pode dificultar
+o diagnóstico de infecções pulmonares crônicas por
+microrganismos de baixa virulência.(91,92)
+10. A N-ACETILCISTEÍNA (NAC) PODE SER
+UTILIZADA NA PREVENÇÃO DE E-DPOC?
+Dados consistentes da literatura mostram que o
+estresse oxidativo nas vias aéreas de pacientes com
+DPOC faz parte importante no desenvolvimento da
+doença e que se relaciona com o risco futuro de
+E-DPOC, com o aumento de influxo maior de células
+inflamatórias e de citocinas inflamatórias. A utilização
+de agentes antioxidantes e anti-inflamatórios na
+DPOC tem sido estudada para o controle de E-DPOC.
+Nesse contexto, a eficácia e a segurança da NAC na
+DPOC estão sendo investigadas quanto à prevenção
+de E-DPOC.(93)
+A NAC apresenta ação direta, devido à presença
+do grupo sulfidril livre, que serve como uma fonte
+pronta de equivalente redutor de oxidantes, e ação
+indireta, devido à reposição intracelular dos níveis do
+antioxidante glutationa. Entretanto, ainda há grande
+discussão em relação à eficácia desse fármaco no
+controle de eventos de E-DPOC e à melhor dose para
+o controle desses eventos.(94)
+Em um estudo clínico randomizado nos EUA,(95) 51
+pacientes com DPOC por exposição ao tabaco e sintomas
+de bronquite crônica (presença de tosse e secreção)
+foram alocados para receber NAC 1.800 mg duas
+298
+J Bras Pneumol. 2017;43(4):290-301
+
+Fernandes FLA, Cukier A, Camelier AA, Fritscher CC, Costa CH, Pereira EDB, Godoy I, Cançado JED, Romaldini JG, Chatkin JM,
+Jardim JR, Rabahi MF, Nucci MCNM, Sales MPU, Castellano MVCO, Aidé MA, Teixeira PJZ, Maciel R, Corrêa RA, Stirbulov R,
+Athanazio RA, Russo R, Minamoto ST, Lundgren FLC
+vezes por dia ou placebo por 8 semanas. Entretanto,
+o tamanho da amostra não atingiu a meta de inclusão
+de 130 pacientes, o que pode ter influenciado os
+resultados de não modificação na qualidade de vida,
+na função pulmonar ou nos marcadores inflamatórios
+e de estresse oxidativo sistêmicos. Em relação aos
+eventos adversos, os mais comuns foram náusea e
+diarreia leve.(95) Por outro lado, um estudo randomizado
+na China com 1.006 pacientes com DPOC e ao menos
+duas E-DPOC nos últimos 2 anos, utilizando NAC 600
+mg duas vezes por dia vs. placebo, mostrou que a
+utilização de NAC foi mais efetiva nos pacientes com
+DPOC moderada em comparação àqueles com DPOC
+grave, com redução significativa na taxa de E-DPOC
+após 1 ano. O tempo para a primeira E-DPOC não
+foi diferente entre os grupos. Em relação aos efeitos
+adversos, 10% dos pacientes do grupo NAC e 9% do
+grupo placebo apresentaram eventos adversos sérios,
+sendo que a maioria foi em decorrência da hospitalização
+por E-DPOC.(96) Em outro estudo na China com 120
+pacientes utilizando NAC 600 mg duas vezes por dia por
+1 ano, foi demonstrada uma redução significativa na
+taxa de E-DPOC no grupo NAC comparado ao controle
+(0,96 vs. 1,71 E-DPOC/paciente/ano).(97) Em 2005, um
+estudo com 523 pacientes em uso de NAC 600 mg
+uma vez por dia por 3 anos mostrou que não houve
+diferença entre os grupos NAC e controle. Entretanto,
+no subgrupo de pacientes que não estava utilizando
+CI (155 pacientes), houve uma redução de 26% no
+risco de E-DPOC.(98)
+Duas meta-análises mostraram que o uso de NAC
+reduziu a taxa de E-DPOC (razão de risco = 0,85;
+IC95%: 0,76-0,96). Os achados foram consistentes
+na redução do número de exacerbações com o uso
+de doses altas (1.200 mg) em pacientes com DPOC
+e com o uso de doses baixas (600 mg) da NAC em
+pacientes com bronquite crônica sem DPOC, mas
+sem efeitos na função pulmonar. Assim, os estudos
+recentes mostram que a NAC pode ser utilizada com
+segurança na prevenção de E-DPOC quando utilizada
+por mais de 6 meses e em doses diárias maiores que
+1.200 mg.(99,100)
+Dado seu perfil de segurança e evidência de eficácia,
+o uso de NAC como medicação de terceira linha na
+prevenção de E-DPOC está recomendado; o perfil de
+pacientes que obtêm maiores benefícios com o uso de
+NAC parece ser o de portadores de bronquite crônica,
+mas isso ainda é controverso.
+REFERÊNCIAS
+1.	 Calverley PM, Anderson JA, Celli B, Ferguson GT, Jenkins C, Jones
+PW, et al. Salmeterol and fluticasone propionate and survival in chronic
+obstructive pulmonary disease. N Engl J Med. 2007;356(8):775-89
+https://doi.org/10.1056/NEJMoa063070
+2.	 Menezes AM, Macedo SE, Noal RB, Fiterman J, Cukier A, Chatkin
+JM, et al. Pharmacological treatment of COPD. J Bras Pneumol.
+2011;37(4):527-43 https://doi.org/10.1590/S1806-37132011000400016
+3.	 Reichert J, Araújo AJ, Gonçalves CM, Godoy I, Chatkin JM, Sales
+MP, et al. Diretrizes para cessação do tabagismo da SBPT: 2008. J
+Bras Pneumol. 2008;34(10):845-80 https://doi.org/10.1590/S1806-
+37132008001000014
+4.	 Global Initiative for Chronic Obstructive Lung Disease [homepage on
+the Internet. Bethesda: GOLD [cited 2017 Dec 10]. Global Strategy for
+the Diagnosis, Management and Prevention of COPD 2016. Available
+from: http://www.goldcopd.org/
+5.	 Agusti A, Calverley PM, Celli B, Coxson HO, Edwards LD, Lomas DA,
+et al. Characterisation of COPD heterogeneity in the ECLIPSE cohort.
+Respir Res. 2010;11:122 https://doi.org/10.1186/1465-9921-11-122
+6.	 Miravitlles M, Worth H, Soler Cataluna JJ, Price D, De Benedetto F,
+Roche N, et al. Observational study to characterise 24-hour COPD
+symptoms and their relationship with patient-reported outcomes:
+results from the ASSESS study. Respir Res. 2014;15:122 https://doi.
+org/10.1186/s12931-014-0122-1
+7.	 Nishimura K, Izumi T, Tsukino M, Oga T. Dyspnea is a better predictor
+of 5-year survival than airway obstruction in patients with COPD.
+Chest. 2002;121(5):1434-40 https://doi.org/10.1378/chest.121.5.1434
+8.	 van Buul AR, Kasteleyn MJ, Chavannes NH, Taube C. Morning
+symptoms in COPD: a treatable yet often overlooked factor. Expert
+Rev Respir Med. 2017;11(4):311-22 https://doi.org/10.1080/17476348
+.2017.1305894
+9.	 Silva GP, Morano MT, Viana CM, Magalhaes CB, Pereira ED.
+Portuguese-language version of the COPD Assessment Test:
+validation for use in Brazil. J Bras Pneumol. 2013;39(4):402-8 https://
+doi.org/10.1590/S1806-37132013000400002
+10.	 Jones PW, Harding G, Berry P, Wiklund I, Chen WH, Kline Leidy N.
+Development and first validation of the COPD Assessment Test. Eur
+Resp J. 2009;34(3):648-54 https://doi.org/10.1183/09031936.00102509
+11.	 Ghobadi H, Ahari SS, Kameli A, Lari SM. The Relationship between
+COPD Assessment Test (CAT) Scores and Severity of Airflow
+Obstruction in Stable COPD Patients. Tanaffos. 2012;11(2):22-6
+12.	 Kim S, Oh J, Kim YI, Ban HJ, Kwon YS, Oh IJ, et al. Differences in
+classification of COPD group using COPD assessment test (CAT)
+or modified Medical Research Council (mMRC) dyspnea scores: a
+cross-sectional analyses. BMC Pulm Med. 2013;13:35 https://doi.
+org/10.1186/1471-2466-13-35
+13.	 Hodgkin JE. Prognosis in chronic obstructive pulmonary disease. Clin
+Chest Med. 1990;11(3):555-69
+14.	 Antonelli Incalzi R, Fuso L, De Rosa M, Forastiere F, Rapiti E, Nardecchia
+B, et al. Co-morbidity contributes to predict mortality of patients with
+chronic obstructive pulmonary disease. Eur Resp J. 1997;10(12):2794-
+800 https://doi.org/10.1183/09031936.97.10122794
+15.	 Domingo-Salvany A, Lamarca R, Ferrer M, Garcia-Aymerich J, Alonso
+J, Félez M, et al. Health-related quality of life and mortality in male
+patients with chronic obstructive pulmonary disease. Am J Respir Crit
+Care Med. 2002;166(5):680-5 https://doi.org/10.1164/rccm.2112043
+16.	 Schols AM, Slangen J, Volovics L, Wouters EF. Weight loss is a
+reversible factor in the prognosis of chronic obstructive pulmonary
+disease. Am J Respir Crit Care Med. 1998;157(6 Pt 1):1791-7 https://
+doi.org/10.1164/ajrccm.157.6.9705017
+17.	 Groenewegen KH, Schols AM, Wouters EF. Mortality and mortality-
+related factors after hospitalization for acute exacerbation of COPD.
+Chest. 2003;124(2):459-67 https://doi.org/10.1378/chest.124.2.459
+18.	 Almagro P, Calbo E, Ochoa de Echagüen A, Barreiro B, Quintana
+S, Heredia JL, et al. Mortality after hospitalization for COPD. Chest.
+2002;121(5):1441-8 https://doi.org/10.1378/chest.121.5.1441
+19.	 Celli BR, Cote CG, Lareau SC, Meek PM. Predictors of Survival in
+COPD: more than just the FEV1. Resp Med. 2008;102 Suppl 1:S27-35
+https://doi.org/10.1016/S0954-6111(08)70005-2
+20.	 Anthonisen NR, Manfreda J, Warren CP, Hershfield ES, Harding GK,
+Nelson NA. Antibiotic therapy in exacerbations of chronic obstructive
+pulmonary disease. Ann Intern Med. 1987;106(2):196-204 https://doi.
+org/10.7326/0003-4819-106-2-196
+21.	 Rodriguez-Roisin R. Toward a consensus definition for COPD
+exacerbations. Chest. 2000;117(5 Suppl 2):398S-401S https://doi.
+org/10.1378/chest.117.5_suppl_2.398S
+22.	 Wedzicha JA, Brill SE, Allinson JP, Donaldson GC. Mechanisms
+and impact of the frequent exacerbator phenotype in chronic
+obstructive pulmonary disease. BMC Med. 2013;11:181 https://doi.
+org/10.1186/1741-7015-11-181
+23.	 McAllister DA, Maclay JD, Mills NL, Leitch A, Reid P, Carruthers R,
+et al. Diagnosis of myocardial infarction following hospitalisation for
+exacerbation of COPD. Eur Resp J. 2012;39(5):1097-103 https://doi.
+org/10.1183/09031936.00124811
+24.	 Soler-Cataluña JJ, Martínez-García MA, Román Sánchez P, Salcedo
+299
+J Bras Pneumol. 2017;43(4):290-301
+
+Recomendações para o tratamento farmacológico da DPOC: perguntas e respostas
+E, Navarro M, Ochando R. Severe acute exacerbations and mortality
+in patients with chronic obstructive pulmonary disease. Thorax.
+2005;60(11):925-31 https://doi.org/10.1136/thx.2005.040527
+25.	 Anzueto A. Impact of exacerbations on COPD. Eur Resp Rev.
+2010;19(116):113-8 https://doi.org/10.1183/09059180.00002610
+26.	 Hurst JR, Vestbo J, Anzueto A, Locantore N, Müllerova H, Tal-Singer
+R, et al. Susceptibility to exacerbation in chronic obstructive pulmonary
+disease. N Engl J Med. 2010;363(12):1128-38 https://doi.org/10.1056/
+NEJMoa0909883
+27.	 Donaldson GC, Seemungal TA, Bhowmik A, Wedzicha JA. Relationship
+between exacerbation frequency and lung function decline in chronic
+obstructive pulmonary disease. Thorax. 2002;57(10):847-52 https://doi.
+org/10.1136/thorax.57.10.847
+28.	 Halpin DM, Decramer M, Celli B, Kesten S, Liu D, Tashkin DP.
+Exacerbation frequency and course of COPD. Int J Chron Obstruct
+Pulmon Dis. 2012;7:653-61 https://doi.org/10.2147/COPD.S34186
+29.	 Miravitlles M, Ferrer M, Pont A, Zalacain R, Alvarez-Sala JL, Masa F,
+et al. Effect of exacerbations on quality of life in patients with chronic
+obstructive pulmonary disease: a 2 year follow up study. Thorax.
+2004;59(5):387-95 https://doi.org/10.1136/thx.2003.008730
+30.	 Spencer S, Calverley PM, Burge PS, Jones PW. Impact of preventing
+exacerbations on deterioration of health status in COPD. Eur Resp J.
+2004;23(5):698-702 https://doi.org/10.1183/09031936.04.00121404
+31.	 Appleton S, Poole P, Smith B, Veale A, Lasserson TJ, Chan MM.
+Long-acting beta2-agonists for poorly reversible chronic obstructive
+pulmonary disease. Cochrane Database Syst Rev. 2006;(3):CD001104
+https://doi.org/10.1002/14651858.cd001104.pub2
+32.	 Barr RG, Bourbeau J, Camargo CA, Ram FS. Inhaled tiotropium for
+stable chronic obstructive pulmonary disease. Cochrane Database
+Syst Rev. 2005(2):CD002876
+33.	 Barnes PJ. Asthma-COPD Overlap. Chest. 2016;149(1):7-8 https://doi.
+org/10.1016/j.chest.2015.08.017
+34.	 Decramer ML, Chapman KR, Dahl R, Frith P, Devouassoux G,
+Fritscher C, et al. Once-daily indacaterol versus tiotropium for patients
+with severe chronic obstructive pulmonary disease (INVIGORATE):
+a randomised, blinded, parallel-group study. Lancet Respir Med.
+2013;1(7):524-33 https://doi.org/10.1016/S2213-2600(13)70158-9
+35.	 O‘Donnell DE, Neder JA, Elbehairy AF. Physiological impairment in
+mild COPD. Respirology. 2016;21(2):211-23 https://doi.org/10.1111/
+resp.12619
+36.	 Enright P. HRCT-defined emphysema is not COPD to be treated
+with inhalers. Thorax. 2014;69(5):401-2 https://doi.org/10.1136/
+thoraxjnl-2013-203497
+37.	 Bridevaux PO, Gerbase MW, Probst-Hensch NM, Schindler C, Gaspoz
+JM, Rochat T. Long-term decline in lung function, utilisation of care and
+quality of life in modified GOLD stage 1 COPD. Thorax. 2008;63(9):768-
+74 https://doi.org/10.1136/thx.2007.093724
+38.	 Vestbo J, Sørensen T, Lange P, Brix A, Torre P, Viskum K. Long-
+term effect of inhaled budesonide in mild and moderate chronic
+obstructive pulmonary disease: a randomised controlled trial.
+Lancet.
+1999;353(9167):1819-23
+https://doi.org/10.1016/S0140-
+6736(98)10019-3
+39.	 Casaburi R, Maltais F, Porszasz J, Albers F, Deng Q, Iqbal A, et
+al. Effects of tiotropium on hyperinflation and treadmill exercise
+tolerance in mild to moderate chronic obstructive pulmonary disease.
+Ann Am Thorac Soc. 2014;11(9):1351-61 https://doi.org/10.1513/
+AnnalsATS.201404-174OC
+40.	 Johansson G, Lindberg A, Romberg K, Nordstrom L, Gerken F,
+Roquet A. Bronchodilator efficacy of tiotropium in patients with mild
+to moderate COPD. Prim Care Respir J. 2008;17(3):169-75 https://doi.
+org/10.3132/pcrj.2008.00037
+41.	 Fernandes FL, Pavezi VA, Dias SA Jr, Pinto RM, Stelmach R, Cukier
+A. Short-term effect of tiotropium in COPD patients being treated
+with a beta2 agonist. J Bras Pneumol. 2010;36(2):181-9 https://doi.
+org/10.1590/S1806-37132010000200005
+42.	 Wedzicha JA, Decramer M, Ficker JH, Niewoehner DE, Sandstrom
+T, Taylor AF, et al. Analysis of chronic obstructive pulmonary disease
+exacerbations with the dual bronchodilator QVA149 compared with
+glycopyrronium and tiotropium (SPARK): a randomised, double-blind,
+parallel-group study. Lancet Resp Med. 2013;1(3):199-209 https://doi.
+org/10.1016/S2213-2600(13)70052-3
+43.	 Decramer M, Anzueto A, Kerwin E, Kaelin T, Richard N, Crater G, et al.
+Efficacy and safety of umeclidinium plus vilanterol versus tiotropium,
+vilanterol, or umeclidinium monotherapies over 24 weeks in patients
+with chronic obstructive pulmonary disease: results from two
+multicentre, blinded, randomised controlled trials. Lancet Resp Med.
+2014;2(6):472-86 https://doi.org/10.1016/S2213-2600(14)70065-7
+44.	 Donohue JF, Niewoehner D, Brooks J, O’Dell D, Church A. Safety
+and tolerability of once-daily umeclidinium/vilanterol 125/25 mcg and
+umeclidinium 125 mcg in patients with chronic obstructive pulmonary
+disease: results from a 52-week, randomized, double-blind, placebo-
+controlled study. Resp Res. 2014;15:78
+45.	 Bateman ED, Chapman KR, Singh D, D’Urzo AD, Molins E, Leselbaum
+A, et al. Aclidinium bromide and formoterol fumarate as a fixed-dose
+combination in COPD: pooled analysis of symptoms and exacerbations
+from two six-month, multicentre, randomised studies (ACLIFORM and
+AUGMENT). Resp Res. 2015;16:92 https://doi.org/10.1186/s12931-
+015-0250-2
+46.	 Miravitlles M, Chapman KR, Chuecos F, Ribera A, Gil EG. The efficacy
+of aclidinium/formoterol on lung function and symptoms in patients
+with COPD categorized by symptom status: a pooled analysis. Int J
+Chron Obstruct Pulmon Dis 2016;11:2041-53 https://doi.org/10.2147/
+COPD.S114566
+47.	 Derom E, Brusselle GG, Joos GF. Efficacy of tiotropium-olodaterol
+fixed-dose combination in COPD. Int J Chron Obstruct Pulmon Dis.
+2016;11:3163-77 https://doi.org/10.2147/COPD.S92840
+48.	 Mahler DA, Decramer M, D’Urzo A, Worth H, White T, Alagappan
+VK, et al. Dual bronchodilation with QVA149 reduces patient-
+reported dyspnoea in COPD: the BLAZE study. European Resp J.
+2014;43(6):1599-609 https://doi.org/10.1183/09031936.00124013
+49.	 Bateman ED, Ferguson GT, Barnes N, Gallagher N, Green Y, Henley M,
+et al. Dual bronchodilation with QVA149 versus single bronchodilator
+therapy: the SHINE study. European Resp J. 2013;42(6):1484-94
+https://doi.org/10.1183/09031936.00200212
+50.	 Oba Y, Sarva ST, Dias S. Efficacy and safety of long-acting β-agonist/
+long-acting muscarinic antagonist combinations in COPD: a network
+meta-analysis.
+Thorax.
+2016;71(1):15-25
+https://doi.org/10.1136/
+thoraxjnl-2014-206732
+51.	 Keatings VM, Jatakanon A, Worsdell YM, Barnes PJ. Effects of inhaled
+and oral glucocorticoids on inflammatory indices in asthma and COPD.
+Am J Respir Crit Care Med. 1997;155(2):542-8 https://doi.org/10.1164/
+ajrccm.155.2.9032192
+52.	 Crim C, Dransfield MT, Bourbeau J, Jones PW, Hanania NA, Mahler
+DA, et al. Pneumonia risk with inhaled fluticasone furoate and vilanterol
+compared with vilanterol alone in patients with COPD. Ann Am Thorac
+Soc.
+2015;12(1):27-34
+https://doi.org/10.1513/AnnalsATS.201409-
+413OC
+53.	 Nannini LJ, Poole P, Milan SJ, Kesterton A. Combined corticosteroid
+and long-acting beta(2)-agonist in one inhaler versus inhaled
+corticosteroids alone for chronic obstructive pulmonary disease.
+Cochrane Database Syst Rev. 2013(8):CD006826
+54.	 Pavord ID, Lettis S, Locantore N, Pascoe S, Jones PW, Wedzicha
+JA, et al. Blood eosinophils and inhaled corticosteroid/long-acting
+β-2 agonist efficacy in COPD. Thorax. 2016;71(2):118-25 https://doi.
+org/10.1136/thoraxjnl-2015-207021
+55.	 Silva GE, Sherrill DL, Guerra S, Barbee RA. Asthma as a risk factor
+for COPD in a longitudinal study. Chest. 2004;126(1):59-65 https://doi.
+org/10.1378/chest.126.1.59
+56.	 Wouters EF, Postma DS, Fokkens B, Hop WC, Prins J, Kuipers AF, et
+al. Withdrawal of fluticasone propionate from combined salmeterol/
+fluticasone treatment in patients with COPD causes immediate and
+sustained disease deterioration: a randomised controlled trial. Thorax.
+2005;60(6):480-7 https://doi.org/10.1136/thx.2004.034280
+57.	 Magnussen H, Disse B, Rodriguez-Roisin R, Kirsten A, Watz H, Tetzlaff
+K, et al. Withdrawal of inhaled glucocorticoids and exacerbations of
+COPD. N Engl J Med. 2014;371(14):1285-94 https://doi.org/10.1056/
+NEJMoa1407154
+58.	 Watz H, Tetzlaff K, Wouters EF, Kirsten A, Magnussen H, Rodriguez-
+Roisin R, et al. Blood eosinophil count and exacerbations in severe
+chronic obstructive pulmonary disease after withdrawal of inhaled
+corticosteroids: a post-hoc analysis of the WISDOM trial. Lancet Respir
+Med. 2016;4(5):390-8 https://doi.org/10.1016/S2213-2600(16)00100-4
+59.	 Aaron SD, Vandemheen KL, Fergusson D, Maltais F, Bourbeau J,
+Goldstein R, et al. Tiotropium in combination with placebo, salmeterol,
+or fluticasone-salmeterol for treatment of chronic obstructive pulmonary
+disease: a randomized trial. Ann Intern Med. 2007;146(8):545-55
+https://doi.org/10.7326/0003-4819-146-8-200704170-00152
+60.	 Welte T, Miravitlles M, Hernandez P, Eriksson G, Peterson S,
+Polanowski T, et al. Efficacy and tolerability of budesonide/formoterol
+added to tiotropium in patients with chronic obstructive pulmonary
+disease. Am J Respir Crit Care Med. 2009;180(8):741-50 https://doi.
+org/10.1164/rccm.200904-0492OC
+61.	 Short PM, Williamson PA, Elder DHJ, Lipworth SIW, Schembri S,
+Lipworth BJ. The impact of tiotropium on mortality and exacerbations
+when added to inhaled corticosteroids and long-acting β-agonist
+therapy in COPD. Chest. 2012;141(1):81-6 https://doi.org/10.1378/
+chest.11-0038
+62.	 Singh D, Brooks J, Hagan G, Cahn A, O’Connor BJ. Superiority of
+“triple” therapy with salmeterol/fluticasone propionate and tiotropium
+300
+J Bras Pneumol. 2017;43(4):290-301
+
+Fernandes FLA, Cukier A, Camelier AA, Fritscher CC, Costa CH, Pereira EDB, Godoy I, Cançado JED, Romaldini JG, Chatkin JM,
+Jardim JR, Rabahi MF, Nucci MCNM, Sales MPU, Castellano MVCO, Aidé MA, Teixeira PJZ, Maciel R, Corrêa RA, Stirbulov R,
+Athanazio RA, Russo R, Minamoto ST, Lundgren FLC
+bromide versus individual components in moderate to severe COPD.
+Thorax. 2008;63(7):592-8 https://doi.org/10.1136/thx.2007.087213
+63.	 Jung KS, Park HY, Park SY, Kim SK, Kim YK, Shim JJ, et al. Comparison
+of tiotropium plus fluticasone propionate/salmeterol with tiotropium in
+COPD: a randomized controlled study. Respir Med. 2012;106(3):382-9
+https://doi.org/10.1016/j.rmed.2011.09.004
+64.	 Rodrigo GJ, Plaza V, Castro-Rodríguez JA. Comparison of three
+combined pharmacological approaches with tiotropium monotherapy
+in stable moderate to severe COPD: a systematic review. Pulm
+Pharmacol
+Ther.
+2012;25(1):40-7
+https://doi.org/10.1016/j.
+pupt.2011.10.006
+65.	 Singh D, Papi A, Corradi M, Pavlisova I, Montagna I, Francisco C, et
+al. Single inhaler triple therapy versus inhaled corticosteroid plus long-
+acting β2-agonist therapy for chronic obstructive pulmonary disease
+(TRILOGY): a double-blind, parallel group, randomised controlled
+trial. Lancet. 2016;388(10048):963-73 https://doi.org/10.1016/S0140-
+6736(16)31354-X
+66.	 Brusselle G, Price D, Gruffydd-Jones K, Miravitlles M, Keininger
+DL, Stewart R, et al. The inevitable drift to triple therapy in COPD:
+an analysis of prescribing pathways in the UK. Int J Chron Obstruct
+Pulmon Dis. 2015;10:2207-17
+67.	 Andreeva-Gateva PA, Stamenova E, Gatev T. The place of inhaled
+corticosteroids in the treatment of chronic obstructive pulmonary
+disease: a narrative review. Postgrad Med. 2016;128(5):474-84 https://
+doi.org/10.1080/00325481.2016.1186487
+68.	 Pascoe S, Locantore N, Dransfield MT, Barnes NC, Pavord ID. Blood
+eosinophil counts, exacerbations, and response to the addition of
+inhaled fluticasone furoate to vilanterol in patients with chronic
+obstructive pulmonary disease: a secondary analysis of data from two
+parallel randomised controlled trials. Lancet Respir Med. 2015;3(6):435-
+42 https://doi.org/10.1016/S2213-2600(15)00106-X
+69.	 Siddiqui SH, Guasconi A, Vestbo J, Jones P, Agusti A, Paggiaro
+P, et al. Blood Eosinophils: A Biomarker of Response to Extrafine
+Beclomethasone/Formoterol in Chronic Obstructive Pulmonary
+Disease. Am J Respir Crit Care Med. 2015;192(4):523-5 https://doi.
+org/10.1164/rccm.201502-0235LE
+70.	 Wedzicha JA, Banerji D, Chapman KR, Vestbo J, Roche N, Ayers RT,
+et al. Indacaterol-Glycopyrronium versus Salmeterol-Fluticasone for
+COPD. N Engl J Med. 2016;374(23):2222-34 https://doi.org/10.1056/
+NEJMoa1516385
+71.	 Vogelmeier CF, Criner GJ, Martínez FJ, Anzueto A, Barnes PJ,
+Bourbeau J, et al. Global Strategy for the Diagnosis, Management, and
+Prevention of Chronic Obstructive Lung Disease 2017 Report: GOLD
+Executive Summary. The Eur Respir J. 2017 49(3). pii: 1700214 https://
+doi.org/10.1183/13993003.00214-2017
+72.	 Montuschi P, Malerba M, Macis G, Mores N, Santini G. Triple inhaled
+therapy for chronic obstructive pulmonary disease. Drug Discov Today.
+2016;21(11):1820-7 https://doi.org/10.1016/j.drudis.2016.07.009
+73.	 Vignola AM. PDE4 inhibitors in COPD--a more selective approach to
+treatment. Respir Med. 2004;98(6):495-503 https://doi.org/10.1016/j.
+rmed.2003.12.012
+74.	 Taegtmeyer AB, Leuppi JD, Kullak-Ublick GA. Roflumilast--a
+phosphodiesterase-4 inhibitor licensed for add-on therapy in severe
+COPD. Swiss Med Wkly. 2012;142:w13628 https://doi.org/10.4414/
+smw.2012.13628
+75.	 Rabe KF, Bateman ED, O’Donnell D, Witte S, Bredenbröker D, Bethke
+TD. Roflumilast--an oral anti-inflammatory treatment for chronic
+obstructive pulmonary disease: a randomised controlled trial. Lancet.
+2005;366(9485):563-71 https://doi.org/10.1016/S0140-6736(05)67100-0
+76.	 Calverley PM, Rabe KF, Goehring UM, Kristiansen S, Fabbri LM, Martinez
+FJ, et al. Roflumilast in symptomatic chronic obstructive pulmonary
+disease: two randomised clinical trials. Lancet. 2009;374(9691):685-94
+https://doi.org/10.1016/S0140-6736(09)61255-1
+77.	 Martinez FJ, Rabe KF, Sethi S, Pizzichini E, McIvor A, Anzueto A, et al.
+Effect of Roflumilast and Inhaled Corticosteroid/Long-Acting β2-Agonist
+on Chronic Obstructive Pulmonary Disease Exacerbations (RE(2)SPOND).
+A Randomized Clinical Trial. Am J Respir Crit Care Med. 2016;194(5):559-
+67 https://doi.org/10.1164/rccm.201607-1349OC
+78.	 Chong J, Leung B, Poole P. Phosphodiesterase 4 inhibitors for chronic
+obstructive pulmonary disease. The Cochrane Database Syst Rev.
+2013;(11):CD002309
+https://doi.org/10.1002/14651858.cd002309.
+pub4
+79.	 Wedzicha JA, Calverley PM, Rabe KF. Roflumilast: a review of its
+use in the treatment of COPD. Int J Chron Obstruct Pulmon Dis.
+2016;11:81-90 https://doi.org/10.2147/COPD.S89849
+80.	 Maraffi T, Piffer F, Cosentini R. Prophylactic antibiotic therapy in chronic
+obstructive pulmonary disease. Ther Adv Respir Dis. 2010;4(3):135-42
+https://doi.org/10.1177/1753465810368552
+81.	 Wilson R, Sethi S, Anzueto A, Miravitlles M. Antibiotics for treatment
+and prevention of exacerbations of chronic obstructive pulmonary
+disease.
+J
+Infect.
+2013;67(6):497-515
+https://doi.org/10.1016/j.
+jinf.2013.08.010
+82.	 Yamaya M, Azuma A, Takizawa H, Kadota J, Tamaoki J, Kudoh S.
+Macrolide effects on the prevention of COPD exacerbations. Eur Respir
+J. 2012;40(2):485-94 https://doi.org/10.1183/09031936.00208011
+83.	 Suzuki T, Yanai M, Yamaya M, Satoh-Nakagawa T, Sekizawa K,
+Ishida S, et al. Erythromycin and common cold in COPD. Chest.
+2001;120(3):730-3 https://doi.org/10.1378/chest.120.3.730
+84.	 Seemungal TA, Wilkinson TM, Hurst JR, Perera WR, Sapsford RJ,
+Wedzicha JA. Long-term erythromycin therapy is associated with
+decreased chronic obstructive pulmonary disease exacerbations. Am
+J Respir Crit Care Med. 2008;178(11):1139-47 https://doi.org/10.1164/
+rccm.200801-145OC
+85.	 Albert RK, Connett J, Bailey WC, Casaburi R, Cooper JA Jr, Criner GJ,
+et al. Azithromycin for prevention of exacerbations of COPD. N Engl
+J Med. 2011;365(8):689-98. https://doi.org/10.1056/NEJMoa1104623
+86.	 Donath E, Chaudhry A, Hernandez-Aya LF, Lit L. A meta-analysis on
+the prophylactic use of macrolide antibiotics for the prevention of
+disease exacerbations in patients with Chronic Obstructive Pulmonary
+Disease. Respir Med. 2013;107(9):1385-92 https://doi.org/10.1016/j.
+rmed.2013.05.004
+87.	 Herath SC, Poole P. Prophylactic antibiotic therapy for chronic
+obstructive pulmonary disease (COPD). Cochrane Database Syst Rev.
+2013;(11):CD009764 https://doi.org/10.1002/14651858.cd009764.pub2
+88.	 Sethi S, Jones PW, Theron MS, Miravitlles M, Rubinstein E, Wedzicha
+JA, et al. Pulsed moxifloxacin for the prevention of exacerbations of
+chronic obstructive pulmonary disease: a randomized controlled trial.
+Respir Res. 2010;11:10 https://doi.org/10.1186/1465-9921-11-10
+89.	 Dal Negro R, Micheletto C, Tognella S, Visconti M, Turati C.
+Tobramycin Nebulizer Solution in severe COPD patients colonized
+with Pseudomonas aeruginosa: effects on bronchial inflammation. Adv
+Ther. 2008;25(10):1019-30 https://doi.org/10.1007/s12325-008-0105-2
+90.	 Flume PA, VanDevanter DR, Morgan EE, Dudley MN, Loutit JS, Bell
+SC, et al. A phase 3, multi-center, multinational, randomized, double-
+blind, placebo-controlled study to evaluate the efficacy and safety of
+levofloxacin inhalation solution (APT-1026) in stable cystic fibrosis
+patients. J Cyst Fibros. 2016;15(4):495-502 https://doi.org/10.1016/j.
+jcf.2015.12.004
+91.	 Miravitlles M, Anzueto A. Antibiotic prophylaxis in COPD: Why, when,
+and for whom? Pulm Pharmacol Ther. 2015;32:119-23 https://doi.
+org/10.1016/j.pupt.2014.05.002
+92.	 Wenzel RP, Fowler AA 3rd, Edmond MB. Antibiotic prevention of acute
+exacerbations of COPD. N Engl J Med. 2012;367(4):340-7 https://doi.
+org/10.1056/NEJMct1115170
+93.	 Tse HN, Tseng CZ. Update on the pathological processes, molecular
+biology, and clinical utility of N-acetylcysteine in chronic obstructive
+pulmonary disease. Int J Chron Obstruct Pulmon Dis. 2014;9:825-36
+https://doi.org/10.2147/COPD.S51057
+94.	 Sanguinetti CM. N-acetylcysteine in COPD: why, how, and when?
+Multidiscip Respir Med. 2015;11:8 https://doi.org/10.1186/s40248-
+016-0039-2
+95.	 Johnson K, McEvoy CE, Naqvi S, Wendt C, Reilkoff RA, Kunisaki KM,
+et al. High-dose oral N-acetylcysteine fails to improve respiratory health
+status in patients with chronic obstructive pulmonary disease and
+chronic bronchitis: a randomized, placebo-controlled trial. Int J Chron
+Obstruct Pulmon Dis. 2016;11:799-807
+96.	 Zheng JP, Wen FQ, Bai CX, Wan HY, Kang J, Chen P, et al. Twice
+daily N-acetylcysteine 600 mg for exacerbations of chronic obstructive
+pulmonary disease (PANTHEON): a randomised, double-blind placebo-
+controlled trial. Lancet Respir Med. 2014;2(3):187-94 https://doi.
+org/10.1016/S2213-2600(13)70286-8
+97.	 Tse HN, Raiteri L, Wong KY, Yee KS, Ng LY, Wai KY, et al. High-dose
+N-acetylcysteine in stable COPD: the 1-year, double-blind, randomized,
+placebo-controlled HIACE study. Chest. 2013;144(1):106-18 https://
+doi.org/10.1378/chest.12-2357
+98.	 Decramer M, Rutten-van Molken M, Dekhuijzen PN, Troosters T,
+van Herwaarden C, Pellegrino R, et al. Effects of N-acetylcysteine
+on outcomes in chronic obstructive pulmonary disease (Bronchitis
+Randomized on NAC Cost-Utility Study, BRONCUS): a randomised
+placebo-controlled trial. Lancet. 2005;365(9470):1552-60 https://doi.
+org/10.1016/S0140-6736(05)66456-2
+99.	 Fowdar K, Chen H, He Z, Zhang J, Zhong X, Zhang J, et al. The
+effect of N-acetylcysteine on exacerbations of chronic obstructive
+pulmonary disease: A meta-analysis and systematic review. Heart
+Lung. 2017;46(2):120-8 https://doi.org/10.1016/j.hrtlng.2016.12.004
+100.	Cazzola M, Calzetta L, Page C, Jardim J, Chuchalin AG, Rogliani P,
+et al. Influence of N-acetylcysteine on chronic bronchitis or COPD
+exacerbations: a meta-analysis. Eur Respir Rev. 2015;24(137):451-61
+https://doi.org/10.1183/16000617.00002215
+301
+J Bras Pneumol. 2017;43(4):290-301

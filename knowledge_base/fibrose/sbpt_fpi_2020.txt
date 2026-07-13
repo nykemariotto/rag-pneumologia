@@ -1,0 +1,1458 @@
+=== Diretrizes brasileiras para o tratamento farmacologico da fibrose pulmonar idiopatica (GRADE) - SBPT ===
+Fonte: J Bras Pneumol 2020;46(2):e20190423
+URL: https://www.scielo.br/j/jbpneu/a/tjd9yHHgsxyyKCKkCddRqWj/?format=pdf&lang=pt
+Licenca: CC BY-NC 4.0
+Doenca: fibrose | Idioma: pt
+----------------------------------------------------------------------
+
+ISSN 1806-3713
+© 2020 Sociedade Brasileira de Pneumologia e Tisiologia
+RESUMO
+A fibrose pulmonar idiopática (FPI) é uma forma de pneumopatia intersticial crônica
+fibrosante de causa desconhecida, que acomete preferencialmente homens idosos,
+com história atual ou pregressa de tabagismo. Mesmo sendo uma doença incomum, ela
+assume grande importância devido a sua gravidade e prognóstico reservado. Nas últimas
+décadas, diversas modalidades terapêuticas farmacológicas foram investigadas para o
+tratamento dessa doença, de tal modo que conceitos clássicos vêm sendo revisados. O
+objetivo destas diretrizes foi definir recomendações brasileiras baseadas em evidências
+em relação ao emprego de agentes farmacológicos no tratamento da FPI. Procurou-se
+fornecer orientações a questões de ordem prática, enfrentadas pelos clínicos no seu
+cotidiano. As perguntas PICO (acrônimo baseado em perguntas referentes aos Pacientes
+de interesse, Intervenção a ser estudada, Comparação da intervenção e Outcome
+[desfecho] de interesse) abordaram aspectos relativos ao uso de corticosteroides,
+N-acetilcisteína, tratamento medicamentoso do refluxo gastroesofágico, inibidores dos
+receptores da endotelina, inibidores da fosfodiesterase-5, pirfenidona e nintedanibe. Para
+a formulação das perguntas PICO, um grupo de especialistas brasileiros atuantes na área
+foi reunido, sendo realizada uma extensa revisão bibliográfica sobre o tema. As revisões
+sistemáticas com meta-análises previamente publicadas foram analisadas quanto à força
+das evidências compiladas e, a partir daí, foram concebidas recomendações seguindo a
+metodologia Grading of Recommendations Assessment, Development and Evaluation.
+Os autores acreditam que o presente documento represente um importante avanço a ser
+incorporado na abordagem de pacientes com FPI, objetivando principalmente favorecer
+seu manejo, e pode se tornar uma ferramenta auxiliar na definição de políticas públicas
+relacionadas à FPI.
+Descritores: Fibrose pulmonar idiopática; Abordagem GRADE; Fibrose pulmonar/terapia
+medicamentosa; Guia de prática clínica.
+Diretrizes brasileiras para o tratamento
+farmacológico da fibrose pulmonar
+idiopática. Documento oficial da Sociedade
+Brasileira de Pneumologia e Tisiologia
+baseado na metodologia GRADE
+José Baddini-Martinez1,2
+, Juliana Ferreira3
+, Suzana Tanni4
+,
+Luis Renato Alves1
+, Benedito Francisco Cabral Junior5
+,
+Carlos Roberto Ribeiro Carvalho3
+, Talita Jacon Cezare4
+,
+Claudia Henrique da Costa6
+, Marcelo Basso Gazzana7
+, Sérgio Jezler8
+,
+Ronaldo Adib Kairalla3
+, Leticia Kawano-Dourado9
+, Mariana Silva Lima10
+,
+Eliane Mancuzo11
+, Maria Auxiliadora Carmo Moreira12
+,
+Marcelo Palmeira Rodrigues13
+, Silvia Carla Sousa Rodrigues14
+,
+Adalberto Sperb Rubin15
+, Rogério Lopes Rufino6
+,
+Leila John Marques Steidle16
+, Karin Storrer17
+, Bruno Guedes Baldi3
+Endereço para correspondência:
+José Baddini-Martinez. Avenida Bandeirantes, 3900, CEP 14048-900, Ribeirão Preto, SP, Brasil.
+Tel.: 55 16 3602-2531. E-mail: baddini@fmrp.usp.br
+Apoio financeiro: Nenhum.
+INTRODUÇÃO
+A fibrose pulmonar idiopática (FPI) é uma forma de
+pneumopatia intersticial crônica fibrosante, de causa
+desconhecida, restrita aos pulmões, que acomete
+preferencialmente homens idosos, com história atual ou
+pregressa de tabagismo. (1-5) Do ponto de vista histológico,
+a FPI se caracteriza pelo padrão de pneumonia intersticial
+usual que, atualmente, pode ser inferido com grau de
+certeza satisfatório em casos de apresentação radiológica
+típica em TCAR.(1-5) Mesmo sendo uma doença incomum,
+a FPI assume grande importância clínica devido à sua
+gravidade. Ainda que a história natural da doença possa
+variar e seja difícil firmar previsões prognósticas precisas
+para um determinado paciente, a mediana de sobrevida
+desses pacientes, sem tratamento, é de apenas 2,9 anos.(6)
+Nas últimas décadas, diversas modalidades terapêuticas
+farmacológicas, com variados mecanismos de ação,
+foram investigadas para o tratamento dessa doença,
+com um número substancial de estudos resultando em
+desfechos negativos.(7-36) Apesar disso, novos fármacos
+1. Faculdade de Medicina de Ribeirão
+Preto, Universidade de São Paulo,
+Ribeirão Preto (SP) Brasil.
+2. Escola Paulista de Medicina,
+Universidade Federal de São Paulo,
+São Paulo (SP) Brasil.
+3. Faculdade de Medicina, Universidade de
+São Paulo, São Paulo (SP) Brasil.
+4. Faculdade de Medicina de Botucatu,
+Universidade Estadual Paulista –
+UNESP – Botucatu (SP) Brasil.
+5. Universidade Católica de Brasília,
+Brasília (DF) Brasil.
+6. Universidade do Estado do Rio de
+Janeiro – UERJ – Rio de Janeiro (RJ)
+Brasil.
+7. Universidade Federal do Rio Grande do
+Sul – UFRGS – Porto Alegre (RS) Brasil.
+8. Hospital Geral Roberto Santos,
+Salvador (BA) Brasil.
+9. Instituto de Pesquisa. Hospital do
+Coração, São Paulo (SP) Brasil.
+10. Universidade Federal do Ceará,
+Fortaleza (CE) Brasil.
+11. Universidade Federal de Minas Gerais,
+Belo Horizonte (MG) Brasil.
+12. Universidade Federal de Goiás,
+Goiânia (GO) Brasil.
+13. Universidade de Brasília – UnB –
+Brasília (DF) Brasil.
+14. Hospital do Servidor Público Estadual
+de São Paulo, São Paulo (SP) Brasil.
+15. Universidade Federal de Ciências da
+Saúde de Porto Alegre, Porto Alegre
+(RS) Brasil.
+16. Universidade Federal de Santa Catarina
+– UFSC – Florianópolis (SC) Brasil.
+17. Universidade Federal do Paraná –
+UFPR – Curitiba (PR) Brasil.
+Recebido: 20 dezembro 2019.
+Aprovado: 12 janeiro 2020.
+Trabalho realizado pela Sociedade
+Brasileira de Pneumologia e Tisiologia,
+Brasília (DF) Brasil.
+https://dx.doi.org/10.36416/1806-3756/e20190423
+1/11
+J Bras Pneumol. 2020;46(2):e20190423
+ARTIGO ESPECIAL
+
+Diretrizes brasileiras para o tratamento farmacológico da fibrose pulmonar idiopática.
+Documento oficial da Sociedade Brasileira de Pneumologia e Tisiologia baseado na metodologia GRADE
+têm mostrado benefícios para o tratamento da FPI e
+alguns deles já estão disponíveis no mercado para
+essa indicação.
+O objetivo das presentes diretrizes foi definir
+recomendações baseadas em evidências em relação
+ao emprego de agentes farmacológicos no tratamento
+da FPI. Procurou-se fornecer orientações a questões
+de ordem prática, enfrentadas pelos clínicos no seu
+cotidiano. Para tanto, foi feita uma extensa revisão
+bibliográfica sobre o tema, seguindo a metodologia
+Grading of Recommendations Assessment, Development
+and Evaluation (GRADE).(37) Vale ressaltar que, até
+o momento, não existe nenhum estudo brasileiro
+publicado que tenha utilizado metodologia semelhante
+à empregada aqui sobre o assunto.
+METODOLOGIA
+O desenvolvimento das diretrizes se iniciou com a
+formação do grupo de coordenadores, o qual incluiu dois
+reconhecidos especialistas no tema e duas especialistas
+em metodologia. Pneumologistas familiarizados com o
+cuidado de pacientes com FPI, atuantes em diversas
+regiões do Brasil, foram convidados a integrar o comitê
+de especialistas. Todos os envolvidos no processo
+assinaram formulários declarando seus conflitos
+de interesses (Quadro S1, material suplementar:
+http://jornaldepneumologia.com.br/detalhe_anexo.
+asp?id=73).
+Em reunião presencial, realizada em setembro de
+2017 na cidade de São Paulo (SP), foram definidos
+os objetivos do projeto e optou-se pelo emprego
+da metodologia GRADE e por priorizar perguntas
+relacionadas apenas ao tratamento farmacológico da
+FPI. Em seguida, os especialistas receberam materiais
+escritos e vídeos de treinamento relativos à realização
+de cada um dos passos da metodologia GRADE.(38-40)
+Os especialistas formularam perguntas relacionadas
+ao tratamento farmacológico de pacientes portadores de
+FPI no formato PICO (acrônimo baseado em perguntas
+referentes aos Pacientes de interesse, Intervenção a
+ser estudada, Comparação da intervenção e Outcome
+[desfecho] de interesse). Por meio de um processo de
+votação on-line do grau de importância, sete perguntas
+e seus respectivos desfechos mais pontuados foram
+selecionados. Os desfechos foram classificados pelo
+grau de importância, levando-se em conta a perspectiva
+de pacientes com FPI, de acordo com a metodologia
+GRADE, em pouco importantes, importantes ou críticos
+(Quadro 1).
+Uma bibliotecária realizou buscas por artigos
+publicados em inglês nos bancos de dados PubMed
+e EMBASE, seguindo metodologia padronizada, sob
+supervisão das metodologistas (Quadro S2). A estratégia
+de busca se concentrou em artigos envolvendo revisões
+sistemáticas com meta-análises, empregando-se
+palavras-chave pré-estabelecidas, cobrindo um período
+igual ou inferior a 10 anos, a partir da data máxima
+de inclusão (novembro de 2018). Optou-se por uma
+estratégia pragmática de busca de meta-análises
+prontas, ao invés da busca de ensaios clínicos e
+posterior realização de meta-análises.
+Após a seleção preliminar dos artigos, as metodologistas
+avaliaram separadamente os manuscritos pelos seus
+Quadro 1. Questões e respectivos desfechos selecionados para a confecção dessas diretrizes.
+Questões
+Desfechos críticos
+Desfechos
+importantes
+Desfechos
+pouco
+Importantes
+1. Devemos recomendar o uso de nintedanibe para
+pacientes com FPI?
+Mortalidade
+Queda da CVF
+Número de
+exacerbações
+Qualidade de
+vida
+Eventos
+adversos
+2. Devemos recomendar o uso de pirfenidona para
+pacientes com FPI?
+Mortalidade
+Queda da CVF
+Número de
+exacerbações
+Qualidade de
+vida
+Eventos
+adversos
+3. Devemos recomendar o uso de inibidores da
+fosfodiesterase-5 para pacientes com FPI?
+Mortalidade
+Qualidade de
+vida
+Dispneia
+_
+4. Devemos recomendar o uso de antagonistas de
+receptores da endotelina para pacientes com FPI?
+Mortalidade
+Queda da CVF
+_
+Eventos
+adversos
+5. Devemos recomendar o tratamento medicamentoso
+antirrefluxo gastroesofágico para pacientes com FPI?
+Mortalidade
+Queda da CVF
+Número de
+exacerbações
+Número de internações
+_
+_
+6. Devemos recomendar o uso de N-acetilcisteína para
+pacientes com FPI?
+Mortalidade
+Queda da CVF
+_
+_
+7. Devemos recomendar o uso de corticosteroides para
+pacientes com FPI?
+Mortalidade
+Queda da CVF
+_
+_
+FPI: fibrose pulmonar idiopática.
+J Bras Pneumol. 2020;46(2):e20190423
+2/11
+
+Baddini-Martinez J, Ferreira J, Tanni S, Alves LR, Cabral Junior BF, Carvalho CRR, Cezare TJ, Costa CH, Gazzana MB, Jezler S,
+Kairalla RA, Kawano-Dourado L, Lima MS, Mancuzo E, Moreira MAC, Rodrigues MP,
+Rodrigues SCS, Rubin AS, Rufino RL, Steidle LJM, Storrer K, Baldi BG
+títulos e resumos para decidir quais seriam incluídos nas
+diretrizes. Em caso de discordância, houve discussões
+para a obtenção de consenso. A próxima etapa envolveu
+a análise qualitativa das publicações selecionadas
+em sua íntegra, feita pelas duas metodologistas
+separadamente. Novamente, em caso de discordância,
+houve discussões entre as metodologistas até que um
+consenso sobre a inclusão ou exclusão dos artigos
+fosse alcançado. Em seguida, os artigos selecionados
+foram avaliados pelos coordenadores especialistas
+separadamente, sendo avaliada a concordância para
+a inclusão ou exclusão das publicações das análises.
+Os motivos de exclusão dos artigos foram registrados
+conforme as recomendações Preferred Reporting Items
+for Systematic Reviews and Meta-Analyses (PRISMA) e
+estão apresentados no material suplementar (Figuras
+S1 a S7).(41)
+Em seguida, foram preparadas tabelas com os
+resumos das evidências para cada pergunta, de acordo
+com metodologia GRADE, empregando-se o programa
+GRADEpro GDT (McMaster University, Hamilton,
+ON, Canadá; Tabelas S1 a S7).(42) A qualidade das
+evidências de cada meta-análise incluída, em função
+de cada desfecho analisado, foi classificada em alta,
+moderada, baixa ou muito baixa (Quadro 2).
+A qualidade da evidência foi reduzida em um ou dois
+níveis quando identificados riscos de viés, evidências
+indiretas, inconsistências, imprecisões e vieses de
+publicação. Por outro lado, a qualidade foi elevada se
+apresentasse forte associação, ausência de vieses de
+confusão plausíveis, indicação de associação dose-
+resposta ou quando vieses de confusão plausíveis
+conhecidos pudessem estar reduzindo o efeito
+(Quadro 3). Na metodologia GRADE, a qualidade dos
+estudos determina o grau de confiança e certeza do
+efeito estimado da intervenção sobre os desfechos
+selecionados separadamente.(40)
+Em setembro de 2019, o Comitê Coordenador
+reuniu-se presencialmente com os especialistas na
+cidade de São Paulo para a revisão dos resultados e de
+todas as tabelas contendo os resumos de evidências. Os
+membros presentes revisaram as tabelas, e correções
+foram feitas quando apropriadas.
+Recomendações foram feitas para cada pergunta, a
+partir dos desfechos críticos, seguindo a metodologia
+GRADE (Quadro 4). Em situações nas quais não houve
+consenso, foram realizadas votações, cujos resultados
+foram registrados (Quadro S3). As recomendações
+podiam ser fortes ou condicionais.(40) Foi empregado o
+termo “nós recomendamos” para recomendações fortes
+Quadro 2. Interpretação da qualidade de evidência segundo o sistema Grading of Recommendations Assessment,
+Development and Evaluation.a
+Qualidade da evidência
+Implicações
+Exemplos
+Alta ⨁⨁⨁⨁
+É improvável que pesquisas futuras alterem
+a confiança no efeito estimado; estamos
+confiantes de que podemos esperar um
+efeito muito semelhante na população para
+a qual a recomendação se destina
+Ensaios randomizados sem limitações
+graves
+Estudos observacionais bem executados,
+com efeito muito grande
+Moderada ⨁⨁⨁◯
+É provável que pesquisas futuras tenham
+um impacto importante na confiança no
+efeito estimado e possam alterar essa
+estimativa
+Ensaios randomizados com limitações
+graves
+Estudos observacionais bem executados,
+com efeito grande
+Baixa ⨁⨁◯◯
+É provável que pesquisas futuras tenham
+um impacto importante na confiança no
+efeito estimado e provavelmente alterem
+essa estimativa
+Ensaios randomizados com limitações muito
+graves
+Estudos observacionais sem forças especiais
+ou limitações importantes
+Muito baixa ⨁◯◯◯
+Qualquer estimativa de um efeito é muito
+incerta
+Ensaios randomizados com limitações muito
+graves e resultados inconsistentes
+Estudos observacionais com graves
+limitações
+Observações clínicas não sistemáticas (por
+exemplo, séries ou relatos de caso)
+aAdaptado do Ministério da Saúde do Brasil.(37)
+Quadro 3. Fatores que podem afetar a qualidade da evidência.a
+Qualidade da
+evidência
+Situações em que a
+graduação pode ser reduzida
+Situações em que a graduação pode ser elevada
+• Alta
+• Moderada
+• Baixa
+• Muito baixa
+• Risco de viés
+• Evidência indireta
+• Inconsistência
+• Imprecisão
+• Viés de publicação
+• Forte associação, sem fatores de confusão plausíveis
+• Evidência de dose-resposta
+• Fatores de confusão plausíveis conhecidos reduzindo efeitos
+aAdaptado de Guyatt et al.(38)
+J Bras Pneumol. 2020;46(2):e20190423
+3/11
+
+Diretrizes brasileiras para o tratamento farmacológico da fibrose pulmonar idiopática.
+Documento oficial da Sociedade Brasileira de Pneumologia e Tisiologia baseado na metodologia GRADE
+e “nós sugerimos” para recomendações condicionais.
+Fatores que influenciaram a força da recomendação
+incluem o equilíbrio de benefícios vs. consequências
+indesejáveis, a qualidade geral da evidência, valores
+e preferências dos pacientes, assim como custos e
+uso de recursos.
+Para a confecção do manuscrito, partes do texto
+foram divididas entre todos os participantes, que as
+retornaram aos coordenadores especialistas após prazos
+determinados. A versão preliminar das diretrizes foi
+então editada e enviada para todos os participantes
+do processo, para correções e sugestões, em processo
+interativo. O texto definitivo, em sua forma integral,
+é de responsabilidade de todos os indivíduos listados
+como autores. As sete perguntas, com suas evidências,
+recomendações e comentários, estão descritas a seguir.
+PERGUNTA 1: DEVEMOS RECOMENDAR O
+USO DE NINTEDANIBE PARA PACIENTES
+COM FPI?
+O fármaco nintedanibe foi inicialmente desenvolvido
+como um inibidor dos receptores de VEGF e de FGF,
+visando sua aplicação em doenças oncológicas.(43)
+Entretanto, como a substância inibe os receptores de
+PDGF, essa foi também investigada como terapia para
+a FPI.(43) O nintedanibe inibe, de modo competitivo, as
+tirosinoquinases, o que justifica seu amplo potencial de
+ações, tais como interferir na proliferação e migração
+de miofibroblastos e fibroblastos, assim como na
+deposição de matriz extracelular. Evidências mais
+recentes indicam que o nintedanibe ainda pode reduzir
+a produção do TGF-β, inibir a formação de redes de
+fibrinas de colágeno e estimular a produção da proteína
+D do surfactante.(44-46)
+Um estudo clínico de fase II e dois estudos clínicos
+de fase III avaliaram os efeitos do uso de nintedanibe
+na dose-alvo de 150 mg duas vezes ao dia, por 52
+semanas, no ritmo de queda da CVF.(27,28) Baseados
+nos resultados observados nesse desfecho primário,
+órgãos reguladores americanos aprovaram o uso da
+medicação para pacientes com FPI.(47) Nas doses
+recomendadas para o tratamento da FPI, os efeitos
+adversos mais comuns do fármaco estão relacionados
+com o trato gastrointestinal, particularmente diarreia de
+intensidade variável que, nos estudos clínicos originais,
+acometeu aproximadamente 62% dos participantes
+que utilizaram a medicação.(28)
+Evidências
+Empregando-se a metodologia descrita, foram
+selecionadas da literatura seis revisões sistemáticas com
+meta-análises (Figura S1).(48-55) Ainda que nem todas
+tenham analisado exatamente os mesmos conjuntos
+de desfechos, na sua totalidade, elas apontam para um
+efeito terapêutico benéfico do nintedanibe nos pacientes
+com FPI em comparação a placebo (Tabela S1).
+Quanto ao desfecho crítico mortalidade, não foi
+observado um efeito estatisticamente significante
+(OR = 0,70; IC95%: 0,45-1,09), com qualidade de
+evidência moderada.(48)
+No tocante ao desfecho crítico queda da CVF, o
+nintedanibe mostrou-se benéfico, com OR estimada
+para quedas maiores que 10% de 0,61 (IC95%: 0,48-
+0,78), com qualidade da evidência alta.(48)
+Finalmente, em relação ao terceiro desfecho crítico,
+o nintedanibe mostrou eficácia quanto à queda do
+número de exacerbações agudas (OR = 0,50; IC95%:
+0,31-0,79), com qualidade da evidência moderada.(54)
+Recomendação
+Para pacientes com FPI, nós sugerimos usar
+nintedanibe (recomendação condicional; qualidade
+de evidência moderada).
+Comentários
+As meta-análises disponíveis incluíram apenas
+ensaios clínicos controlados, duplo-cegos e
+randomizados. Portanto, os resultados obtidos se
+Quadro 4. Implicações das recomendações do sistema Grading of Recommendations Assessment, Development and
+Evaluation.a
+Publico-alvo
+Recomendação forte
+Recomendação condicional
+Recomendamos
+Não recomendamos
+Sugerimos
+Não sugerimos
+Pacientes
+A maioria dos indivíduos
+desejaria que a intervenção
+fosse indicada e apenas
+um pequeno número não
+aceitaria essa recomendação
+A maioria dos
+indivíduos não
+desejaria que a
+intervenção fosse
+indicada e apenas
+um pequeno número
+aceitaria essa
+recomendação
+A maioria dos
+indivíduos desejaria
+que a intervenção
+fosse indicada;
+contudo, considerável
+número não aceitaria
+essa recomendação
+A maioria dos
+indivíduos não
+desejaria que a
+intervenção fosse
+indicada; contudo,
+considerável número
+aceitaria essa
+recomendação
+Profissionais da
+saúde
+A maioria dos pacientes deve receber a intervenção
+recomendada
+O profissional deve reconhecer que diferentes
+escolhas poderão ser apropriadas para
+cada paciente e ajudá-lo a tomar uma
+decisão consistente com os seus valores e
+preferências
+Gestores
+A recomendação pode ser adotada como política de
+saúde na maioria das situações
+É necessário um debate substancial e
+envolvimento das partes interessadas
+aAdaptado de Guyatt et al.(39) e Andrews et al.(40)
+J Bras Pneumol. 2020;46(2):e20190423
+4/11
+
+Baddini-Martinez J, Ferreira J, Tanni S, Alves LR, Cabral Junior BF, Carvalho CRR, Cezare TJ, Costa CH, Gazzana MB, Jezler S,
+Kairalla RA, Kawano-Dourado L, Lima MS, Mancuzo E, Moreira MAC, Rodrigues MP,
+Rodrigues SCS, Rubin AS, Rufino RL, Steidle LJM, Storrer K, Baldi BG
+aplicam, primariamente, a pacientes que preencham
+os mesmos critérios de seleção desses estudos. Esses
+estudos não incluíram pacientes com FPI muito inicial
+(DLCO ≥ 80%) ou muito avançada (CVF < 50% do
+previsto e/ou DLCO < 30%). Portanto, os efeitos do
+fármaco nesses dois grupos de pacientes ainda não
+estão bem caracterizados. Além disso, com base nos
+artigos selecionados, não se pode determinar a eficácia
+e segurança do fármaco em longo prazo, uma vez
+que a duração máxima dos estudos incluídos aqui foi
+de 52 semanas.
+A recomendação feita implica que usar esse fármaco
+é a conduta certa a ser tomada em 50-95% dos
+casos.  (42) O clínico deve reconhecer que diferentes
+escolhas podem ser apropriadas para diferentes
+pacientes e que compete a ele ajudar pacientes e
+familiares a tomar decisões consistentes com seus
+valores e preferências (Quadro 4).(37-42) A presente
+recomendação não leva em conta análises de custos
+e aspectos de fármaco-economia.
+PERGUNTA 2: DEVEMOS RECOMENDAR O
+USO DE PIRFENIDONA PARA PACIENTES
+COM FPI?
+A pirfenidona é um fármaco que tem ação anti-
+inflamatória e antifibrótica que atua nos receptores
+de TNF-α e TGF-β, bem como na modulação da
+oxidação celular.(56) Em última análise, o fármaco inibe
+a proliferação de fibroblastos com consequente redução
+da síntese e deposição de colágeno.(56-59)
+O potencial terapêutico do fármaco foi demonstrado
+inicialmente por meio de dois ensaios clínicos pequenos,
+que o compararam com placebo.(16,20) Posteriormente,
+outros três estudos se destacaram pela maior
+homogeneidade dos critérios de inclusão e desfechos,
+incluindo a avaliação de queda de mais de 10% da CVF
+em 52 semanas.(25,26) Esses três estudos, em análise
+combinada, demonstraram uma redução da queda
+de CVF, em percentual do previsto, com a dose-alvo
+de 2.403 mg/dia, assim como a redução do risco de
+progressão da doença. Nos cinco ensaios clínicos, os
+eventos adversos foram mais comuns no grupo que
+recebeu pirfenidona, relacionando-se principalmente à
+pele (rash e fotossensibilidade) e ao trato gastrointestinal
+(náuseas, dispepsia e perda de apetite).
+Evidências
+Foram selecionadas nove revisões sistemáticas com
+meta-análises que compararam pirfenidona em relação
+a placebo (Figura S2).(55,60-65) As meta-análises incluídas
+avaliaram diversos desfechos, incluindo mortalidade,
+sobrevida livre de progressão, exacerbação aguda,
+declínio funcional, variação na distância percorrida no
+teste de caminhada de seis minutos (DT6) e eventos
+adversos, apontando para um efeito terapêutico
+favorável da medicação e um perfil de segurança
+aceitável.
+A Tabela S2 resume a qualidade das evidências dos
+artigos selecionados para a questão relacionada à
+pirfenidona. O tratamento com pirfenidona demonstrou
+reduzir a mortalidade — risco relativo (RR) = 0,53;
+IC95%: 0,32-0,88 — com qualidade de evidência
+moderada.(61,62) Da mesma forma, a medicação
+mostrou-se eficaz em reduzir a queda de CVF > 10%
+(RR = 0,64; IC95%: 0,50-0,83).(61,62) Quando avaliado o
+desfecho redução do número de exacerbações agudas,
+não foi observado efeito estatisticamente significante
+(RR = 0,59; IC95%: 0,19-1,84), com qualidade de
+evidência baixa.(61,62)
+Recomendação
+Para pacientes com FPI, nós sugerimos usar
+pirfenidona (recomendação condicional; qualidade
+de evidência baixa).
+Comentários
+As revisões sistemáticas e meta-análises disponíveis
+que avaliaram o uso da pirfenidona em pacientes com
+FPI incluíram apenas ensaios clínicos randomizados,
+controlados e duplo-cegos. Os resultados obtidos
+se aplicam a pacientes que preencham os mesmos
+critérios de inclusão desses estudos, ou seja, aqueles
+com doença de grau leve a moderada. Os estudos
+em questão não incluíram pacientes com FPI com
+alteração funcional muito inicial (DLCO ≥ 90%) ou
+muito avançada (CVF < 50% do previsto ou DLCO
+< 30%), ou ainda com idade superior a 80 anos.
+Portanto, os efeitos da pirfenidona nesses subgrupos
+de pacientes não estão completamente estabelecidos.
+Adicionalmente, com base nos resultados encontrados,
+não se pode determinar o impacto do fármaco em
+termos de eficácia e segurança em longo prazo, uma
+vez que a duração máxima dos estudos incluídos foi
+de 72 semanas.
+A recomendação determinada implica que usar a
+pirfenidona é a conduta correta a ser feita em 50-95%
+dos casos.(42) O clínico deve reconhecer que as escolhas
+necessitam ser individualizadas e que pacientes e seus
+familiares devem ser auxiliados a tomar decisões de
+acordo com seus princípios e preferências (Quadro
+4).(37-42) A presente recomendação não leva em conta
+análises de custos e aspectos de fármaco-economia.
+PERGUNTA 3: DEVEMOS RECOMENDAR
+O USO DE INIBIDORES DA
+FOSFODIESTERASE-5 PARA PACIENTES
+COM FPI?
+Os inibidores da fosfodiesterase-5 (iFD-5) estabilizam
+o monofosfato de guanosina cíclico, segundo mensageiro
+do óxido nítrico, o que leva à vasodilatação pulmonar. (66)
+A vasodilatação produzida pelo fármaco parece ter
+preferência pelo tecido pulmonar bem ventilado, o
+que poderia melhorar a relação ventilação-perfusão
+e as trocas gasosas em pacientes com FPI.(66) Além
+disso, a hipertensão pulmonar é um achado comum em
+pacientes com FPI, associando-se a maior morbidade
+e mortalidade.(67) Os iFD-5 disponíveis no mercado
+são sildenafil, tadalafil e vardenafil; porém, somente
+o sildenafil foi testado em pacientes com FPI.
+J Bras Pneumol. 2020;46(2):e20190423
+5/11
+
+Diretrizes brasileiras para o tratamento farmacológico da fibrose pulmonar idiopática.
+Documento oficial da Sociedade Brasileira de Pneumologia e Tisiologia baseado na metodologia GRADE
+Três estudos clínicos, sendo apenas dois deles
+randomizados, avaliaram o efeito do sildenafil em
+pacientes com FPI avançada.(68-70) O desfecho primário
+utilizado sempre foi a mudança na DT6, a qual não foi
+atingida em nenhuma das investigações. O tratamento
+com sildenafil também não exibiu impacto sobre as
+taxas de exacerbações e mortalidade.
+Evidências
+Em função da metodologia empregada, duas revisões
+sistemáticas com meta-análises foram selecionadas
+(Figura S3 e Tabela S3). Uma delas não encontrou
+evidências de que o uso de sildenafil possa trazer alívio
+da dispneia em pacientes com FPI (risco relativo não
+estimável, nível de evidência muito baixo) ou melhore
+a qualidade de vida em pacientes com FPI (risco não
+estimável, nível de evidência muito baixo).(71) A outra
+meta-análise, que usou metodologia de rede (network
+meta-analysis) avaliou o efeito do tratamento com
+sildenafil sobre a mortalidade em pacientes com FPI,
+observando que as taxas de óbitos no grupo tratado
+e no grupo placebo foram de 2,9% e de 8,5%,
+respectivamente.(55) Contudo, o valor de OR = 0,84 não
+atingiu significância estatística (IC95%: 0,31-2,41).
+Recomendação
+Para pacientes com FPI, nós sugerimos não usar
+iFD-5 (recomendação condicional; qualidade de
+evidência moderada).
+Comentários
+O desfecho crítico selecionado pelos especialistas
+dessas diretrizes para essa questão foi a mortalidade. Em
+relação a esse parâmetro, os manuscritos selecionados
+não mostraram benefícios significantes do uso de iFD-5.
+O mesmo foi verdade para dois desfechos classificados
+como importantes: dispneia e qualidade de vida. Vale
+ressaltar que outras diretrizes para tratamento da FPI
+confeccionadas por diferentes sociedades médicas
+também não recomendam o uso de iFD-5 (sildenafil)
+para esse grupo de pacientes.(4,72,73) Além disso,
+um ensaio clinico randomizado, publicado após a
+conclusão das análises dos manuscritos selecionados
+para as presentes diretrizes, que comparou o uso
+da associação nintedanibe e sildenafil com o uso de
+nintedanibe isoladamente em pacientes com FPI e DLCO
+< 35% do valor previsto, não encontrou diferenças
+significantes quanto aos desfechos qualidade de vida e
+dispneia. (34) Uma análise pré-especificada do subgrupo
+de pacientes com disfunção ventricular direita, publicada
+em separado, também não demonstrou impacto em
+variáveis relevantes.(74)
+PERGUNTA 4: DEVEMOS RECOMENDAR O
+USO DE ANTAGONISTAS DE RECEPTORES
+DA ENDOTELINA PARA PACIENTES COM
+FPI?
+Embora a patogênese da FPI não esteja completamente
+elucidada, a endotelina-1, potente vasoconstritor e
+fator de crescimento, já foi relacionada ao processo
+fibroproliferativo da doença.(75) As endotelinas
+exibem potente atividade proliferativa sobre células
+mesenquimais e podem induzir diferenciação celular,
+aumentando a síntese e a deposição de componentes
+da matriz extracelular, bem como sua contratilidade. (75)
+A partir de tais elementos, estudos clínicos foram
+realizados com antagonistas de receptores da endotelina,
+visando a redução do processo fibrótico.
+Dois ensaios clínicos avaliaram a eficácia do uso de
+bosentana em comparação a placebo em pacientes
+com FPI. Não foram detectados efeitos significativos
+do fármaco sobre o desfecho primário, DT6, nem sobre
+o ritmo de progressão da doença, qualidade de vida
+ou intensidade da dispneia.(18,22,76)
+O efeito da macitentana sobre o ritmo de queda
+da CVF em pacientes com FPI, em comparação com
+placebo, também não foi significativo.(24) Finalmente,
+um estudo que investigou os efeitos da ambrisentana
+em pacientes com FPI, em comparação com placebo,
+foi interrompido precocemente quando uma análise
+interina mostrou que os pacientes tratados com
+ambrisentana exibiram mais frequentemente critérios
+de progressão funcional e maior número de internações
+respiratórias.(23)
+Evidências
+De acordo com a metodologia proposta, dois artigos
+de revisão com meta-análises foram selecionados
+(Figura S4). Ambos abordavam resultados individuais
+para bosentana, macitentana e ambrisentana.(48,55)
+Nenhum dos fármacos investigados mostrou efeitos
+significantes em relação ao desfecho crítico mortalidade
+nem quanto ao desfecho efeitos adversos (Tabela S4).
+Recomendação
+Para pacientes com FPI, nós recomendamos não usar
+antagonistas de receptores da endotelina (recomendação
+forte; baixa qualidade de evidência).
+Comentários
+Além de as evidências disponíveis não apontar para
+efeitos significantes em desfechos clínicos relevantes, há
+sugestões de que, em particular, o uso da ambrisentana
+possa se associar com efeitos deletérios. É pouco
+provável que novos estudos venham a ser realizados
+com tal classe de fármacos em pacientes com FPI
+no futuro.
+PERGUNTA 5: DEVEMOS RECOMENDAR
+O TRATAMENTO FARMACOLÓGICO
+ANTIRREFLUXO GASTROESOFÁGICO PARA
+PACIENTES COM FPI?
+O refluxo gastroesofágico (RGE) é altamente
+prevalente nos pacientes com FPI e, apesar de não
+haver evidências de uma relação causal até o momento,
+a aspiração crônica é considerada um fator de risco
+para a progressão e exacerbação da doença.(77-79) A
+importância das microaspirações do conteúdo gástrico
+na patogenia da doença ainda não está estabelecida;
+J Bras Pneumol. 2020;46(2):e20190423
+6/11
+
+Baddini-Martinez J, Ferreira J, Tanni S, Alves LR, Cabral Junior BF, Carvalho CRR, Cezare TJ, Costa CH, Gazzana MB, Jezler S,
+Kairalla RA, Kawano-Dourado L, Lima MS, Mancuzo E, Moreira MAC, Rodrigues MP,
+Rodrigues SCS, Rubin AS, Rufino RL, Steidle LJM, Storrer K, Baldi BG
+entretanto, há descrições de casos anedóticos de
+estabilização e de melhora clínica e funcional em
+pacientes com FPI após o tratamento farmacológico
+e/ou cirúrgico do RGE.(80,81) Diretrizes internacionais
+recentes sugerem o uso de terapia antiácida regular
+para todos os pacientes com FPI, mas com muito baixa
+qualidade da evidência.(3,4)
+Todos os estudos que avaliaram os possíveis efeitos da
+terapia farmacológica anti-RGE em pacientes com FPI
+foram observacionais, a maioria com dados extraídos
+dos braços placebo de ensaios clínicos voltados para a
+investigação de outros fármacos.(82-86) Até o momento,
+não existem na literatura ensaios clínicos com desenho
+e número adequado de voluntários que avaliem o
+uso rotineiro de fármacos voltados ao tratamento de
+RGE em pacientes com FPI, independentemente de
+referirem sintomas ou não.(87)
+Evidências
+De acordo com a metodologia empregada para a
+confecção das presentes diretrizes, não foi possível
+selecionar artigos adequados para a confecção de
+recomendações acerca do tratamento medicamentoso
+para RGE em pacientes com FPI (Figura S5 e Tabela S5).
+Recomendação
+Para pacientes com FPI, não temos evidências
+suficientes para recomendar ou não recomendar o
+uso de tratamento farmacológico anti-RGE.
+Comentários
+Os estudos que avaliaram os possíveis efeitos da
+terapia farmacológica anti-RGE em pacientes com
+FPI utilizaram pacientes randomizados para o grupo
+placebo de ensaios clínicos testando outros fármacos
+para FPI.(82-86) Essa estratégia fica sujeita a um enorme
+viés de seleção, pois não é possível saber porque a
+terapia farmacológica anti-RGE havia sido prescrita
+e, portanto, tais pacientes podem não representar a
+população de pacientes com FPI como um todo. Novos
+ensaios clínicos controlados e randomizados sobre a
+terapia anti-RGE são necessários para uma adequada
+elucidação dos seus efeitos em pacientes com FPI.
+Visto que a terapia farmacológica anti-RGE pode estar
+associada a potenciais efeitos adversos, a indicação
+desse tratamento deve ser avaliada individualmente,
+devendo ser considerada em pacientes que apresentem
+sintomas sugestivos ou confirmados de RGE por exames
+complementares.
+PERGUNTA 6: DEVEMOS RECOMENDAR
+O USO DE N-ACETILCISTEÍNA PARA
+PACIENTES COM FPI?
+A N-acetilcisteína (NAC) é um fármaco precursor
+da glutationa, antioxidante hidrossolúvel presente na
+maioria das células do organismo.(88) Uma possível
+contribuição do estresse oxidativo na progressão da FPI
+fez com que estudos fossem desenvolvidos no sentido
+de avaliar se o uso desse fármaco poderia restaurar os
+níveis pulmonares de glutationa.(88,89) Dessa forma, a
+NAC poderia retardar a evolução da doença.
+Um estudo multicêntrico, duplo cego e placebo
+controlado avaliou o uso de NAC oral em associação a
+corticosteroide e azatioprina comparado com placebo. (11)
+Os participantes que receberam a combinação de
+NAC, azatioprina e corticosteroide tiveram redução
+significativa do ritmo de queda da CVF e da DLCO.(11)
+Por outro lado, estudos utilizando monoterapia com NAC
+por via inalatória ou oral, comparada a placebo, não
+demonstraram diferenças significativas na evolução da
+função pulmonar ou de outros desfechos clínicos.(90-92)
+Evidências
+Foram selecionadas cinco revisões sistemáticas com
+meta-análises que compararam o uso de NAC vs.
+placebo quanto à mortalidade, e outra que avaliou a
+redução no ritmo de queda da CVF no tratamento da
+FPI (Figura S6 e Tabela S6).(48,55)
+O uso de NAC não reduziu a mortalidade em pacientes
+com FPI em relação ao uso de placebo (OR = 0,84;
+IC95%: 0,20-4,50).(54) Quanto à redução do ritmo de
+queda da CVF em 12 meses, não foi possível estimar
+o efeito do fármaco em relação ao placebo devido ao
+grau de heterogeneidade e elevado risco de viés nos
+estudos selecionados para a meta-análise.(48)
+Recomendação
+Para pacientes com FPI, nós sugerimos não usar
+N-acetilcisteína (recomendação condicional; baixa
+qualidade de evidência).
+Comentários
+A ausência de efeitos na redução da mortalidade e
+a dificuldade de se estimar algum efeito positivo de
+NAC em relação à redução do ritmo de queda da CVF
+tornam pouco provável que o fármaco tenha alguma
+ação benéfica na evolução da FPI. Há sugestões de
+que as respostas dos pacientes com FPI ao uso de
+NAC possam ser influenciadas por polimorfismos do
+gene TOLLIP.(93) Contudo, tais aspectos ainda precisam
+ser mais bem esclarecidos para que se obtenham
+conclusões robustas.
+PERGUNTA 7: DEVEMOS RECOMENDAR
+O USO DE CORTICOSTEROIDES PARA
+PACIENTES COM FPI?
+Hipóteses clássicas relacionadas com a patogênese
+da FPI especulavam que a doença se iniciaria por
+um processo de natureza inflamatória, com papel
+decisivo das citocinas pró-inflamatórias liberadas pelos
+macrófagos alveolares.(94,95) Nesse contexto, o uso de
+corticosteroides teria potencial benéfico na evolução
+clínica de pacientes com FPI. Entretanto, a hipótese
+atualmente mais aceita na patogênese da doença
+consiste em uma agressão e dano epitelial alveolar
+seguidos de liberação de mediadores pró-fibróticos,
+com reparação anormal, proliferação miofibroblástica
+e deposição de colágeno, sem inflamação evidente.(96)
+J Bras Pneumol. 2020;46(2):e20190423
+7/11
+
+Diretrizes brasileiras para o tratamento farmacológico da fibrose pulmonar idiopática.
+Documento oficial da Sociedade Brasileira de Pneumologia e Tisiologia baseado na metodologia GRADE
+O conceito atual de FPI foi estabelecido em 2000
+e, desde então, nenhum ensaio clínico controlado foi
+realizado envolvendo monoterapia com corticosteroides
+nessa população de pacientes.(1)
+Evidências
+No período de revisão bibliográfica pré-estabelecido
+para o presente estudo, não foi possível localizar
+nenhuma revisão sistemática ou meta-análise que
+tenha avaliado os efeitos do uso de monoterapia
+com corticosteroides, em comparação a placebo, no
+tratamento de FPI (Figura S7 e Tabela S7).
+Recomendações
+Para pacientes com FPI, nós não temos evidências
+suficientes para recomendar ou não recomendar o uso
+de corticosteroides.
+Comentários
+Embora não existam evidências quanto ao uso de
+corticosteroides, é pouco provável que estudos sejam
+realizados com esses fármacos em pacientes com FPI,
+devido à patogenia não inflamatória da doença, havendo,
+portanto, pouca possibilidade de sucesso terapêutico.
+A presente recomendação diz respeito a pacientes
+com FPI em fase estável. A possível indicação de
+corticosteroides em pacientes com exacerbação aguda
+da doença não foi analisada nas presentes diretrizes.
+CONSIDERAÇÕES FINAIS
+Um resumo com as recomendações para o tratamento
+farmacológico da FPI está apresentado no Quadro 5.
+Embora ainda não haja um fármaco com capacidade
+curativa da FPI, as presentes diretrizes sugerem que
+nintedanibe e pirfenidona sejam considerados para o
+tratamento da doença (recomendação condicional).
+As evidências indicam que tais agentes antifibróticos
+são, de fato, as únicas opções de tratamento
+farmacológico capazes de induzir uma redução do
+declínio funcional na FPI. Ambos reduzem o ritmo de
+queda da CVF, que é um preditor forte e independente
+de mortalidade da doença. Entretanto, é fundamental
+que sejam avaliadas as peculiaridades de cada caso na
+indicação ou não de algum desses fármacos, incluindo
+a gravidade do acometimento funcional, a presença
+de comorbidades, o uso de outros fármacos passíveis
+de interações, potenciais eventos adversos, custos e,
+principalmente, os anseios dos pacientes e de seus
+familiares. Deve-se reforçar ainda que os fármacos
+antifibrosantes nintedanibe e pirfenidona não foram
+comparados entre si em nossas diretrizes, de modo
+que não se pode determinar a superioridade de um
+sobre o outro. Adicionalmente, não foi avaliado o uso
+combinado desses fármacos.
+Apesar de a prevalência de RGE ser alta na FPI,
+com base no presente documento, não há evidências
+suficientes para se estabelecer o papel do tratamento
+rotineiro dessa comorbidade nesse grupo de pacientes.
+Mais uma vez, as decisões deverão ser tomadas em
+função das características clínicas de cada caso.
+A ausência de dados confiáveis também não permite
+que sejam realizadas recomendações acerca do emprego
+de corticosteroides em FPI. Isso não implica que a
+referida categoria de fármacos não possa vir a ser
+empregada em outras formas de doenças intersticiais
+pulmonares, tais como sarcoidose, bronquiolite
+proliferativa, etc.
+Sobre os outros fármacos investigados, sugere-se não
+utilizar iFD-5 ou NAC (recomendação condicional), e há
+recomendação forte para não se prescrever antagonistas
+de receptores da endotelina para pacientes com FPI.
+Deve ser enfatizado que a abordagem não
+farmacológica da FPI, incluindo suplementação
+de oxigênio, reabilitação pulmonar, imunizações e
+transplante pulmonar, não foi contemplada na elaboração
+dessas diretrizes. Deve-se enfatizar ainda que as
+diretrizes em questão se aplicam apenas a pacientes
+com FPI, de modo que os resultados não podem ser
+extrapolados para aqueles com doenças pulmonares
+fibrosantes de outras etiologias.
+Quadro 5. Resumo das recomendações para o tratamento medicamentoso da fibrose pulmonar idiopática.
+Questão
+Recomendação
+Grau de
+recomendação
+Qualidade da
+evidência
+1. Devemos recomendar o uso de nintedanibe para
+pacientes com FPI?
+Sugerimos o uso
+Condicional
+Moderada
+2. Devemos recomendar o uso de pirfenidona para
+pacientes com FPI?
+Sugerimos o uso
+Condicional
+Baixa
+3. Devemos recomendar o uso de inibidores da
+fosfodiesterase-5 para pacientes com FPI?
+Sugerimos não usar
+Condicional
+Moderada
+4. Devemos recomendar o uso de antagonistas de
+endotelina para pacientes com FPI?
+Recomendamos
+não usar
+Forte
+Baixa
+5. Devemos recomendar o tratamento medicamentoso
+antirrefluxo para pacientes com FPI?
+Ausência de recomendação
+Ausência de estudos passíveis de seleção
+6. Devemos recomendar o uso de N-acetilcisteína para
+pacientes com FPI?
+Sugerimos não usar
+Condicional
+Baixa
+7. Devemos recomendar o uso de corticosteroides para
+pacientes com FPI?
+Ausência de recomendação
+Ausência de estudos passíveis de seleção
+FPI: fibrose pulmonar idiopática.
+J Bras Pneumol. 2020;46(2):e20190423
+8/11
+
+Baddini-Martinez J, Ferreira J, Tanni S, Alves LR, Cabral Junior BF, Carvalho CRR, Cezare TJ, Costa CH, Gazzana MB, Jezler S,
+Kairalla RA, Kawano-Dourado L, Lima MS, Mancuzo E, Moreira MAC, Rodrigues MP,
+Rodrigues SCS, Rubin AS, Rufino RL, Steidle LJM, Storrer K, Baldi BG
+Acreditamos que o documento em questão represente
+uma importante ferramenta a ser incorporada na
+abordagem de pacientes com FPI, objetivando
+principalmente favorecer o seu manejo, bem como
+auxiliando na definição de políticas públicas relacionadas
+à doença.
+AGRADECIMENTOS
+Agradecemos a Luana Campos a busca dos artigos
+nas bases de dados selecionadas e à Diretoria da
+Sociedade Brasileira de Pneumologia e Tisiologia o
+apoio dado para a confecção dessas diretrizes.
+REFERÊNCIAS
+1.	 American Thoracic Society. Idiopathic pulmonary fibrosis: diagnosis
+and treatment. International consensus statement. American
+Thoracic Society (ATS), and the European Respiratory Society (ERS).
+Am J Respir Crit Care Med. 2000;161(2 Pt 1):646-664. https://doi.
+org/10.1164/ajrccm.161.2.ats3-00
+2.	 Travis WD, Costabel U, Hansell DM, King TE Jr, Lynch DA, Nicholson
+AG, et al. An official American Thoracic Society/European Respiratory
+Society statement: Update of the international multidisciplinary
+classification of the idiopathic interstitial pneumonias. Am J Respir
+Crit Care Med. 2013;188(6):733-748. https://doi.org/10.1164/
+rccm.201308-1483ST
+3.	 Raghu G, Collard HR, Egan JJ, Martinez FJ, Behr J, Brown KK, et
+al. An official ATS/ERS/JRS/ALAT statement: idiopathic pulmonary
+fibrosis: evidence-based guidelines for diagnosis and management.
+Am J Respir Crit Care Med. 2011;183(6):788-824. https://doi.
+org/10.1164/rccm.2009-040GL
+4.	 Raghu G, Rochwerg B, Zhang Y, Garcia CA, Azuma A, Behr J, et al.
+An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline: Treatment
+of Idiopathic Pulmonary Fibrosis. An Update of the 2011 Clinical
+Practice Guideline [published correction appears in Am J Respir Crit
+Care Med. 2015 Sep 1;192(5):644. Dosage error in article text]. Am
+J Respir Crit Care Med. 2015;192(2):e3-e19. https://doi.org/10.1164/
+rccm.1925erratum
+5.	 Baldi BG, Pereira CA, Rubin AS, Santana AN, Costa AN, Carvalho
+CR, et al. Highlights of the Brazilian Thoracic Association guidelines
+for interstitial lung diseases. J Bras Pneumol. 2012;38(3):282-291.
+https://doi.org/10.1590/S1806-37132012000300002
+6.	 Martinez FJ, Safrin S, Weycker D, Starko KM, Bradford WZ, King
+TE Jr, et al. The clinical course of patients with idiopathic pulmonary
+fibrosis. Ann Intern Med. 2005;142(12 Pt 1):963-967. https://doi.
+org/10.7326/0003-4819-142-12_Part_1-200506210-00005
+7.	 Baddini-Martinez J, Baldi BG, Costa CH, Jezler S, Lima MS, Rufino R.
+Update on diagnosis and treatment of idiopathic pulmonary fibrosis.
+J Bras Pneumol. 2015;41(5):454-466. https://doi.org/10.1590/S1806-
+37132015000000152
+8.	 Ziesche R, Hofbauer E, Wittmann K, Petkov V, Block LH. A
+preliminary study of long-term treatment with interferon gamma-
+1b and low-dose prednisolone in patients with idiopathic pulmonary
+fibrosis [published correction appears in N Engl J Med 2000 Feb
+17;342(7):524]. N Engl J Med. 1999;341(17):1264-1269. https://doi.
+org/10.1056/NEJM199910213411703
+9.	 Raghu G, Brown KK, Bradford WZ, Starko K, Noble PW, Schwartz
+DA, et al. A placebo-controlled trial of interferon gamma-1b in patients
+with idiopathic pulmonary fibrosis. N Engl J Med. 2004;350(2):125-
+133. https://doi.org/10.1056/NEJMoa030511
+10.	 King TE Jr, Albera C, Bradford WZ, Costabel U, Hormel P, Lancaster
+L, et al. Effect of interferon gamma-1b on survival in patients with
+idiopathic pulmonary fibrosis (INSPIRE): a multicentre, randomised,
+placebo-controlled trial. Lancet. 2009;374(9685):222-228. https://doi.
+org/10.1016/S0140-6736(09)60551-1
+11.	 Demedts M, Behr J, Buhl R, Costabel U, Dekhuijzen R, Jansen
+HM, et al. High-dose acetylcysteine in idiopathic pulmonary fibrosis.
+N Engl J Med. 2005;353(21):2229-2242. https://doi.org/10.1056/
+NEJMoa042976
+12.	 Idiopathic Pulmonary Fibrosis Clinical Research Network, Raghu
+G, Anstrom KJ, King TE Jr, Lasky JA, Martinez FJ. Prednisone,
+azathioprine, and N-acetylcysteine for pulmonary fibrosis. N
+Engl J Med. 2012;366(21):1968-1977. https://doi.org/10.1056/
+NEJMoa1113354
+13.	 Noth I, Anstrom KJ, Calvert SB, de Andrade J, Flaherty KR, Glazer C,
+et al. A placebo-controlled randomized trial of warfarin in idiopathic
+pulmonary fibrosis. Am J Respir Crit Care Med. 2012;186(1):88-95.
+https://doi.org/10.1164/rccm.201202-0314OC
+14.	 Idiopathic Pulmonary Fibrosis Clinical Research Network, Martinez
+FJ, de Andrade JA, Anstrom KJ, King TE Jr, Raghu G. Randomized
+trial of acetylcysteine in idiopathic pulmonary fibrosis. N Engl J Med.
+2014;370(22):2093-2101. https://doi.org/10.1056/NEJMoa1401739
+15.	 Raghu G, Johnson WC, Lockhart D, Mageto Y. Treatment of
+idiopathic pulmonary fibrosis with a new antifibrotic agent,
+pirfenidone: results of a prospective, open-label Phase II study. Am
+J Respir Crit Care Med. 1999;159(4 Pt 1):1061-1069. https://doi.
+org/10.1164/ajrccm.159.4.9805017
+16.	 Azuma A, Nukiwa T, Tsuboi E, Suga M, Abe S, Nakata K, et al. Double-
+blind, placebo-controlled trial of pirfenidone in patients with idiopathic
+pulmonary fibrosis. Am J Respir Crit Care Med. 2005;171(9):1040-
+1047. https://doi.org/10.1164/rccm.200404-571OC
+17.	 Raghu G, Brown KK, Costabel U, Cottin V, du Bois RM, Lasky JA,
+et al. Treatment of idiopathic pulmonary fibrosis with etanercept:
+an exploratory, placebo-controlled trial. Am J Respir Crit Care Med.
+2008;178(9):948-955. https://doi.org/10.1164/rccm.200709-1446OC
+18.	 King TE Jr, Behr J, Brown KK, du Bois RM, Lancaster L, de Andrade
+JA, et al. BUILD-1: a randomized placebo-controlled trial of bosentan
+in idiopathic pulmonary fibrosis. Am J Respir Crit Care Med.
+2008;177(1):75-81. https://doi.org/10.1164/rccm.200705-732OC
+19.	 Daniels CE, Lasky JA, Limper AH, Mieras K, Gabor E, Schroeder DR;
+et al. Imatinib treatment for idiopathic pulmonary fibrosis: Randomized
+placebo-controlled trial results. Am J Respir Crit Care Med.
+2010;181(6):604-610. https://doi.org/10.1164/rccm.200906-0964OC
+20.	 Taniguchi H, Ebina M, Kondoh Y, Ogura T, Azuma A, Suga M, et
+al. Pirfenidone in idiopathic pulmonary fibrosis. Eur Respir J.
+2010;35(4):821-829. https://doi.org/10.1183/09031936.00005209
+21.	 Malouf MA, Hopkins P, Snell G, Glanville AR; Everolimus in IPF
+Study Investigators. An investigator-driven study of everolimus
+in surgical lung biopsy confirmed idiopathic pulmonary fibrosis.
+Respirology.
+2011;16(5):776-783.
+https://doi.org/10.1111/j.1440-
+1843.2011.01955.x
+22.	 King TE Jr, Brown KK, Raghu G, du Bois RM, Lynch DA, Martinez F,
+et al. BUILD-3: a randomized, controlled trial of bosentan in idiopathic
+pulmonary fibrosis. Am J Respir Crit Care Med. 2011;184(1):92-99.
+https://doi.org/10.1164/rccm.201011-1874OC
+23.	 Raghu G, Behr J, Brown KK, Egan JJ, Kawut SM, Flaherty KR, et
+al. Treatment of idiopathic pulmonary fibrosis with ambrisentan: a
+parallel, randomized trial [published correction appears in Ann Intern
+Med. 2014 May 6;160(9):658]. Ann Intern Med. 2013;158(9):641-
+649. https://doi.org/10.7326/0003-4819-158-9-201305070-00003
+24.	 Raghu G, Million-Rousseau R, Morganti A, Perchenet L, Behr J; MUSIC
+Study Group. Macitentan for the treatment of idiopathic pulmonary
+fibrosis: the randomised controlled MUSIC trial. Eur Respir J.
+2013;42(6):1622-1632. https://doi.org/10.1183/09031936.00104612
+25.	 Noble PW, Albera C, Bradford WZ, Costabel U, Glassberg
+MK, Kardatzke D, et al. Pirfenidone in patients with idiopathic
+pulmonary fibrosis (CAPACITY): two randomised trials. Lancet.
+2011;377(9779):1760-1769.
+https://doi.org/10.1016/S0140-
+6736(11)60405-4
+26.	 King TE Jr, Bradford WZ, Castro-Bernardini S, Fagan EA, Glaspole I,
+Glassberg MK, et al. A phase 3 trial of pirfenidone in patients with
+idiopathic pulmonary fibrosis [published correction appears in N Engl J
+Med. 2014 Sep 18;371(12):1172]. N Engl J Med. 2014;370(22):2083-
+2092. https://doi.org/10.1056/NEJMoa1402582
+27.	 Richeldi L, Costabel U, Selman M, Kim DS, Hansell DM, Nicholson
+AG, et al. Efficacy of a tyrosine kinase inhibitor in idiopathic
+pulmonary fibrosis. N Engl J Med. 2011;365(12):1079-1087. https://
+doi.org/10.1056/NEJMoa1103690
+28.	 Richeldi L, du Bois RM, Raghu G, Azuma A, Brown KK, Costabel
+U, et al. Efficacy and safety of nintedanib in idiopathic pulmonary
+fibrosis [published correction appears in N Engl J Med. 2015 Aug
+20;373(8):782]. N Engl J Med. 2014;370(22):2071-2082. https://doi.
+org/10.1056/NEJMoa1402584
+J Bras Pneumol. 2020;46(2):e20190423
+9/11
+
+Diretrizes brasileiras para o tratamento farmacológico da fibrose pulmonar idiopática.
+Documento oficial da Sociedade Brasileira de Pneumologia e Tisiologia baseado na metodologia GRADE
+29.	 Raghu G, Brown KK, Collard HR, Cottin V, Gibson KF, Kaner RJ, et
+al. Efficacy of simtuzumab versus placebo in patients with idiopathic
+pulmonary fibrosis: a randomised, double-blind, controlled, phase 2
+trial. Lancet Respir Med. 2017;5(1):22-32. https://doi.org/10.1016/
+S2213-2600(16)30421-0
+30.	 Rosas IO, Goldberg HJ, Collard HR, El-Chemaly S, Flaherty K,
+Hunninghake GM, et al. A Phase II Clinical Trial of Low-Dose
+Inhaled Carbon Monoxide in Idiopathic Pulmonary Fibrosis. Chest.
+2018;153(1):94-104. https://doi.org/10.1016/j.chest.2017.09.052
+31.	 Parker JM, Glaspole IN, Lancaster LH, Haddad TJ, She D, Roseti SL, et
+al. A Phase 2 Randomized Controlled Study of Tralokinumab in Subjects
+with Idiopathic Pulmonary Fibrosis. Am J Respir Crit Care Med.
+2018;197(1):94-103. https://doi.org/10.1164/rccm.201704-0784OC
+32.	 Raghu G, van den Blink B, Hamblin MJ, Brown AW, Golden JA, Ho
+LA, et al. Effect of Recombinant Human Pentraxin 2 vs Placebo on
+Change in Forced Vital Capacity in Patients With Idiopathic Pulmonary
+Fibrosis: A Randomized Clinical Trial. JAMA. 2018;319(22):2299-
+2307. https://doi.org/10.1001/jama.2018.6129
+33.	 Maher TM, van der Aar EM, Van de Steen O, Allamassey L,
+Desrivot J, Dupont S, et al. Safety, tolerability, pharmacokinetics,
+and pharmacodynamics of GLPG1690, a novel autotaxin inhibitor, to
+treat idiopathic pulmonary fibrosis (FLORA): a phase 2a randomised
+placebo-controlled trial. Lancet Respir Med. 2018;6(8):627-635.
+https://doi.org/10.1016/S2213-2600(18)30181-4
+34.	 Kolb M, Raghu G, Wells AU, Behr J, Richeldi L, Schinzel B, et al.
+Nintedanib plus Sildenafil in Patients with Idiopathic Pulmonary
+Fibrosis. N Engl J Med. 2018;379(18):1722-1731. https://doi.
+org/10.1056/NEJMoa1811737
+35.	 Lukey PT, Harrison SA, Yang S, Man Y, Holman BF, Rashidnasab
+A, et al. A randomised, placebo-controlled study of omipalisib
+(PI3K/mTOR) in idiopathic pulmonary fibrosis. Eur Respir J.
+2019;53(3):1801992. https://doi.org/10.1183/13993003.01992-2018
+36.	 Khalil N, Manganas H, Ryerson CJ, Shapera S, Cantin AM, Hernandez
+P, et al. Phase 2 clinical trial of PBI-4050 in patients with idiopathic
+pulmonary fibrosis. Eur Respir J. 2019;53(3):1800663. https://doi.
+org/10.1183/13993003.00663-2018
+37.	 Brasil. Ministério da Saúde. Secretaria de Ciência, Tecnologia e
+Insumos Estratégicos. Departamento de Ciência e Tecnologia.
+Diretrizes metodológicas: Sistema GRADE - Manual de graduação
+da qualidade da evidência e força de recomendação para tomada de
+decisão em saúde. Brasília: Ministério da Saúde; 2014.
+38.	 Guyatt GH, Oxman AD, Vist GE, Kunz R, Falck-Ytter Y, Alonso-Coello
+P, et al. GRADE: an emerging consensus on rating quality of evidence
+and strength of recommendations. BMJ. 2008;336(7650):924-926.
+https://doi.org/10.1136/bmj.39489.470347.AD
+39.	 Guyatt GH, Oxman AD, Kunz R, Vist GE, Falck-Ytter Y, Schünemann
+HJ; et al. What is “quality of evidence” and why is it important to
+clinicians?. BMJ. 2008;336(7651):995-998. https://doi.org/10.1136/
+bmj.39490.551019.BE
+40.	 Andrews J, Guyatt G, Oxman AD, Alderson P, Dahm P, Falck-
+Ytter Y, et al. GRADE guidelines: 14. Going from evidence
+to recommendations: the significance and presentation of
+recommendations. J Clin Epidemiol. 2013;66(7):719-725. https://doi.
+org/10.1016/j.jclinepi.2012.03.013
+41.	 Moher D, Liberati A, Tetzlaff J, Altman DG; PRISMA Group. Preferred
+reporting items for systematic reviews and meta-analyses: the
+PRISMA statement. BMJ. 2009;339:b2535. https://doi.org/10.1136/
+bmj.b2535
+42.	 Schünemann H, Brożek J, Guyatt G, Oxman A, editors. GRADE
+handbook for grading quality of evidence and strength of
+recommendations [monograph on the Internet]. The GRADE
+Working Group; 2013 [cited 2019 Jul 1]. Available from: http://www.
+guidelinedevelopment.org
+43.	 Wollin L, Wex E, Pautsch A, Schnapp G, Hostettler KE, Stowasser
+S, et al. Mode of action of nintedanib in the treatment of idiopathic
+pulmonary fibrosis. Eur Respir J. 2015;45(5):1434-1445. https://doi.
+org/10.1183/09031936.00174914
+44.	 Rangarajan S, Kurundkar A, Kurundkar D, Bernard K, Sanders YY,
+Ding Q, et al. Novel Mechanisms for the Antifibrotic Action of
+Nintedanib. Am J Respir Cell Mol Biol. 2016;54(1):51-59. https://doi.
+org/10.1165/rcmb.2014-0445OC
+45.	 Knüppel L, Ishikawa Y, Aichler M, Heinzelmann K, Hatz R, Behr J, et
+al. A Novel Antifibrotic Mechanism of Nintedanib and Pirfenidone.
+Inhibition of Collagen Fibril Assembly. Am J Respir Cell Mol Biol.
+2017;57(1):77-90. https://doi.org/10.1165/rcmb.2016-0217OC
+46.	 Kamio K, Usuki J, Azuma A, Matsuda K, Ishii T, Inomata M, et al.
+Nintedanib modulates surfactant protein-D expression in A549
+human lung epithelial cells via the c-Jun N-terminal kinase-activator
+protein-1 pathway. Pulm Pharmacol Ther. 2015;32:29-36.
+47.	 Karimi-Shah BA, Chowdhury BA. Forced vital capacity in idiopathic
+pulmonary fibrosis--FDA review of pirfenidone and nintedanib.
+N Engl J Med. 2015;372(13):1189-1191. https://doi.org/10.1056/
+NEJMp1500526
+48.	 Canestaro WJ, Forrester SH, Raghu G, Ho L, Devine BE. Drug
+Treatment of Idiopathic Pulmonary Fibrosis: Systematic Review and
+Network Meta-Analysis. Chest. 2016;149(3):756-766. https://doi.
+org/10.1016/j.chest.2015.11.013
+49.	 Loveman E, Copley VR, Colquitt JL, Scott DA, Clegg AJ, Jones J,
+et al. The effectiveness and cost-effectiveness of treatments for
+idiopathic pulmonary fibrosis: systematic review, network meta-
+analysis and health economic evaluation. BMC Pharmacol Toxicol.
+2014;15:63. https://doi.org/10.1186/2050-6511-15-63
+50.	 Rogliani P, Calzetta L, Cavalli F, Matera MG, Cazzola M. Pirfenidone,
+nintedanib and N-acetylcysteine for the treatment of idiopathic
+pulmonary fibrosis: A systematic review and meta-analysis.
+Pulm Pharmacol Ther. 2016;40:95-103. https://doi.org/10.1016/j.
+pupt.2016.07.009
+51.	 Fleetwood K, McCool R, Glanville J, Edwards SC, Gsteiger S,
+Daigl M, et al. Systematic Review and Network Meta-analysis of
+Idiopathic Pulmonary Fibrosis Treatments. J Manag Care Spec
+Pharm.
+2017;23(3-b
+Suppl):S5-S16.
+https://doi.org/10.18553/
+jmcp.2017.23.3-b.s5
+52.	 Corte T, Bonella F, Crestani B, Demedts MG, Richeldi L, Coeck
+C, et al. Safety, tolerability and appropriate use of nintedanib in
+idiopathic pulmonary fibrosis. Respir Res. 2015;16:116. https://doi.
+org/10.1186/s12931-015-0276-5
+53.	 Jeldres A, Labarca G. Is nintedanib effective for idiopathic pulmonary
+fibrosis? Medwave. 2017;17(Suppl2):e6918. https://doi.org/10.5867/
+medwave.2017.6918
+54.	 Loveman E, Copley VR, Scott DA, Colquitt JL, Clegg AJ, O’Reilly
+KM. Comparing new treatments for idiopathic pulmonary fibrosis-
+-a network meta-analysis. BMC Pulm Med. 2015;15:37. https://doi.
+org/10.1186/s12890-015-0034-y
+55.	 Rochwerg B, Neupane B, Zhang Y, Garcia CC, Raghu G, Richeldi L,
+et al. Treatment of idiopathic pulmonary fibrosis: a network meta-
+analysis. BMC Med. 2016;14:18. https://doi.org/10.1186/s12916-
+016-0558-x
+56.	 Iyer SN, Gurujeyalakshmi G, Giri SN. Effects of pirfenidone
+on transforming growth factor-beta gene expression at the
+transcriptional level in bleomycin hamster model of lung fibrosis. J
+Pharmacol Exp Ther. 1999;291(1):367-373.
+57.	 Nakazato H, Oku H, Yamane S, Tsuruta Y, Suzuki R. A novel anti-
+fibrotic agent pirfenidone suppresses tumor necrosis factor-alpha
+at the translational level. Eur J Pharmacol. 2002;446(1-3):177-185.
+https://doi.org/10.1016/S0014-2999(02)01758-2
+58.	 Iyer SN, Gurujeyalakshmi G, Giri SN. Effects of pirfenidone
+on procollagen gene expression at the transcriptional level in
+bleomycin hamster model of lung fibrosis. J Pharmacol Exp Ther.
+1999;289(1):211-218.
+59.	 Oku H, Shimizu T, Kawabata T, Nagira M, Hikita I, Ueyama A, et al.
+Antifibrotic action of pirfenidone and prednisolone: different effects
+on pulmonary cytokines and growth factors in bleomycin-induced
+murine pulmonary fibrosis. Eur J Pharmacol. 2008;590(1-3):400-408.
+https://doi.org/10.1016/j.ejphar.2008.06.046
+60.	 Noble PW, Albera C, Bradford WZ, Costabel U, du Bois RM, Fagan
+EA, et al. Pirfenidone for idiopathic pulmonary fibrosis: analysis of
+pooled data from three multinational phase 3 trials. Eur Respir J.
+2016;47(1):243-253. https://doi.org/10.1183/13993003.00026-2015
+61.	 Aravena C, Labarca G, Venegas C, Arenas A, Rada G. Pirfenidone
+for Idiopathic Pulmonary Fibrosis: A Systematic Review and Meta-
+Analysis PLoS One. 2015;10(8):e0136160. https://doi.org/10.1371/
+journal.pone.0136160
+62.	 Aravena C, Labarca G, Venegas C, Arenas A, Rada G. Correction:
+Pirfenidone for Idiopathic Pulmonary Fibrosis: A Systematic Review
+and Meta-Analysis. PLoS One. 2015;10(10):e0140288 https://doi.
+org/10.1371/journal.pone.0140288
+63.	 Ren H, Wang K, Yang H, Gao L. Efficacy and adverse events of
+pirfenidone in treating idiopathic pulmonary fibrosis. Saudi Med J.
+2017;38(9):889-894. https://doi.org/10.15537/smj.2017.9.19349
+64.	 Spagnolo P, Del Giovane C, Luppi F, Cerri S, Balduzzi S, Walters
+EH, et al. Non-steroid agents for idiopathic pulmonary fibrosis.
+Cochrane Database Syst Rev. 2010;(9):CD003134. https://doi.
+org/10.1002/14651858.CD003134.pub2
+J Bras Pneumol. 2020;46(2):e20190423
+10/11
+
+Baddini-Martinez J, Ferreira J, Tanni S, Alves LR, Cabral Junior BF, Carvalho CRR, Cezare TJ, Costa CH, Gazzana MB, Jezler S,
+Kairalla RA, Kawano-Dourado L, Lima MS, Mancuzo E, Moreira MAC, Rodrigues MP,
+Rodrigues SCS, Rubin AS, Rufino RL, Steidle LJM, Storrer K, Baldi BG
+65.	 Nathan SD, Albera C, Bradford WZ, Costabel U, Glaspole I,
+Glassberg MK, et al. Effect of pirfenidone on mortality: pooled
+analyses and meta-analyses of clinical trials in idiopathic pulmonary
+fibrosis [published correction appears in Lancet Respir Med. 2017
+Jan;5(1):e7]. Lancet Respir Med. 2017;5(1):33-41. https://doi.
+org/10.1016/S2213-2600(16)30326-5
+66.	 Madden BP, Allenby M, Loke TK, Sheth A. A potential role for
+sildenafil in the management of pulmonary hypertension in patients
+with parenchymal lung disease. Vascul Pharmacol. 2006;44(5):372-
+376. https://doi.org/10.1016/j.vph.2006.01.013
+67.	 King CS, Nathan SD. Pulmonary hypertension due to interstitial
+lung disease. Curr Opin Pulm Med. 2019;25(5):459-467. https://doi.
+org/10.1097/MCP.0000000000000599
+68.	 Collard HR, Anstrom KJ, Schwarz MI, Zisman DA. Sildenafil
+improves walk distance in idiopathic pulmonary fibrosis. Chest.
+2007;131(3):897-899. https://doi.org/10.1378/chest.06-2101
+69.	 Jackson RM, Glassberg MK, Ramos CF, Bejarano PA, Butrous
+G, Gómez-Marín O. Sildenafil therapy and exercise tolerance in
+idiopathic pulmonary fibrosis. Lung. 2010;188(2):115-123. https://doi.
+org/10.1007/s00408-009-9209-8
+70.	 Idiopathic Pulmonary Fibrosis Clinical Research Network, Zisman DA,
+Schwarz M, Anstrom KJ, Collard HR, Flaherty KR, et al. A controlled
+trial of sildenafil in advanced idiopathic pulmonary fibrosis. N Engl J
+Med. 2010;363(7):620-628. https://doi.org/10.1056/NEJMoa1002110
+71.	 Bajwah S, Ross JR, Peacock JL, Higginson IJ, Wells AU, Patel
+AS, et al. Interventions to improve symptoms and quality of life of
+patients with fibrotic interstitial lung disease: a systematic review of
+the literature. Thorax. 2013;68(9):867-879. https://doi.org/10.1136/
+thoraxjnl-2012-202040
+72.	 Behr J, Günther A, Bonella F, Geißler K, Koschel D, Kreuter M, et
+al. German Guideline for Idiopathic Pulmonary Fibrosis - Update on
+Pharmacological Therapies 2017. Pneumologie. 2018;72(2):155-168.
+https://doi.org/10.1055/s-0043-123035
+73.	 Homma S, Bando M, Azuma A, Sakamoto S, Sugino K, Ishii Y, et al.
+Japanese guideline for the treatment of idiopathic pulmonary fibrosis.
+Respir
+Investig.
+2018;56(4):268-291.
+https://doi.org/10.1016/j.
+resinv.2018.03.003
+74.	 Behr J, Kolb M, Song JW, Luppi F, Schinzel B, Stowasser S, et al
+Nintedanib and Sildenafil in Patients with Idiopathic Pulmonary
+Fibrosis and Right Heart Dysfunction. A Prespecified Subgroup
+Analysis of a Double-Blind Randomized Clinical Trial (INSTAGE).
+Am J Respir Crit Care Med. 2019;200(12):1505-1512. https://doi.
+org/10.1164/rccm.201903-0488OC
+75.	 Fonseca C, Abraham D, Renzoni EA. Endothelin in pulmonary
+fibrosis. Am J Respir Cell Mol Biol. 2011;44(1):1-10. https://doi.
+org/10.1165/rcmb.2009-0388TR
+76.	 Raghu G, King TE Jr, Behr J, Brown KK, du Bois RM, Leconte I, et
+al. Quality of life and dyspnoea in patients treated with bosentan for
+idiopathic pulmonary fibrosis (BUILD-1). Eur Respir J. 2010;35(1):118-
+123. https://doi.org/10.1183/09031936.00188108
+77.	 Tobin RW, Pope CE 2nd, Pellegrini CA, Emond MJ, Sillery J,
+Raghu G. Increased prevalence of gastroesophageal reflux in
+patients with idiopathic pulmonary fibrosis. Am J Respir Crit
+Care
+Med.
+1998;158(6):1804-1808.
+https://doi.org/10.1164/
+ajrccm.158.6.9804105
+78.	 Sweet MP, Patti MG, Leard LE, Golden JA, Hays SR, Hoopes C, et
+al. Gastroesophageal reflux in patients with idiopathic pulmonary
+fibrosis referred for lung transplantation. J Thorac Cardiovasc Surg.
+2007;133(4):1078-1084. https://doi.org/10.1016/j.jtcvs.2006.09.085
+79.	 Raghu G, Freudenberger TD, Yang S, Curtis JR, Spada C, Hayes J,
+et al. High prevalence of abnormal acid gastro-oesophageal reflux
+in idiopathic pulmonary fibrosis. Eur Respir J. 2006;27(1):136-142.
+https://doi.org/10.1183/09031936.06.00037005
+80.	 Raghu G, Yang ST, Spada C, Hayes J, Pellegrini CA. Sole treatment
+of acid gastroesophageal reflux in idiopathic pulmonary fibrosis: a
+case series. Chest. 2006;129(3):794-800. https://doi.org/10.1378/
+chest.129.3.794
+81.	 Linden PA, Gilbert RJ, Yeap BY, Boyle K, Deykin A, Jaklitsch MT, et al.
+Laparoscopic fundoplication in patients with end-stage lung disease
+awaiting transplantation. J Thorac Cardiovasc Surg. 2006;131(2):438-
+446. https://doi.org/10.1016/j.jtcvs.2005.10.014
+82.	 Lee JS, Ryu JH, Elicker BM, Lydell CP, Jones KD, Wolters PJ, et
+al. Gastroesophageal reflux therapy is associated with longer
+survival in patients with idiopathic pulmonary fibrosis. Am J Respir
+Crit Care Med. 2011;184(12):1390-1394. https://doi.org/10.1164/
+rccm.201101-0138OC
+83.	 Lee JS, Collard HR, Anstrom KJ, Martinez FJ, Noth I, Roberts RS,
+et al. Anti-acid treatment and disease progression in idiopathic
+pulmonary fibrosis: an analysis of data from three randomised
+controlled trials. Lancet Respir Med. 2013;1(5):369-376. https://doi.
+org/10.1016/S2213-2600(13)70105-X
+84.	 Kreuter M, Spagnolo P, Wuyts W, Renzoni E, Koschel D, Bonella
+F, et al. Antacid Therapy and Disease Progression in Patients
+with Idiopathic Pulmonary Fibrosis Who Received Pirfenidone.
+Respiration. 2017;93(6):415-423. https://doi.org/10.1159/000468546
+85.	 Kreuter M, Wuyts W, Renzoni E, Koschel D, Maher TM, Kolb M, et
+al. Antacid therapy and disease outcomes in idiopathic pulmonary
+fibrosis: a pooled analysis. Lancet Respir Med. 2016;4(5):381-389.
+https://doi.org/10.1016/S2213-2600(16)00067-9
+86.	 Jo HE, Corte TJ, Glaspole I, Grainge C, Hopkins PMA, Moodley Y, et
+al. Gastroesophageal reflux and antacid therapy in IPF: analysis from
+the Australia IPF Registry. BMC Pulm Med. 2019;19(1):84. https://
+doi.org/10.1186/s12890-019-0846-2
+87.	 Dutta P, Funston W, Mossop H, Ryan V, Jones R, Forbes R,
+et al. Randomised, double-blind, placebo-controlled pilot trial of
+omeprazole in idiopathic pulmonary fibrosis. Thorax. 2019;74(4):346-
+353. https://doi.org/10.1136/thoraxjnl-2018-212102
+88.	 Bridgeman MM, Marsden M, MacNee W, Flenley DC, Ryle
+AP. Cysteine and glutathione concentrations in plasma and
+bronchoalveolar lavage fluid after treatment with N-acetylcysteine.
+Thorax. 1991;46(1):39-42. https://doi.org/10.1136/thx.46.1.39
+89.	 Meyer A, Buhl R, Magnussen H. The effect of oral N-acetylcysteine
+on lung glutathione levels in idiopathic pulmonary fibrosis. Eur Respir
+J. 1994;7(3):431-436. https://doi.org/10.1183/09031936.94.0703043
+1
+90.	 Tomioka H, Kuwata Y, Imanaka K, Hashimoto K, Ohnishi H, Tada
+K, et al. A pilot study of aerosolized N-acetylcysteine for idiopathic
+pulmonary fibrosis. Respirology. 2005;10(4):449-455. https://doi.
+org/10.1111/j.1440-1843.2005.00725.x
+91.	 Homma S, Azuma A, Taniguchi H, Ogura T, Mochiduki Y, Sugiyama
+Y, et al. Efficacy of inhaled N-acetylcysteine monotherapy
+in patients with early stage idiopathic pulmonary fibrosis.
+Respirology.
+2012;17(3):467-477.
+https://doi.org/10.1111/j.1440-
+1843.2012.02132.x
+92.	 Idiopathic Pulmonary Fibrosis Clinical Research Network, Martinez
+FJ, de Andrade JA, Anstrom KJ, King TE Jr, Raghu G. Randomized
+trial of acetylcysteine in idiopathic pulmonary fibrosis. N Engl J Med.
+2014;370(22):2093-2101. https://doi.org/10.1056/NEJMoa1401739
+93.	 Oldham JM, Ma SF, Martinez FJ, Anstrom KJ, Raghu G, Schwartz
+DA, et al. TOLLIP, MUC5B, and the Response to N-Acetylcysteine
+among Individuals with Idiopathic Pulmonary Fibrosis. Am J Respir
+Crit Care Med. 2015;192(12):1475-1482. https://doi.org/10.1164/
+rccm.201505-1010OC
+94.	 Reynolds HY, Fulmer JD, Kazmierowski JA, Roberts WC, Frank MM,
+Crystal RG. Analysis of cellular and protein content of bronchoalveolar
+lavage fluid from patients with idiopathic pulmonary fibrosis and
+chronic hypersensitivity pneumonitis. J Clin Invest. 1977;59(1):165-
+175. https://doi.org/10.1172/JCI108615
+95.	 Snider GL. Interstitial pulmonary fibrosis. Chest. 1986;89(3
+Suppl):115S-121S. https://doi.org/10.1378/chest.89.3.115S
+96.	 Selman M, King TE, Pardo A; American Thoracic Society; European
+Respiratory Society; American College of Chest Physicians.
+Idiopathic pulmonary fibrosis: prevailing and evolving hypotheses
+about its pathogenesis and implications for therapy. Ann Intern
+Med. 2001;134(2):136-151. https://doi.org/10.7326/0003-4819-134-
+2-200101160-00015
+J Bras Pneumol. 2020;46(2):e20190423
+11/11
