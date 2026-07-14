@@ -5,18 +5,18 @@ Assistente de IA de domínio específico para **doenças pulmonares crônicas e 
 construído com **Retrieval-Augmented Generation (RAG)**.
 
 ## Motivação
-Este trabalho nasceu de uma colaboração clínica real. No **Laboratório de Física Médica
-(IBB-UNESP, Botucatu)** atuei na **análise quantitativa das tomografias de tórax** (segmentação
+Este trabalho nasceu de uma colaboração clínica real. No Laboratório de Física Médica
+(IBB-UNESP, Botucatu) atuei na análise quantitativa das tomografias de tórax (segmentação
 pulmonar por *deep learning*, densitometria/quantificação de enfisema (%LAA) e coregistro longitudinal)
-do doutorado da **Dra. Erika Mayumi Watanabe** (Programa de Pós-Graduação em Doenças Tropicais,
-**Faculdade de Medicina de Botucatu, FMB/UNESP**; imagens do **HC-FMB**; orientação do **Prof. Ricardo
-de Souza Cavalcante**, coorientação de Sérgio Ribeiro Marrone), **defendido em 09/06/2026**, sobre as
-**sequelas pulmonares da paracoccidioidomicose (PCM)**, micose endêmica na região de Botucatu.
-A coorte comparava **DPOC, PCM ativa e PCM residual**: as três doenças que se sobrepõem no pulmão e são
-diagnóstico diferencial entre si. Lidando de perto com elas, ficou claro (a) o quanto exigem **consulta
-constante a fontes confiáveis** e (b) o quanto a **PCM, por ser regional, é mal coberta pelas IAs
-generalistas**. Daí a escolha do domínio deste assistente (**DPOC + fibrose pulmonar + PCM**), com
-respostas sempre **ancoradas em fontes citáveis**.
+do doutorado da Dra. Erika Mayumi Watanabe (Programa de Pós-Graduação em Doenças Tropicais,
+Faculdade de Medicina de Botucatu, FMB/UNESP; imagens do HC-FMB; orientação do Prof. Ricardo
+de Souza Cavalcante, coorientação de Sérgio Ribeiro Marrone), defendido em 09/06/2026, sobre as
+sequelas pulmonares da paracoccidioidomicose (PCM), micose endêmica na região de Botucatu.
+A coorte comparava DPOC, PCM ativa e PCM residual: as três doenças que se sobrepõem no pulmão e são
+diagnóstico diferencial entre si. Lidando de perto com elas, ficou claro (a) o quanto exigem consulta
+constante a fontes confiáveis e (b) o quanto a PCM, por ser regional, é mal coberta pelas IAs
+generalistas. Daí a escolha do domínio deste assistente (DPOC + fibrose pulmonar + PCM), com
+respostas sempre ancoradas em fontes citáveis.
 
 ## Domínio
 Pneumologia: três doenças que compartilham apresentação (dispneia/tosse crônica + alteração
@@ -25,7 +25,7 @@ de imagem/prova de função) e são diagnóstico diferencial entre si:
 - **Fibrose pulmonar** (FPI / doença pulmonar intersticial)
 - **Paracoccidioidomicose (PCM)**: micose endêmica; a forma crônica causa fibrose/enfisema
 
-Idioma do assistente e do benchmark: **PT-BR**. Knowledge base: bilíngue (PT + EN).
+Idioma do assistente e do benchmark: PT-BR. Knowledge base: bilíngue (PT + EN).
 
 ## Arquitetura: 3 configurações comparadas
 
@@ -35,9 +35,9 @@ Idioma do assistente e do benchmark: **PT-BR**. Knowledge base: bilíngue (PT + 
 |---|---|---|
 | 1 | **Baseline** | LLM sem recuperação (prompt direto) |
 | 2 | **RAG convencional** | embeddings densos → FAISS → top-k → LLM |
-| 3 | **Proposta** | busca densa amplia o pool de candidatos → **reranker cross-encoder** reordena por relevância → top-k → LLM |
+| 3 | **Proposta** | busca densa amplia o pool de candidatos, um reranker cross-encoder reordena por relevância, top-k → LLM |
 
-> A técnica avançada da proposta é o **reranker neural** (cross-encoder), que relê os candidatos e
+> A técnica avançada da proposta é o reranker neural (cross-encoder), que relê os candidatos e
 > põe o trecho-chave no topo, recuperação mais precisa que a similaridade de embeddings sozinha.
 > *(BM25 e busca híbrida (RRF) também foram implementados e explorados, ver `hybrid_search` em
 > `rag_core.py`, mas injetavam trechos fora do tema que confundiam o modelo pequeno; a densa +
@@ -46,19 +46,21 @@ Idioma do assistente e do benchmark: **PT-BR**. Knowledge base: bilíngue (PT + 
 O modelo aberto **`Qwen2.5-3B-Instruct`** (Apache-2.0) roda na GPU (T4 do Colab ou GPU local) e faz
 tanto a geração quanto a IA-juíza.
 
-**Stack:** `transformers` (Qwen2.5-3B) · `sentence-transformers`
-(embeddings `multilingual-e5`) · FAISS · `rank-bm25` · `bge-reranker-v2-m3` (reranker).
+Stack: `transformers` (Qwen2.5-3B), `sentence-transformers`
+(embeddings `multilingual-e5`), FAISS, `rank-bm25` e `bge-reranker-v2-m3` (reranker).
 
-**Avaliação:** retrieval (hit-rate, MRR) · geração (LLM-as-judge + validação humana de subconjunto)
-· custo (latência real, tokens). Comparação Baseline × RAG × Proposta. Geração **determinística**
-(*greedy*, `do_sample=False`) → reprodutível.
+Avaliação: retrieval (hit-rate, MRR), geração (LLM-as-judge com validação humana de um subconjunto),
+custo (latência real, tokens). Comparação Baseline × RAG × Proposta. A geração é determinística
+(*greedy*, `do_sample=False`), portanto reprodutível.
 
 ## Principais resultados
 - **Consultar fontes ajuda:** a qualidade sobe de 0,47 (baseline) para 0,57 (RAG); só as versões com RAG
-  citam a fonte (0% → 33%) e são **fiéis** aos trechos (fidelidade 0,00 vs 0,90 e 0,93).
+  citam a fonte (toda resposta RAG vem com as fontes recuperadas anexadas, e o modelo insere a citação
+  `[Fonte N]` na prosa em ~22% delas, contra 0% no baseline) e são fiéis aos trechos (fidelidade 0,00
+  vs 0,90 e 0,93).
 - **A proposta vence na recuperação** (hit-rate 37% vs 30%), mas no modelo de 3B esse ganho não chega à
   geração (proposta ≈ RAG na qualidade).
-- **Ablação de escala:** com a mesma recuperação, num modelo de 7B o ganho **aparece**: a proposta supera
+- **Ablação de escala:** com a mesma recuperação, num modelo de 7B o ganho aparece: a proposta supera
   o RAG (qualidade 0,81 vs 0,73). O reranking se traduz em respostas melhores quando o modelo é grande o
   suficiente para aproveitar o contexto.
 
@@ -80,9 +82,9 @@ rag-pneumologia/
 ```
 
 ## Regras de licença da KB
-Só entram na pasta documentos **redistribuíveis** (domínio público, CC BY/BY-NC/BY-NC-ND/BY-SA,
-CC BY-NC-SA). Cada arquivo guarda fonte + licença. Documentos free-to-read porém **não
-redistribuíveis** (GOLD, NICE, diretrizes IPF 2018/2015) entram só como **referência (link)**,
+Só entram na pasta documentos redistribuíveis (domínio público, CC BY/BY-NC/BY-NC-ND/BY-SA,
+CC BY-NC-SA). Cada arquivo guarda fonte + licença. Documentos free-to-read porém não
+redistribuíveis (GOLD, NICE, diretrizes IPF 2018/2015) entram só como referência por link,
 nunca como arquivo.
 
 ## Como rodar

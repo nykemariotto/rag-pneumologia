@@ -28,6 +28,8 @@ benchmark/benchmark_para_validar.xlsx
 *.log
 # o notebook oficial fica em notebook/; ignora a duplicata solta na raiz
 /Assistente_Pneumologia_RAG.ipynb
+# notebook-companheiro so para gravar o video (o entregavel e o de notebook/)
+/apresentacao_video.ipynb
 
 # variantes/rascunhos de resultado (fica so aval_all.json + aval_all_7b.json + comparacao_all.png)
 _resultados/aval_all_groq_ref.json
