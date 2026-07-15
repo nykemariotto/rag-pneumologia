@@ -4,6 +4,8 @@
 Assistente de IA de domínio específico para **doenças pulmonares crônicas e difusas**,
 construído com **Retrieval-Augmented Generation (RAG)**.
 
+**Vídeo de apresentação:** https://drive.google.com/file/d/14KKkdU1xgc1nl_E9FFe-IrP2m2Ckdgxk/view
+
 ## Motivação
 Este trabalho nasceu de uma colaboração clínica real. No Laboratório de Física Médica
 (IBB-UNESP, Botucatu) atuei na análise quantitativa das tomografias de tórax (segmentação
