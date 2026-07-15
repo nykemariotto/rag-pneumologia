@@ -9,7 +9,8 @@ faiss-cpu==1.14.3
 rank-bm25==0.2.2
 matplotlib==3.10.9
 openpyxl==3.1.5
-pandas==2.3.3
+pandas>=2.0            # NAO fixar versao exata: o Colab ja traz pandas 2.2.2 (para o pacote google-colab);
+                       # fixar 2.3.3 forcava um upgrade e gerava aviso de conflito. Nosso uso e basico (tabela).
 
 # Somente para a ABLACAO 3B->7B em 4-bit (LLM_4BIT=1); nao e necessario para o 3B padrao:
 # bitsandbytes==0.45.0
